@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <heading>Saint Regis Mohawk Tribe Law Library</heading>
+  <meta>
+    <description/>
+    <contact>
+      <email>help@openlawlib.org</email>
+    </contact>
+    <canonical-urls>
+      <xml-bulk>https://github.com/srmt-nsn/law-xml</xml-bulk>
+      <html-bulk>https://github.com/srmt-nsn/law-html</html-bulk>
+      <static-assets>https://github.com/srmt-nsn/law-static-assets</static-assets>
+      <html/>
+    </canonical-urls>
+    <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+      <repositories>
+        <repository name="srmt-nsn/law-xml" commit="3d37232e07207b2e95daecb9ce2207d791c07e42"/>
+      </repositories>
+      <platform version="2.13.0" reproducible="false"/>
+      <build-date>2024-01-31</build-date>
+      <codified-date>2023-09-13</codified-date>
+    </build>
+  </meta>
+  <collection name="us/nsn/srmt/council/resolutions">
+    <heading>Tribal Resolutions</heading>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2023/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2022/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2021/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2020/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2019/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2018/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2017/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2016/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2015/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2014/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2013/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2012/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2011/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2010/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2009/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2008/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2007/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2005/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2004/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2003/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2002/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2000/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/1999/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/1998/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/1991/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/1989/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/1986/index.xml"/>
+  </collection>
+  <collection name="us/nsn/srmt/council/acts">
+    <heading>Tribal Acts/Codes/Laws/Ordinances</heading>
+    <xi:include href="./us/nsn/srmt/council/acts/AlcoholBeveragesControlAct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/CodeOfJudicialConduct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/CommunicationsRegulatoryAct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/CourtAndJudiciaryCode.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/FamilySupportAct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/JudicialOversightCommissionOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/MortgageForeclosureAndEvictionOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/SecuredTransactionsOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/RoomOccupancyFeeOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/TribalProceduresAct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/VehicleAndTrafficLaw.xml"/>
+  </collection>
+</library>

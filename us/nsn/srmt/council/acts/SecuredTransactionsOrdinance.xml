@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Secured Transactions Ordinance (Saint Regis Mohawk Tribal Act)">
+  <section>
+    <num>I</num>
+    <heading>Title, Purpose and Applicability.</heading>
+    <para>
+      <num>A.</num>
+      <text><u>Title</u>. This Ordinance shall be known as the "Saint Regis Mohawk Secured Transactions Ordinance" (the "Ordinance").</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text><u>Purpose</u>. The purpose of this Ordinance is to recognize that, under the law of the Saint Regis Mohawk Tribe (the "Tribe"), a federally recognized Indian tribe, except as otherwise provided in this Ordinance, secured parties under a certain Construction and Term Credit Agreement entered into as of August _____, 2008 between the Te Wà Tha Hón:Ni Corporation, Akwesasne Mohawk Casino, LLC, Mohawk Bingo Palace, LLC, KeyBank National Association, as joint lead arranger and administrative agent, Jefferies Finance LLC, as joint lead arranger, RBS Citizens, N.A., as documentation agent, and the several banks and other financial institutions from time to time a party thereto (the "Credit Agreement") shall have the same rights with respect to collateral securing the Obligations described in the Credit Agreement that is subject to the sovereign authority of Tribe as would exist if all aspects of the security interest (including but not limited to its creation, attachment, perfection, and priority) had been governed by the New York UCC, without regard to the choice of law principles set forth therein.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text><u>Applicability</u>. This Ordinance shall apply only to security interests and collateral securing the Obligations described in the Credit Agreement.</text>
+    </para>
+  </section>
+  <section>
+    <num>II</num>
+    <heading>Definitions.</heading>
+    <text>In this Ordinance, the terms listed below have the following meanings:</text>
+    <para>
+      <num>A.</num>
+      <text>"New York UCC" means Articles 1, 9 and the applicable provisions of Article 8 referenced by Article 9 of the Uniform Commercial Code as enacted in the Consolidated Laws of the State of New York, as amended from time to time in accordance with the laws of the State of New York.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>"Obligations" has the meaning set forth in Section 1.1 of the Credit Agreement.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>"Pledged Revenues" means all of a Tribal Party's money, earnings, income, and revenues (and any proceeds thereof), and all of the Tribal Party's rights to, and interest with respect to, receiving the foregoing before actual possession, whether in the form of money, deposit accounts, investments, accounts, instruments or other assets, and the proceeds thereof, in which a Tribal Party has granted a security interest to a secured party to secure the Obligations described in the Credit Agreement in a writing signed by the Tribal Party.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>"Tribal Lands" means all lands within the Tribe's reservation and all lands held by the United States in trust for the benefit of the Tribe.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>"Tribal Party" means the Te Wà Tha Hón:Ni Corporation, Akwesasne Mohawk Casino, LLC, Mohawk Bingo Palace, LLC, and any other enterprise, corporation, limited liability company, or other entity that becomes a Guarantor of the Obligations under the Credit Agreement.</text>
+    </para>
+    <text>Any undefined terms that are defined in the New York UCC are used in this Ordinance with the meanings that apply in the New York UCC.</text>
+  </section>
+  <section>
+    <num>III</num>
+    <heading>Scope.</heading>
+    <text>This Ordinance shall apply only to security interests and collateral subject to the sovereign authority of the Tribe securing the Obligations described in the Credit Agreement, to the same extent provided in Section 9-109 of the New York UCC, except that provisions of Sections 9-109(c)(2) and (c)(3) of the New York UCC shall be ineffective to limit the application of the New York UCC to Tribal Parties in accordance with this Ordinance. This Ordinance shall not apply to security interests or collateral securing any obligations other than the Obligations described in the Credit Agreement.</text>
+  </section>
+  <section>
+    <num>IV</num>
+    <heading>Laws Applicable to Security Interests.</heading>
+    <para>
+      <num>A.</num>
+      <text>With respect to any security interest to which this Ordinance applies, except as provided elsewhere in this Ordinance, the rights and obligations of any person shall be governed by the New York UCC, including those rights and obligations related to enforcement of a security interest or arising after a default, including all filing requirements.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Except as provided elsewhere in this Ordinance, the perfection, effect of perfection or non-perfection, and priority of any security interest to which this Ordinance applies shall be determined in accordance with the New York UCC as if each debtor were (for purposes of Sections 9-301 through 9-307 of the New York UCC) located in the State of New York and as if the Tribal Lands were subject to the laws of the State of New York.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Notwithstanding any provision of the New York UCC to the contrary, a security interest granted by a Tribal Party in Pledged Revenues shall be created and attach upon the giving of value and the granting of such security interest in a writing executed by that Tribal Party. Such security interest may be perfected only by the filing of an initial financing statement in the same manner and in the same location as if all of such Pledged Revenues were accounts.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>No UCC financing statement shall be required to be filed with the Tribe, nor shall any such filing be effective to perfect any security interest governed by this Ordinance.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Notwithstanding the incorporation by reference of the New York UCC as a law of the Tribe as provided in this Ordinance, nothing herein shall be construed to subject the Tribal Lands, Tribal Parties, or the Tribe to the general laws and jurisdiction of the State of New York.</text>
+    </para>
+  </section>
+  <section>
+    <num>V</num>
+    <heading>Amendment.</heading>
+    <text>Once applicable to any security interest, this Ordinance shall remain in effect with respect to that security interest until all obligations secured thereby have been fully and finally discharged or otherwise fully satisfied, except that this Ordinance may be amended, with prior notice to each secured party, only to the extent such amendment is not adverse in any way to any secured party with respect to any security interest.</text>
+  </section>
+  <section>
+    <num>VI</num>
+    <heading>Repealer and Effective Date.</heading>
+    <para>
+      <num>A.</num>
+      <text>To the extent any provision of any law, ordinance, resolution, motion, or any other action of the Tribe or any Tribal Party heretofore taken is in conflict with any provision of this Ordinance, the provisions of this Ordinance shall control.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>This Ordinance will be effective on the date a security interest to which this Ordinance applies is granted in a writing signed by a Tribal Party to a secure the Obligations described in the Credit Agreement. Once effective, this Ordinance will be automatically repealed without further action by the Tribal Council at the time the Obligations described in the Credit Agreement are fully and finally discharged or otherwise fully satisfied.</text>
+    </para>
+  </section>
+  <section>
+    <num>VII</num>
+    <heading>No Waiver of Immunity.</heading>
+    <text>Nothing in this Ordinance shall waive or impair the Tribe's sovereign immunity or the sovereign immunity of any other Tribal Party.</text>
+  </section>
+</document>

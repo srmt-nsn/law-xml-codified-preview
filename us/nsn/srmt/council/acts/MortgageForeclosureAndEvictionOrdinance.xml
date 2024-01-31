@@ -1,0 +1,534 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Mortgage Foreclosure and Eviction Ordinance (Saint Regis Mohawk Tribal Act)">
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>I</num>
+    <heading>SHORT TITLE, FINDINGS, AND PURPOSE</heading>
+    <section>
+      <num>A</num>
+      <heading>Short Title.</heading>
+      <text>This ordinance shall be known as the St. Regis Mohawk Tribe Mortgage Foreclosure and Eviction Ordinance. Its short title shall be the "Foreclosure Ordinance".</text>
+    </section>
+    <section>
+      <num>B</num>
+      <heading>Findings</heading>
+      <text>The St. Regis Mohawk Tribal Council (the "Council") hereby finds that:</text>
+      <para>
+        <num>(1)</num>
+        <text>Due to the unique legal status of lands on the St. Regis Mohawk Indian Reservation ("Reservation") it is difficult for members of the St. Regis Mohawk Tribe ("Tribe") to purchase homes utilizing traditional financing methods.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In order to alleviate this situation, which exists on all Indian reservations and lands, Federal Agencies such as the U.S. Department of Housing and Urban Development ("HUD") and the U.S. Department of Agriculture ("USDA") have established Indian housing loan guarantee programs.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In order for the St. Regis Mohawk Tribe and its members to participate in any mortgage loan programs, whether guaranteed or conventional, for either residential or commercial purposes it must first establish the required legal and administrative framework to protect the interests of borrowers, lenders, and federal agencies which guarantee or mortgage loans.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>One of the requirements for any mortgage loan program is to adopt adequate and clear foreclosure and eviction procedures to ensure a remedy for lenders in the event of a default.</text>
+      </para>
+    </section>
+    <section>
+      <num>C</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this ordinance is to provide recourse to lenders/mortgagees by providing for an orderly and fair method of foreclosing upon mortgages on assignments arising under the St. Regis Mohawk Tribe Land Assignment Ordinance and to provide for an orderly and fair means of evicting those persons found to have committed unlawful detainer.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>II</num>
+    <heading>DEFINITIONS</heading>
+    <text>As used in this code, the following words will have the meanings given them in this section unless the context plainly requires otherwise:</text>
+    <para>
+      <num>(1)</num>
+      <text>"Adult person" is any person eighteen (18) years of age or older.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"AHA" is the Akwesasne Housing Authority, established by the St. Regis Mohawk Tribe for the purpose of constructing and maintaining dwellings for public use within the territorial jurisdiction of the Tribe; and which has been designated the Tribally Designated Housing Entity (TDHE) by the Tribe.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Assignee" means an eligible tribal participant for whom a land assignment is conveyed in accordance with the provisions of the St. Regis Mohawk Tribe Land Assignment Ordinance.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Borrower/mortgagor" is the Tribe, the AHA, or any individual tribal member(s) or any heir(s), successor(s), executor(s), administrator(s), or assign(s) of the Tribe who has executed a mortgage as defined in this code.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Building" is a structure, and any appurtenances or additions thereto, designed for habitation, shelter, storage and the like.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Lender designated assignee". Any lender or mortgagee as defined in this code may assign or transfer its interest in a mortgage or land assignment to a designated assignee. If the mortgage or land assignment falls under a federal agency homebuyer program or federal agency loan guarantee program, the lender must give written notice to the Tribe of a proposed designated assignee any time prior to such transfer or assumption.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>"Lender" or "mortgagee" is (a.) any private lending institution established to primarily loan funds and not to invest in or purchase properties, (b.) the Tribe, (c.) the AHA, or (d.) a U.S. government agency which loans money, guarantees or insures loans to a borrower for construction, acquisition, or rehabilitation of a home. It shall also mean any lender designated assignee(s) or successor(s) of such lender/mortgagee.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>"Mortgage" is the mortgage of an assignment of property given to secure a loan, and may be created (a.) under the auspices of any federal agency or AHA homebuyer or lending program, or (b.) any other loan, mortgage, security, or credit agreement entered between a borrower/mortgagor and a lender/mortgagee including conventional or traditional mortgages. This mortgage differs from a standard mortgage to the extent that this mortgage pledges the assignment interest as collateral for the loan, rather than pledging an ownership interest in the real property.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>"Mortgage Foreclosure Proceeding" is a proceeding:</text>
+      <para>
+        <num>a.</num>
+        <text>To foreclose the interest of the borrower(s)/mortgagor(s), and each person or entity claiming through the borrower(s)/ mortgagor(s), in a land assignment and building for which a mortgage has been given under the home purchase or lending program of any federal agency or any other lender, or a commercial loan by any lender; and</text>
+      </para>
+      <para>
+        <num>b.</num>
+        <text>To assign, where appropriate the borrower's/mortgagor's interest to a designated assignee.</text>
+      </para>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>"Person" includes the Tribe, the AHA, an individual or organization, and where the meaning of a portion of this Code requires, it means a public agency, corporation, partnership, or any other entity.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>"Reservation" means the St. Regis Mohawk Reservation which shall include all lands held in restricted status and in trust by the United States of America for the benefit of the St. Regis Mohawk Tribe.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>"Shall", for the purposes of this code, will be defined as, mandatory or must.</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>"Subordinate lien holder" is the holder of any lien, including a subsequent mortgage, perfected subsequent to the recording of a mortgage under this code.</text>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>"Tribal Court" is the St. Regis Mohawk Tribal Court as established by the laws of the Tribe or such body as may now or hereafter be authorized by the laws of the Tribe to exercise the powers and functions of a court of law.</text>
+    </para>
+    <para>
+      <num>(15)</num>
+      <text>"Tribal member" means an individual who is an enrolled member of the St. Regis Mohawk Tribe in good standing.</text>
+    </para>
+    <para>
+      <num>(16)</num>
+      <text>"Tribal Clerk" is the duly elected tribal official designated to perform the recording functions required by this code or any deputy or designee of such person as assigned by Tribal Council.</text>
+    </para>
+    <para>
+      <num>(17)</num>
+      <text>"Tribe" means the St. Regis Mohawk Tribe of New York, as recognized by the United States of America.</text>
+    </para>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>III</num>
+    <heading>PRIORITY AND RECORDING</heading>
+    <section>
+      <num>A</num>
+      <heading>Priority</heading>
+      <text>All mortgages recorded in accordance with the recording procedures set forth in this chapter, and including loans guaranteed or held by a governmental agency, shall have priority over any lien not perfected at the time of such recording.</text>
+    </section>
+    <section>
+      <num>B</num>
+      <heading>Recording</heading>
+      <para>
+        <num>(1)</num>
+        <text>The Tribal Clerk shall maintain the tribal record system for the recording of mortgages and such other documents as the Tribe may designate by laws or resolution.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Tribal Clerk shall endorse upon any mortgage or other document received for recording:</text>
+        <para>
+          <num>a.</num>
+          <text>The date and time of receipt of the mortgage or other document;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The filing number, to be assigned by the Tribal Clerk, which shall be a unique number for each mortgage or other document received; and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The name of the Tribal Clerk or designee receiving the mortgage or document.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>C</num>
+      <heading>Certification</heading>
+      <text>Upon completion of the above-cited endorsements, the Tribal Clerk shall make a true and correct copy of the mortgage or other document and shall certify the copy as follows:</text>
+    </section>
+    <section>
+      <num>St</num>
+      <heading>Regis Mohawk Tribe}</heading>
+      <text>Indian Reservation</text>
+      <text>I certify that this is a true and correct copy of a document received for recording this date.</text>
+      <text>Given under my hand and seal this _______ day of _____________________, 20_____.</text>
+      <text>_____________________________	    -Seal-		_______________________________</text>
+      <text>(Signature) 						(Date)</text>
+    </section>
+    <section>
+      <num>D</num>
+      <heading>Record and Log Maintenance</heading>
+      <text>The Tribal Clerk shall maintain the copy in the records of the recording system and shall return the original of the mortgage or other document to the person or entity that presented the same for recording.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Tribal Clerk shall also maintain a log of each mortgage or other document recorded in which there shall be entered:</text>
+        <para>
+          <num>a.</num>
+          <text>The name(s) of the borrower/mortgagor of each mortgage, identified as such;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The name(s) of the lender/mortgagee of each mortgage, identified as such;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The name(s) of the grantor(s), grantee(s), or other designation of each party named in any other documents filed or recorded;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The date and time of the receipt;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>The filing number assigned by the Tribal Clerk; and</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>The name of the Tribal Clerk or designee receiving the mortgage or document.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>E</num>
+      <heading>Public Inspection</heading>
+      <text>The certified copies of the mortgage and other documents and the log maintained by the Tribal Clerk shall be made available for public inspection and copying. Rules for copying shall be established and disseminated by Tribal Council.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>IV</num>
+    <heading>FORECLOSURE PROCEDURES</heading>
+    <section>
+      <num>A</num>
+      <heading>General</heading>
+      <text>A borrower/mortgagor shall be considered to be in default when:</text>
+      <para>
+        <num>(1)</num>
+        <text>He/she is thirty days past due on his/her mortgage payment(s) to the lender/mortgagee; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>He/she is in violation of any covenant under the mortgage for more than 30 days.</text>
+      </para>
+    </section>
+    <section>
+      <num>B</num>
+      <heading>Conditions</heading>
+      <text>Before a borrower/mortgagor becomes ninety (90) days delinquent on his mortgage payments and before any foreclosure action or activity is initiated, the lender/mortgagee shall complete the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Make a reasonable effort to arrange a face-to-face interview with the borrower / mortgagor. This shall include at least one trip to meet with the borrower / mortgagor at the mortgaged property.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Lender/mortgagee shall document that it has made at least one phone call to the borrower / mortgagor (or the nearest phone designated by the borrower / mortgagor, able to receive and relay messages to the borrower / mortgagor) for the purpose of trying to arrange a face-to-face interview.</text>
+      </para>
+    </section>
+    <section>
+      <num>C</num>
+      <heading>Appointment of Agent</heading>
+      <text>Lender/mortgagee may appoint an agent to perform the services or arranging and conducting the face-to-face interview specified in this chapter.</text>
+    </section>
+    <section>
+      <num>D</num>
+      <heading>Notice Requirements</heading>
+      <text>Before the borrower/mortgagor has been delinquent for ninety (90) days and at least ten (10) days before initiating a foreclosure action in Tribal Court, the lender shall advise the borrower/mortgagor in writing by mail or by posting prominently on the unit, with a copy provided to the Tribe, as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>Advise the borrower/mortgagor that information regarding the loan and default will be given to credit bureaus.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Advise the borrower/mortgagor of homeownership counseling opportunities and programs available through the lender/mortgagee or otherwise.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Advise the borrower/mortgagor of other available assistance regarding the default.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In addition to the preceding notification requirements, the lender/mortgagee shall complete the following additional notice requirements:</text>
+        <para>
+          <num>a.</num>
+          <text>notify the borrower/mortgagor that if the mortgage remains in default for more than ninety (90) days, the lender/mortgagee may ask the applicable governmental agency to accept assignment of the mortgage if this is a requirement of the governmental program;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>notify the borrower/mortgagor of the qualifications for forbearance relief from the lender/mortgagee, if any, and that forbearance relief may be available from the government if the mortgage is assigned; and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>provide the borrower/mortgagor with names and addresses of government officials to whom further communications may be addressed, if any.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>E</num>
+      <heading>Default</heading>
+      <text>If a borrower/mortgagor has been in default of ninety (90) days or more and the lender/mortgagee has complied with the procedures set forth in sections (B) and (D) of this chapter, the lender/mortgagee may commence a foreclosure proceeding in the Tribal Court by filing a verified complaint as set forth in Chapter V Section (A) of this code.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>V</num>
+    <heading>FORECLOSURE COMPLAINT AND SUMMONS</heading>
+    <section>
+      <num>A</num>
+      <heading>Verified Complaint</heading>
+      <text>The verified complaint in a mortgage foreclosure proceeding shall contain the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>The name of the borrower/mortgagor and each person or entity claiming through the borrower/mortgagor subsequent to the recording of the mortgage, including each subordinate lien holder as a defendant;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A description of the property subject to the mortgage;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A concise statement of the facts concerning the execution of the mortgage; the facts concerning the alleged default(s) of the borrower/mortgagor; and such other facts as may be necessary to constitute a cause of action;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>True and correct copies of the land assignment, the mortgage, or assignment thereof relating to the property (appended as exhibits); and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Any applicable allegations concerning relevant requirements and conditions prescribed in:</text>
+        <para>
+          <num>a.</num>
+          <text>federal statutes and regulations;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Tribal codes, ordinances and regulations; and/or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>provisions of the land assignment.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>B</num>
+      <heading>Summons</heading>
+      <text>The complaint shall be verified by the Tribal Court clerk along with a summons specifying a date and time of appearance for the defendant(s).</text>
+    </section>
+    <section>
+      <num>C</num>
+      <heading>Service of Process and Procedures</heading>
+      <text>Service of process must be in writing, and must be delivered to the borrower/mortgagor in the following manner:</text>
+      <para>
+        <num>(1)</num>
+        <text>Delivery must be made by an adult person.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Delivery will be effective when it is:</text>
+        <para>
+          <num>a.</num>
+          <text>Personally delivered to the borrower/mortgagor with a copy delivered by mail; or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Personally delivered to an adult living in the premises with a copy delivered by mail; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If the notice cannot be given by means of personal delivery, or borrower/ mortgagor cannot be found, the notice may be delivered by means of:</text>
+        <para>
+          <num>a.</num>
+          <text>Certified mail, return receipt requested, or</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Securely taping a copy of the notice to the main entry door of the premises in such a manner that it is not likely to blow away and by sending a copy first- class mail, postage prepaid, addressed to the borrower/mortgagor at the premises.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The person giving notice must keep a copy of the notice and proof of service in accordance with this section, by affidavit or other manner recognized by law.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>VI</num>
+    <heading>CURE OF DEFAULT BY SUBORDINATE LIEN HOLDER</heading>
+    <text>Prior to the entry of a judgment of foreclosure, any borrower/mortgagor or a subordinate lien holder may cure the default(s) under the mortgage by making a full payment of the delinquency to the lender/mortgagee and all reasonable legal and court costs incurred in foreclosing on the property. Any subordinate lien holder who has cured a default shall thereafter have included in its lien holder the amount of all payments made by such subordinate lien holder to cure the default(s), plus interest on such amounts at the rate stated in the note for the mortgage.</text>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>VII</num>
+    <heading>JUDGMENT AND REMEDY</heading>
+    <text>This matter shall be heard and decided by the Tribal Court in a prompt and reasonable time period not to exceed sixty (60) days from the date of service of the complaint on the borrower/mortgagor. If the alleged default has not been cured at the time of trial and the Tribal Court finds for the lender/mortgagee, the Tribal Court shall enter judgment:</text>
+    <para>
+      <num>(1)</num>
+      <text>Foreclosing the interest of the borrower/mortgagor and each other defendant, including subordinate lien holder, in the mortgage, and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Ordering the borrower/mortgagor to relinquish possession of the premises to the lender/mortgagee by a specific date and time no less than ten (10) nor more than thirty (30) days from the date of judgment.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Assigning the mortgage to the lender/mortgagee or the lender/mortgagee's designated assignee;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Assigning the land assignment to the lender/mortgagee or the lender/mortgagee's designated assignee, subject to the following provisions:</text>
+      <para>
+        <num>a.</num>
+        <text>The lender shall give the Tribe the right of first refusal on any acceptable offer to purchase the land assignment and/or mortgage which is subsequently obtained by the lender or lender's designated assignee.</text>
+      </para>
+      <para>
+        <num>b.</num>
+        <text>The lender or lender's designated assignee may only transfer, sell or assign the land assignment and/or mortgage to a tribal member, the Tribe, or the AHA.</text>
+      </para>
+      <para>
+        <num>c.</num>
+        <text>Any other transfer, sale or assignment of the land assignment or mortgage shall only be made to a tribal member, the Tribe, or the AHA.</text>
+      </para>
+    </para>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>VIII</num>
+    <heading>FORECLOSURE EVICTIONS</heading>
+    <section>
+      <num>A</num>
+      <heading>Unlawful Detainer</heading>
+      <text>A person, lessee, sub lessee or other occupant of an estate subject to a mortgage shall be guilty of unlawful detainer if such person shall continue in occupancy of such estate after such person's assignment rights have been foreclosed in a mortgage foreclosure proceeding pursuant to this code in the Tribal Court.</text>
+    </section>
+    <section>
+      <num>B</num>
+      <heading>Action for Unlawful Detainer</heading>
+      <text>The lender or federal agency which originally made, insured or guaranteed the mortgage loan shall commence an action for unlawful detainer by filing with the Tribal Court, in writing, the following documents:</text>
+      <para>
+        <num>(1)</num>
+        <text>A complaint signed by the lender or federal agency, or an agent or attorney on behalf:</text>
+        <para>
+          <num>a.</num>
+          <text>Citing facts alleging the jurisdiction of the Tribal Court;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Naming as defendants the mortgagors and any other record owner (including any lessees, sub lessees and subordinate lien holders), of which the complainant has record notice;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Describing the land assignment subject to the mortgage;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Stating the facts concerning:</text>
+          <para>
+            <num>i.</num>
+            <text>the execution of the land assignment and the mortgage,</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>the recording of the mortgage, and</text>
+          </para>
+          <para>
+            <num>iii.</num>
+            <text>the facts upon which he seeks to recover;</text>
+          </para>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Stating any claim for damages or compensation due from the persons to be evicted; and</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Otherwise satisfying the requirements and rules of the Tribal Court.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A copy of the summons, issued in accordance with the rules of the Tribal Court, requiring the defendants to file a response to the complaint by the date specified in the summons. The deadline specified in the summons for the filing of a response shall be no less than 20, no more than 30, days from the date of service of the summons and the complaint. The summons shall notify the defendants that judgment will be taken against them in accordance with the terms of the complaint unless they file a response with the Tribal Court by the date specified in the summons.</text>
+      </para>
+    </section>
+    <section>
+      <num>C</num>
+      <heading>Summons and Complaint</heading>
+      <text>A copy of the summons and complaint shall be served upon the defendants in a manner provided by the rules of the Tribal Court for the service of civil process, or pursuant to the requirements of Chapter V Section (C) of this Code.</text>
+    </section>
+    <section>
+      <num>D</num>
+      <heading>Order of Repossession</heading>
+      <text>The Tribal Court shall enter an Order of Repossession if:</text>
+      <para>
+        <num>(1)</num>
+        <text>Notice of suit is given by service of summons and complaint in accordance with the procedures provided herein; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Tribal Court shall find during pre-trial proceedings or at trial that the Borrower/Mortgagor subject to the mortgage is guilty of an act of unlawful detainer.</text>
+      </para>
+    </section>
+    <section>
+      <num>E</num>
+      <heading>Remedies</heading>
+      <text>Upon issuance of an Order of Repossession, the Tribal Court shall have the authority to enter a judgment against the defendants for the following, as appropriate:</text>
+      <para>
+        <num>(1)</num>
+        <text>Any and all amounts secured by the mortgage that are due the lender or federal agency; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Damages to the property caused by the defendants, other than ordinary wear and tear.</text>
+      </para>
+    </section>
+    <section>
+      <num>F</num>
+      <heading>Attorneys Fees</heading>
+      <text>The Tribal Court shall have the authority to award to the prevailing party its costs and reasonable attorneys' fees in bringing suit.</text>
+    </section>
+    <section>
+      <num>G</num>
+      <heading>Enforcement</heading>
+      <text>Upon an issuance of an "Order of Repossession" by the Tribal Court, tribal law enforcement officers shall help plaintiffs enforce same by evicting the defendants and their property from the unlawfully occupied estate. In all cases involving the lender or federal agency, the "Order of Repossession" shall be enforced no later than 45 days after a pre-trial proceeding or trial in which the Tribal Court finds against the defendants, subject to a continuance under Section (H), below, and provided that no party exercised the right to cure default or right of first refusal as described in Chapters VI or VII.</text>
+    </section>
+    <section>
+      <num>H</num>
+      <heading>Continuance</heading>
+      <text>In cases involving the lender or federal agency which originally made, insured or guaranteed, the mortgage loan, there shall be no continuances issued by the Tribal Court that will interfere with the requirement that the Order of Repossession be enforced no later than 45 days after a pre-trial proceeding or trial in which the Tribal Court finds against the defendants, subject to the sound discretion of the Court.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>IX</num>
+    <heading>NO MERGER OF ESTATES</heading>
+    <text>There shall be no merger of estates by reason of the execution of a land assignment or a mortgage or the assumption of the same, including an assumption adjudged by the Tribal Court, or by operation of law, except as such merger may arise upon satisfaction of the mortgage.</text>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>X</num>
+    <heading>CERTIFIED MAILING TO TRIBE AND ASSIGNEE</heading>
+    <text>Any foreclosure proceedings on a land assignment or mortgage where the Tribe or the assignee(s) is not named as a defendant, a copy of the summons and complaint shall be mailed to the Tribe and to the assignee(s) by certified mail, return receipt requested, within five (5) days after the issuance of the summons.</text>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>XI</num>
+    <heading>INTERVENTION</heading>
+    <text>The Tribe or any land assignee may petition the Tribal Court to intervene in any land assignment or mortgage foreclosure proceeding under this code. Neither the filing of a petition for intervention by the Tribe, nor the granting of such a petition by the Tribal Court shall operate as a waiver of the sovereign immunity of the Tribe, except as may be expressly authorized by the Tribe.</text>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>XII</num>
+    <heading>APPEALS</heading>
+    <text>Appeals under this code shall be handled according to the general tribal civil appellate provisions, with the exception that the party taking the appeal shall have only five (5) days from the entry of the order of judgment to file an appeal. All orders from the court will remain in effect during the pendency of an appeal under this code unless otherwise ordered by the court. In the event that there are no general tribal civil appellate provisions, the order of judgment by the Tribal Court shall be final.</text>
+  </container>
+</document>

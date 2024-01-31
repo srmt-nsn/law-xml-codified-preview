@@ -1,0 +1,1574 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Communications Regulatory Act (Saint Regis Mohawk Tribal Act)">
+  <section>
+    <num>1</num>
+    <heading>Definitions</heading>
+    <text>The following definitions shall apply to all provisions of the Saint Regis Mohawk Communications Regulatory Act:</text>
+    <para>
+      <num>A.</num>
+      <text>"Act" means the Saint Regis Mohawk Communications Regulatory Act.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>"Broadcasting" means the dissemination of any radio or television communications intended to be received by the public, both directly or by the intermediary of relay stations.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>"Certificate of Public Convenience and Necessity" or "CPCN" means the certificate issued by the Commission to authorize communications business or related activities within the defined service areas of the Saint Regis Mohawk Tribe, as that territory from time to time may be enlarged.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>"Commission" means the Saint Regis Mohawk Telecommunications Regulatory Commission or any successor agency authorized by the Saint Regis Mohawk Tribe to regulate Communication Services.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>"Communications Service" means any of the following: Telecommunications Service (as defined in 47 U.S.C. § 153(20)); Video Service; broadband service; advanced services (as defined in 47 C.F.R. § 51.5); and Internet protocol-enabled service; however these services are classified by the FCC.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>"Communications Service Provider" means a person or entity that offers Communications Services to customers on Tribal Land without regard to the technology or medium used by the person or entity to provide the Communications Service.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>"Communications Service System" means the facilities including office and billing functions by which the Communications Service Provider provides Communications Service.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>"Cramming" means the illegal practice of adding charges to a subscriber's bill for services not ordered.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>"Customer" means someone who receives a communications service whether for a fee, in exchange for a benefit, or gratis.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>"Facilities-based Provider" means a person or entity that provides Communications Services by constructing and operating its own facilities.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>"Federal Communications Commission" or "FCC" means that agency as presently authorized by the U.S. Congress or any successor agency authorized by the Congress that regulates interstate and international communications by radio, television, wire, satellite, and cable in all 50 states, the District of Columbia, and U.S. territories.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>"Franchise Agreement" means the agreement entered into by the recipient of a Franchise and the Saint Regis Mohawk Tribe that provides the terms of a Franchise, privilege, permit, license, or other authorization to construct, operate, maintain, or manage Communication Services within the Saint Regis Mohawk Tribe's jurisdiction.</text>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>"Franchise" means an initial authorization, or a renewal of an authorization, that is issued by the Commission and authorizes the construction or operation of Communication Services on Tribal Land.</text>
+    </para>
+    <para>
+      <num>N.</num>
+      <text>"Person" means a natural person, either a Saint Regis Mohawk Tribal member, nonmember, sole proprietorship, partnership, corporation, limited liability company or professional association, joint venture, trust, estate, unincorporated association, any wholly owned enterprise of the Tribal government, public or private organization, and any part, division, or agency of any of the foregoing or any other entity.</text>
+    </para>
+    <para>
+      <num>O.</num>
+      <text>"Pole Attachment" means an attachment of a wire or cable by a telephone system, or a cable television system to a pole; the term also includes ducts or conduits and other underground apparatus requiring the use of public right-of-way, owned or controlled by a public utility.</text>
+    </para>
+    <para>
+      <num>P.</num>
+      <text>"Rates" mean any rate, toll, rental, charge or surcharge, or classification of any person engaged in providing Communication services.</text>
+    </para>
+    <para>
+      <num>Q.</num>
+      <text>"Reseller" means a person or entity that provides Communications Services by subscribing to the Communications Services or facilities of another Communications Service Provider and resells those services to the public.</text>
+    </para>
+    <para>
+      <num>R.</num>
+      <text>"Slamming" means the illegal practice of changing a subscriber's service without first obtaining the consent of the subscriber.</text>
+    </para>
+    <para>
+      <num>S.</num>
+      <text>"Saint Regis Mohawk Tribe" or "SRMT" means the federally recognized tribe.</text>
+    </para>
+    <para>
+      <num>T.</num>
+      <text>"Saint Regis Mohawk Tribal Council" means the duly elected governing body of the Saint Regis Mohawk Tribe, comprised of three chiefs and three sub-chiefs.</text>
+    </para>
+    <para>
+      <num>U.</num>
+      <text>"Saint Regis Mohawk Tribal Court" means the judicial branch of the Tribal government comprised of a Chief Judge, Associate Judges and staff and who operate pursuant to Tribal Law.</text>
+    </para>
+    <para>
+      <num>V.</num>
+      <text>"Subscriber" means the person or entity in whose name service is rendered, as evidenced by the signature on the application or contract for that service, or by the receipt and/or payment of statements, invoices, or bills regularly issued in such name regardless of the identity of the actual user of the service.</text>
+    </para>
+    <para>
+      <num>W.</num>
+      <text>"Tariff" means the filed and approved rates, rules, and regulations of a Communication Service Provider that sets forth the services and products offered and the rates charged, and the terms and conditions for the use of those services and products.</text>
+    </para>
+    <para>
+      <num>X.</num>
+      <text>"Tribal Land" means the Saint Regis Mohawk Reservation, including all Indian Lands or Indian Country of the Saint Regis Mohawk Tribe, as may from time to time be expanded and any and all lands within the jurisdiction of the Saint Regis Mohawk Tribe.</text>
+    </para>
+    <para>
+      <num>Y.</num>
+      <text>"Video Service" means the transmission to subscribers of video programming (as defined in 47 U.S.C. § 522(20)) and other programming that a provider makes generally available to all subscribers through facilities located at least in part in a public right-of-way and without regard to the technology used for delivery.</text>
+    </para>
+    <para>
+      <num>Z.</num>
+      <text>"Video Service System" means a system consisting of a set of transition paths and associated signal generation, reception, and control equipment that is designed to provide Communications Service directly to subscribers within the Tribal Land. The term includes, but is not limited to, the optical spectrum wavelengths, bandwidth, or other current or future technological capacity used to provide Video Service. The term does not include a system that transmits Communications Service without using any public right-of-way.</text>
+    </para>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Practice and Procedure</heading>
+  </section>
+  <section>
+    <num>2.1</num>
+    <heading>Short Title</heading>
+    <text>This Act shall be known and may be cited as the Saint Regis Mohawk Communications Regulatory Act (and herein referred to as the "Act").</text>
+  </section>
+  <section>
+    <num>2.2</num>
+    <heading>Purpose</heading>
+    <para>
+      <num>A.</num>
+      <text>The purposes of this Act are:</text>
+      <para>
+        <num>1.</num>
+        <text>To make available efficient, reasonably priced, state-of-the art Communication Services to the people of the Saint Regis Mohawk Tribe;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>To promote and expand Communication Services within the area subject to the jurisdiction of the Saint Regis Mohawk Tribe; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>To ensure that all Communication Services provided within the jurisdiction of the Saint Regis Mohawk Tribe are consistent with and promote the health, welfare and economic benefit of the Mohawk People.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The provisions of the Act shall be construed and applied in each instance to ensure that the purposes of the Act are accomplished in each action that is taken.</text>
+    </para>
+  </section>
+  <section>
+    <num>2.3</num>
+    <heading>Jurisdiction</heading>
+    <para>
+      <num>A.</num>
+      <text>The provisions of the Act shall apply within the Tribal Lands of the of the Saint Regis Mohawk Tribe as it exists on the day of the adoption of this Act, and as it may be expanded from time to time.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>By virtue of its inherent sovereign powers, the Saint Regis Mohawk Tribe has the authority to assert jurisdiction over Communications Services and Systems that operate on Tribal Land and that are not preempted by applicable law and regulation of the federal government of the United States.</text>
+    </para>
+  </section>
+  <section>
+    <num>2.4</num>
+    <heading>Federal Law Binding</heading>
+    <text>Federal laws currently in force regulating Communications Services which do not preempt the jurisdiction of the Saint Regis Mohawk Tribe to regulate Communications Services shall have the same force and effect and shall be binding and obligatory upon the Saint Regis Mohawk Tribe and any entity operating upon Tribal Land to the extent that said laws fulfill the purposes of the Act at set forth in Section 2.2, above. To the extent such existing Federal laws may be preempted by the jurisdiction of the Saint Regis Mohawk Tribe, the Commission may enact such laws in the future.</text>
+  </section>
+  <section>
+    <num>2.5</num>
+    <heading>Establishment of Saint Regis Mohawk Telecommunications Regulatory Commission</heading>
+    <text>This Act hereby establishes the Saint Regis Mohawk Telecommunications Regulatory Commission to carry out the duties of regulating Communications Services within the jurisdiction of the Saint Regis Mohawk Tribe.</text>
+  </section>
+  <section>
+    <num>2.6</num>
+    <heading>Composition of the Commission</heading>
+    <para>
+      <num>A.</num>
+      <text>The Commission shall include one (1) chairman and two (2) additional commissioners who will be selected exclusively by the Saint. Regis Mohawk Tribal Council for 3 year terms, with the terms of each chairman and commissioner not to end concurrently with one another.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Commission has the authority to hire the staff necessary to fulfill its regulatory mission.</text>
+    </para>
+  </section>
+  <section>
+    <num>2.7</num>
+    <heading>Qualifications for Commissioners</heading>
+    <para>
+      <num>A.</num>
+      <text>All Commissioners shall be at least 30 years of age and shall be competent and knowledgeable in one or more fields including accounting, economics, energy engineering, finance, law, natural resource conservation, public affairs or any other field(s) substantially related to the regulation of Communications Services.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>All Commissioners must possess a minimum of a Bachelor's Degree.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>All Commissioners shall have a minimum of 5 years of experience in the Telecommunications Industry.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>At the time of appointment or during his or her term of office, a Commissioner may not:</text>
+      <para>
+        <num>1.</num>
+        <text>Have any financial interest, other than ownership of shares in a mutual fund, in any business entity which, either directly or indirectly, owns or controls any public utility regulated by the Commission, in any public utility regulated by the Commission, or in any business entity which, either directly or indirectly, is an affiliate or subsidiary of any public utility regulated by the Commission.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Be employed by or engaged in any business activity with any business entity which, either directly or indirectly, owns or controls any public utility regulated by the Commission, by any public utility regulated by the Commission, or by any business entity which, either directly or indirectly, is an affiliate or subsidiary of any public utility regulated by the Commission.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>In addition to the above, the Chairman of the Commission shall have at least 10 years of experience in the Telecommunications Industry and shall also have a minimum of 2 years of experience as a Commissioner of a regulatory body, such as a Communications Commission, a Public Service Commission or a Utility Commission.</text>
+    </para>
+  </section>
+  <section>
+    <num>2.8</num>
+    <heading>Duties of the Commission</heading>
+    <text>The Commission shall abide by the operating procedures and duties as set forth in this Act and in the Commission By-Laws as approved by the Saint Regis Mohawk Tribal Council.</text>
+  </section>
+  <section>
+    <num>2.9</num>
+    <heading>Powers of the Commission</heading>
+    <para>
+      <num>A.</num>
+      <text>In accordance with the Commission's By-Laws and as specifically designated in this Section or in any rule, regulation, decision, order, or other official pronouncement adopted hereunder, the Commission shall have the power to perform any and all acts necessary and convenient to supervise, monitor, and regulate the provisioning of Communication Services within the jurisdiction of the Saint Regis Mohawk Tribe.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Commission shall have the following specific powers:</text>
+      <para>
+        <num>1.</num>
+        <text>To promulgate such rules and regulations as appropriate for the accomplishment of its purpose and authority, duties and responsibilities pursuant to this Act, and to enforce such rules and regulations.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>To promote community education on Internet safety, healthy Internet use, and economic development.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>To act upon and regulate any and all communications activity within the jurisdiction of the Saint Regis Mohawk Tribe, including but not limited to telephone, television, telegraph, cable television, two-way radio, and other Communications Services.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>To supervise all providers of Communications Services within the jurisdiction of the Saint Regis Mohawk Tribe. The Commission shall have the power to and shall routinely:</text>
+        <para>
+          <num>a.</num>
+          <text>Ensure all providers of Communications Service are in compliance with all provisions of law and orders of the Commission;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Either through its members or inspectors or employees duly authorized by it to enter in and to inspect the property, equipment, buildings, plants, factories, offices, apparatus, machines, devices and lines of any Communications Service Provider; and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Examine all providers' of Communications Services general condition, capitalization, franchises, lease agreements, and operation, management, safety, and security of lines and property.</text>
+        </para>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>To establish methods, procedures, conditions, and fees for obtaining permits and developing approved tariff schedules for Communications Services within the jurisdiction of the Saint Regis Mohawk Tribe.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>To establish and collect franchise, filing, and other fees from persons at amounts that are appropriate for the matter for which such collection is being made.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>To order repairs or improvements to or changes in any facilities of a provider of Communications Services necessary to promote the convenience of the public or employees, or in order to secure adequate service or facilities for Communications Services.</text>
+        <para>
+          <num>a.</num>
+          <text>The Commission shall make and serve an order directing that such repairs, improvements, changes or additions be made within a reasonable time and in a manner to be specified therein;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>All providers of Communications Services are hereby required and directed to make all repairs, improvements, changes, and additions required of it by any order of the Commission served upon it.</text>
+        </para>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>To adopt rules and regulations, decisions, and orders governing quality of service, which may govern not only service transmission quality standards but also the service itself, including but not limited to the establishment of service, temporary service, line connection, provision of service, billing and collection, resolution of customer disputes, termination of service and notice, and Communications Service for the disabled, handicapped, and the elderly, and like matters.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>To hold administrative hearings and conduct investigations.</text>
+        <para>
+          <num>a.</num>
+          <text>The Commission shall have the power to administer oaths to witnesses summoned to testify in any inquiry, investigation, hearing, or proceeding and also to administer oaths whenever the exercise of such power is incidentally necessary or proper to enable the Commission or a Commissioner to perform a duty or to exercise a power.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The Commission shall establish procedures and requirements for hearings and investigations pertinent to the functions and powers of the Commission, including procedures:</text>
+          <para>
+            <num>i.</num>
+            <text>To receive, consider, and hear complaints concerning any non-compliance by any person of any provision of this Act and/or the rules and regulations, decisions, orders, or other official pronouncements;</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>To issue and compel by power of subpoena the presence of any person or the production of any document, or any type of evidence deemed relevant to a matter properly before the Commission;</text>
+          </para>
+          <para>
+            <num>iii.</num>
+            <text>To issue decisions and orders, opinions, or other official pronouncements on any matter properly raised before the Commission and as may be necessary in the enforcement and implementation of its functions.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>To establish and impose fines and/or any other civil sanction(s) deemed appropriate by the Commission for violations of any provision of this Act and/or its rules and regulations, decisions, orders, or other official pronouncements.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>2.10</num>
+    <heading>Adoption of Rules and Regulations</heading>
+    <para>
+      <num>A.</num>
+      <text>The Commission may promulgate rules and regulations in accordance with this Act for the purpose of enforcement of this Act.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Prior to the adoption by the Commission of any rules and regulations being promulgated in accordance with this Act, notice shall be given to the public, including the Saint Regis Mohawk Tribe community and any customer of any provider of Communications Services authorized by this Act to provision services on Tribal Land, of such proposed rules or regulations by a method deemed proper by the Commission.</text>
+      <para>
+        <num>1.</num>
+        <text>Such notice shall include:</text>
+        <para>
+          <num>a.</num>
+          <text>The nature of the proposed rule or regulation;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The meeting date of the Commission where it will be reviewed and public comment solicited;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The deadline date for submitting written comments;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The proposed effective date of proposed rule or regulation implementation; and</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>The location where the proposed rule or regulation will be available for public inspection.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Commission shall take no action on any proposed rules or regulations for at least forty-five (45) days from the date of the publication of the Commission's notice. The Commission may enact emergency rules and regulations on shorter notice or no notice when necessary to protect the rights, health, safety, or welfare of the Tribe or public.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Commission may promulgate other official pronouncements governing matters not requiring a formal rule or regulation from time to time.</text>
+    </para>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Compliance and Enforcement</heading>
+    <para>
+      <num>A.</num>
+      <text>All persons engaging in any way in activities related to the provisioning of Communications Service within the jurisdiction of the Saint Regis Mohawk Tribe shall comply with the provisions of this Act and all decisions or orders, rules and regulations, or other official pronouncements issued pursuant to the Act.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Members of the public shall have standing to make complaints or inquiries to the Commission about any activities related to Communications Services within the jurisdiction of the Saint Regis Mohawk Tribe in accordance with Section 4 of this Act.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Enforcement of this Act shall be by the Commission or through the Saint Regis Mohawk Tribal Court. The exhaustion of administrative remedies doctrine will apply to any third party seeking enforcement of the Act. The Commission is authorized to seek judicial enforcement through any court of competent jurisdiction, including the Saint Regis Mohawk Tribal Court, of the Act without first acting administratively, if circumstances so require.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Any nonmember of the Saint Regis Mohawk Tribe who violates any of the provisions of this Act may be excluded from Tribal Land.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Saint Regis Mohawk Tribe reserves the right to pursue any and all remedies to recover any losses incurred as a result of a violation of this Act.</text>
+    </para>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Complaints; Notice of Hearings; Hearings; Decisions; Appeal</heading>
+  </section>
+  <section>
+    <num>4.1</num>
+    <heading>Complaint</heading>
+    <text>A written complaint may be filed with the Commission by any person, or by the Commission itself, in accordance with the Commission's rules and regulations against any person or entity engaged in a Communications Service over which the Commission has jurisdiction. A complaint will detail the alleged act or omission of the person or entity asserted to be in violation of the Act or decision, order, rule or regulation, or other official pronouncements of the Commission and will further contain the remedy or relief sought. A complaint may also be filed by any person regarding the justness or reasonableness of any rates, terms, or conditions.</text>
+  </section>
+  <section>
+    <num>4.2</num>
+    <heading>Notice of Hearing</heading>
+    <text>Upon the filing of a complaint, if the Commission determines that probable cause exists, the Commission shall serve notice within twenty (20) days upon the Person complained of an order to show cause why the person should not be ordered to cease, temporarily suspend, or modify operations complained of. The notice shall specify the charge, time, date, and place of hearing.</text>
+  </section>
+  <section>
+    <num>4.3</num>
+    <heading>Procedures for Hearing</heading>
+    <text>The Commission shall conduct a full and fair hearing on all matters properly brought before it. All such hearings will be held in accordance with the requirements of the rules and regulations adopted by the Commission and will be open to the public.</text>
+  </section>
+  <section>
+    <num>4.4</num>
+    <heading>Decision and Order</heading>
+    <text>After the conclusion of the hearing, the Commission shall make and enter its findings of facts, based upon the evidence presented at the hearing and supported by substantial evidence on the record as a whole. The Commission will further issue an order of its determination and decision based upon such findings and make known the effective date of such decision and order. Every order shall be in writing and signed by at least a majority of the Commission membership and should bear the seal of the Commission affixed thereto. A certified copy of such order shall be served upon each party to the proceeding or their legal counsel by certified mail.</text>
+  </section>
+  <section>
+    <num>4.5</num>
+    <heading>Reconsideration; Appeals</heading>
+    <text>After an order or decision has been issued by the Commission, any party to the proceeding may apply for reconsideration of any matters determined in said proceeding, in accordance with the Commission's rules and regulations. Any party adversely affected by the final decision or order of the Commission is entitled to seek judicial review by filing a notice of appeal with the Saint Regis Mohawk Tribal Court within 30 days following entry of the order and decision entered following reconsideration.</text>
+  </section>
+  <section>
+    <num>4.6</num>
+    <heading>Judicial Review</heading>
+    <text>No judicial review shall be allowed unless an application for reconsideration has been filed with and ruled upon by the Commission. Review of Commission actions in the Saint Regis Mohawk Tribal Court will be on the record made in the Commission hearing and not de novo and will be limited to the determination of whether the decision and order of the Commission is supported by substantial evidence, is arbitrary, capricious or an abuse of discretion, is beyond the Commission's authority, or otherwise contrary to applicable Saint Regis Mohawk Tribal or federal law. The Saint Regis Mohawk Tribal Court is empowered to affirm, reverse, or modify a decision and order of the Commission or to remand the matter to the Commission for further action, and it may stay the effect of the decision and order pending the appeal. The Commission will determine by its rules and regulations whether the right of appeal will exist with respect to its adoption of any proposed rule or regulation.</text>
+  </section>
+  <section>
+    <num>4.7</num>
+    <heading>Jurisdiction of the Saint Regis Mohawk Tribal Court</heading>
+    <text>The Saint Regis Mohawk Tribal Court is vested with jurisdiction (1) over any and all persons subject to this Act and (2) to hear and determine any challenge to the validity of this Act, either generally or as applied to any person, provided that the provisions of this Act and the regulations which may be adopted pursuant thereto are complied with.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Cooperation with Other Jurisdictions</heading>
+  </section>
+  <section>
+    <num>5.1</num>
+    <heading>Intergovernmental Agreements and Jurisdictional Disputes</heading>
+    <text>The Commission is authorized to be the designated representative of the Saint Regis Mohawk Tribe to negotiate and develop for approval by the Saint Regis Mohawk Tribe Council appropriate intergovernmental agreements or joint powers agreements as are necessary to resolve jurisdictional issues and disputes between the Commission and states, their subdivisions, and agencies. The Commission is further authorized to represent or intervene on behalf of the Saint Regis Mohawk Tribe in proceedings before the states and their subdivisions and agencies when necessary to protect the jurisdiction of the Saint Regis Mohawk Tribe.</text>
+  </section>
+  <section>
+    <num>5.2</num>
+    <heading>Federal Communications Commission Coordination</heading>
+    <text>The Commission is authorized to act as the Saint Regis Mohawk Tribe's intermediary agency between the Saint Regis Mohawk Tribe and the FCC. The Commission is further authorized to represent the Saint Regis Mohawk Tribe in proceedings before the FCC, including, without limitation, intervening on behalf of the Tribe on matters pending before the FCC in order to protect the jurisdiction of the Saint Regis Mohawk Tribe.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Certificate of Public Convenience and Necessity</heading>
+  </section>
+  <section>
+    <num>6.1</num>
+    <heading>Cpcn Required</heading>
+    <para>
+      <num>A.</num>
+      <text>Any entity seeking to offer Communications Services on Tribal Land must obtain a CPCN from the Commission before constructing facilities or offering Communications Services to the public.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>No CPCN shall be required for the Saint Regis Mohawk Tribe to offer a Communications Service on Tribal Land. However, the Saint Regis Mohawk Tribe will be limited to wholesale broadband Communications Service and may not provide retail Communication Services on Tribal Land.</text>
+    </para>
+  </section>
+  <section>
+    <num>6.2</num>
+    <heading>Facilities-Based Providers and Resellers Required to Obtain Cpcn</heading>
+    <para>
+      <num>A.</num>
+      <text>A CPCN is required for both a Facilities-Based Provider and Reseller of Communications Services.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An entity certified as a Facilities-Based Provider is authorized to provide Communications Services via their own facilities, via a mix of their own facilities and resale, or through resale only.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An entity certified as a Reseller is only authorized to provide services through resale.</text>
+    </para>
+  </section>
+  <section>
+    <num>6.3</num>
+    <heading>Application for Cpcn</heading>
+    <para>
+      <num>A.</num>
+      <text>An Application for CPCN must be made to the Commission containing the following information:</text>
+      <para>
+        <num>1.</num>
+        <text>The applicant's legal name and any name under which it is authorized to do business.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The applicant's address and telephone number, along with contact information for the person responsible for ongoing communications with the Commission.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The legal name, address, and telephone number of the applicant's parent company and all affiliates, if any.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Name of the consumer complaint contact to whom all correspondence and questions regarding complaints should be directed.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Number for all contact inquiries from customers.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>A description of each type of Communications Service that the applicant proposes to provide, including:</text>
+        <para>
+          <num>a.</num>
+          <text>Whether the services will be offered to residential customers, businesses, or both;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Whether the applicant intends to act as a Facilities-Based Provider, Reseller, or both;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The expected date of deployment for each service; and</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>How the service would enhance the public interest of the Saint Regis Mohawk Tribal members.</text>
+        </para>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>A list of states in which the applicant offers Communications Services.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Any other information the Commission considers necessary.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>The application may include a release that authorizes the Commission to conduct any other business related checks relevant to the application. The application must be signed and dated and submitted to the Commission in person or by mail with a postage prepaid, self- addressed envelope. The Secretary of the Commission will time and date stamp the application and, provided the appropriate fee is paid, will return a copy to the applicant or applicant's representative.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Commission may charge a fee for filing a CPCN application under this Section. Any fee charged under this Section will not exceed the Commission's actual costs to process and review the application for CPCN.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An applicant must also submit with its application the following documents:</text>
+      <para>
+        <num>1.</num>
+        <text>A copy of the applicant's certification of incorporation from the New York Department of State or, if not incorporated in New York State, a copy of the authority to transact business in New York State. If not incorporated, the applicant must include a list of names, addresses, and telephone numbers of the applicant's owners.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A copy of the applicant's tariff on file with the New York Public Service Commission. If the New York Public Service Commission does not require a tariff from the applicant, then in lieu of filing a tariff the applicant must submit a Customer Service Guide or other listing of terms and conditions consistent with the provisions of this Act.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Information demonstrating the provider's financial, managerial, and technical ability to provide the Communications Services it seeks to provide.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>A statement, signed under penalty of perjury, by an officer or other person authorized to bind the company that affirms that:</text>
+        <para>
+          <num>a.</num>
+          <text>The applicant has filed or will timely file all forms required by the FCC before offering Communications Services on Tribal Land; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The applicant agrees to abide by all laws of this Act; any rules and regulations adopted by the Commission; and the laws and regulations of the Saint Regis Mohawk Tribe.</text>
+        </para>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>6.4</num>
+    <heading>Approval of Cpcn</heading>
+    <text>An application for CPCN meeting all requirements of this Section will be automatically granted ninety (90) days after filed for approval, unless the Commission, or its designee, determines and informs the applicant in writing within such ninety (90) day period that the public interest requires the Commission's review and its written order.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Franchise Agreement</heading>
+  </section>
+  <section>
+    <num>7.1</num>
+    <heading>Franchise Required</heading>
+    <para>
+      <num>A.</num>
+      <text>No Person shall be permitted to construct, operate, or maintain a Communications Service on Tribal Land without having first obtained a valid Franchise from the Commission as evidenced by the execution of a Franchise Agreement unless such entity is exempted under Federal law or the law of the Saint Regis Mohawk Tribe,</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>No Franchise shall be required for the Saint Regis Mohawk Tribe to construct, operate, or maintain Communication Services on Tribal Land.</text>
+    </para>
+  </section>
+  <section>
+    <num>7.2</num>
+    <heading>Non-Exclusivity of Franchise</heading>
+    <text>The Commission may issue one or more nonexclusive Franchises within its jurisdiction. The Commission shall not unreasonably refuse to award additional competitive Franchises. No Franchise shall be exclusive, except the wholesale broadband franchise currently exercised by Saint Regis Mohawk Tribe, which may be transferred to a wholly owned Tribal LLC.</text>
+  </section>
+  <section>
+    <num>7.3</num>
+    <heading>Franchise Application</heading>
+    <para>
+      <num>A.</num>
+      <text>An entity wishing to obtain a Franchise must first submit an application for a Franchise that must include the following:</text>
+      <para>
+        <num>1.</num>
+        <text>A detailed description of the Communications Service System to include:</text>
+        <para>
+          <num>a.</num>
+          <text>The types of wires and fibers to be laid on Tribal Land and to be connected to buildings;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Technological specifications of how video programming is delivered to the home;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Areas of Tribal Land which must be excavated to install wires;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Proposed Pole Attachment locations;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Any facilities the applicant proposes to build for the purposes of providing Communication Service; and</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Any requirements that the Franchise collocate with any existing utilities.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Certification that the applicant possesses the technical expertise to construct a Communication Service System and a detailed description of the applicant's technical qualifications.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Credit background check of applicant.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Certified financial statements for the longer of the past five (5) years or each year in which the Applicant has been in operation. If the applicant has been in operation for less than two (2) years, the Commission may require the applicant to provide a surety bond or contract of surety ship.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Certification that the applicant is in good standing in all jurisdictions in which it currently provides service and has had no regulatory actions initiated against it in the last ten (10) years. If applicant is currently or has been within the last ten (10) years the subject of any regulatory, civil, or criminal investigation, it must provide a detailed description of the proceeding, including by whom it was initiated and how it was resolved.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Commission may charge a fee for filing an application for Franchise. Any fee charged under this Section will not exceed the Commission's actual costs to process and review the application for CPCN.</text>
+    </para>
+  </section>
+  <section>
+    <num>7.4</num>
+    <heading>Required Permitting</heading>
+    <para>
+      <num>A.</num>
+      <text>Within ninety (90) days after the effective date of the Franchise Agreement, the franchisee shall proceed with due diligence and its best efforts to obtain, at its own costs, all necessary permits, licenses, and authorizations which are required for the conduct of its business on Tribal lands, including, but not limited to, any business licenses, utility joint use or attachment agreements, microwave carrier licenses, and any other permits, licenses, and authorizations needed to lawfully operate a Communication System on Tribal Land.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A franchisee shall have in its possession such permits, easements, agreements and licenses prior to the commencement of its Communication System. The franchisee shall utilize existing poles when possible.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The franchisee shall not erect any poles without prior approval by the Tribal Council.</text>
+    </para>
+  </section>
+  <section>
+    <num>7.5</num>
+    <heading>Franchise Agreement</heading>
+    <para>
+      <num>A.</num>
+      <text>Upon approval by the Commission of an application for a Franchise, the Commission will enter into a Franchise Agreement with the Communication System Provider that will permit, in accordance with the Franchise Agreement, the provider of the Communication System to construct, erect, install, maintain, operate, repair, replace, remove, or restore a Communication Service within the geographical limits set forth in the Franchise Agreement. The Franchise Agreement shall be sufficiently detailed so to clearly delineate the rights, duties, and obligations of the parties concerned.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>At a minimum, the Franchise Agreement shall contain:</text>
+      <para>
+        <num>1.</num>
+        <text>A detailed definition of "gross revenue" in order to determine what revenues are subject to any franchise, other agreement, license or permit fee, or alternative user charge;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The term or duration of the Franchise, which for the initial term shall not be less than five (5) years and shall not exceed ten (10) years from the date that the Franchise Agreement is executed by the Commission;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Indemnity and hold harmless clauses;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Requirement that the franchisee obtain adequate insurance;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Performance and completion bonds or security deposits;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Detailed description of the service area;</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Construction, upgrade, or rebuild schedule;</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Compensation, including Franchise fees and payment terms;</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Continuity of service requirements;</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>Process for the assignment of an existing Franchise;</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>Repeal of prior inconsistent Franchise, as necessary;</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>Severability and force majeure clauses;</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>Reference to Section of the Act and Federal law that governs the Franchise;</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>Any exemptions or relief from this chapter as may be granted; and</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>The effective date.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Saint Regis Mohawk Tribe reserves the right to require, without limitation, additional matters, issues, and subjects to be contained in a Franchise Agreement, as may be reasonably deemed necessary or in the interest of the Saint Regis Mohawk Tribe and its residents, subject to applicable law.</text>
+    </para>
+  </section>
+  <section>
+    <num>7.6</num>
+    <heading>Duties of Franchisee</heading>
+    <text>The franchisee shall make service available to all residences, dwellings, businesses, or establishments located on Tribal Land unless there is commercial impracticability and the Commission has approved an exclusion of services. The franchisee shall bear the burden of proving commercial impracticability.</text>
+  </section>
+  <section>
+    <num>7.7</num>
+    <heading>Franchise Fee</heading>
+    <text>The franchisee shall pay to the Commission a Franchise fee each quarter under the terms stipulated in the Franchise Agreement.</text>
+    <para>
+      <num>A.</num>
+      <text>The Franchise fee shall be 2.5% of annual gross revenues derived from the operation of the Communication Services. Gross revenues shall include all revenue derived from the sale of Communications Service within the jurisdiction of the Saint Regis Mohawk Tribe subject to the exclusions listed below. Gross revenues shall not include revenue derived from capital costs of providing public, educational, or governmental programming required by Federal law, revenue derived from cable modem services, or revenue derived from telephone wireline or wireless services. The Commission may waive this fee or any portion of this fee if such waiver is not inconsistent with the purposes of this Act.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>With each payment, the franchisee shall file a complete and accurate verified statement of all gross revenues within the Franchise area during the period for which said quarterly payment is made. Payments shall be made to the Commission no later than forty-five (45) days following the end of each calendar quarter. Quarterly computation dates are the last day in the months of March, June, September, and December.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Commission shall have the right to inspect the franchisee's income records and the right to conduct an audit at the Commission's expense. In the event that the audit concludes that the franchisee's payments were underpaid by an amount greater than 5% of the proper payment, then the franchisee shall reimburse the Commission for the costs of said audit, in addition to making any additional payments required to bring the franchisee into compliance with this Subsection. At the sole discretion of the Commission, the latter may collect interest from the grantee on the underpayment or any other late payment at a rate equal to the United States prime rate as of the due date plus 3.5% from the date the quarterly payment was due.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>In the event that any Franchise fee is not paid on or before the dates specified herein, the franchisee shall pay as additional compensation an interest charge, computed from such due date, at the annual rate equal to the United States prime rate as of the date of delinquency plus 3.5% from the date the quarterly payment was due.</text>
+    </para>
+  </section>
+  <section>
+    <num>7.8</num>
+    <heading>Franchise Renewal</heading>
+    <text>The Commission may renew a franchise pursuant to the procedures established in this Section and applicable Federal law and regulations.</text>
+    <para>
+      <num>A.</num>
+      <text>During the six-month period which begins with the thirty-sixth (36th) month before the expiration of the Franchise Agreement, the Commission may, on its own initiative, and shall, at the request of a franchisee, commence proceedings which afford the public in the Franchise area appropriate notice and participation for the purposes of identifying future community needs and interests and reviewing the performance of the franchisee under the Franchise Agreement during the then current Franchise term.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Upon completion of such proceedings, the franchisee may submit a proposal for renewal. Any such proposal shall contain such material as the Commission may require, including proposals for an upgrade of the Communication Services.</text>
+      <para>
+        <num>1.</num>
+        <text>Upon submittal of a proposal for the renewal of a Franchise Agreement, the Commission shall provide prompt public notice of such proposal and, during the four-month period which begins on the completion of any proceedings, shall either renew the Franchise Agreement or issue a preliminary assessment that the Franchise Agreement should not be renewed and commence at the request of the franchisee or on its own initiative an administrative proceeding to consider whether the franchisee has substantially complied with the material provisions of this Act, the existing Franchise Agreement, and applicable law;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Whether the quality of the franchisee's entire Communication Service, including the mix, quality, and level of specific programming or other services provided over the system, has been reasonable in light of community needs;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The franchisee has the financial, legal, and technical ability to provide the Communications Service, facilities, and equipment as set forth in the proposal; and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The proposal is reasonable to meet the future Communication Service needs and interests of the community, taking into account the cost of meeting such needs and interests.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>At the completion of an administrative proceeding, the Commission shall issue a written decision granting or denying the proposal for renewal based upon the record of such proceeding and shall transmit a certified copy of such decision to the franchisee. Such decision shall state the reasons therefor.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Any refusal to renew a Franchise or denial of a proposal for renewal shall be based only on one or more adverse findings made with respect to the factors set forth in Subsection C of this Section. The Commission may not refuse to renew or premise a denial of renewal upon factors contained in Subsections C (1), (2), or (4) of this Section unless the Commission has given a franchisee notice of and an opportunity to cure violations or problems or has waived, in writing, its right to object to such violations and problems.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>If a franchisee's proposal for renewal has been denied by a final decision of the Commission, the franchisee may seek review within 120 days of such final decision in the Saint Regis Mohawk Tribe Court.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Notwithstanding the provisions of this Section, a franchisee may submit a proposal for the renewal of a franchise at any time, and the Commission may, after affording the Saint Regis Mohawk Tribe adequate notice and opportunity for comment to, grant or deny such proposal at any time. The denial of a proposal for renewal pursuant to this Subsection shall not affect action on a renewal proposal that is submitted in accordance with Subsections A to F of this Section.</text>
+    </para>
+  </section>
+  <section>
+    <num>7.9</num>
+    <heading>Performance Reviews</heading>
+    <para>
+      <num>A.</num>
+      <text>The Commission and a franchisee shall hold regular performance review sessions at 2 1/2 years, five (5) years, and 7 1/2 years from the award or renewal of a Franchise Agreement and also as may be required by Federal law. Special performance review sessions may be held at any time during the term of a Franchise at the request of the Commission or the franchisee.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>All regular performance review sessions shall be open to the public and announced at least once by the Commission in a public location. A franchisee shall advise its subscribers of all regular review sessions by email, letter, or text message within 7 days of the scheduled review.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Topics which may be discussed at any regular or special performance evaluation session may include but need not be limited to Communications Service, video programming, free or discounted services, system performance, customer complaints, service rate structures, application of new technologies, privacy, line extension policies, the franchise fee, penalties, franchisee or Commission rules and regulations, amendments to this chapter, and judicial and administrative rulings.</text>
+    </para>
+  </section>
+  <section>
+    <num>7.10</num>
+    <heading>Forfeiture or Revocation</heading>
+    <text>The Commission reserves the right to revoke any Franchise Agreement entered hereunder and rescind all rights and privileges associated with the Franchise Agreement.</text>
+    <para>
+      <num>A.</num>
+      <text>The Commission may revoke the Franchise Agreement under the following circumstances, each of which shall represent a default and breach under this Act and Franchise Agreement:</text>
+      <para>
+        <num>1.</num>
+        <text>If the franchisee shall default in the performance of any of the material obligations under this Act or under such documents, contracts, and other terms and provisions entered into by and between the Commission and the franchisee.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If the franchisee shall fail to provide or maintain in full force and effect the liability and indemnification coverage or the performance bond as required in the Franchise Agreement.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>If the franchisee shall violate any lawful orders or rulings of either the Commission or FCC.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>If the franchisee evades any of the provisions of this Act or the Franchise Agreement or practices any fraud or deceit upon the Commission or Communication Service subscribers.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>If the franchisee fails to meet the construction schedule contained in the Franchise Agreement or beyond any extended date set by the Commission.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>If the franchisee fails to restore service after ninety-six (96) consecutive hours of interrupted service, except when approval of such interruption is obtained from the Commission.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>If the franchisee makes or causes to be made material misrepresentations of fact in the application for or negotiation of the franchise or any extension or renewal thereof.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>If the franchisee ceases to provide all services for any reason within the control of the franchisee over the cable communications system.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The franchisee shall not be declared at fault or be subject to any sanction under any provision of this chapter in any case, in which performance of any such provision is prevented for reasons beyond the franchisee's control. A fault shall not be deemed to be beyond the franchisee's control if committed by a corporation or other business entity in which the franchisee holds a controlling interest, whether held directly or indirectly.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Pending litigation or any appeal to any regulatory body or court having jurisdiction over the franchisee shall not excuse the franchisee from the performance of its obligations under this chapter or the Franchise Agreement. Failure of the franchisee to perform such obligations because of pending litigation or petition may result in forfeiture or revocation pursuant to the provisions of this Section.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Procedure Prior to Revocation:</text>
+      <para>
+        <num>1.</num>
+        <text>The Commission shall make written demand that the franchisee do so comply with any such requirement, limitation, term condition, or rule and regulation or correct any action deemed cause for revocation. If the failure, refusal, or neglect of the franchisee continues for a period of thirty (30) days following such written demand, the Commission shall schedule a hearing of the full Commission and cause to be served upon such franchisee a written notice of this intent to request termination of the Franchise Agreement within seven (7) days of the hearing. The notice shall include the time and place of the hearing, notice of which shall be published in a public location at least once seven (7) days before such meeting.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Commission shall hear any persons interested therein and shall determine in its discretion whether or not any failure, refusal, or neglect by the franchisee was with just cause.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>If such failure, refusal, or neglect by the franchisee was with just cause, as defined by the Commission, the Commission shall direct the franchisee to comply within such time and manner and upon such terms and conditions as are reasonable.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>If the Commission shall determine that such failure, refusal, or neglect by the franchisee was without just cause, then the Commission shall declare that the franchisee's Franchise Agreement shall be terminated and the performance bond forfeited unless there is compliance by the franchisee within a specified period of time not to exceed ninety (90) days or such longer period as is reasonably necessary to comply as approved by the Commission, whose approval shall not be reasonably withheld.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>In the event that the Commission does not renew or revokes a Franchise Agreement, the Commission may, in its sole discretion, do any of the following:</text>
+      <para>
+        <num>1.</num>
+        <text>Allow Saint Regis Mohawk Tribe to purchase the Communication Service System at fair market value;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Effect a transfer of ownership of the Communication Service System to another party at fair market value;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Order the removal of the Communication Service System facilities required by public necessity from the Commission within a reasonable period of time as determined by the Commission or require the original franchisee to maintain and operate its system for a period of six (6) months or until such further time as is mutually agreed upon. The franchisee may convey its ownership or interest in the facilities constituting the cable system to a successor franchisee approved by the Commission. Any such facilities that are not so conveyed shall be considered to be abandoned to the ownership and use of the Commission, subject to the right of the franchisee to remove any such facilities or any portion of such facilities that may be salvageable;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>In removing its plant, structures, and equipment, the franchisee shall refill, at its own expense, any excavation that shall be made by it and shall leave all public ways and places in as good a condition or better as that prevailing prior to the franchisee's removal of its equipment and appliances without affecting the electrical or telephone cable wires or attachments. The Commission shall inspect and approve the condition of the public ways and public places and cables, wires, attachments, and poles after removal. The liability, indemnity, insurance, and performance bond as provided herein shall continue in full force and effect during the period of removal and until full compliance by the franchisee with the terms and conditions of this Subsection, this chapter, and the Franchise Agreement.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>In the event of a failure by the franchisee to complete any work required by Commission or law within the time as may be established and to the satisfaction of the Commission, the Commission may cause such work to be done, and the franchisee shall reimburse the Commission the cost thereof within thirty (30) days after receipt of an itemized list of such costs, or the Commission may recover such costs through the performance bond provided by the franchisee. The Commission shall be permitted to seek legal and equitable relief to enforce the provisions of this Subsection.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Upon either the expiration or revocation of a Franchise Agreement, the Commission may require the franchisee to continue to operate the system for a period of six (6) months from the date of such expiration or revocation or until such time as is mutually agreed upon. The franchisee shall, as trustee for its successor in interest, continue to operate the Communication Service System under the terms and conditions of this Act and the Franchise Agreement and to provide the regular subscriber service and any and all of the services that may be provided at the time. The Commission shall be permitted to seek legal and equitable relief to enforce the provisions of this Subsection.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The franchisee may seek recourse as available by law or regulation.</text>
+    </para>
+  </section>
+  <section>
+    <num>7.11</num>
+    <heading>Transfer or Ownership of Control</heading>
+    <text>A franchisee shall not transfer control of its Franchise Agreement or related equipment without prior express approval of the Commission, which shall not be unreasonably withheld. Any transfer of ownership or control of franchisee shall be subject to Chapters 8 and 9 of this Act.</text>
+    <para>
+      <num>A.</num>
+      <text>The grantee shall promptly notify the Commission of any actual or proposed transfer.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Every transfer shall make the Franchise Agreement subject to cancellation unless the Commission shall have consented thereto. For the purpose of determining whether it shall consent to such transfer, the Commission may inquire into the legal, technical, and financial qualifications of the proposed controlling party, consistent with FCC rules, and the grantee shall assist the town in any such inquiry.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Any financial institution having a pledge of the Franchise Agreement or its assets for the advancement of money for the construction and/or operation of the Franchise Agreement shall have the right to notify the Commission that it or its designees satisfactory to the Commission will take control and operate the cable television system. Further, said financial institution shall also submit a plan for such operation that will ensure continued service and compliance with all Franchise obligations during the term the financial institution exercises control over the system. The financial institution shall not exercise control over the system for a period exceeding one year, unless extended by the Commission at its discretion, and during said period of time, it shall have the right to petition for transfer of the Franchise Agreement to another grantee. If the Commission finds that such transfer, after considering the legal, financial, character, technical, and other public interest qualifications of the applicant, is satisfactory, the Commission will transfer and assign the rights and obligations of such Franchise Agreement as in the public interest.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Commission's consent or approval to any transfer of the grantee shall not constitute a waiver or release of the Commission's rights, and any transfer shall, by its terms, be expressly subject to the terms and conditions of this chapter and the Franchise Agreement.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Commission shall have one hundred twenty (120) days to act upon any request for approval of such sale or transfer that complies with Federal law and regulation. If the Commission fails to render a final decision on the request within one hundred twenty (120) days, such request shall be deemed granted unless the requesting party and the Commission agree to an extension of time. In the event that the Commission refuses to grant the aforementioned request, it shall set forth specific reasons for its decision in writing.</text>
+    </para>
+  </section>
+  <section>
+    <num>7.12</num>
+    <heading>Rights Reserved to the Commission</heading>
+    <para>
+      <num>A.</num>
+      <text>Right of inspection of records. The Commission shall have the right to inspect all books, records, reports, maps, plans, financial statements, and other like materials of the franchisee, at any time, upon reasonable notice during normal business hours necessary to the enforcement of this chapter and the franchise.</text>
+      <para>
+        <num>1.</num>
+        <text>The franchisee shall provide such information in such form as may be required by the Commission for said records.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>To the extent allowed by law, the Commission agrees to treat as proprietary any information identified as such by the franchisee and shall not intentionally divulge any such information publicly or to actual or potential competitors of the franchisee, except as may be required in a legal proceeding or ordered by a court of competent jurisdiction.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>If any such maps or records are not kept within a 20-mile radius of the Saint Regis Mohawk Tribal lands, or upon notice the franchisee is unable to provide the records within a 20-mile radius of the Saint Regis Mohawk Tribal lands, and if the Commission shall determine that an examination of such maps or records is necessary or appropriate to the performance of the Commission's responsibilities under this franchise, then all travel and maintenance expenses necessarily incurred in making such examination shall be paid by the franchisee.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Right of inspection of construction. The Commission shall have the right to inspect all construction or installation work performed subject to the provisions of the Franchise Agreement and to make such tests as it shall find necessary to ensure compliance with the terms of this chapter and other pertinent provisions of the law.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Right of inspection of property. At all reasonable times, the franchisee shall permit examination by any duly authorized representative of the Commission of system facilities, together with any appurtenant property of the franchisee situated within or without the Tribal lands.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Right of intervention. The Commission shall have the right of intervention in any suit or proceeding to which the franchisee is a party.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Right to require tests. The Commission shall have the right and authority to test the performance of all Communication Services. The Commission may require that any tests performed at the Commission's request be supervised or conducted by a Commission designee, not an employee or agent of the franchisee. The franchisee shall reimburse the Commission for the costs of such designee if the test performed shows that the quality of service is below the standards set forth in the franchise. The franchisee shall cooperate fully with the Commission in performing such testing.</text>
+    </para>
+  </section>
+  <section>
+    <num>8</num>
+    <heading>Transfer, Ownership, and Authority to Issue Stock</heading>
+  </section>
+  <section>
+    <num>8.1</num>
+    <heading>Applicability</heading>
+    <para>
+      <num>A.</num>
+      <text>The Commission shall adopt and abide by decisions of the New York Public Service Commission or other state regulatory body regarding the transfer and ownership of stock of any holder of a Commission-issued CPCN.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>This Section shall only apply when a the holder of a CPCN issued by the Commission operates exclusively within jurisdiction of the Saint Regis Mohawk Tribe or is not otherwise subject to the transfer and ownership of stock restrictions of the New York Public Service Commission.</text>
+    </para>
+  </section>
+  <section>
+    <num>8.2</num>
+    <heading>Transfer or Ownership or Stock</heading>
+    <para>
+      <num>A.</num>
+      <text>No holder of a Commission-issued CPCN, domestic or foreign, shall hereafter purchase, acquire, take, or hold any part of the capital stock of any Communications Service Provider operating solely within the jurisdiction of the Saint Regis Mohawk Tribe unless authorized so to do by the Commission.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>No stock corporation company, domestic or foreign, including, but not limited to, a limited liability company; association, including a joint stock association; partnership, including a limited liability partnership, or person; or other than a Communications Service Provider, shall, without the consent of the Commission, purchase or acquire, take or hold more than ten percent (10%) of the voting capital stock issued by any Communications Service Provider operating within the jurisdiction of the Saint Regis Mohawk Tribe.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>This Section shall not apply</text>
+      <para>
+        <num>1.</num>
+        <text>When stock is transferred or held solely for the purpose of serving as collateral security.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>To any corporation lawfully holding a majority of the voting capital stock of any Communications Service Provider at the time it becomes authorized to provision service by this Act. Such corporation may, without the consent of the Commission, acquire and hold the remainder of the voting capital stock of such Communications Service Provider, or any portion thereof.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Commission may approve the acquisition of any stock in accordance with this Section only if the acquisition is shown to be in the public interest.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Nothing herein contained shall be construed to prevent the holding of any stock heretofore lawfully acquired, nor to prevent, upon the surrender or exchange of such stock pursuant to a reorganization plan, the purchase, acquisition, taking, or holding of a proportionate amount of stock of any new corporation organized to take over, at foreclosure or other sale the property of any corporation whose stock has been thus surrendered or exchanged so long as the proportion of the voting capital stock of the new corporation held by a stock corporation, company, association, partnership, or person and acquired by it by any such surrender or exchange of stock shall not without the consent of the Commission exceed the proportion of the voting capital stock held by it in the former corporation.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Every contract, assignment, transfer, or agreement for transfer of any stock by or through any person or corporation to any corporation, company, association, partnership, or person in violation of any provision of this chapter shall be void and of no effect unless and until it is deemed effective by the Commission.</text>
+    </para>
+  </section>
+  <section>
+    <num>8.3</num>
+    <heading>Authority to Issue Stock, Bonds, and Other Forms of Indebtedness</heading>
+    <para>
+      <num>A.</num>
+      <text>A holder of a Commission-issued CPCN may, when authorized by the Commission, issue stock, bonds, notes or other evidences of indebtedness payable at periods of more than twelve (12) months after the date thereof, or a receiver of such a corporation, if duly authorized by law, may issue receiver's certificates:</text>
+      <para>
+        <num>1.</num>
+        <text>When necessary for the acquisition of property, the construction, completion, extension, or improvement of its facilities or the improvement or maintenance of its service within the SRMT jurisdiction, or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>For the discharge or lawful refunding of its obligations, or reimbursement of moneys actually expended from the income from any source, within five (5) years next prior to the filing of the application therefor, or for any of such purposes.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Provided, however, that no authority shall be granted authorizing such issue for reimbursement of moneys expended from income for betterments or replacements unless the applicant shall have kept its accounts and vouchers of such expenditures in such manner as to enable the Commission to ascertain the amount of moneys so expended and the purposes for which such expenditures were made.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A holder of a Commission-issued CPCN may issue stock to stockholders as a stock dividend provided that:</text>
+      <para>
+        <num>1.</num>
+        <text>The Commission approves the issuance and for a transfer of surplus to capital in an amount equal to the par or stated value of the stock so authorized; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The applicant has certified in the application for authority that a sum equal to the amount to be so transferred was expended for the purposes enumerated in this Section.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A holder of a Commission-issued CPCN may issue stock to an employee or director of a Communications Service Provider through a stock option plan pursuant to which such corporation grants options to its employees or directors to purchase shares of stock provided that:</text>
+      <para>
+        <num>1.</num>
+        <text>Such options are to be exercisable for a stated period of time to purchase shares of stock at the market value of the stock at the time of issuance of the option;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Commission approves the issuance and for a transfer of surplus to capital in an amount equal to the par or stated value of the stock so authorized; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The applicant has certified in the application for authority that the proceeds from the exercise of the stock options are needed for one of the purposes enumerated in this Section.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The issue of stocks, bonds, or other evidences of indebtedness, within the meaning of this Section, shall include the sale by any such corporation of any such securities previously issued in compliance with the provisions of this Section and subsequently reacquired by such corporation, provided that:</text>
+      <para>
+        <num>1.</num>
+        <text>For good cause shown, the Commission may exempt from the restriction hereof stocks, bonds, or other evidences of indebtedness;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The application for authority includes the amount of any such issue and the purposes to which it or its proceeds are to be applied certifies that the money, property, or labor procured or to be procured or paid for by such issue or its proceeds has been or is reasonably required for the purposes specified in the application for authority; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The specified purposes are in no part reasonably chargeable to operating expenses or to income except in the case of bonds, notes, or other evidences of indebtedness as may be specifically identified in the application for authority.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>For the purpose of enabling the Commission to determine whether it should authorize such issuance, the Commission shall have the power to make such inquiry or investigation, hold such hearings and examine such witnesses, books, papers, documents, or contracts as it may determine of importance in enabling it to reach a determination.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>No such corporation shall, without the consent of the Commission, apply any Commission approved issuance or proceeds therefrom to any purpose not specified in the application for authority.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Communications Providers may issue notes for proper corporate purposes and not in violation of any provision of this Act or of any other act, payable at periods of not more than twelve (12) months without the consent of the Commission provided that no such note shall, in whole or in part, directly or indirectly, be refunded by any issue of stock or bonds, or by any evidences of indebtedness running for more than twelve (12) months, without the consent of the Commission.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The Commission may only require a Communications Service Provider to apply for authority to issue stocks, bonds, notes, or other evidence of indebtedness for the acquisition of property, the construction, completion, extension, or improvement of its facilities, or the improvement or maintenance of its service within the jurisdiction of the Saint Regis Mohawk Tribe, or the discharge or refunding of obligations, or reimbursement of moneys actually expended for such purposes.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>The Commission shall have power to require every corporation to file with the Commission after the issuance of stocks, bonds, notes, or other evidences of indebtedness issued with or without the approval of the Commission as provided in this Section, a notice of such transaction in such form as the Commission may prescribe.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>The Commission shall have no power to authorize the capitalization of any Franchise Agreement or right to be a corporation, nor to authorize the capitalization of any Franchise Agreement or the right to own, operate, or enjoy any franchise whatsoever in excess of the amount (exclusive of any tax or annual charge) actually paid to the Saint Regis Mohawk Tribe, as the consideration of the grant of such franchise or right, nor to authorize the issuance of any stocks or other securities for any purposes other than those enumerated in this Section.</text>
+    </para>
+  </section>
+  <section>
+    <num>8.4</num>
+    <heading>Merger and Consolidation</heading>
+    <text>The corporate stock of a corporation formed by the merger or consolidation of two or more other corporations may not exceed the sum of the capital stock of the corporations so consolidated, at the par value thereof, or such sum and any additional sum actually paid in cash.</text>
+  </section>
+  <section>
+    <num>8.5</num>
+    <heading>Prohibited Transfers, Sales, or Issuances of Stock</heading>
+    <para>
+      <num>A.</num>
+      <text>No contract for consolidation or lease may be capitalized in the stock of any corporation whatever.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>No corporation may hereafter issue any bonds against or as a lien upon any contract for consolidation or merger.</text>
+    </para>
+  </section>
+  <section>
+    <num>8.6</num>
+    <heading>Application for Authority</heading>
+    <text>Any application for authority under this Section shall be deemed granted by the Commission forty-five (45) days after such application is made to the Commission for its consent, unless the Commission, or its designee, determines and informs the applicant in writing within such forty-five (45) day period that the public interest requires the Commission's review and its written order.</text>
+  </section>
+  <section>
+    <num>9</num>
+    <heading>Reorganization</heading>
+  </section>
+  <section>
+    <num>9.1</num>
+    <heading>Applicability</heading>
+    <para>
+      <num>A.</num>
+      <text>The Commission shall adopt and abide by decisions of the New York Public Service Commission or other state regulatory body regarding the reorganization of any holder of a Commission-issued CPCN.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Reorganization of an entity holding a Commission-issued CPCN that operates exclusively within jurisdiction of the Saint Regis Mohawk Tribe or is otherwise not subject to reorganization restrictions of the New York Public Service Commission shall be subject to the supervision and control of the Commission and no such reorganization shall be had without the authorization of such Commission.</text>
+    </para>
+  </section>
+  <section>
+    <num>9.2</num>
+    <heading>Reorganization Restrictions</heading>
+    <para>
+      <num>A.</num>
+      <text>Upon all such reorganizations, the amount of capitalization, including therein all stocks and bonds and other evidence of indebtedness, shall be such as is authorized by the Commission, which, in making its determination, shall not exceed the fair value of the property involved, taking into consideration the original cost of construction, duplication cost, present condition, earning power at reasonable rates, and all other relevant matters and any additional sum or sums as shall be actually paid in cash, provided, however, that the Commission may make due allowance for discount of bonds.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any reorganization agreement before it becomes effective shall be amended so that the amount of capitalization shall conform to the amount authorized by the Commission.</text>
+    </para>
+  </section>
+  <section>
+    <num>9.3</num>
+    <heading>Application for Authority</heading>
+    <text>Any application for authority under this Section shall be deemed granted by the Commission forty-five (45) days after such application is made to the Commission for its consent, unless the Commission, or its designee, determines and informs the applicant in writing within such forty-five (45) day period that the public interest requires the Commission's review and its written order.</text>
+  </section>
+  <section>
+    <num>10</num>
+    <heading>Publication of Rates and Terms</heading>
+  </section>
+  <section>
+    <num>10.1</num>
+    <heading>Tariffs</heading>
+    <para>
+      <num>A.</num>
+      <text>Tariffs approved by the New York State Public Service Commission or other state regulatory body shall be deemed approved by the Commission.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If a Communications Service Provider does not have a tariff on file with the New York Public Service Commission, then the provider must maintain a Customer Service Guide consistent with this Chapter of the Act.</text>
+    </para>
+  </section>
+  <section>
+    <num>10.2</num>
+    <heading>Customer Service Guide</heading>
+    <para>
+      <num>A.</num>
+      <text>All Communications Service Providers, whether providing retail or wholesale services, must have an initial Customer Service Guide approved by the Commission prior to the initiation of service.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>After an initial Customer Service Guide has been approved by the Commission as part of the CPCN application process, a Communications Service Provider is required to file a Customer Service Guide with the Commission annually on or before January 31. This filing shall include a list of all services offered, a description of such services, the rate of sale for each service, and whatever additional information the Commission may require. A Communications Service Provider is required, upon request, to provide a copy of the Customer Service Guide or other listing of terms and conditions to any Person.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Customer Service Guide should contain information on the following topics to the extent that they apply to the company's operations:25</text>
+      <para>
+        <num>1.</num>
+        <text>Service offerings, including a description and rate of each non-basic service.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>How to make billing and service inquiries, including:</text>
+        <para>
+          <num>a.</num>
+          <text>Service numbers; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Where to address unresolved complaints, such as at the Commission or Saint Regis Mohawk Tribal Council.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Customer rights and responsibilities, including:</text>
+        <para>
+          <num>a.</num>
+          <text>Customers will only be billed and the provider shall only seek billing and payment for service rendered;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>In which situations a provider will require deposits;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>How a provider bills customers;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>All billing due dates;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>A description of all late payment charges;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Whether the provider accepts partial payments and the process for making such payments;</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Whether the provider will charge a fee for dishonored checks. This fee may not exceed $20.00.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Provider's limitations on liability.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>A list and description of all surcharges.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Whether provider offers alternative payment arrangements, including:</text>
+        <para>
+          <num>a.</num>
+          <text>Special payment arrangements;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Deferred payment plans; or</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Accepting customer overpayments.</text>
+        </para>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Process through which provider initiates service suspension or termination for non-payment of charges and the process to restore service and applicable charges.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Under which circumstances provider will terminate service for cause other than non-payment.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Allowances (credits) offered by provider for interruptions in service.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>Protection tips against telephone abuse and fraud.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>Consumer protection tips, including:</text>
+        <para>
+          <num>a.</num>
+          <text>How to address "Slamming" and "Cramming"; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Tips in the event of a power outage.</text>
+        </para>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>Provider's repair policies.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>Critical facilities administration.</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>Services offered for customers with disabilities, including:</text>
+        <para>
+          <num>a.</num>
+          <text>Discounted service for hearing or speech impaired customers;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>How to qualify; and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Available exemptions from telephone service charges.</text>
+        </para>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>How customers may manage their telephone privacy, including:</text>
+        <para>
+          <num>a.</num>
+          <text>Privacy principles; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Blocking Caller ID.</text>
+        </para>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>Non-local directory listing.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>10.3</num>
+    <heading>Rates</heading>
+    <para>
+      <num>A.</num>
+      <text>All charges, practices, classifications, and regulations for and in connection with such Communication Services shall be just and reasonable, and any such charge, practice, classification, or regulation that is unjust or unreasonable is declared to be unlawful.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Rates established by a Person engaged in providing Communications Services shall first be approved by the Commission for reasonableness and justness before such rates are implemented, in accordance with the Commission's rules and regulations. Every Person engaged in providing Communications Services shall print, and make available for public inspection, its approved tariffs which include schedules showing the rates and terms of condition of service for the services rendered to the public.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>No change shall be made in the charges, classifications, regulations, or practices which have been so filed and published except after one hundred eighty (180) days' notice to the Commission. In its discretion, the Commission may decrease the notice period. The 180-day period specified in this Section will not begin to run for any pending request for a change until the effective date of this Act. The Commission may reject and refuse to file any schedule entered for filing which does not provide and give lawful notice of its effective date. Any schedule so rejected by the Commission shall be void and its use shall be unlawful.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Nothing within this Section shall prohibit any person providing Communications Service from offering discounts or promotions or establishing rates at a level below that established by the Commission on a non-discriminatory basis, provided at least fifteen (15) days prior to offering such discounts or promotions such discount or promotion will be filed with the Commission in accordance with its rules and regulations.</text>
+    </para>
+  </section>
+  <section>
+    <num>10.4</num>
+    <heading>Charges and Services</heading>
+    <text>It shall be unlawful for any Communications Service Provider to make any unjust or unreasonable discrimination in charges, practices, classifications, regulations, facilities, or services for or in connection with like communication service, directly or indirectly, by any means or device, or to make or give any undue or unreasonable preference or advantage to any particular person, class of persons, or locality, or to subject any particular person, class of persons, or locality to any undue or unreasonable prejudice or disadvantage. Such charges or services include charges for, or services in connection with, the use of common carrier lines of communication, whether derived from wire or radio facilities, in chain broadcasting, or incidental to radio communication of any kind.</text>
+  </section>
+  <section>
+    <num>11</num>
+    <heading>Requirements for Accounting, Annual Statement, and Audits [Reserved]</heading>
+  </section>
+  <section>
+    <num>11.1</num>
+    <heading>Certified Annual Financial Statement</heading>
+    <para>
+      <num>A.</num>
+      <text>Every Communications Services Provider shall file a current annual financial statement to the Commission, certified by a Certified Public Accountant and in accordance with the rules and regulations of the Commission, every year on or before the first day of May or as may otherwise be approved by the Commission.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any Communications Services Provider under the jurisdiction of the New York State Public Service Commission shall provide the annual report filed with the Public Service Commission at the same time said report is filed with the Public Service Commission.</text>
+    </para>
+  </section>
+  <section>
+    <num>11.2</num>
+    <heading>Audits</heading>
+    <text>If any Communications Services Provider fails to comply with any provision of this Chapter or upon the discretion of the Commission if there is good cause, the Commission or its designated representative is authorized to conduct or cause to be conducted an audit of the financial records and management of such Communications Services Provider. Expenses incurred for such an audit shall be borne by the Communications Services Provider.</text>
+  </section>
+  <section>
+    <num>12</num>
+    <heading>Quality of Service</heading>
+  </section>
+  <section>
+    <num>12.1</num>
+    <heading>Quality of Service</heading>
+    <text>The Commission may adopt, promulgate, and enforce rules and regulations to insure that the quality of Communications Services is adequate, efficient, just, and reasonable. All Communications Services Providers within the jurisdiction of the Saint Regis Mohawk Tribe shall take all reasonable actions to ensure that the quality of service provided is equivalent or superior to similar service available in areas outside of the jurisdiction of the Saint Regis Mohawk Tribe. The scope of this provision may include, but shall not be limited to, continuity of service, service availability, extent of service, service interruptions, billing and collection procedures, quality of equipment, termination of service, deposits, and resolution of complaints.</text>
+  </section>
+  <section>
+    <num>12.2</num>
+    <heading>Non-Compliance; Violations</heading>
+    <text>Complaints alleging non-compliance with or violations of rules and regulations, decisions, orders, or other official pronouncements adopted by the Commission concerning the quality of Communications Services shall be filed with the Commission in accordance with the rules and regulations of the Commission and shall be heard by the Commission within forty-five (45) days of filing or as soon thereafter as is practical.</text>
+  </section>
+  <section>
+    <num>13</num>
+    <heading>Health and Safety</heading>
+  </section>
+  <section>
+    <num>13.1</num>
+    <heading>Compliance with Health and Safety Codes</heading>
+    <text>The Commission may adopt, promulgate, and enforce rules and regulations requiring every Communications Services Provider to construct, maintain, and operate its line, system, facilities, equipment, apparatuses, and premises in such manner as to promote and safeguard the health, safety, and welfare of its employees, customers, and the public. To this end, the Commission may prescribe, among other things, the installation, use, maintenance, and operation of appropriate safety or other devices and require the performance of any other acts which the health, safety, or welfare of its employees, customers, or the public may demand.</text>
+  </section>
+  <section>
+    <num>13.2</num>
+    <heading>Compliance with Tribal Laws</heading>
+    <text>All Communications Services Providers shall abide by all laws of the Saint Regis Mohawk Tribe including but not limited to Tribal Occupation Safety and Health Act and the Tribal Building Code.</text>
+  </section>
+  <section>
+    <num>13.3</num>
+    <heading>Non-Compliance; Violations</heading>
+    <text>Complaints alleging non-compliance or violations of the rules and regulations, decisions, orders, or other official pronouncements adopted by the Commission concerning the health and safety as described herein may be filed with the Commission by any aggrieved party in accordance with the Commission's rules and regulations.</text>
+  </section>
+  <section>
+    <num>14</num>
+    <heading>Prohibited Practices</heading>
+  </section>
+  <section>
+    <num>14.1</num>
+    <heading>Unlawful Use of Service</heading>
+    <text>It shall be unlawful to obtain, with the intent to defraud, or with the intent to evade lawful charges, Communication Services without proper payment therefor or the authorization of the subscriber of such services.</text>
+  </section>
+  <section>
+    <num>14.2</num>
+    <heading>Unlawful Discrimination</heading>
+    <text>It shall be unlawful to grant any unreasonable preference or advantage to any Person, or subject any Person to any unreasonable prejudice or disadvantage in terms or rates or services based upon race, creed, national origin, sex, age, or religion.</text>
+  </section>
+  <section>
+    <num>14.3</num>
+    <heading>Obscene or Harassing Telephone Calls</heading>
+    <text>It shall be unlawful for any Person, with intent to annoy, abuse, threaten, or harass any Person at the called number to: make any comment, request, suggestion or proposal which is obscene, lewd, lascivious, filthy, or indecent; make a telephone call, whether or not conversation ensues, without disclosing upon request of the Person called the identity of the caller; make or cause the telephone of another repeatedly or continuously to ring; make repeated telephone calls, during which no conversation ensues; knowingly permit any telephone under his or her control to be used for any purpose prohibited by this Act.</text>
+  </section>
+  <section>
+    <num>14.4</num>
+    <heading>Obtaining Communications Services Fraudulently; Penalty</heading>
+    <text>No Person shall tamper with, or make connection with, the equipment providing Communications Services by mechanical, electrical, acoustical, or other means with intent to avoid payment of the lawful charges for such service. In addition to other sanctions provided in the Act, any Person violating the provisions of this Section shall be liable to the Communications Service Provider for reasonable damages plus reasonable attorneys' fees and costs.</text>
+  </section>
+  <section>
+    <num>14.5</num>
+    <heading>Obscenity-Indecency; Penalties</heading>
+    <text>It is unlawful for any person providing Communication Services within the jurisdiction of the Saint Regis Mohawk Tribe to broadcast or in any way produce, transmit, process, or distribute by video programming obscene or indecent material. This Section will not become effective until the Commission has issued and promulgated rules and regulations defining "obscene" and "indecent."</text>
+  </section>
+  <section>
+    <num>14.6</num>
+    <heading>Cramming and Slamming</heading>
+    <text>All Persons shall abide by Federal law and FCC rules and regulations and any laws of the State of New York and rules and regulations of the New York Public Service Commission governing the practice of Slamming or Cramming. Such laws, rules, and regulations are incorporated herein and are enforceable by the Commission.</text>
+  </section>
+  <section>
+    <num>15</num>
+    <heading>Violations of the Act</heading>
+  </section>
+  <section>
+    <num>15.1</num>
+    <heading>Penalties</heading>
+    <text>Any Communications Services Provider who violates any provision of the Act or decision, order, rule or regulation, or other official pronouncement of the Commission issued pursuant to that Act may be subject to a civil fine imposed by the Commission, provided the Commission will have the discretion to suspend, or impose probationary conditions for avoiding, the fine.</text>
+  </section>
+  <section>
+    <num>15.2</num>
+    <heading>Revocation of Franchise or Cpcn</heading>
+    <text>Non-compliance with provisions of this Act or any duly adopted rule, regulation, decision, order, or other official pronouncement of the Commission, or for other good cause found to exist after a full and fair hearing of the Commission shall be cause for revocation or termination of the Franchise and/or CPCN. Notice of such claim or complaint against the franchisee or holder of the CPCN shall be given at least twenty (20) days before hearing with an opportunity for the franchisee to show cause why the franchise or CPCN should not be revoked or terminated.</text>
+  </section>
+  <section>
+    <num>15.3</num>
+    <heading>Agency</heading>
+    <text>In determining the existence of any offense under this Act or the grounds for imposing any civil penalty under the act or omission of any officer, agent, or employee of a Communications Services Provider, within the scope of his or her authority, duties, or employment, shall be deemed to be the act or omission of the person engaged in Communications Services.</text>
+  </section>
+  <section>
+    <num>16</num>
+    <heading>Injunctions; Show Cause Orders; Contempt</heading>
+    <text>The Commission may apply to any court of competent jurisdiction for injunctions to prevent continuing violations of any provision of the Act or of any rule, regulation, decision, order, or other official pronouncement of the Commission issued pursuant to that Act, and for show cause orders to enforce any duly issued subpoena of the Commission, and such courts shall have power to grant such injunctions and show cause orders, and to enforce such injunctions and show cause orders by contempt procedure.</text>
+  </section>
+  <section>
+    <num>17</num>
+    <heading>Video Service Systems</heading>
+  </section>
+  <section>
+    <num>17.1</num>
+    <heading>Purpose</heading>
+    <text>Pursuant to the regulatory guidance of the FCC, the Commission may issue, promulgate, and enforce rules and regulations governing multi-point distribution systems, multi-channel and multi-point distribution systems, satellite main antenna systems, direct broadcast systems, two-way television systems, and any other television programming delivery systems involving the use of microwave, fiber optic, and other video technology, video storage devices, and electromagnetic spectrum frequencies, as those technologies evolve into commercial or private use within the jurisdiction of the Saint Regis Mohawk Tribe.</text>
+  </section>
+  <section>
+    <num>17.2</num>
+    <heading>Commercial Delivery Systems</heading>
+    <text>Any Person providing television programming delivery services for the purpose of generating revenues from subscribers must adhere to the rules and regulations, decisions, orders, or other official pronouncements of the Commission, including but not limited to securing a Franchise before providing service.</text>
+  </section>
+  <section>
+    <num>17.3</num>
+    <heading>Non-Profit Delivery Systems</heading>
+    <text>Any Person providing television programming delivery services in a non-profit capacity, or as a public service, must also adhere to the rules and regulations, decisions, orders, or other official pronouncements of the Commission.</text>
+  </section>
+  <section>
+    <num>17.4</num>
+    <heading>Satellite Dish</heading>
+    <text>Any person using a satellite dish for retransmission of Communications Services for hire, monetary consideration, or reimbursement shall be subject to the provisions of this Act except for those systems expressly preempted by applicable federal law as non-regulated.</text>
+  </section>
+  <section>
+    <num>18</num>
+    <heading>Attachments to Poles, Ducts, and Conduits</heading>
+  </section>
+  <section>
+    <num>18.1</num>
+    <heading>Authority</heading>
+    <text>The Commission is authorized to issue and promulgate rules and regulations governing use of public utility facilities, including Pole Attachments.</text>
+  </section>
+  <section>
+    <num>18.2</num>
+    <heading>Joint/Pole Use</heading>
+    <text>In order to provide efficient and quality Communication Services, the Commission may authorize joint use of public utility poles, ducts, and conduits owned or controlled by a public utility company and located within the jurisdiction of the Saint Regis Mohawk Tribe. All joint use agreements, including the compensation provisions thereof for wire or cable attachments to a pole, duct, or conduit, must be approved by the Commission. Upon the approval of the joint use agreement for pole attachments, all Persons to such agreement shall have the right to use or share in and enjoy the use of the right-of-way easement granted to the pole owner.</text>
+  </section>
+  <section>
+    <num>18.3</num>
+    <heading>Disputes</heading>
+    <text>Disputes concerning terms and conditions, including rental rates, of the joint use agreement for attachments shall be resolved by the Commission at a full and fair hearing conducted for that purpose pursuant this Act, and in accordance with the Commission's rules and regulations.</text>
+  </section>
+  <section>
+    <num>19</num>
+    <heading>Taxes and Surcharges</heading>
+    <para>
+      <num>A.</num>
+      <text>The Commission may assess taxes on Communications Services as permitted by Federal law and the laws of the Saint Regis Mohawk Tribe.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Such taxes may not be passed through to subscribers as a separate surcharge on the subscriber's bill unless expressly permitted by the Commission when such tax is implemented.</text>
+    </para>
+  </section>
+  <section>
+    <num>20</num>
+    <heading>General Provisions</heading>
+  </section>
+  <section>
+    <num>20.1</num>
+    <heading>Protection of Consumer Privacy</heading>
+    <text>It shall be the duty of Communications Service Providers not to disclose, sell, or offer to sell the number or address of a subscriber holding an unlisted number, except upon permission of said subscriber, or except upon lawful request by law enforcement and emergency authorities.</text>
+  </section>
+  <section>
+    <num>20.2</num>
+    <heading>Emergency</heading>
+    <text>The Commission, upon its determination that an emergency exists, is authorized to take any and all actions necessary to address the emergency notwithstanding any other provision in this Act.</text>
+  </section>
+  <section>
+    <num>20.3</num>
+    <heading>Regulation of Telemarketing And/Or Television Marketing</heading>
+    <text>The Commission may issue, promulgate, and enforce rules and regulations governing telemarketing and/or television marketing within the jurisdiction of the Saint Regis Mohawk Tribe.</text>
+  </section>
+  <section>
+    <num>21</num>
+    <heading>Severability</heading>
+    <text>If any provision of this Act or the application of such provision shall be held invalid, the remainder of the Act and the application of such provisions other than those held invalid shall not be affected thereby.</text>
+  </section>
+  <section>
+    <num>22</num>
+    <heading>Prior Inconsistent Law Superseded</heading>
+    <text>Upon the effective date of this Act, all prior inconsistent enactments, laws, rules, policies, ordinances, and regulations of the Saint Regis Mohawk Tribe and all branches, divisions, departments, offices, and political subdivisions thereof, are superseded hereby and/or amended to comply herewith.</text>
+  </section>
+  <section>
+    <num>23</num>
+    <heading>Amendment</heading>
+    <text>This Ordinance may be amended upon the approval and adoption of such amendments by the majority of Tribal Council.</text>
+  </section>
+  <section>
+    <num>24</num>
+    <heading>Effective Date</heading>
+    <text>The effective date of all provisions of this Saint Regis Mohawk Telecommunications Regulatory Act shall be	, 2015.</text>
+  </section>
+</document>
