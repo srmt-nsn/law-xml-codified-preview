@@ -1,0 +1,1447 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Election and Referendum Ordinance (Saint Regis Mohawk Tribal Act)">
+  <para>
+    <num>I.</num>
+    <text>
+      <strong>PURPOSE</strong>
+    </text>
+    <text>The purpose of this Ordinance is to provide uniform and consistent procedures for the management of Saint Regis Mohawk Tribal Elections and Referendums.</text>
+  </para>
+  <para>
+    <num>II.</num>
+    <text>
+      <strong>DEFINITIONS</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>"Absentee Ballot" means a ballot that is sent by the Tribal Clerk's office along with an affirmation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>"Alternate Voting Methods" means the different means of voting outlined in Section VIII.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>"Annual Election" means the election held as outlined in Section III.A of this Ordinance.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>"Campaign paraphernalia" or "campaigning"-anything used to encourage people to vote in a particular way and which is intended to influence a vote for a particular result. Advertisement or notice to the community about where and when to vote or to simply vote in general with no intention to influence in any way is not considered campaigning. In addition, an aid, to assist a voter in the proper spelling of a candidate's name is allowed, but only if all it has is the Candidate's name and no other information.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>"Candidate" means a person who has been nominated at Caucus and has met the eligibility criteria as determined by the Election Board in Section IV.C of this Ordinance.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>"Caucus" means a duly convened meeting for the purpose of nominating candidates for elected positions by enrolled Tribal members following the processes outlined in this Ordinance.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>"Civil Disobedience" means a deliberate, but nonviolent act of law breaking to call attention to a particular law or set of laws believed by the lawbreaker to be of questionable legitimacy or morality.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>"Election" includes the Annual Election as well as any recall, Special Election, or run- off election, which begins on the first day of voting.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>"Election Board" means the primary Election Board members and alternate Election Board members, unless otherwise stated.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>"Eligible Voter" means anyone who meets the eligibility criteria under Section VII of this Ordinance.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>"Eligible Voter's List" means a list, compiled by the Tribal Clerk, of enrolled members who meet the eligibility criteria under Section VII of this Ordinance.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>"Fraud" means a knowing misrepresentation of the truth or concealment of a material fact to induce another to act.</text>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>"Polling Area" means the Saint Regis Mohawk Tribe Ionkwakiohkwaro:ron Administration Building and adjacent parking lots, or any other area designated as such by the Election Board.</text>
+    </para>
+    <para>
+      <num>N.</num>
+      <text>"Recall Election" means any election where Eligible Voters must decide whether an elected official must be recalled from elected office.</text>
+    </para>
+    <para>
+      <num>O.</num>
+      <text>"Referendum" means any question posed to Eligible Voters in accordance with Section XV of this Ordinance.</text>
+    </para>
+    <para>
+      <num>P.</num>
+      <text>"Residency Board" means the Saint Regis Mohawk Tribe Residency Board as outlined in the Tribe's Residency Ordinance (TCR 2019-28 or as amended).</text>
+    </para>
+    <para>
+      <num>Q.</num>
+      <text>"Serious Crime" shall have the same meaning as the term is defined in the Tribal Ethics Ordinance, as amended which states a felony or misdemeanor, not involving an act of civil disobedience, which involves an act of moral turpitude. Crimes of moral turpitude are crimes involving dishonesty such as larceny, fraud or murder, for example.</text>
+    </para>
+    <para>
+      <num>R.</num>
+      <text>"Special Election" means an election held at a time other than the regularly scheduled June election and which may be held to fill a vacant elective position.</text>
+    </para>
+    <para>
+      <num>S.</num>
+      <text>"Tribal Council" or "Council" means the Saint Regis Mohawk Tribal Council, the governing body of the Tribe</text>
+    </para>
+    <para>
+      <num>T.</num>
+      <text>"Valid Petition" shall mean a petition which contains the requisite number of valid signatures and a clear referendum question in order for the proposal to be set for referendum in accordance with the Tribal Procedures Act.</text>
+    </para>
+    <para>
+      <num>U.</num>
+      <text>"Valid Photo Identification" means identification, which contains a picture of the Tribal member, issued by a government entity and which is sufficient to establish a person's identity.</text>
+    </para>
+    <para>
+      <num>V.</num>
+      <text>"Write-In Candidate" means anyone whose name is not on the ballot, but has fulfilled the requirements of Section V.F of this Ordinance.</text>
+    </para>
+  </para>
+  <para>
+    <num>III.</num>
+    <text>
+      <strong>GENERAL PROVISIONS</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>Annual Elections shall be held on the first Saturday in the month of June.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Special Elections may be held as deemed necessary by the Election Board.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An Eligible Voter may vote only once for each position or question on the ballot.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Candidate who receives the highest number of votes in a popular Election of Eligible Voters shall be declared elected to the position for which they ran, or a Write- In Candidate if they have been deemed eligible for the position for which they ran.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Each Candidate may appoint one observer to oversee the election process following the Rules of Selection and Conduct for Observers adopted by the Election Board, including:</text>
+      <para>
+        <num>1.</num>
+        <text>To be an appointed observer, a person must be an Eligible Voter;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Candidates must submit the observer's name to the Tribal Clerk's office at least 72 hours prior to the scheduled Election, and the Tribal Clerk's office will forward the name to the Election Board;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Write-In Candidates are not eligible to appoint an observer;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Appointed observers will be allowed to observe the proceedings only;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Appointed observers will not engage in any behavior that could be construed as harassing, intimidating, or disruptive, to the general voting public nor shall observers interact with any voters; and</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Appointed observers must remain in the building where the Election is taking place for the duration of the Election. In the event that an observer leaves the building, they will not be allowed to return to the Polling Area.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The Election Board may appoint election workers who meet qualifications set by the Election Board for either an Election or Referendum. The Election Board shall assign tasks to the election workers to be performed. The terms of work for election workers is as follows:</text>
+      <para>
+        <num>1.</num>
+        <text>The Tribal Council shall pay reasonable compensation to the election workers for their time;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Election Board shall select the election workers based on a public notice for applicants; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Election workers, at minimum, must be tribally enrolled members over 18 years of age, must not be an employee of the Saint Regis Mohawk Tribe, must not be immediate family of an Election Board member, must not be immediate family to a Candidate or Write-In Candidate, and must attend training provided by the Election Board prior to working at an Election or Referendum.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Cell phones, cameras, and all other portable electronic devices shall be prohibited for use by any person in the Polling Area on the scheduled Election day for the duration of the Election.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>The Election Board has the authority to remove any individual found in violation of this Ordinance from the Polling Area.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>In some instances, Tribal staff may be required to enter the building for some purpose other than voting. The Election Board has the authority to determine who may be allowed in the Polling Area during an Election or Referendum and counting of votes.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Any campaign event for a single Candidate including a Write-In Candidate or in support of a single Candidate or Write-In Candidate must be registered with the Election Board forty-eight (48) hours before it occurs. No campaign event shall permit any sort of incentive to vote including any sort of drawing for a prize. All campaign events must comply with the Election Board's adopted policies and procedures, which outlines the policies and procedures regarding campaign events.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>No person shall campaign, nor shall any Campaign paraphernalia be permitted on Tribally-owned property as designated by the Election Board.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>Where the Tribal Clerk is required to act under this Ordinance, those responsibilities may be designated to the Deputy Tribal Clerk or another designee of the Tribal Clerk.</text>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>Solely for the purposes of the Tribal Procedures Act (TCR 2013-32 or as amended), Section VI.C.1 the Election Board includes the Appeal Panel.</text>
+    </para>
+  </para>
+  <para>
+    <num>IV.</num>
+    <text>
+      <strong>ELECTION BOARD</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>Election Board Appointment:</text>
+      <para>
+        <num>1.</num>
+        <text>The Tribal Council shall appoint members to the Election Board, through a Tribal Council Resolution, which shall consist of three (3) members and up to two (2) alternates. Alternates must meet the requirements of subsection B herein.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The appointment term of office of Election Board members shall be five (5) years and staggered, with terms expiring every other year. Where a vacancy occurs, Tribal Council can appoint a new Election Board member to fill the length of the unexpired term. Tribal Council can reappoint Election Board members and alternates through a resolution, at its discretion.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Tribal Council may appoint an alternate(s) for a term of three (3) years. Alternates are expected to attend Election Board meetings and act in situations such as absent Election Board members, resignations, recusals, or while an existing vacancy is being filled. Alternates will receive compensation equal with that of regular Election Board members.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Election Board Qualifications:</text>
+      <para>
+        <num>1.</num>
+        <text>To serve on the Election Board, members must:</text>
+        <para>
+          <num>a.</num>
+          <text>Meet the criteria of an Eligible Voter; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Pass a drug test and meet the criminal background requirements for Candidates, as defined in this Ordinance.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Election Board Powers, Oath, and Responsibilities:</text>
+      <para>
+        <num>1.</num>
+        <text>Upon accepting the appointment to serve, each Election Board member shall take and sign an oath that shall become part of the Election Board's records stating that they will serve according to the best of their ability and shall make every effort to prevent fraud or abuse in the Election or Referendum process.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Each Election Board member must sign and abide by the <em>Saint Regis Mohawk Tribal Boards, Commissions, &amp; Committees Code of Conduct</em>. Failure to do so may result in removal from the Election Board by Tribal Council. Breach of the <em>Saint Regis Mohawk Tribal Boards, Commissions, &amp; Committees Code of Conduct shall</em> result in removal from the Election Board by Tribal Council upon the Election Board's recommendation.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Election Board shall adopt by-laws, regulations, and procedures consistent with this Ordinance, as necessary, and shall be responsible for performing their duties in accordance with this Ordinance, their by-laws, policies, and procedures, including carrying out all aspects of conducting an Election or Referendum. All by-laws, regulations, and procedures adopted by the Election Board shall be listed in an appendix to this Ordinance and made publicly available.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The Election Board shall have the power to conduct all Elections and Referendums free from any outside influence and shall do so in accordance with this Ordinance.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Further, the Election Board shall have the power to conduct a Recall Election at the direction of the Ethics Officer upon a final determination of the Ethics Commission or resulting from a vote during a Recall Referendum.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>The Board shall perform all tasks required of it by this Ordinance and shall be responsible for the following:</text>
+        <para>
+          <num>a.</num>
+          <text>Provide public notices of the time, date, and place for Caucus, Elections, and Referenda;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Provide information on Candidate and voter eligibility;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Call for and receive nominations;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Confirm Candidates meet the eligibility criteria as prescribed in Section V herein with an affidavit prescribed by the Election Board;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Prepare ballots and ballot boxes for voting;</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Ensure at least one (1) Saint Regis Mohawk Tribal Police Officer shall be present in the Polling Area from opening to closing of voting and shall witness the counting process;</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>Verify with the Tribal Police Officer that all ballot boxes are empty prior to the start of voting;</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>Supervise the counting of ballots at the close of polls;</text>
+        </para>
+        <para>
+          <num>i.</num>
+          <text>Arrange for necessary personnel to staff election tasks prior to the Election;</text>
+        </para>
+        <para>
+          <num>j.</num>
+          <text>Ensure sufficient number of voting booths;</text>
+        </para>
+        <para>
+          <num>k.</num>
+          <text>Provide tally sheets to record election results; and</text>
+        </para>
+        <para>
+          <num>l.</num>
+          <text>Officially and publicly announce election results.</text>
+        </para>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>The Election Board shall be responsible for maintaining accurate and organized records of all Elections, Referenda, petitions, appeals, and any other materials or documents related to the administration of this Ordinance.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>The Election Board shall maintain records of its decisions to guide future decisions, to ensure consistency and uniformity in the application of the Ordinance.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>The Election Board may request technical opinions or guidance from appropriate professionals in making decisions under this Ordinance.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Election Board Compensation:</text>
+      <para>
+        <num>1.</num>
+        <text>Each Election Board member shall be compensated at a rate set by the Tribal Council for the time spent discharging their responsibilities as an Election Board member.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Election Board Equipment and Materials - Payment of Expenses:</text>
+      <para>
+        <num>1.</num>
+        <text>According to a budget approved by Tribal Council, the Election Board may procure equipment, supplies, materials, books, papers, and records of any kind, as well as training to conduct elections, as the Election Board deems necessary to facilitate and assist in administering this Ordinance.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>V.</num>
+    <text>
+      <strong>ELIGIBILITY OF CANDIDATES</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>All Candidates must possess the following qualifications:</text>
+      <para>
+        <num>1.</num>
+        <text>Have been nominated by two (2) Eligible Voters. Eligibility of nominators will be determined at the time of the nomination;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Not have been convicted of any serious crime as defined by this Ordinance and must sign a release authorizing a criminal background check within three (3) business days of Caucus;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Individuals must be willing to sign an affidavit stating they not only meet the above listed requirements, but they are also a person of good character and sound judgment;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Be subject to and must pass a drug test prior to being declared an eligible Candidate. The drug test must take place within three (3) business days of Caucus. The results of the drug test shall remain on file for three (3) months following the Election and may be used to establish or deny eligibility to run for office in a Special Election held during this time frame; and</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>A Candidate may only run for one (1) position in any given election.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Tribal Chief, Tribal Sub-Chief, and Tribal Clerk Candidates must possess the following additional qualifications:</text>
+      <para>
+        <num>1.</num>
+        <text>Be an enrolled member of the Saint Regis Mohawk Tribe;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Be an Eligible Voter of the Saint Regis Mohawk Tribe;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Be at least thirty (30) years of age at the time of Election; and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Have resided on the Saint Regis Mohawk Reservation, as defined by the Treaty of 1796, or within a 15-mile radius of the Saint Regis Mohawk Reservation in the United States as adopted by the Election Board, for at least one (1) year immediately prior to the Election.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Tribal Court Judges must possess the following additional qualifications:</text>
+      <para>
+        <num>1.</num>
+        <text>All Tribal Court Judges must be at least twenty-five (25) years of age before the date of nomination and further, candidates for elected Tribal Court Judgeships shall meet the following qualifications:</text>
+        <para>
+          <num>a.</num>
+          <text>Traffic Court Judge - At a minimum, such Candidates shall meet the following requirements:</text>
+          <para>
+            <num>i.</num>
+            <text>Possess High School diploma; and</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>Willingness and ability to participate in any required training;</text>
+          </para>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Chief Judge (Tribal Court or Court of Appeals) - The Chief Judge/Justice must be an attorney with at least five (5) years' experience and knowledge working with federal Indian and Tribal Law and customs. Further, such candidates shall meet the following requirements:</text>
+          <para>
+            <num>i.</num>
+            <text>Must meet one or more of the following professional qualifications to be eligible to serve as a Tribal Chief Judge:</text>
+            <para>
+              <num>1.</num>
+              <text>Graduation from an American law school accredited under the American Bar Association;</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>Admission to practice law before any State or Federal Court; or</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>Previous experience as a magistrate or lay judge in any local or tribal court.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Associate Judges/Justices:</text>
+          <para>
+            <num>i.</num>
+            <text>Must meet one or more of the following professional qualifications to be eligible to serve as a Tribal Associate Judge/Justice:</text>
+            <para>
+              <num>1.</num>
+              <text>Graduation from an American law school accredited under the American Bar Association;</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>Admission to practice law before any State or Federal Court;</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>Possession of a Bachelors or Advanced Degree with substantial law- related experience; or</text>
+            </para>
+            <para>
+              <num>4.</num>
+              <text>Previous experience as a magistrate or lay judge in any local or tribal court.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Tribal Residency Board - Candidates for Residency Board must possess the following additional qualifications consistent with the Tribe's Residency Ordinance (TCR 2019-28 or as amended):</text>
+      <para>
+        <num>1.</num>
+        <text>Be a Member of the Saint Regis Mohawk Tribe;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Be at least twenty-five (25) years old (on date of election);</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Be of good moral character and not have been convicted of a serious crime as defined in the Tribe's Election and Referendum Ordinance, as amended;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Be willing to take, and must pass, a background check administered by the Tribe and/or Tribal Police; and</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Be willing and capable of maintaining communications through technology (email, texts, mobile phone) so as to be accessible to the Board.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Incumbent Candidates</text>
+      <para>
+        <num>1.</num>
+        <text>All incumbent Candidates elected to the positions of Tribal Chief, Tribal-Sub-Chief, and Tribal Clerk are subject to the Ethics Ordinance.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>All incumbent Candidates elected to the positions of Tribal Court Judges are subject to the Judicial Oversight Commission Ordinance.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Write-In Candidates</text>
+      <para>
+        <num>1.</num>
+        <text>A person who was not nominated during Caucus may only run for elected office as a Write-In Candidate by filing with the Election Board a "Statement of Write-In Candidacy", which shall contain the following:</text>
+        <para>
+          <num>a.</num>
+          <text>Write-In Candidate's name(s) to be accepted on a ballot;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Write-In Candidate's name as it appears on the Tribal Membership Rolls;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Write-In Candidate's residential address;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>A declaration stating they are running as a Write-In Candidate; and</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>The elective position for which the Write-In Candidate is running.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any person who fails to submit a Statement of Write-In Candidacy as outlined above shall not be considered as a Write-In Candidate and any ballot with such person's name shall be considered void.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Should a Write-In Candidate be declared the winner of an elective position, that Write-In Candidate must meet all requirements specified in Section V, except V.A.1., before their election to such position is certified by the Election Board.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>VI.</num>
+    <text>
+      <strong>TERM OF OFFICE</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>Chief and Sub-Chief:</text>
+      <para>
+        <num>1.</num>
+        <text>Pursuant to the referendum held on April 24, 2004, Tribal Council members shall be elected to staggered three (3)-year terms.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Tribal Clerk:</text>
+      <para>
+        <num>1.</num>
+        <text>The Saint Regis Mohawk Tribal Clerk shall be elected to a 3-year term.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Tribal Judges:</text>
+      <para>
+        <num>1.</num>
+        <text>Tribal Council shall retain the authority to appoint Judges/Justice until such time as those positions are initially put for election.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The term of office for all Judges/Justices, once the position is initially put for election, shall be three (3) years.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>At this time, only Traffic Court Judges and the Chief Judge of Tribal Court are elected positions.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Tribal Residency Board:</text>
+      <para>
+        <num>1.</num>
+        <text>After the initial election of the Tribal Residency Board, the term of office for all Tribal Residency Board members shall be staggered three (3)-year terms.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Vacancies:</text>
+      <para>
+        <num>1.</num>
+        <text>The Tribal Council shall inform the Election Board that there exists a vacancy on Council and shall direct the Election Board through a Tribal Council Resolution to include the vacant position among those positions to be filled in the next upcoming Election.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If a current elective position is vacated due to resignation, the official will be required to provide written notice of their intent to resign their office to the Tribal Council.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Vacancies due to resignation, removal, or death shall be filled as follows:</text>
+        <para>
+          <num>a.</num>
+          <text>Vacancy of the Tribal Clerk's position:</text>
+          <para>
+            <num>i.</num>
+            <text>The term of the vacant position shall be the number of years remaining on the Tribal Clerk's term; and</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>Tribal Council may appoint an individual who would otherwise meet the qualifications, to the position until the next Annual Election.</text>
+          </para>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Vacancy of a Chief's position:</text>
+          <para>
+            <num>i.</num>
+            <text>The vacant Chief's position shall be filled by his or her Sub-Chief for the number of years remaining on the Chief's term.</text>
+          </para>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Vacancy of a Sub-Chief's position:</text>
+          <para>
+            <num>i.</num>
+            <text>Tribal Council may either leave the position vacant, or may appoint an individual, who would otherwise meet the qualifications, to the position of Sub-Chief until the next Annual Election; and</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>The Tribal Council shall direct the Election Board through a Tribal Council Resolution to include the vacant Sub-Chief position among those positions to be filled in the next Annual Election for the number of years remaining on the Sub-Chief's term.</text>
+          </para>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Vacancy of a Tribal Court Judge or Justice:</text>
+          <para>
+            <num>i.</num>
+            <text>The Tribal Council may either leave the position vacant, or may appoint an individual temporarily, who meets the qualifications for the position, to the position until such time as the position is put to election, not to exceed three (3) years.</text>
+          </para>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Vacancy of a Residency Board member:</text>
+          <para>
+            <num>i.</num>
+            <text>Tribal Residency Board vacancies shall be filled through a Special Election to be called by the Election Board under this Ordinance. Board members elected to fill a vacancy will serve the remainder of the term for that vacant seat.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Vacancy of an Incumbent Candidate:</text>
+        <para>
+          <num>a.</num>
+          <text>If a current elected official, who has not finished their current term, wishes to be a candidate for a different elected position or wishes to obtain other full- time employment, that official will be required to relinquish the remaining term of their current office unless that official's term has expired.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The official will be required to provide written notice of their intent to resign their office to the Tribal Council one (1) week prior to the Caucus.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The Tribal Council shall confirm the resignation, inform the Election Board that there exists a vacancy in the vacated position and shall direct the Election Board through a Tribal Council Resolution to include the vacant position among those positions to be filled in the next upcoming election.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The term of the vacant position shall be the number of years remaining on the resigned official's term.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>The only elective officials exempt from the provisions of this section shall be non-full time Judges/Justice and the Tribal Residency Board, who shall be permitted to retain their position as Judges/Justices or Tribal Residency Board members while otherwise employed or seeking employment, so long as such employment does not constitute a conflict of interest with their appointment as a Judge or Justice or to the Tribal Residency Board.</text>
+        </para>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>VII.</num>
+    <text>
+      <strong>ELIGIBILITY OF VOTERS</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>At the time of voting an eligible voter must:</text>
+      <para>
+        <num>1.</num>
+        <text>Be at least eighteen (18) years of age;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Be an enrolled member of the Saint Regis Mohawk Tribe;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Reside in the United States for at least six (6) months immediately prior to the Election; and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Have their name on the most current Eligible Voters List. It is the responsibility of all Tribal members to ensure they are on the eligible voters list.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Saint Regis Mohawk Tribal Clerk's Office shall provide the Election Board with a final Eligible Voters List by close of business, the last business day prior to the Election or Referendum. Individual voters are responsible for making sure their name is on this list.</text>
+    </para>
+  </para>
+  <para>
+    <num>VIII.</num>
+    <text>
+      <strong>ALTERNATE VOTING METHODS</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>The Election Board shall conduct Alternate Voting Methods to increase access to voting and these methods shall include:</text>
+      <para>
+        <num>1.</num>
+        <text>Absentee Voting;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>In-Home Voting;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Walk-In Voting; and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Curbside Voting.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Each Alternate Voting Method shall comply with procedures adopted by the Election Board to govern each voting process and maintain the integrity and security of the voting process.</text>
+    </para>
+  </para>
+  <para>
+    <num>IX.</num>
+    <text>
+      <strong>CAUCUS PROCEDURE</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>Caucus shall be held annually on the third Saturday in April for the Annual Election, except as outlined herein:</text>
+      <para>
+        <num>1.</num>
+        <text>Where the third Saturday in April falls on a day following a holiday adopted by the Tribe, the Caucus shall be held on the second Saturday in April for the Annual Election; or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>At any other time set by the Election Board to conduct any other type of Election, also including a Special Election.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Caucus shall be held in accordance with the following procedures:</text>
+      <para>
+        <num>1.</num>
+        <text>The Election Board will call the Caucus to order at 10:00 a.m.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Election Board shall review the eligibility criteria for candidates.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Election Board will open the floor for nominations for the elective positions.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Nominees for all elected positions must be present to accept or refuse the nomination at the time of the Caucus.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Nominators must be an Eligible Voter.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>All prescribed forms for elective positions will be available at the time of Caucus and in accordance with nomination procedures.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>The Election Board shall call the Caucus to an end when all nominations are completed. The Election Board will then read aloud all nominations to provide all attendees with the unofficial list of candidates and publicly release the nomination list.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>X.</num>
+    <text>
+      <strong>NOMINATIONS</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>Nominations shall be received at the scheduled Caucus.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Nominations shall be received on forms prescribed by the Election Board. Any person whose name is on the eligible voters list has the right to nominate or second the nomination of any duly qualified person to run for the elective offices that are posted.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>No person may nominate or second more candidates than he or she is entitled to vote for.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>No person may accept a nomination nor may a person run for more than one (1) position in any Election.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>All nominees are responsible for submitting the required paperwork as outlined in Section V.A herein and taking their drug test within three (3) business days of Caucus.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Once nominations are closed during the Caucus, the Election Board shall require each nominee to establish their eligibility as a Candidate by completing an affidavit stating that they fulfill the eligibility requirements.</text>
+    </para>
+  </para>
+  <para>
+    <num>XI.</num>
+    <text>
+      <strong>VERIFICATION OF CANDIDATES</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>The Election Board shall post an <u>unofficial</u> list of candidates no later than five (5) business days, but no earlier than three (3) business days after Caucus. The Election Board will not be responsible for any nominee's failure to submit the required paperwork or take the required drug test prior to the posting of the unofficial list of candidates.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Election Board shall adopt verification procedures to determine the eligibility of candidates.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Election Board shall determine whether each nominee is eligible to be a candidate under each corresponding section of this Ordinance by verifying their eligibility in accordance with the following requirements and timelines:</text>
+      <para>
+        <num>1.</num>
+        <text>For any position having a residency requirement, the residency determinations shall be made within two (2) business days of the close of Caucus. Should a nominee be deemed ineligible, the nominee has until the close of business of the Friday immediately following the Caucus, in which to prove their residency eligibility. The Election Board's decision regarding residency may be appealed to the Appeal Panel pursuant to Section XVI of this Ordinance.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Serious Crimes, good moral character, and good judgement preliminary determinations shall be made within three (3) business days of the close of Caucus.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Eligible Voters may file an objection to a nominee's eligibility from the date of releasing the unofficial list until five (5) business days after its release. Should the Election Board determine based on the Eligible Voter's complaint that a nominee is ineligible to be a Candidate, the nominee shall be provided notice with reasons for the Election Board's determination of ineligibility and the nominee shall have three (3) business days after receiving such notice in which to prove their eligibility.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The Election Board shall render its decision on Serious Crimes, good moral character, and good judgment six (6) business days following Caucus or within three (3) days of receiving the criminal background check report, and the Election Board's decision may be appealed to the Appeal Panel in accordance with Section XVI of this Ordinance.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>All other candidate qualifications shall be determined upon receipt of the signed affidavit stating that the nominee fulfills the eligibility requirements for the nominated position. On a prescribed form, each Nominee may indicate how they would prefer their name to be written on the ballot to include the addition of a nickname.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>After verifying Candidate eligibility as outlined in this Section, the Election Board shall post the <u>official</u> list of Candidates no later than <u>three (3) weeks</u> after Caucus.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Any Candidate, who has accepted a nomination, may withdraw if they wish, by filing a "Notice of Withdrawal" as required by the Board, prior to any ballots being mailed out as part of Absentee Voting.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Once a Candidate has withdrawn, the Candidate may not reinstate their candidacy for that Election.</text>
+    </para>
+  </para>
+  <para>
+    <num>XII.</num>
+    <text>
+      <strong>VOTING PROCEDURE</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>The Board shall issue ballots containing the following information:</text>
+      <para>
+        <num>1.</num>
+        <text>The Elective Position in question; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The names of all Candidates running for the elective position in the order that they were nominated at Caucus.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any eligible voter who is in line at the polling station at the time of closing shall be entitled to vote.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Each person presenting himself to vote must sign in and present their Tribal Enrollment card or Valid Photo Identification prior to receiving their ballots for the Election and the Election Board or election worker must put the Eligible Voters enrollment number next to their name on the sign-in sheet.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Upon receiving the ballot each voter shall:</text>
+      <para>
+        <num>1.</num>
+        <text>Immediately proceed to the designated voting area and place an (X) or check mark (√) or other mark which a majority of the Election Board members agree clearly defines the choice, in the box beside the name of the candidate for whom he or she is voting;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Each ballot shall be placed in the designated ballot box for each electoral position; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Once a person completes the voting process they must immediately exit the polling place.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A voter who inadvertently spoils a ballot may return it to the Election Board in order to obtain another ballot, and an Election Board member shall write or stamp the word "SPOILED" upon it, deposit it into the ballot box, and provide the voter with another ballot.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Any person at the time of voting who decides not to vote must return the ballots to the Election Board and must immediately exit the building.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>No person is permitted to leave the polling place with any ballots in their possession. Election officials or Tribal Police shall, upon discovery, seize ballots in the possession of anyone leaving the polling place. Seized ballots will be marked "SEIZED" and "VOID". The provisions of this Section shall not apply to election officials required to move or process ballots as part of their official duties.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Any person who attempts to deposit anything other than the ballots in the ballot box will be asked to leave the polling place.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>No person shall Campaign, nor shall any Campaign paraphernalia be permitted in the Polling Area during an Election. If Campaign paraphernalia is brought into the Polling Area, the Election Board shall be notified, the individual in possession of such paraphernalia shall be removed immediately, and the Election Board shall take steps necessary to prevent recurrence.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Members of the media, as well as protestors, shall not be permitted in the Polling Area during an Election. Except with permission from the Election Board, members of the media may set up in a designated location at a designated time to hear the unofficial results.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Eligible Voters requiring assistance may take a person of their choosing to assist them to cast their ballot at the time of voting and must notify an Election Board member or election worker of this upon their arrival at the Polling Area.</text>
+    </para>
+  </para>
+  <para>
+    <num>XIII.</num>
+    <text>
+      <strong>COUNTING PROCEDURE</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>Immediately following the casting of the last ballot and the closure of the polling place, the Election Board shall, in the presence of any appointed observers and the Saint Regis Mohawk Tribal Police Officer, open the ballot boxes one by one. As ballots are examined, the Election Board shall determine the validly of ballots and:</text>
+      <para>
+        <num>1.</num>
+        <text>Reject and write or stamp "VOID" on all those ballots:</text>
+        <para>
+          <num>a.</num>
+          <text>That do not have any markings of them;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>That have marks other than one (X) or check mark (\uF0FC), or mark approved by the Election Board, in the assigned space;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>That contains more than one vote on the ballot; and</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>That contains the name of a write-in candidate who has not filed a "Statement of Write-In Candidacy" to the Election Board by the close of voting.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Report in writing on the backside of the ballot the reason for the rejection citing the sub-section from this Section. The rejected ballot will be signed by all Election Board members present to confirm the invalidity of the rejected ballot.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The ruling of the Election Board regarding the validity of a ballot may be appealed to the Appeal Panel after the unofficial results have been released.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>In the presence of the Election Board and the Saint Regis Mohawk Tribal Police Officer, the election worker(s) shall:</text>
+      <para>
+        <num>1.</num>
+        <text>Count the confirmed ballots for each Candidate, Write-In Candidate, or referendum question; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Count the rejected ballots indicating the number of SPOILED and VOID.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Election Board may use electronic voting and/or counting equipment and shall adopt regulations for their use that protects the integrity of the voting and counting process.</text>
+    </para>
+  </para>
+  <para>
+    <num>XIV.</num>
+    <text>
+      <strong>UNOFFICIAL AND OFFICIAL RESULTS</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>Following the counting of confirmed ballots, the Election Board shall:</text>
+      <para>
+        <num>1.</num>
+        <text>make a written statement of the number of confirmed votes and the number of rejected ballots;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Sign the written statement showing the unofficial results;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Publicly announce the unofficial winners of all elective positions and results of any referendum question(s); and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Release the signed statement showing the number of votes that were cast at the time of the Election, the amount of votes for each candidate, and results of any referendum question(s).</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Absent any appeals, the Election Board shall declare the official winners of all elective positions after five (5) business days, or, until a Write-In Candidate's verification of Eligibility is completed.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>In the event appeals are filed that only impacts certain elective positions, the remaining unaffected elective positions shall be declared the official winners after five (5) business days and results of unaffected referendum question(s) shall be certified.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>In the event of a tie the Election Board shall recount the ballots for the position in question, and:</text>
+      <para>
+        <num>1.</num>
+        <text>After the confirmation of a tie, the Election Board shall call for a Special Election one (1) week from the regular election, or as soon as possible; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>In the event of a tie involving a Write-In Candidate, the Election Board shall verify the Write-In Candidate's eligibility prior to calling for a Special Election. If the Write-In Candidate is deemed ineligible for the elective position, then the Candidate with the highest vote will be declared the unofficial winner.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>In the Special Election, only the Candidate(s) who have tied will be on the ballot and a Caucus will not be held. All other requirements for Election must be followed.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A swearing-in ceremony for successful Candidates for elective positions shall be held within thirty (30) days of the release of Official Results by the Election Board.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>In the event the successful Candidate for a position fails to take office for any reason, including a successful appeal of the Election results, the position will be filled by a Special Election to be held as soon as practicable in accordance with this Ordinance.</text>
+    </para>
+  </para>
+  <para>
+    <num>XV.</num>
+    <text>
+      <strong>REFERENDUMS</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>A Tribal Referendum must occur within ninety (90) days of receipt of a valid petition or the 2/3 vote of Tribal Council.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The referendum question shall be presented to the community at a minimum of three (3) public meetings to be held at the Saint Regis Mohawk Tribe Ionkwakiohkwaro:ron Administration Building or another suitable location prescribed by the Board.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The referendum question shall be posted in the Saint Regis Mohawk Tribe Ionkwakiohkwaro:ron Administration Building, at least one local newspaper, and shall be aired as an announcement on CKON Radio Station at least thirty (30) days prior to the date of the Referendum.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The community announcement must include the following information:</text>
+      <para>
+        <num>1.</num>
+        <text>Referendum question;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Date of Referendum;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Polling location for Referendum;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Polling location hours; and</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Contact information should a community member have questions.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>At least one (1) Saint Regis Mohawk Tribal Police Officer shall be present in the Polling Area from opening to closing and shall witness the counting process.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Eligibility of voters for a referendum shall be the same as prescribed in Section VII of this Ordinance.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The Saint Regis Mohawk Tribal Clerk's office shall provide the Board with a final Eligible Voters List by close of business, the last business day prior to the Election or referendum. Individual voters are responsible for making sure their name is on this list.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Absentee voting shall be the same as prescribed in Section VIII of this Ordinance.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>The Referendum results shall be decided by a majority of Eligible Voters casting ballots in the Tribal Referendum.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>No minimum number of voters must cast ballots in order for the results of a Tribal Referendum to be adopted.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>The numerical results of a Referendum shall be certified by the Board.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>Any appeals to the results of a Referendum shall be dealt with in accordance with Section XIV of this Ordinance.</text>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>Petitions</text>
+      <para>
+        <num>1.</num>
+        <text>A petition for referendum must clearly state that the Petition is for the purpose of conducting a referendum, and include the referendum question to be asked.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Upon submission to and acceptance by the Election Board, a petition shall be deemed final and complete and no further signatures shall thereafter be added.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The following procedures shall be used for verification of petitions:</text>
+        <para>
+          <num>a.</num>
+          <text>The Election Board shall acknowledge receipt of Petition, in writing, addressed to the individual presenting the Petition.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>As of the date of the submission of the Petition, the Tribal Clerk will generate the Eligible Voters List and determine both the number of eligible voters of the SRMT and the number of valid signatures required for a Petition to be successful.</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>In order for a signature to be valid, the individual signing the Petition must be on the Eligible Voters List as of the date of the submission of the Petition.</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The Tribal Clerk, or their designee, shall verify each signature by reviewing the Petition against the Eligible Voters List.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Valid signatures for a Petition must include:</text>
+          <para>
+            <num>i.</num>
+            <text>Printed Name;</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>Signature;</text>
+          </para>
+          <para>
+            <num>iii.</num>
+            <text>Enrollment Number; and</text>
+          </para>
+          <para>
+            <num>iv.</num>
+            <text>Date of Birth.</text>
+          </para>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>If the signature does not contain all of these requirements, but the Tribal Clerk, or their designee, can ascertain whether the individual is an Eligible Voter, the signature shall be accepted and counted.</text>
+        </para>
+        <para>
+          <num>g.</num>
+          <text>The Tribal Clerk, or their designee, shall make the final determination as to the validity of any signature and may take into consideration whether the signature is legible, whether an individual has signed multiple times, or whether a name properly matches with an enrollment number, among other considerations.</text>
+        </para>
+        <para>
+          <num>h.</num>
+          <text>Once all of the signatures have been reviewed by the Tribal Clerk, or their designee:</text>
+          <para>
+            <num>i.</num>
+            <text>If the Petition contains the required number of valid signatures, the Petition shall be verified and presented to the Election Board for action to call for a Referendum in accordance with the Petition; or</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>If the Petition does NOT contain the required number of valid signatures, or does not clearly state the referendum question being asked, a written notice will be sent to the individual who presented the Petition, by the Tribal Clerk or their designee, notifying him/her that the Petition has been denied and shall state the reasons for the denial.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>XVI.</num>
+    <text>
+      <strong>APPEAL PANEL</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>Appeal Panel Appointment:</text>
+      <para>
+        <num>1.</num>
+        <text>Appeal Panel Composition: The Tribal Council shall appoint with a Tribal Council Resolution five (5) members to an Appeal Panel whose mandate is to review appeals made pursuant to this Ordinance. The Appeal Panel is not considered part of the Election Board and is a standalone decision-making body.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Appeal Panel Term: The term of appointment for the Appeal Panel members shall be staggered five (5)-year terms, with initial appointments made according to a staggered schedule.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Appeal Panel Qualifications:</text>
+      <para>
+        <num>1.</num>
+        <text>To serve on the Appeal Panel, members must be Tribally enrolled, must pass a drug test, and meet the criminal background requirements for Candidates, as defined in this Ordinance.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Appeal Panel Powers, Oath and Responsibilities:</text>
+      <para>
+        <num>1.</num>
+        <text>Upon accepting an appointment, each Appeal Panel member shall take and sign an oath that shall become part of the Appeal Panel's records stating that they will serve according to the best of their ability and shall make every effort to undertake review of the Election Board's decisions and to faithfully execute this Ordinance.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Appeal Panel members must sign and abide by the <em>Saint Regis Mohawk Tribal Boards, Commissions, &amp; Committees Code of Conduct</em>. Failure to do so may result in removal from the Panel by Tribal Council. Breach of the <em>Saint Regis Mohawk Tribal Boards, Commissions, &amp; Committees Code of Conduct</em> shall result in removal from the Appeal Panel by Tribal Council upon the Appeal Panel's recommendation.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Appeal Panel shall adopt by-laws, regulations, and procedures consistent with this Ordinance, as necessary, and shall be responsible for performing their duties in accordance with this Ordinance, their by-laws, policies, and procedures, including carrying out all aspects of reviewing appeals.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The Appeal Panel shall have the power to review submitted appeals free from any outside influence and shall do so in accordance with this Ordinance.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The Appeal Panel shall convene prior to any Annual Election, Special Election, or Referenda to:</text>
+        <para>
+          <num>a.</num>
+          <text>Select a Chair who will be responsible for managing any appeals that may be filed; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Review and adopt hearing procedures that will be made publicly available for the duration of the Annual Election, Special Election, or Referenda.</text>
+        </para>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>In the event an appeal is filed the Chair shall work with the Appeal Panel members to identify any conflicts and select two (2) additional members to hear the appeal.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>The Chair shall act as the primary spokesperson for the Appeal Panel throughout the appeal process.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>The Appeal Panel shall hear the following appeals under this Ordinance, including:</text>
+        <para>
+          <num>a.</num>
+          <text>Decisions regarding the determination of Candidate eligibility, including determinations regarding a Candidate's residency; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Requests to overturn Election and Referendum results, which will only be considered under the following circumstances:</text>
+          <para>
+            <num>i.</num>
+            <text>That a person declared elected was not qualified to be a Candidate;</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>That there was a violation of this Ordinance in the conduct of the Referendum or Election that may have changed the result; and</text>
+          </para>
+          <para>
+            <num>iii.</num>
+            <text>That there was corrupt or fraudulent practice in relation to the Ordinance, on the part of elected officials, Election Board members, or Candidates.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Appeal Panel decisions are final and are not subject to appeal to the Tribal Court.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>Complaints of minor procedural violations or error may be addressed, in writing, by the Appeal Panel, but shall not be the basis for either a hearing or overturning an Election or Referendum result.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>Prior to the Annual Election, or for any Special Election, Recall Election or Referenda, the Appeal Panel members must declare any actual conflicts of interest or any perceived conflicts of interest.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>XVII.</num>
+    <text>
+      <strong>APPEALS AND HEARING PROCEDURES</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>General Provisions:</text>
+      <para>
+        <num>1.</num>
+        <text>Any appeals of any decision made by the Election Board pursuant to this Ordinance must be in writing, addressed to the Appeal Panel within five (5) business days of the Election Board's decision, and include the prescribed filing fee.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any appeal of an Election or Referenda unofficial results must be in writing and addressed to the Appeal Panel within five (5) business days immediately following the posting of unofficial results of the Election or Referendum, and include the prescribed filing fee.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Appeal Panel shall determine if an appeal filed has merit to warrant a hearing and shall conduct a hearing according to the provisions in Section XVI. and hearing procedures adopted by the Appeal Panel.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>For appeals regarding a nominee's eligibility, the Appeal Panel shall meet within two (2) business days of receiving such appeal to decide whether to have a hearing or dismiss the appeal.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>For appeals regarding the determination of Candidate Eligibility, the Appeal Panel shall issue a final written decision or decision to dismiss the appeal within five (5) business days of receiving an appeal. Where the Appeal Panel determines that the nature of the challenge to Candidate Eligibility has no merit, no further appeals of that nature will be considered without new substantive information, including appeals filed after the unofficial results are announced.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>For appeals requesting to overturn Election and Referendum results, the Appeal Panel shall issue a final written decision or decision to dismiss the appeal within ten (10) business days of receiving an appeal.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>All decisions made by the Appeal Panel shall be final and there shall be no appeals to Tribal Court.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Hearing Provisions For Candidate Eligibility:</text>
+      <para>
+        <num>1.</num>
+        <text>Where the Appeal Panel has determined to hold a hearing regarding determination of Candidate Eligibility, the hearing will be scheduled within three (3) business days after the receipt of an appeal.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Before a hearing, notice shall be provided by the Appeal Panel to the:</text>
+        <para>
+          <num>a.</num>
+          <text>Complainant; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The named party in the appeal, who shall also receive a copy of the appeal.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Before the hearing, the Complainant and named party will be given the opportunity to examine any documents filed by the Complainant and any public documents at the Tribal Clerk's office that are directly relevant to the hearing. The Complainant and named party will be allowed to request a copy from the Tribal Clerk of any such document at their expense.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>If the Complainant or named party plan on introducing any documents during the hearing or having witnesses, a copy of the documents or list with the names of witnesses with contact information must be provided to the Appeal Panel at least one (1) day in advance of the hearing for the purpose of making the information available to all parties.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The Complainant or named party may, but is not required to, be represented by a lawyer or other representative at their expense.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>If the Complainant or named party fails to appear at the time scheduled for the hearing, the Appeal Panel may determine that the right to a hearing has been waived, in which case the appeal or complaint may be dismissed or decided upon based on the written complaint filed.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>The Appeal Panel will have sole responsibility for regulating the conduct of the hearing. Failure to follow the Appeal Panel's directions may result in exclusion from the hearing, in a decision against the disorderly party, or in such other relief as the Appeal Panel shall reasonably determine.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Evidence will be considered without regard to admissibility under the normal strict rules for judicial proceedings. All hearings shall be conducted informally, and both oral and documentary evidence pertinent to the facts and issues raised may be received. The Appeal Panel alone will have the authority to decide challenges to the admissibility of evidence.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Hearing Provisions For Overturning Election and Referendum Results:</text>
+      <para>
+        <num>1.</num>
+        <text>Where the Appeal Panel has determined to hold a hearing, the hearing will be scheduled within five (5) business days after the receipt of an appeal and the Appeal Panel shall release a summary of the nature of the appeal to the community.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If the Appeal Panel determines that an appeal has merit to hold a hearing, the Election Board, when requested, shall provide the Appeal Panel with documents it has available. Deliberations of the Election Board are deemed confidential and cannot be disclosed to the Appeal Panel.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Before a hearing, notice shall be provided by the Appeal Panel to the:</text>
+        <para>
+          <num>a.</num>
+          <text>Complainant; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Responding Party, including:</text>
+          <para>
+            <num>i.</num>
+            <text>The named party in the appeal, who shall also receive a copy of the appeal; or</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>Where there is no named party and the appeal is seeking to overturn election results, the Candidate-elect who is the target of the appeal shall be provided a copy of the appeal and be provided with an opportunity to respond.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>If the Candidate-elect chooses to file a response to an appeal they must file it within three (3) business days of receiving the appeal to the Appeal Panel. A copy of the Candidate-elect's written response and any documents will be provided by the Appeal Panel to the Complainant in advance of a hearing.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Before the hearing, the Complainant and Responding Party will be given the opportunity to examine any documents filed by the Complainant, responses filed by the Responding Party, and any public documents at the Tribal Clerk's office that are directly relevant to the hearing. The Complainant and Responding Party will be allowed to request a copy from the Tribal Clerk of any such document at their expense.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>If the Complainant or Responding Party plan on introducing any documents during the hearing or having witnesses, a copy of the documents or list of names of witnesses with contact information must be provided to the Appeal Panel at least one (1) day in advance of the hearing for the purpose of making the information available to all parties.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>The Complainant or Responding Party may, but is not required to, be represented by a lawyer or other representative at their expense.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>If the Complainant or Responding Party fails to appear at the time scheduled for the hearing, the Appeal Panel may determine that the right to a hearing has been waived, in which case the appeal or complaint may be dismissed or decided upon based on the written complaint filed.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>The Appeal Panel shall have sole responsibility for regulating the conduct of the hearing. Failure to follow the Appeal Panel's directions may result in excluding someone from the hearing, or in such other relief as the Appeal Panel shall reasonably determine.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>Evidence will be considered without regard to admissibility under the Tribe's evidentiary rules. All hearings shall be conducted informally, and both oral and documentary evidence pertinent to the facts and issues raised may be received. The Appeal Panel alone will have the authority to decide challenges to the admissibility of evidence.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>XVIII.</num>
+    <text>
+      <strong>AMENDMENT</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>This Ordinance may be amended by:</text>
+      <para>
+        <num>1.</num>
+        <text>A duly conducted Referendum; or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>By the Election Board through an Election Board memorandum recommending amendment, provided the amendment is confirmed by a vote of the Tribal Council through the adoption of a Tribal Council Resolution.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>XIX.</num>
+    <text>
+      <strong>REPEALER</strong>
+    </text>
+    <text>This Ordinance shall supersede and replace all prior Ordinances, or portions thereof, adopted by the Saint Regis Mohawk Tribe, as they pertain to the matters contained herein.</text>
+  </para>
+</document>

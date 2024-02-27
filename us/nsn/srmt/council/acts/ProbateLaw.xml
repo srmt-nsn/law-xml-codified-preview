@@ -1,0 +1,1166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Probate Law (Saint Regis Mohawk Tribal Act)">
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>1</num>
+    <heading>GENERAL</heading>
+    <section>
+      <num>1.1</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this law is (1) to provide a fair and equitable orderly distribution of estates; (2) clarify tribal law concerning estates; (3) promote a speedy and efficient system for administering estates; and (4) empower the application of Tribal Law including sovereignty, culture, customs and values of the Tribe. This Probate Law shall be liberally construed and applied.</text>
+    </section>
+    <section>
+      <num>1.2</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Administrator" means the person appointed by the Saint Regis Mohawk Tribal Court to administer the estate of a person who dies without having executed a valid Last Will and Testament ("Will").</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Affidavit" is a written, notarized statement, signed by the party making the statement and contains the following oath: "I hereby swear under penalty of perjury that the foregoing is true to the best of my belief and knowledge."</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Beneficiary" means any person entitled to take or share in the deceased's estate as provided for under this law. A "beneficiary by law" also known as an "heir" or "distributee" is one who is entitled to share in an estate because of a legal relationship with the deceased and usually when there is no Will. A "beneficiary by will" is one who may not necessarily have a legal relationship to the deceased but who is entitled to share in an estate because of the terms of a Will.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Deceased's Estate" or "Estate" means real property (land) and personal property (everything other than real property, e.g. moveable items for which a transfer of title is needed) which the deceased owned at the time of his or her death, including interests in property acquired during a marriage.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Executor" means the person designated in the deceased's Will to administer the deceased's estate or who is appointed by the Saint Regis Mohawk Tribal Court to administer the estate.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Heir" means a person recognized as being entitled to share in an estate based on a relationship to the deceased, also known as a "beneficiary by law" in this Law.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Probate" means the legal process under tribal law by which a deceased's estate is distributed and which includes: determining heirs and beneficiaries; determining the validity of a Will, if any; and determining whether there are valid claims against the estate. Probate will result in the issuance of a final order distributing the estate.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Real property" means all interests in land or in buildings or improvements permanently attached to land. Reservation land which is held by a tribal member through a use and occupancy deed issued by the Tribe or other written instrument is a "possessory interest" in real property, which means the person has a right to possess the land under tribal law. A possessory interest is real property under this law.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Reservation" means both the Saint Regis Mohawk Indian Tribe Reservation as established by the 1796 Treaty with the Seven Nations of Canada (7 Stat. 55) and any other lands over which the Tribe exercises jurisdiction now or in the future.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Tribal Clerk" means the elected official responsible for, among other things, administering tribal land records. See Tribal Clerk Act, TCR 2003-115 and any future amendments.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Tribal Court" means the Saint Regis Mohawk Tribal Court.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Tribal Member" means an enrolled member of the Saint Regis Mohawk Tribe.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"Tribe" means the Saint Regis Mohawk Tribe.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"Willmaker" is a person who makes a Will.</text>
+      </para>
+    </section>
+    <section>
+      <num>1.3</num>
+      <heading>Jurisdiction</heading>
+      <para>
+        <num>(a)</num>
+        <text><u>Personal Jurisdiction.</u> Tribal Court shall have personal jurisdiction to probate an estate when, at the time of death, (1) the deceased was either a Tribal Member or a person eligible for enrollment as a Tribal Member and the deceased resided or owned real or personal property located within the Reservation or (2) the non-member spouse of a Tribal Member who resided on and owned personal property located within the Reservation or (3) anyone who consents to the Tribal Court's jurisdiction.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <u>Subject Matter Jurisdiction.</u>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribal Court shall have exclusive jurisdiction to probate real property located within the Reservation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribal Court shall have concurrent jurisdiction with any other judicial proceedings in which the deceased's estate is involved as permitted by federal law or other applicable law.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><u>Ancillary Probate/Administration.</u> When at time of death a decedent resided in a foreign state or foreign county and he/she had a Will then his/her executor may file a petition for ancillary probate in Tribal Court when the decedent held real property on the Reservation or owned other personal property over which the Tribal Court would have jurisdiction; if there is no Will then his/her heir may file for ancillary administration in Tribal Court when the decedent held real property on the Reservation or owned other personal property over which the Tribal Court would have jurisdiction.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text><u>Powers</u>. The Tribal Court shall have authority to:</text>
+        <para>
+          <num>(1)</num>
+          <text>appoint Administrators or Executors;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>determine heirs and beneficiaries;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>determine whether a Will is valid;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>carry out the requirements of this Law; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>issue any orders that may be consistent with and/or necessary to carry out the Court's authority.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text><u>Control of Funeral Arrangements.</u> Control of funeral arrangements and disposition of the remains of the deceased shall be based upon a decision of the family and the traditional customs of the Tribe.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text><u>Distribution of Culturally Significant Items.</u> Notwithstanding the provisions of this Probate Law relating to descent and distribution, the surviving spouse or other surviving next of kin may distribute any item of cultural or religious significance belonging to the deceased in accordance with the customs and traditions of the Saint Regis Mohawk Tribe without having to wait for the resolution of an estate in Tribal Court, provided however, that if a Will or instructions were left by the deceased, such distribution shall be in accordance with those instructions. The Tribal Court may exercise jurisdiction over claims that those directions were not followed.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text><u>Nation Practices.</u> The Tribal Court acknowledges that the traditional Longhouses use their own process to distribute the property of deceased members. The Tribal Court may recognize evidence of a distribution from a 10 Day Feast and may hear from traditional Longhouse members regarding the 10 Day Feast.</text>
+      </para>
+    </section>
+    <section>
+      <num>1.4</num>
+      <heading>Records and Certified Copies</heading>
+      <para>
+        <num>(a)</num>
+        <text><u>Record of Reservation Land Interests.</u> The Tribal Clerk is required to keep a record of the transfer of land interests on the Reservation. The Tribal Court, therefore, shall serve upon the Tribal Clerk all orders or decisions, if any, relating to the identification of heirs and beneficiaries, and transfer or distribution of land on the Reservation for recording in the tribal land registry.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Estate Files.</u> Once an estate is closed, the Tribal Court shall retain all records related to the deceased's estate and facilitate access to these records upon request. If copies are requested, the Tribal Court may set a fee for the copying and certification of such records.</text>
+      </para>
+    </section>
+    <section>
+      <num>1.5</num>
+      <heading>False Statements and Fraud</heading>
+      <para>
+        <num>(a)</num>
+        <text><u>Signatures</u>. When a person signs and files any document with the Tribal Court, the Court will assume that the signature indicates the person swears to the truth of the filing or document as far as that person knows or is informed. The signature also indicates that person understands that penalties for perjury can be imposed if the document contains a deliberate falsehood.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Fraudulent Conduct.</u> If a person engages in fraudulent conduct during a probate proceeding, anyone harmed by that conduct may bring an action for damages or other remedies against the person carrying out the fraud and against anyone who has benefitted from the fraud whether innocent or not. A claim for fraud will be barred unless commenced within five years after the discovery of the fraud. This section does not apply to any fraud that may have been committed against a deceased during his/her lifetime and which may affect the distribution of the estate.</text>
+      </para>
+    </section>
+    <section>
+      <num>1.6</num>
+      <heading>Fiduciary Duty</heading>
+      <para>
+        <num>(a)</num>
+        <text><u>Duty Defined</u>. Any person appointed as Administrator or Executor has a fiduciary duty to uphold this law and follow the orders of the Tribal Court. As a fiduciary, the Administrator or Executor shall act honestly and in good faith, expeditiously and efficiently, and consistent with the best interests of the estate. It is assumed that all persons are capable of carrying out their fiduciary duties unless such person has been convicted of a Serious Crime. "Serious Crime" shall have the same meaning as the term is defined in the Tribal Ethics Ordinance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Liability</u>. If the Administrator or Executor has improperly exercised his/her power concerning the estate or failed to carry out his/her fiduciary duty, the Administrator or Executor may be held liable for breach of trust. The Administrator or Executor cannot be held liable if the conduct at issue was authorized or if he/she followed the orders of the Tribal Court, even if those orders are later reversed.</text>
+      </para>
+    </section>
+    <section>
+      <num>1.7</num>
+      <heading>Service</heading>
+      <text>If no method of service is provided within this Law then the Tribal Court Rules of Civil Procedure regarding service of pleadings shall apply.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>2</num>
+    <heading>ACTION UPON DEATH</heading>
+    <section>
+      <num>2.1</num>
+      <heading>General Guidelines for Estate Distribution and Small Estates</heading>
+      <para>
+        <num>(a)</num>
+        <text><u>Persons without a Will.</u> The procedure in Chapter 3 will apply for distribution of an estate without a Will.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Persons with a Will</u>. The procedure in Chapter 4 will apply for distribution of an estate with a Will.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><u>Small Estates</u>.</text>
+        <para>
+          <num>(1)</num>
+          <text>Basis for Using Small Estate Process. If a person dies and leaves an estate whose value is less than $20,000.00 and which does not include any interests in real property, the estate may be settled with minimal Tribal Court involvement so long as all of the heirs and beneficiaries agree to small estate administration and have signed a written waiver of their right to contest the estate. This may also include probate of personal property that is discovered from an estate that was informally probated prior to the enactment of this Law.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Petition for Small Estate. For qualifying estates, an heir or the surviving spouse shall file an affidavit in Tribal Court which provides the following information:</text>
+          <para>
+            <num>(A)</num>
+            <text>A death certificate, record or some evidence to establish deceased's status;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>the estimated value of the estate and the basis of that estimate;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>a list of all known heirs;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>a family tree obtained from the Tribal Clerk;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>a written Will, if any;</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>a list of known debts to be paid from the estate; and</text>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>waiver from each heir and beneficiary consenting to the small estate administration.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Contents of Affidavit. The affidavit shall include a request that the estate be settled informally without having to admit the estate to probate along with the written consent of all heirs to the procedure. The affidavit may set forth the proposed estate distribution.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Requesting Party. If there is no surviving spouse, any of the deceased's next of kin or, if there is no next of kin, any suitable person whom the Tribal Court deems to have a sufficient interest may make the application.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>No Administrator. It shall not be necessary to appoint an Administrator if the value of the deceased's property appears to be less than $20,000.00 in value, there is no real property, no heir or beneficiary objects, and no one requests that one be appointed.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Court Duty. Upon finding an estate qualifies for a small estate administration, the Tribal Court shall issue such orders and other documents as may be required for a small estate. It shall proceed as a small estate as long as no heir or beneficiary objects to it.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text><u>Limited Administration.</u> If a person dies and his/her heirs and/or beneficiaries need certain limited relief that cannot await full probate of the estate the Tribal Court may allow heirs, beneficiaries, creditors, the Tribe, or other interested party to obtain a special appointment with notice to heirs to address that limited purpose. Tribal Court shall develop a petition for such purpose, determine each case for a limited appointment in its discretion and shall set limits in its order of appointment. The order of appointment shall be recorded in the Tribal Clerk's office in the same manner as outlined in Section 3.5(b). If there is a subsequent estate that is probated, the limited administration and whatever action was taken shall be included in the decedent's inventory of assets. The Tribal Court's decision regarding a limited appointment is not considered a final decision for purposes of an appeal.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>
+          <u>Renouncing a Share of an Estate.</u>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>Affidavit. A person who is an heir or a beneficiary by law or by Will may renounce in whole or in part the right to any estate property or interest. In order to renounce an interest or share of an estate, the person must file an affidavit with the Tribal Court not later than three (3) months after the deceased's death or the time at which it is determined that the person is entitled to take property.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Court Action. The affidavit shall describe the property or interest being renounced and the extent of the renunciation. It shall be signed under oath by the person renouncing the interest. If the Court accepts the affidavit then, when applying the rules of inheritance, the Court shall treat the person renouncing the interest or share of the estate as having predeceased the deceased and the interest or share shall pass according to intestacy rules.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>
+          <u>Effect of Homicide on Beneficiaries.</u>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>Heir. A surviving spouse, heir or beneficiary who is found to have criminally and intentionally killed the deceased is not entitled to any benefits passing under this law and the estate of the deceased shall pass as if the killer had predeceased the deceased.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Right of Survivorship. Any person with a right of survivorship in personal or real property who criminally and intentionally kills a joint owner, joint tenant, or any other form of co-ownership has no rights by survivorship. This provision applies to joint tenancies in real and personal property, joint accounts in banks, savings and loan associations, credit unions and other institutions, and any other form of co-ownership with survivorship rights.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Beneficiaries. A named beneficiary of a bond, life insurance policy or other contractual arrangement who criminally and intentionally kills the person upon whose life the policy is issued is not entitled to any benefit under the bond, policy or other contractual arrangement, and it becomes payable as though the killer had predeceased the deceased.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Other. Any other acquisition of property or interest from an estate by the killer shall be treated in accordance with the principles of this section.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Judgment. A final judgment of conviction of an offense containing the elements of criminal and intentional killing is conclusive for purposes of this section. In the absence of a conviction of criminal and intentional killing, the Tribal Court may determine by a preponderance of the evidence whether the killing was criminal and intentional for purposes of this section.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text><u>Simultaneous Death</u>.</text>
+        <text>In some cases, title to property or the transfer of property depends upon an individual surviving the death of another person. An individual shall be deemed to have survived the other person if it is established by clear and convincing evidence that the individual survived the other person by 120 hours. If it cannot be established by clear and convincing evidence that the individual survived the deceased by 120 hours, then that individual is deemed to have been predeceased.</text>
+      </para>
+    </section>
+    <section>
+      <num>2.2</num>
+      <heading>Evidence as to Death</heading>
+      <text>In order to distribute an estate, the death of the estate owner must be proved as part of any proceeding. The Tribal Court may accept the following evidence to confirm proof of death:</text>
+      <para>
+        <num>(a)</num>
+        <text><u>Death Certificate.</u> A certified or authenticated copy of a death certificate issued by an official or agency with the authority to issue a death certificate at the place where the death purportedly occurred is proof of the fact, place, date and time of death and the identity of the deceased.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Record</u>. A certified or authenticated copy of any record or report of a governmental agency, domestic or foreign, that a person is missing, detained, dead or alive, is proof of the status and of the dates, circumstances and places disclosed by the record or report.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><u>Other Evidence</u>. The person seeking to establish the death has the burden of producing the required documentation. The Court shall accept a Funeral Director's Certificate of Death. The Court may also, in its discretion, consider other evidence including an affidavit of next of kin of the deceased which sets forth the date and circumstances of the death, any supporting documentation, and the reason no government records are available.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text><u>Absence</u>. A person who is absent for a continuous period of five (5) years, during which he/she has not been heard from, and whose absence is not satisfactorily explained after diligent search or inquiry is presumed to be dead. His/her death is presumed to have occurred at the end of the period unless there is sufficient evidence for determining that death occurred earlier.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>3</num>
+    <heading>DISTRIBUTION OF AN ESTATE WITHOUT A WILL (INTESTATE)</heading>
+    <section>
+      <num>3.1</num>
+      <heading>Petition for Court Action</heading>
+      <para>
+        <num>(a)</num>
+        <text><u>Initiation of Process by Petition</u>. When a Tribal Member or non-member spouse of a Tribal Member dies without a Will and leaves an estate which falls under the jurisdiction of the Tribal Court, any Tribal Member who is an heir of the deceased may file a petition for probate of the estate. In a probate proceeding, the Tribal Court shall identify the heirs or beneficiaries by law and determine whether there are valid claims against the estate. Probate will then result in the issuance of a final order distributing the deceased's assets.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Petition Requirements</u>. The petition shall meet the following requirements:</text>
+        <para>
+          <num>(1)</num>
+          <text>Contents. The petition will be in writing, signed by the petitioner, and include a death certificate or some other proof of death as set forth in Section 2.2.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Proof of Court Authority. The petition must provide information establishing the deceased was:</text>
+          <para>
+            <num>(A)</num>
+            <text>a Tribal Member who resided on the Reservation or owned real or personal property on the Reservation;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>a non-member spouse who resided on the Reservation and owned personal property on the Reservation; or</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>any other person who consents to the Court's jurisdiction.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Identification of Heirs. The petition must state the names of the heirs of the deceased, if known, and include a Family Tree as certified by the Tribal Clerk.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>3.2</num>
+      <heading>Estate Distribution Principles for an Estate Without a Will</heading>
+      <para>
+        <num>(a)</num>
+        <text><u>Court Order</u>. In determining the heirs of an estate, the Tribal Court shall rely upon the information provided in the petition and the Family Tree and shall issue an order identifying those persons entitled under tribal law to share in the estate according to the principles set forth in this Ordinance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Order of Inheritance</u>. When a Tribal Member dies without leaving a Will, the following order of inheritance shall apply:</text>
+        <para>
+          <num>(1)</num>
+          <text>Surviving Spouse. A surviving Tribal Member spouse shall inherit the real property interest in Reservation land and all other property owned by the deceased spouse. A non- member spouse may only inherit a life estate in real property as provided for in Section 5.1 below but may inherit all of a deceased Member's personal property. A person who is divorced from the deceased or whose marriage to the deceased has been officially annulled is not considered a surviving spouse unless, by virtue of a subsequent marriage, he/she is married to the deceased at the time of death. A decree of separation, which does not terminate the status of husband and wife, is not a divorce for purposes of this Probate Law.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Children. If there is no surviving Tribal Member spouse, the surviving Tribal Member children shall each receive equal shares in the real property of the estate. All children shall share in the personal property of the estate.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Grandchildren. If there is no surviving Tribal Member spouse or surviving Tribal Member children of the deceased, surviving Tribal Member grandchildren shall each receive equal shares of the real property and all grandchildren shall share in the personal property of the estate.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Minors. In any case where minor Tribal Members may be entitled to an interest in real property, the land shall be held in trust by a legal guardian until they reach the age of majority, which is eighteen (18) years old. In any case where minors may be entitled to an interest in personal property that is sold the proceeds of the sale shall be held in trust until they reach the age of majority.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Parents. If there is no surviving spouse or descendants, the surviving Tribal Member parent(s) of the deceased shall each receive equal shares of the real property and any parent(s) shall share in personal property of the estate.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Siblings. In the event that a deceased Tribal member has no surviving Tribal Member spouse, children, grandchildren, or parents, the surviving Tribal Member's brothers and sisters shall each receive equal interests in the real property and shall share in the personal property of the estate.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Nieces/Nephew. In the event that a deceased Tribal Member has no surviving Tribal Member spouse, children, grandchildren, parents or siblings, the surviving children of the deceased Tribal Member's siblings, if any, shall each receive an equal interest in the real property and shall share in the personal property of the estate.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Aunts/Uncles. In the event that a deceased Tribal Member has no surviving Tribal Member spouse, children, grandchildren, parents, siblings or nieces and nephews then the surviving brothers and sisters of the parents of the deceased Tribal Member (aunts and uncles) shall each receive an equal interest in the real property and shall share in the personal property of the estate.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Divorce. The divorce of a husband and wife does not affect the right of their children to inherit from a deceased parent's property.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>No Beneficiary. If there is no qualified beneficiary as outlined above, the estate shall pass to the Tribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><u>Agreement on Plan for Distribution</u>. If all of the heirs agree in writing on a plan for distribution different than set out in this Ordinance, the plan may be presented to the Tribal Court for approval and the Court shall exercises its discretion in whether to approve the plan based on fairness and equity. If the heirs have not agreed to a plan, the Tribal court shall apply the rules under tribal law for ownership and distribution to the heirs. If Tribal Members and non-members are to share in an estate that includes Tribal Land, because the Tribal Land cannot be distributed to the non-member, the Tribal Court shall determine the extent to which the value of a Tribal Member's share of land should be counted towards the overall distribution of the estate. Tribal Court shall make such a determination in writing.</text>
+      </para>
+    </section>
+    <section>
+      <num>3.3</num>
+      <heading>Determination of Relationship of Parent and Child</heading>
+      <text>When necessary in the case of a person dying without a Will the relationship of parent and child shall be governed by the following principles:</text>
+      <para>
+        <num>(a)</num>
+        <text><u>Posthumous Birth</u>. A person conceived before the deceased's death but born thereafter shall inherit as if he/she had been born in the lifetime of the deceased.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Adopted Person</u>. A person who is legally adopted in a court of competent jurisdiction is treated as the natural child of an adopting parent.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>
+          <u>Non-Marital Child Status.</u>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>Maternal. A non-marital child is the child of his/her mother so that he/she inherits from both mother and maternal relatives.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Paternal. A non-marital child is the child of his/her father so that he/she inherits from his/her father and paternal relatives if:</text>
+          <para>
+            <num>(A)</num>
+            <text>during the lifetime of the father a court of competent jurisdiction has issued a paternity order; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>the father of the child has signed a document acknowledging paternity. The document must have been signed in the presence of one or more witnesses and before a notary public or other officer and must have been filed within 60 days of signature with the putative father registry established under tribal or state law; or</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>after a court hearing, paternity can be established by clear and convincing evidence, which may include, but is not limited to: (i) evidence derived from a genetic marker test, or (ii) evidence that the father openly and notoriously acknowledged the child as his own, or (iii) other documentary evidence, including but not limited to, a birth certificate.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Agreement of Support. The existence of an agreement obligating the father to support the non-marital child does not mean the child is qualified to inherit from the father.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Non-Marital Child Inheritance. If a non-marital child dies, his/her relatives succeed to an inheritance as if the deceased was a marital child, provided that the father and the paternal relatives may inherit only if the paternity of the non-marital child can be established and if there is an Order of Support that the father have no arrears.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Other Children. Stepchildren and foster children and their descendants do not inherit unless adopted as recognized by Tribal Court or any other court of competent jurisdiction.</text>
+      </para>
+    </section>
+    <section>
+      <num>3.4</num>
+      <heading>Appointment of Administrator</heading>
+      <para>
+        <num>(a)</num>
+        <text><u>General</u>. In all cases other than Small Estates, the Tribal Court shall appoint an Administrator.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Request for Appointment</u>. A person seeking appointment as the Administrator must file an application with the Tribal Court along with a filing fee to be determined by the Tribal Court. The application shall set forth the petitioner's relationship to the deceased and the applicant's tribal enrollment status. The applicant must also provide written consents, if any, from each heir to his/her appointment as Administrator. The Application, Family Tree and Consent Forms shall all be promulgated by the Court and may be amended from time to time.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><u>Who May Be Appointed</u>. Any Tribal Member may apply to be appointed as administrator. The following persons, if legally competent, shall be appointed in this priority order: the surviving spouse; any child of the deceased who is over eighteen (18) years of age; any other blood relative in order of their closeness of relationship; or any other adult Tribal Member. In the rare circumstance where there is no enrolled Tribal Member able to assume the responsibility of Administrator, the Tribal Court may appoint a qualified third party, who may be a non-member who shall consent to the jurisdiction of Tribal Court.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text><u>Executor Acting as Administrator</u>. When a Will does not dispose of all the deceased's property, that omitted property shall pass according to the provisions of this chapter and the Executor appointed in the Will may act as the Administrator to distribute the property with the rest of the estate.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text><u>Hearing</u>. If all heirs have consented to the applicant serving as Administrator, the Tribal Court shall grant the application without a hearing. If all of the heirs do not consent, then the Tribal Court shall schedule a hearing within thirty (30) days of the application being filed. The Tribal Court shall serve all of the heirs with notice of the hearing. At the hearing, Tribal Court shall determine who should be appointed Administrator based upon a preponderance of the evidence and the estate's best interest.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text><u>Bond</u>. If the value of the estate warrants it, the Tribal Court has the discretion to require that the Administrator file a bond in an amount to be set by the Tribal Court to insure his/her faithful, honest performance of his/her duties as Administrator. No bond shall be required of an Administrator who is the spouse or child of a deceased, unless evidence suggests it is necessary or desirable.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text><u>Oath</u>. Upon appointment as Administrator, the person appointed shall take an oath prepared by the Tribal Court, to faithfully and honestly administer the estate. The oath may be taken in person at the Tribal Court or may be done in writing on a form prepared by the Tribal Court and which shall require that the Administrator's signature be notarized.</text>
+      </para>
+    </section>
+    <section>
+      <num>3.5</num>
+      <heading>Order of Appointment as Administrator</heading>
+      <para>
+        <num>(a)</num>
+        <text><u>Order</u>. Once the Administrator takes the oath, the Tribal Court shall issue an Order of Appointment to the Administrator as proof of the appointment. Within seven (7) days, the Administrator shall provide a copy of the Order to the Tribal Clerk to be recorded either by delivering it in person or by certified mail.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Record of Order</u>. The Tribal Clerk shall record the Order of Appointment as Administrator in the Tribal Recording Book, including a copy of the Order in the records. The Tribal Clerk shall note the Tribal Recording book number and page number on a copy of the Order and return it to the Administrator for his/her records.</text>
+      </para>
+    </section>
+    <section>
+      <num>3.6</num>
+      <heading>Administrator Duties and Procedures</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <u>Preliminary expenses.</u>
+        </text>
+        <text>The Administrator is required to pay for funeral expenses and any outstanding medical bills using the property of the estate, if available. The Administrator is not required to pay any expenses out of pocket.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Inventory</u>.</text>
+        <para>
+          <num>(1)</num>
+          <text>List of Assets. The Administrator is required to take an inventory of all property and assets of the deceased. Assets may or may not include family heirlooms or items of sentimental value. This inventory shall be filed with Tribal Court within thirty (30) days after his/her appointment. The inventory should include an estimated value of all property and assets of the deceased. If an asset is of significant value, such as real property, an appraisal is recommended. The inventory should also indicate those items intended to be sold for the payment of debts or other estate requirements, if any. The Administrator shall provide a copy of this inventory to all persons with a known interest in the estate at the same time it is filed with the Court.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Advances. Property given to an heir during the deceased's lifetime shall not be treated as an advance against the heir's share of the estate unless the advance was declared in writing by the deceased or the heir at the time of the advance. Known advances should be listed in the inventory.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Objection to Inventory. Within thirty (30) days of the receipt of the inventory, any person with an interest in the estate may file an objection to the inventory or to the sale of any item in the inventory.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Hearing and Court Review. If objections to the inventory are filed, the Tribal Court shall schedule a hearing to be held within thirty (30) days. The Tribal Court shall notify all interested parties of the hearing. Upon consideration of the objections, the Tribal Court may order an amendment to the inventory or appraisal, or issue an order regarding the sale of property, as it deems just and proper to carry out the terms of the estate.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><u>Creditors</u>.</text>
+        <para>
+          <num>(1)</num>
+          <text>Identification. The Administrator is required to identify all creditors of the estate. To do so, the Administrator shall search the deceased's records for bills, notices, loan papers, and other documentation that suggests the deceased may have outstanding debts. The Administrator has the duty to contact all known creditors to determine amounts owed and the process for addressing bills and other debts. The Administrator shall also publish a public notice within thirty (30) days of appointment stating that all other creditors must present their claims to the Administrator and that only the claims presented may be considered for payment by the estate. The notice shall give the creditors thirty (30) days to respond and will clearly state the final date for claims to be presented. Unless there is a waiver or modification approved by the Court, the notice shall be posted on the Tribe's website, and published for three consecutive weeks in a publication of general distribution on the Reservation and if deemed necessary in the nearby towns of Massena and Malone.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Documentation. For those debts identified by the Administrator from the estate records, the Administrator shall prepare a list of the amounts owed and any necessary forms or documentation needed to resolve the debts and close accounts. Any other claims submitted by a creditor shall be presented in an affidavit and shall include documentation, such as writings or witness statements, as necessary for the Administrator and the Tribal Court to determine if the claim is valid. The creditor shall state under oath that its claim is justly due, that to the extent payments were made by the deceased they have been credited, and that it knows of no offsets against the claim. If a creditor fails to present a claim within the time period allowed, the creditor may request Tribal Court in its discretion allow it to file the claim directly with the Tribal Court at the same time the Administrator presents the creditors' claims under subsection (4) below. Such requests shall not be unreasonably denied.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Administrator Review. Once the Administrator collects the creditors' claims, the Administrator shall review them and shall notify the creditors as to whether they are accepted or rejected and explain the reasons for the decision. The Administrator is required to make a decision and provide notice within thirty (30) days of presentation of the claim.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Court Review.</text>
+          <para>
+            <num>(A)</num>
+            <text>The Administrator shall notify the Tribal Court as to whether any creditor claims have been presented.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>If there are claims, the Administrator shall provide the Tribal Court with a list of claims with supporting documentation explaining whether the claim has been accepted or rejected. The Administrator must present this information to the Court no later than forty-five (45) days after the creditor claim period has closed.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Rejected creditors have ten (10) days to respond to the list filed with the Court. If after ten (10) days, no objections are filed, the Court may approve the list and the Administrator may pay the approved claims. If a rejected creditor files an objection, the Tribal Court shall determine the validity of the claim and the objection, relying on the affidavit or personal testimony of the claimant. If an objection is filed, the Administrator may pay creditors only after the Tribal Court issues an order regarding the validity of the claims. At no time, shall the Tribal Court permit the sale of Tribal Land to satisfy an estate's debts except if the claimant can show that the deceased expected his/her land to be sold to satisfy the outstanding debt.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Timing</text>
+          <text>In sum, the time frame for Administrators as set forth in this law is as follows:</text>
+          <para>
+            <num>(A)</num>
+            <text>Inventory.</text>
+            <text>
+              <ul proof="needed">
+                <li>Within thirty (30) days after appointment, the Administrator will present an estate inventory to the Tribal Court.</li>
+                <li>Objections to the inventory are to be filed with the Tribal Court no later than thirty (30) days thereafter.</li>
+                <li>If objections are filed, the Tribal Court must hold a hearing within thirty (30) days.</li>
+              </ul>
+            </text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Creditor's Claims.</text>
+            <text>
+              <ul proof="needed">
+                <li>Within thirty (30) days after appointment, the Administrator must publish a public notice asking for creditors to bring forth their claims.</li>
+                <li>A Creditor will have thirty (30) days from the date of the last public notice to file a claim with the Administrator.</li>
+                <li>The Administrator will have thirty (30) days from the filing of the claim to decide whether to recognize the creditor's claim.</li>
+                <li>If claims are filed or debts are identified, the Administrator must file a list of claims with the Tribal Court within forty-five (45) days after the claim period closes.</li>
+                <li>Rejected creditors have ten (10) days to file with the Tribal Court documentation explaining why they should be paid.</li>
+              </ul>
+            </text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>
+          <u>Distribution of Estate.</u>
+        </text>
+        <text>The Administrator is responsible for distributing the estate once heirs are identified and the creditors, if any, have been identified.</text>
+        <para>
+          <num>(1)</num>
+          <text>Creditors. All verified claims of creditors allowed by the Tribal Court and identified debts shall be paid before distribution of the estate to the heirs.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Accounting. Before distributing the estate to the heirs, the Administrator must provide the Tribal Court with an accounting of the estate assets for approval. The accounting will show all disbursements made for expenses and creditors, and shall include receipts. The accounting will also show the computation of any attorney's and/or Administrator's fees for which approval is sought. The accounting will set out the remaining estate to be distributed and contain a statement that the estate is ready to be distributed to the heirs. The accounting may include a signed consent form from each heir to the proposed distribution from the estate.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Advances. When distributing property among the heirs, any property that was advanced is valued at the time the heir came into possession of the property.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Administrator Fee. If an Administrator requests a fee, the Tribal Court shall establish the percentage for compensation on a case by case basis, but in no event shall the percentage be more than five (5%) percent of the total value of the gross estate.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>
+          <u>Order Approving Distribution and Closing of Estate.</u>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>Order of Distribution. When the Tribal Court is satisfied that an estate is ready to be distributed and the Administrator has set out the plan for distribution in the accounting, the Tribal Court shall issue an order approving the distribution.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Closing of Estate. Once the estate is distributed, the Administrator shall file a statement with the Tribal Court stating that the estate is fully administered and ready to be closed, with receipts showing that the estate is fully distributed. Upon receipt of this statement, the estate shall be closed, the Administrator of the estate shall be dismissed, and if applicable, his/her bond shall be released.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text><u>Reopening an Estate</u>. An estate may be reopened in the following circumstances:</text>
+        <para>
+          <num>(1)</num>
+          <text>Discovery of Will. If an estate has passed through probate on the assumption that a Will does not exist, but a Will is later discovered, the estate may be reopened so long as the petition to reopen is filed within sixty (60) days of discovery of the Will. An estate may only be reopened within two years of the final order closing the estate and only in extraordinary circumstances. In no instance may property be re-claimed by a newly identified heir if the property has been sold or transferred to a third party (bona fide purchaser).</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Discovery of Property. If property is discovered after an estate has been closed, the estate may be reopened to dispose of the property. The Tribal Court shall order distribution of the property to the person or persons entitled thereto after issuing whatever orders are necessary to assure a just participation of the after-discovered property in the expenses of the estate.</text>
+        </para>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>4</num>
+    <heading>DISTRIBUTION OF ESTATES SUBJECT TO A WILL (TESTATE)</heading>
+    <section>
+      <num>4.1</num>
+      <heading>Requirements for a Valid Will</heading>
+      <para>
+        <num>(a)</num>
+        <text><u>Applicable Law</u>. A written Will may be declared valid if it was executed in compliance with this Probate Law; or the law in force at the place and time the Will was executed; or the law in force at the time of execution or at the time of death, at the place where the person making the Will was domiciled or had a place of abode.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <u>Qualification to Make a Will.</u>
+        </text>
+        <text>Any person eighteen (18) or more years of age who is of sound mind may make a Will. To be effective, a Will must be declared valid by the process provided for in this law.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><u>Requirements for a Will and Signature</u>.</text>
+        <para>
+          <num>(1)</num>
+          <text>Will in Writing. Every Will shall be in writing and the document shall declare that it is the last Will of the person making the Will.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Signature. Every Will must be signed by the person making the will along with two witnesses. If the person making the Will is unable to sign, some other person may be designated to sign the Will on the Willmaker's behalf so long as the signature takes place in the presence and by the direction of the person making the Will and in the presence of two witnesses.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Witnesses. At least two people must attest to the signature on the Will. Each witness shall attest that he/she witnessed the Willmaker sign the Will or witnessed the Willmaker acknowledge the signature placed on the Will at his/her direction.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text><u>Who May Witness a Will</u>.</text>
+        <para>
+          <num>(1)</num>
+          <text>Qualification. Any person who would be found competent to testify as a witness in Court to the facts relating to the signature on the Will may act as a witness.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Interested Party. A Will or any provision thereof is not invalid because the Will is signed by a party with an interest in the Will, so long as the Will is also signed by two other disinterested witnesses. An "Interested Witness" means any of the following: (A) an heir; (B) a beneficiary; (C) a person named as Executor; or (D) a person named as Executor in the Will of the deceased.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>
+          <u>Self-Proved Will.</u>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>Self-Proved Will Generally. In order to be declared valid in court, the Will's beneficiaries will be required to bring forth evidence of the validity of the Will. Each witness must attest that in the presence of each other and the Willmaker he/she witnessed: (1) the Willmaker was of full age, sound mind and memory; (2) Willmaker declared it to be his Last Will and Testament and (3) it was signed voluntarily. To simplify the process of proving a Will, the person making the Will may self-prove it at the time of execution or at a later time by signing an Acknowledgement of the Will statement.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Acknowledgement Form. The acknowledgement must be attached to the Will in form and content substantially as follows, shall be signed by the person making the Will and the witnesses, and then shall be notarized.</text>
+          <text>Akwesasne Territory</text>
+          <text>Saint Regis Mohawk Tribe Reservation</text>
+          <text>State of New York</text>
+          <text class="center">Acknowledgement of Signature on Will</text>
+          <text>We, _____________________, _____________________, the witnesses to the Will, and, being first duly sworn, do hereby declare to the undersigned authority that <u>[name of person making Will]</u> signed, declared and executed the document as his/her last Will and that he/she signed willingly or directed another to sign for him, and that he/she executed it as his/her free and voluntary act for the purposes therein expressed; and that each of the witnesses, in the presence and hearing of <u>[name of the person making the Will]</u>, signed the Will as witness and that to the best of his/her knowledge <u>[name of the person making the Will]</u>, was at the time eighteen (18) or more years of age, of sound mind and under no constraint or undue influence.</text>
+          <text>____________________________________</text>
+          <text>____________________________________</text>
+          <text>Witness</text>
+          <text>____________________________________</text>
+          <text>Witness</text>
+          <text>The aforesaid subscribing witnesses further state that this Acknowledgement was executed at the request of [WILLMAKER'S NAME], and that at the time of execution of this Acknowledgement, the original Will was exhibited to them and they identified it as such Will by their signature appearing as subscribing witnesses.</text>
+          <text>Subscribed, sworn to and acknowledged before me by ____________________ and _________________, the witnesses to the Will, this _______ day of _____________________, 20_____.</text>
+          <text>Signed</text>
+          <text>_______________________________________</text>
+          <text>Notary Public</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>
+          <u>Non-conforming Wills.</u>
+        </text>
+        <text>Wills made prior to the adoption of this Ordinance and not in conformity with these requirements may be considered valid unless the Tribal Court determines, based on information provided by witnesses, that the Will is not entitled to be recognized due to fraud or some other infirmity that makes the will suspect or does not meet common law requirements for a will.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>
+          <u>Conveyances to Non-members are void.</u>
+        </text>
+        <text>Will provisions which bequeath real property to a non-member are void as to those provisions, and the subject real property shall pass in accordance with the intestate provisions of this Ordinance, but other personal property may pass as bequeathed.</text>
+      </para>
+    </section>
+    <section>
+      <num>4.2</num>
+      <heading>Rules for Interpreting a Will</heading>
+      <para>
+        <num>(a)</num>
+        <text><u>Incorporation by Reference</u>. Any writing in existence when a Will is signed may be incorporated by reference if the Will indicates that the writing should be incorporated and it describes the writing sufficiently to permit its identification.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Rules of Construction and Intention</u>. The intention of a person making a Will as expressed in his/her Will controls the distribution of the estate. The rules of construction set forth in this Probate Law do not apply if they are contrary to the intention of the Will.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><u>Will Passes All Property</u>. A Will must be interpreted to pass all property of the estate, including property acquired after the execution of the Will.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>
+          <u>Devises or Gifts and the Residual.</u>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>Residue Definition. The "residue" of an estate is what remains after fees and expenses are paid and specific devises, or devises of assets or cash are made. This part of the estate is also call the "residual."</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Specific Devise. Wills may provide for specific shares of real or personal property to specific beneficiaries. This is known as a specific devise. If a specific devise cannot be carried out for any reason, such as the beneficiary has predeceased the person making the Will, whatever was devised becomes a part of the residue of the estate.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Division of Residue. If the person making the Will provides that the residue of the estate passes to two or more persons and one of the shares cannot be passed to that person, his/her share will pass to the other beneficiaries of the residue in proportion to their interests.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>
+          <u>Property Given During Lifetime.</u>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>Generally. If a beneficiary is given a gift of property by the person making the Will during the Willmaker's lifetime, that property will be not be treated as satisfaction of a devise or gift under the Will except as provided for in subsection (2) below.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Treatment as Devise. The gift may be treated as part of the beneficiary's inheritance if (A) the Will provides for the deduction of the gift, (B) the person making the Will declares in a separate writing at the time of the gift that it is in satisfaction of a devise, or (C) the beneficiary acknowledges in writing that the gift is in satisfaction of a devise.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Valuation. If the property is determined to be a devise as set forth in subparagraph (e)(2) above then such property given during the lifetime of the Willmaker shall be valued at the date the beneficiary came into possession or enjoyment of the property.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text><u>Children Left Out of a Will</u>. If a Willmaker mistakenly leaves a child out of his/her Will, or fails to provide for any children born or adopted after the Will is signed, the child who has been left out shall receive a share in the estate equal in value to that which he would have received had the person died without a Will. In satisfying a share provided for in this section, the other devises made by the Will shall be reduced according to the rules governing the distribution of an estate in Section 4.8(d). A child who is excluded, however, shall not receive a share if it appears from the Will that the child was left out intentionally or the person making the Will expressed the intention to and did provide for the child outside of the Will. The burden of proof shall be by a preponderance of the evidence and it shall be on the excluded child seeking a share of the estate.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>
+          <u>Spouse Left Out of a Will.</u>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>If a Will fails to provide for a surviving spouse, that spouse would not receive a share if it appears from the Will that the spouse was left out intentionally or the person making the Will otherwise expressed the intention to provide for, and did provide for, the surviving spouse outside of the Will.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If a Will fails to provide for a surviving spouse who married the person making the Will after the Will was signed, the spouse shall receive the same share of the estate the spouse would have received if the deceased left no Will. In satisfying a share provided for in this section, the other devises made by the Will shall be reduced according to the rules governing the distribution of an estate in Section 4.8(d).</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The burden of proof in either case shall be by a preponderance of the evidence and the burden shall be on the excluded spouse seeking a share in the estate.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>4.3</num>
+      <heading>Rules Applicable to the Revocation of a Will</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <u>Revocation Generally.</u>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>Later Will or Supplement. A Will or any part thereof may be revoked by a second (or later) valid Will, or a supplemental document (codicil) which has been signed and witnessed and is attached to a Will. In order for the prior Will to be revoked, the second Will (or later) or supplemental document must expressly state it is revoking a prior Will or the terms of the subsequent will or supplemental document are clearly inconsistent. In that case, the later Will or document takes precedence.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Destruction. A Will or any part thereof may be revoked by destroying, canceling, or obliterating the Will with the intent and for the purpose of revoking it. If unable to carry out the action, a person making a Will may direct any other person in his/her presence to destroy, cancel or obliterate the Will.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Revival. Once a Will is revoked, it cannot be revived unless, upon revocation of a second or later Will, the person making the Will declares his/her intention to revive the first Will or the circumstances clearly show the intention to revive it.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <u>Revocation and Divorce or Separation.</u>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>Divorce. If, after executing a Will, the person making the Will is divorced or the marriage is annulled, the divorce or annulment revokes any transfer of property made by the Will to the former spouse and that property will be distributed as if the spouse predeceased the person making the Will. Unless the Will expressly states otherwise, any provision naming the former spouse as Executor, trustee, conservator, or guardian is also revoked. If the person making the Will and the former spouse remarry, then, absent a preponderance of evidence of an intention to the contrary, the Will shall no longer be considered revoked by this section.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Separation. A decree of separation, which does not terminate the status of husband and wife, is not a divorce for purposes of this section. No other change of marital circumstances revokes a Will.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>4.4</num>
+      <heading>Initiating Process for Probate or Court Validation of a Will</heading>
+      <para>
+        <num>(a)</num>
+        <text><u>Petition for Probate</u>. The custodian of the Will or any other person in possession of the Will, including a person named as Executor, may petition the Tribal Court for the Will to be probated under tribal law. In a probate proceeding, Tribal Court shall determine the heirs and beneficiaries; determine the validity of a Will; and determine whether there are valid claims against the estate. Probate shall result in the issuance of an order distributing the estate's assets and resolving claims against the estate.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Petition Requirements</u>. The petition shall meet the following requirements:</text>
+        <para>
+          <num>(1)</num>
+          <text>Contents. The petition will be in writing, be signed by the petitioner, and include a death certificate or some other proof of death as set forth in Section 2.2 and the original Will.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Proof of Court Authority. The petition shall provide evidence to support a finding that the deceased was (A) either a Tribal Member or a person eligible for enrollment as a Tribal Member and resided or owned real or personal property located within the Reservation or (B) a non-member spouse of a Tribal Member who owned personal property located within the Reservation. If the deceased is a non-member spouse, the evidence must show that the spouse resided on the Reservation or otherwise consented to the Tribal Court's jurisdiction.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Identification of Heirs. The petition must state the names of the heirs of the deceased, if known, and include a Family Tree as certified by the Tribal Clerk.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Identification of Beneficiaries. The petition must state the name or names of any person specified in the Will as Executor or beneficiary and the address of such persons, if known.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Consent Forms. The petition may include written consent from each beneficiary to the appointment of the named Executor, if any, and the validity of the Will. If a beneficiary fails to consent to the appointment of the named Executor and the validity of the Will then notice of the filing of the petition along with a copy of the Will must be served upon that beneficiary.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>
+          <u>Evidence to Show the Validity of the Will.</u>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>Self-Proving. If a Will is self-proving as provided for in Section 4.1(e), the person filing the petition need not file any separate evidence from the witnesses to the Will.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Witness Statements. If the Will is not self-proving, the person filing the petition must include a notarized statement of at least one of the witnesses to the signing of the Will. In the statement, the witness must identify the Will as the document the deceased signed and declared to be his or her last Will. The witness and petitioner will also include a statement as to the deceased's capacity to sign a valid Will and if relevant, the circumstances surrounding the making of the Will.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Other Proof. Every reasonable effort shall be made to obtain the testimony of the witnesses to the Will. If their testimony is not reasonably available, the petitioner must say so in the petition. The Tribal Court may allow proof of the Will by testimony or other evidence that the signature of the person making the Will is genuine.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>4.5</num>
+      <heading>Proving or Contesting a Will</heading>
+      <para>
+        <num>(a)</num>
+        <text><u>Notice</u>. Within ten days of receiving a petition for probate of a Will, the Tribal Court shall issue notices that the petition has been filed. The notice shall state that anyone wishing to contest the Will shall have thirty (30) days from the date of the notice to file objections. The Tribal Court shall provide a notice to identified heirs and beneficiaries in writing by certified mail or some other form of service that provides for proof of delivery. In addition, the Petitioner shall provide notice to the public by publishing the notice for three consecutive weeks in a publication of general distribution on the Reservation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Uncontested Will</u>. If, after thirty (30) days, no objections have been filed, the Court may consider the Will to be uncontested, and may proceed based on the petition and supporting documents or evidence.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><u>Contested Will</u>. In order to contest a Will, an interested party must file an objection in writing setting forth the basis of the objections. Anyone objecting to a Will shall have the burden of proof. The Petitioner or any other interested party shall have twenty (20) days to file a reply to the objections. The Tribal Court shall take no further action with respect to the probate of the estate until a hearing has been held on any objections, such hearing to be held within thirty (30) days of the last pleadings filed.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text><u>Order</u>. Upon considering all relevant evidence concerning the Will, the Tribal Court shall enter an order which either affirms that the Will may be probated by the Court or rejects such Will and orders that the probate of the deceased's estate shall proceed as if the deceased had died without making a Will. An order affirming or rejecting a Will is a final order and may be appealed to Tribal Appellate Court before probate proceeds.</text>
+      </para>
+    </section>
+    <section>
+      <num>4.6</num>
+      <heading>Executor of the Will</heading>
+      <para>
+        <num>(a)</num>
+        <text><u>When Executor is Named in Will</u>. If the Tribal Court concludes the Will is valid, the Executor named in the Will shall be appointed to administer the estate according to the terms of this Probate Law and the deceased's Will.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>When No Executor is Named</u>. If there is no Executor named, an Executor shall be appointed based upon the same procedure used to appoint Administrator in Section 3.4 above.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><u>Unwilling or Unable to Serve</u>. If the appointed Executor is unwilling or unable to serve as Executor, then the Tribal Court shall appoint whomever all of the beneficiaries select and agree upon to act as Executor. Absent agreement, Tribal Court shall have discretion in making the appointment to give preference to the surviving spouse and then to a child of the deceased over eighteen (18) years of age. In the rare circumstance where there is no duly enrolled Tribal Member who is able to assume the responsibility of Executor, the Tribal Court may in its discretion name a qualified third party to serve as Executor.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text><u>Oath</u>. Upon his/her appointment, the person appointed Executor shall take an oath prepared by the Tribal Court to the effect that he/she will faithfully and honestly administer the estate. The oath may be taken in person at the Tribal Court or may be done in writing on a form prepared by the Tribal Court</text>
+      </para>
+    </section>
+    <section>
+      <num>4.7</num>
+      <heading>Order of Appointment as Executor</heading>
+      <para>
+        <num>(a)</num>
+        <text><u>Order</u>. Once the Executor takes the oath, the Tribal Court shall issue an Order of Appointment as Executor as proof of his/her appointment. Within seven (7) days, the Executor shall provide a copy of the order to the Tribal Clerk to be recorded either by delivering it in person or by certified mail.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Record of Order</u>. The Tribal Clerk shall record the Order of Appointment as Executor in the Tribal Recording Book, including a copy of the Order in the records. The Tribal Clerk shall note the Tribal Recording book number and page number on a copy of the Order and return it to the Executor for his/her records.</text>
+      </para>
+    </section>
+    <section>
+      <num>4.8</num>
+      <heading>Executor Duties and Procedures</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <u>Preliminary Expenses.</u>
+        </text>
+        <text>The Executor is required to pay for funeral expenses or any outstanding medical bills using the property of the estate, if available. The Executor is not required to pay any expenses out of pocket.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Inventory</u>.</text>
+        <para>
+          <num>(1)</num>
+          <text>List of Assets. The Executor is required to take an inventory of all property and assets of the deceased. Assets may or may not include family heirlooms or items of sentimental value. This inventory is to be filed with Tribal Court within thirty (30) days after his/her appointment. The inventory should include an estimated value of all property and assets of the deceased. If an asset is of significant value, such as real property, an appraisal is recommended. The inventory should also indicate those items intended to be sold for the payment of debts or other estate requirements, if any. The Executor shall provide a copy of this inventory to all persons with a known interest in the estate at the same time it is filed with the Court.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Objection to Inventory. Within thirty (30) days of the receipt of the inventory, any person with an interest in the estate may file an objection to the inventory or to the sale of any item in the inventory.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Hearing and Court Review. If objections to the inventory are filed, the Tribal Court shall schedule a hearing to be held within thirty (30) days of date objections are filed. The Tribal Court shall notify all interested parties of the hearing. Upon consideration of the objections, the Tribal Court may order an amendment to the inventory or appraisal, or issue an order regarding the sale of property, as it deems just and proper to carry out the terms of the estate.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><u>Creditors</u>.</text>
+        <para>
+          <num>(1)</num>
+          <text>Identification. The Executor is required to identify all creditors of the estate. To do so, the Executor shall search the deceased's records for bills, notices, loan papers, and other documentation that suggests the deceased may have outstanding debts. The Executor has the duty to contact all known creditors to determine amounts owed and the process for addressing bills and other debts. The Executor shall also publish a public notice within thirty (30) days of appointment stating that all other creditors must present their claims to the Executor and that only the claims presented may be considered for payment by the estate. The notice shall give the creditors thirty (30) days to respond and will clearly state the final date for claims to be presented. Unless there is a waiver or modification approved by the Court, the notice shall be posted on the Tribe's website, and published for three consecutive weeks in a publication of general distribution on the Reservation and if deemed necessary in the nearby towns of Massena and Malone.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Documentation. For those debts identified by the Executor from the estate records, the Executor shall prepare a list of the amounts owed and any necessary forms or documentation needed to resolve the debts and close accounts. Any other claims submitted by a creditor shall state under oath that his claim is justly due, that to the extent payments were made by the deceased they have been credited, and that he/she knows of no offsets against the claim. If a creditor fails to present a claim within the time period allowed, the creditor may request that the Tribal Court in its discretion allow him/her to file the claim directly with the Tribal Court at the same as the Executor presents the creditors' claims under subsection (4) below. Such requests shall not be unreasonably denied.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Executor Review. Once the Executor collects the creditors' claims, the Executor will review them and will notify the creditors as to whether they are accepted or rejected and explain the reasons for the decision. The Executor is required to make a decision and provide notice within thirty (30) days of presentation of the claim.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Court Review.</text>
+          <para>
+            <num>(A)</num>
+            <text>The Executor shall notify the Tribal Court as to whether any creditor claims have been presented.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>If there are claims, the Executor shall provide the Tribal Court with a list of claims with supporting documentation explaining whether the claim has been accepted or rejected. The Executor must present this information to the Court no later than forty-five (45) days after the creditor claim period has closed.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Rejected creditors have ten (10) days to respond to the list filed with the Court. If after ten (10) days, no objections are filed, the Court may approve the list and the Executor may pay the approved claims. If a rejected creditor files an objection, the Tribal Court shall determine the validity of the claim and the objection, relying on the affidavit or personal testimony of the claimant. An order regarding a creditor's claim may be appealed. If an objection or appeal is filed, the Administrator may pay creditors only after the Tribal Court issues an order regarding the validity of the claims. At no time, shall the Tribal Court permit the sale of Tribal Land to satisfy an estate's debts except if the claimant can show that the deceased expected his/her land to be sold to satisfy the outstanding debt.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Timing</text>
+          <text>In sum, the time frame for the Executor as set forth in this law is as follows:</text>
+          <para>
+            <num>(A)</num>
+            <text>Inventory.</text>
+            <text>
+              <ul proof="needed">
+                <li>Within thirty (30) days after appointment, the Executor will present an estate inventory to the Court.</li>
+                <li>Objections to the inventory are to be filed with the court no later than thirty (30) days thereafter.</li>
+                <li>If objections are filed, the court must hold a hearing within thirty (30) days.</li>
+              </ul>
+            </text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Creditor's Claims.</text>
+            <text>
+              <ul proof="needed">
+                <li>Within thirty (30) days after appointment, the Executor must publish a public notice asking for creditors to bring forth their claims.</li>
+                <li>A Creditor will have thirty (30) days from the date of the last public notice to file a claim with the Administrator.</li>
+                <li>The Executor will have thirty (30) days from the filing of the claim to decide whether to recognize the creditor's claim.</li>
+                <li>If claims are filed or debts are identified, the Executor must file a list of claims with the Court within forty-five (45) days after the claim period closes.</li>
+                <li>Rejected creditors have ten (10) days to file with the Court documentation explaining why they should be paid.</li>
+              </ul>
+            </text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>
+          <u>Insufficient Estate and Reduction of Shares.</u>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>Priority. If there are not enough assets in the deceased's estate to make a full distribution of property under the Will, beneficiary shares shall be reduced, without any preference or priority as between real and personal property, as follows: (1) shares that may be inherited through the application of the rules for distribution without a Will are reduced first; (2) shares that may be inherited though the residual provision of a Will are reduced second, and (3) only then are specific devises under the Will reduced.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Proportion. The reduction of the shares is in proportion to the amount of property each of the beneficiaries would have received if a full distribution of the property had been made in accordance with the terms of the Will.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Specific Devise. If the estate is so insufficient that the subject of a specific devise is sold or used as part of estate administration, the remaining shares shall be adjusted to reflect the contribution of the specific devise.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>
+          <u>Distribution of Estate.</u>
+        </text>
+        <text>The Executor is responsible for distributing the estate once beneficiaries are identified and the creditors, if any, have been identified.</text>
+        <para>
+          <num>(1)</num>
+          <text>Creditors. All verified claims of creditors allowed by the Tribal Court shall be paid before distribution of the estate to the heirs.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Accounting. Before distributing the estate to the beneficiaries, the Executor must provide the Tribal Court with an accounting of the estate for approval. The accounting will show all disbursements made for expenses and creditors, and shall include receipts. The accounting will also show the computation of any attorney's and/or Executor's fees for which approval is sought. The accounting will set out the remaining estate to be distributed and contain a statement that the estate is ready to be distributed to the beneficiaries. The accounting may include a signed consent form from each beneficiary to the proposed distribution from the estate.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Advances. When distributing property among the beneficiaries, any property that was advanced is valued at the time the beneficiary came into possession of the property.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Executor Fee. If an Executor requests a fee, the Tribal Court shall establish the percentage for compensation on a case by case basis, but in no event shall the percentage be more than five (5%) percent of the total value of the gross estate</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>
+          <u>Order Approving Distribution and Closing of Estate.</u>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>Order of Distribution. When the Tribal Court is satisfied that an estate is ready to be distributed and the Executor has set out the plan for distribution in the accounting, the Tribal Court shall issue an order approving the distribution.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Closing of Estate. Once the estate is distributed, the Executor shall file a statement with the Tribal Court stating that the estate is fully administered and ready to be closed and submit receipts showing that the estate is fully distributed. Upon receipt of this statement, the estate shall be closed, the Executor of the estate shall be dismissed, and if applicable, any bond shall be released.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text><u>Reopening an Estate</u>. If property is discovered after an estate has been closed, the estate may be reopened to dispose of the property. The Tribal Court shall order distribution of the property to the person or persons entitled thereto after issuing whatever orders are necessary to assure a just participation of the after-discovered property in the expenses of the estate.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>5</num>
+    <heading>STATUS OF NON-MEMBER OR NON-INDIAN</heading>
+    <section>
+      <num>5.1</num>
+      <heading>Tribal Council Action</heading>
+      <para>
+        <num>(a)</num>
+        <text><u>Real Property</u>. Non-members of the Tribe and non-Indians may not receive or hold a permanent right to possess an interest in Tribal Lands through a Will, trust instrument, or any other conveyance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><u>Tribal Council Authority</u>. If a Tribal Member dies, and the estate is admitted to probate, the Tribal Court shall not have jurisdiction over the question of whether a surviving non-Tribal Member spouse or child may be the beneficiary of a possessory interest held by the deceased. The Tribal Council retains the authority to grant a life estate to a surviving non-Tribal Member spouse or child at the request of a Tribal Member or the non-Tribal Member spouse or child in lieu of any inheritance of such tribal property from the deceased.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><u>Petition</u>. In order to obtain the benefits of a life estate, a non-tribal member spouse, a non-member spouse on behalf of minor children, or a non-member child may petition for a life estate by completing a form designated by the Tribal Clerk's Office requesting that the Tribal Council approve a life estate. This form also shall be provided to the Tribal Court as part of the estate record. A copy of the death certificate shall accompany the request for a life estate. The petition should also include any statements of support from the family or community.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text><u>Rights</u>. The Tribal Council has no obligation to grant a life estate to a non-Tribal member. Subject to the terms of the Indian Civil Rights Act, the Tribal Council's decision shall be final for the Tribe and not subject to review by the Tribal Court. A life estate can be revoked at any time since the Tribe retains the right to exclude anyone from the Reservation.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text><u>Interest Granted</u>. By granting a life estate, the life estate beneficiary is entitled to the use and income from the deceased's interest in tribal property. Upon the death of the life estate beneficiary, the property shall transfer to the holder of the remainder of the estate interest or if, no other beneficiary exists, it shall revert to the Tribe.</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>CHAPTER</prefix>
+    <num>6</num>
+    <heading>MISCELLANEOUS</heading>
+    <section>
+      <num>6.1</num>
+      <heading>Applicable Laws</heading>
+      <text>Where the method of procedure is not outlined herein the Tribal Civil Procedures Act shall apply. If any provision herein conflicts with any other Tribal Law then this law shall govern unless its application would result in an unequitable decision.</text>
+    </section>
+    <section>
+      <num>6.2</num>
+      <heading>Appeals</heading>
+      <text>All final decisions of the Tribal Court regarding this Law shall be appealable to the Saint Regis Mohawk Tribe Appellate Court. No interlocutory appeals of this Law shall be permitted except for appeals concerning Section 4.5(c).</text>
+    </section>
+    <section>
+      <num>6.3</num>
+      <heading>Amendments</heading>
+      <text>This Law may be amended from time to time upon the approval of such amendments by the majority of Tribal Council.</text>
+    </section>
+    <section>
+      <num>6.4</num>
+      <heading>Severability</heading>
+      <text>The provisions of this Law are severable and if any part or provision shall be held void by any Court of competent jurisdiction, the decision of the Court so holding shall not affect or impair any of the remaining parts or provisions of this Law.</text>
+    </section>
+    <section>
+      <num>6.5</num>
+      <heading>Immunity Not Waived</heading>
+      <text>The Tribal Council does not waive its immunity for any actions taken herein or other decisions it may have taken in the past regarding estates and/or assets contained in a decedent's estate.</text>
+    </section>
+    <section>
+      <num>6.6</num>
+      <heading>Effective Date</heading>
+      <text>This Probate Law shall become effective upon enactment.</text>
+    </section>
+  </container>
+</document>

@@ -6,7 +6,7 @@
     <heading>SHORT TITLE, FINDINGS, AND PURPOSE</heading>
     <section>
       <num>A</num>
-      <heading>Short Title.</heading>
+      <heading>Short Title</heading>
       <text>This ordinance shall be known as the St. Regis Mohawk Tribe Mortgage Foreclosure and Eviction Ordinance. Its short title shall be the "Foreclosure Ordinance".</text>
     </section>
     <section>
@@ -155,12 +155,14 @@
       <num>C</num>
       <heading>Certification</heading>
       <text>Upon completion of the above-cited endorsements, the Tribal Clerk shall make a true and correct copy of the mortgage or other document and shall certify the copy as follows:</text>
+      <text>
+        <strong>St. Regis Mohawk Tribe}</strong>
+      </text>
+      <text>Indian Reservation</text>
     </section>
     <section>
-      <num>St</num>
-      <heading>Regis Mohawk Tribe}</heading>
-      <text>Indian Reservation</text>
-      <text>I certify that this is a true and correct copy of a document received for recording this date.</text>
+      <num>I </num>
+      <heading>Certify That This Is a True and Correct Copy of a Document Received for Recording This Date</heading>
       <text>Given under my hand and seal this _______ day of _____________________, 20_____.</text>
       <text>_____________________________	    -Seal-		_______________________________</text>
       <text>(Signature) 						(Date)</text>

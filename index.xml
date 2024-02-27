@@ -16,8 +16,8 @@
       <repositories>
         <repository name="srmt-nsn/law-xml" commit="3d37232e07207b2e95daecb9ce2207d791c07e42"/>
       </repositories>
-      <platform version="2.13.0" reproducible="false"/>
-      <build-date>2024-01-31</build-date>
+      <platform version="2.14.0" reproducible="false"/>
+      <build-date>2024-02-27</build-date>
       <codified-date>2023-09-13</codified-date>
     </build>
   </meta>
@@ -53,15 +53,28 @@
   </collection>
   <collection name="us/nsn/srmt/council/acts">
     <heading>Tribal Acts/Codes/Laws/Ordinances</heading>
+    <xi:include href="./us/nsn/srmt/council/acts/AdultUseCannabisOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/AlcoholBeveragesControlAct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/BusinessOrganizationsOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/CodeOfJudicialConduct.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/CommunicationsRegulatoryAct.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/CourtAndJudiciaryCode.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/ElectionAndReferendumOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/FamilySupportAct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/GamingOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/HempRegulations.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/JudicialOversightCommissionOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/LandLawsAndLandDisputeOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/MedicalMarijuanaOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/MortgageForeclosureAndEvictionOrdinance.xml"/>
-    <xi:include href="./us/nsn/srmt/council/acts/SecuredTransactionsOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/NonMemberFishingRegulationsAndLaws.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/PesticideRegulation.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/PoliceCommissionAct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/ProbateLaw.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/ResidencyOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/RoomOccupancyFeeOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/SecuredTransactionsOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/SolidWasteManagementCode.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/TribalProceduresAct.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/VehicleAndTrafficLaw.xml"/>
   </collection>

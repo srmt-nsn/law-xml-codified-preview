@@ -1,0 +1,532 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Land Laws and Land Dispute Ordinance (Saint Regis Mohawk Tribal Act)">
+  <para>
+    <num>I.</num>
+    <text>
+      <strong>TITLE</strong>
+    </text>
+    <text>This Ordinance shall be known as the Saint Regis Mohawk Tribe Land Laws and Dispute Ordinance.</text>
+  </para>
+  <para>
+    <num>II.</num>
+    <text>
+      <strong>AUTHORITY AND PURPOSE</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>The Saint Regis Mohawk Tribal Council ("Tribal Council" or "Council") is the duly recognized governing body of the Saint Regis Mohawk Tribe ("Tribe") and is responsible for the health, safety, education and welfare of all members of the Tribe. The Tribe has the inherent authority to control the ownership of property and the issuance of use and occupancy deeds for property within the Tribe's Reservation. The Saint Regis Mohawk Tribe Tribal Clerk ("Tribal Clerk") has the authority to record title and land transfers that occur between members on the Reservation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>This Ordinance is intended to set forth general rules for the issuance of deeds and the transfer of title and land interests on the Reservation. In addition, this Ordinance is intended to delegate to the Saint Regis Mohawk Tribal Court ("Tribal Court" or "Court") the authority to resolve land disputes.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>This Ordinance shall apply to all lands within the boundaries of the 1796 Saint Regis Mohawk Tribe Reservation.</text>
+    </para>
+  </para>
+  <para>
+    <num>III.</num>
+    <text>
+      <strong>DEFINITIONS</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>"Boundary line agreement" is a written agreement between adjacent landowners by which each landowner agrees to the written description of the location of the border that delineates each property-one from the other.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>"Certified Copy" is a copy of a document that has been certified by the Tribal Clerk as a true and accurate copy of the original document.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>"Child(ren)" / "grandchild(ren)" refers to a natural born or legally adopted child, or grandchild, as long as the child is a Tribal Member or eligible to become a Tribal Member.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>"Claimant" is the person who files a land dispute claim in Tribal Court.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>"Interested Party" is any Tribal Member who claims to have an interest in the outcome of the proceeding and who seeks to participate in a land dispute proceeding. "Interested party" does not include a Tribal member without a recognizable interest in resolution of the case. A Tribal Member seeking to participate as an interested party and who has an identifiable and known legal interest in the disputed property shall be treated as an Intervenor and will be bound by the Court's rulings.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>"Land Dispute" is a disagreement between Tribal Members over claims to title, boundary lines, issuance or validity of deeds, transactions, and any other matter regarding property interests on the Reservation. The issuance of a Use and Occupancy Deed by the Tribe and the Tribal Clerk, even if in error, does not create a land dispute involving the Tribe. Any claim that a deed has been issued in error is to be resolved as a land dispute between the parties claiming an interest in the property and, when resolved, could result in a court order to the Tribe to issue a new deed or to revise or revoke an existing deed.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>"Legal Guardian" is a parent or an individual legally appointed by a court of competent jurisdiction as the guardian of minor children.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>"Life estate" is a way of holding real property that is limited to the life of the party holding it and, upon whose death, the property reverts to another Tribal Member.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>"Recorded" refers to the filing or registration of documents or transactions with the Tribal Clerk's Office so as to memorialize the registration or transaction document in accordance with established procedures.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>"Respondent" is the person against whom a land dispute claim is filed. The Tribe, the Tribal Council, the Tribal Clerk, or any tribal official may not be named as a Respondent in a land dispute for the official act of issuing a deed. This limitation, however, is subject to the limited waiver of immunity in this Ordinance. The Tribe may be named as a Respondent if a deed is issued to the Tribe itself or if the Tribe is claiming an interest in any land subject to a claim.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>"Spouse" refers only to a legally married husband or wife. The Saint Regis Mohawk Tribe does not recognize "common law" marriage.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>"Tribal Council" for purposes of this ordinance, refers to the three duly elected Chiefs of the Saint Regis Mohawk Tribe.</text>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>"Tribal Member" for purposes of this ordinance, includes anyone who is enrolled with the Saint Regis MohawkTribe or eligible for enrollment with the Saint Regis Mohawk Tribe.</text>
+    </para>
+  </para>
+  <para>
+    <num>IV.</num>
+    <text>
+      <strong>TRIBAL LAW, CUSTOMS AND PRACTICES</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>Application of Customs and Practices. The customs and practices of the Saint Regis Mohawk Tribe shall be applied in all situations where it is relevant to resolve a land dispute.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Order of Consideration. Written tribal laws will be considered first. If no written Tribal law applies to the circumstance raised in a dispute, the Tribe's customs and practices may be considered.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Resolution of Ambiguity. Where any doubt arises as to past practices and customs, the Court, with the agreement of both parties, may request the advice of Tribal Members who may be familiar with the Tribe's customs and practices, or the Court may pose a certified question to the Tribal Council or the Tribal Clerk. If issues of doubt regarding past practices and customs are presented in Tribal Court, the matter must be resolved through normal tribal court procedure for witness and evidence collection.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Acknowledgment. The Tribe acknowledges that Mohawk Nation Council of Chiefs uses its own process to record property ownership of its members, which may be recognized by the Tribe as evidence of property ownership for the Tribe's land recording purposes or to resolve land disputes brought to the Tribe.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Guiding Legal Principles. In order to resolve land disputes according to tribal customs and practices, this Ordinance will set forth the general legal principles that have governed land use and occupancy on the reservation.</text>
+      <para>
+        <num>1.</num>
+        <text><u>Power to Issue Deeds is Reserved</u>. The power to make land assignments and to issue Use and Occupancy Deeds is vested in the Saint Regis Mohawk Tribal Council as the sovereign government with jurisdiction and authority over the Reservation. The Tribal Council and the Tribal Clerk issue deeds in their official capacity based on deeds, contracts and other agreements or documents such as wills.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text><u>Resolution of Disputes</u>. The Tribal Council shall exercise its discretion and judgment in issuing deeds and it may do so upon request of a Tribal Member with the presentation of proper documentation. It is recognized that a request to the Council to issue a deed may change the ownership of land in a way that may negatively affect a Tribal Member. The issuance of a deed by the Tribal Council and the Tribal Clerk does not constitute the resolution of a land dispute. If a Tribal Member disagrees with the recordation or issuance of a deed, the remedy is to file a land dispute claim in Tribal Court.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text><u>Forms of Evidence of Land Ownership</u>. The following documentation may be considered valid evidence of land ownership for all or a portion of land identified in a Use and Occupancy Deed:</text>
+        <para>
+          <num>(a)</num>
+          <text>Official and Original or Certified Copy of a Use and Occupancy Deed issued and signed by the Tribal Council and recorded in the Tribal Clerk's records.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Valid Land Contract.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Valid Will (a will that meets the requirements of the Probate Law).</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Valid Bill of Sale.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Valid receipt for the purchase of property if accompanied by other evidence to substantiate a sale of property.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Prior Tribal Council finding.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Prior Tribal Court finding.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Decisions from other Courts.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Sworn written testimony.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Sworn oral testimony.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Any other relevant evidence.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>
+          <u>Limitation on Who May Use and Occupy Land.</u>
+        </text>
+        <para>
+          <num>(a)</num>
+          <text>Only Tribal Members shall be permitted to possess a Use and Occupancy Deed on the Reservation. A corporation, limited liability corporation, or trust either testamentary or inter vivos shall not be permitted to possess a Use and Occupancy Deed on the Reservation even if such entity is formulated under Tribal law; provided however that wholly-owned Tribal entities or those created by the Tribe that are formed for the benefit of the Tribe may use and possess land as needed.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In any case where a Tribal Member wants to transfer land to a minor Tribal Member, the land shall be held in trust by a legal guardian until the minor Tribal Member reaches the age of majority, which is eighteen (18) years old. When the minor Tribal Member reaches the age of majority the legal guardian's trust obligation shall no longer have any force or effect. The legal guardian shall have a fiduciary responsibility to the minor Tribal Member until the minor reaches the age of majority.</text>
+        </para>
+      </para>
+      <para>
+        <num>5.</num>
+        <text><u>Limitation on the Right to Transfer</u>. Reservation land may not be sold to, held by, pledged, assigned, or in any way relinquished to a non-member of the Saint Regis Mohawk Tribe.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text><u>Assumptions Regarding Land Ownership</u>.</text>
+        <para>
+          <num>(a)</num>
+          <text>When two or more Tribal Members are listed as owners of property and are granted the interest simultaneously, the owners shall be deemed joint tenants with rights of survivorship, unless expressly declared to be tenants in common. As joint tenants, the owners will own equal undivided shares. Upon the death of one of the tenants, that share will be distributed equally to the remaining tenants (survivorship). A joint tenant may transfer his/her share, but that transfer will automatically change the ownership between the transferring joint tenant and the non- transferring joint tenants to tenants in common. The transfer does not change the relationship between the non-transferring joint tenants.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If a deed declares the property will be held as tenants in common, each owner will own the property in equal shares unless different portions are expressly stated in the deed and each owner is entitled to possess the whole. A tenant in common may sell his/her share to anyone. If a tenant dies, there is no right of survivorship with the other tenants and that share will pass through inheritance as provided for in the Probate Ordinance.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A deed held by a husband and wife creates a tenancy by the entirety, unless expressly declared to be a joint tenancy or a tenancy in common. A tenancy in the entirety means that upon the death of one spouse, the property automatically passes to the surviving spouse and probate is not necessary.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>These assumptions shall apply to all deeds existing on the date the amendments to this Ordinance are adopted unless the Tribal Member/s request the deeds be amended to reflect the intention of the owners that may be different than the assumptions enacted here.</text>
+        </para>
+      </para>
+      <para>
+        <num>7.</num>
+        <text><u>Use and Occupancy Deed</u>. A Use and Occupancy Deed is an official Tribal document granting the holder the right to use and occupy land at the will of the Tribe, signed by the Tribal Council and certified by the Tribal Clerk.</text>
+        <para>
+          <num>(a)</num>
+          <text>All land assignments and deeds made or issued by the Council are presumptively valid. The deed recorded first with the Tribal Clerk of the Saint Regis Mohawk Tribe will supersede all other deeds, unless it can be shown that the deed recorded first is subject to challenge under subparagraph (b).</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A deed issued and/or recorded by the Tribal Clerk may only be challenged if (i) there has been a substantial error committed by the Tribal Council or Clerk in issuing the deed; (ii) there is evidence of fraud in the documents used to substantiate the issuance of the deed; or (iii) evidence of fraud, deceit, coercion or duress in the signing of documents or in the transfer made in the deed. The party challenging the deed has the burden of proof to show with clear and convincing evidence that a deed was not properly issued or recorded.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Tribal Council has the right to correct or amend deeds in order to correct language or typographical errors and these corrections may not be reviewed. The Tribal Council also has the right to correct clerical errors, including errors that may have resulted in a deed being issued in violation of a previously recorded valid deed. Tribal Council, however, shall provide written notice to all affected parties of the error and of its intent to make a correction.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Correction of clerical errors may be challenged and shall be reviewed under the arbitrary and capricious standard, and a party may seek declaratory or injunctive relief.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>If a land claim dispute is filed, all actions by all parties in relation to the property in dispute shall be stayed pending review.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>All recorded deeds must bear the signature of the Tribal Council along with the signature and seal of the Tribal Clerk.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Use and Occupancy Deeds may be transferred between Tribal Members either through a land contract, a bill of sale, by simple purchase, or as a gift between family members. In order to ensure the Tribe's land records are current and accurate and reflect the current ownership, upon the effective date of this Ordinance, all transfers of Use and Occupancy Deeds shall be recorded with the Tribal Clerk. The failure to record a transfer which took place prior to the effective date of this Ordinance is not a basis to declare a transfer invalid.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Use and Occupancy Deeds may not be transferred to a non-member or non-Indian in any manner, and the Tribe reserves the right to declare invalid such a transfer.</text>
+        </para>
+      </para>
+      <para>
+        <num>8.</num>
+        <text><u>Land Contracts</u>. A land contract is an agreement between a buyer and seller for the purchase of a right to use and occupy a parcel of land where the buyer makes installment payments to the seller for the eventual conveyance of the Tribal Use and Occupancy Deed or right to occupy the property. The following shall be considered in assessing the validity of a Land Contract:</text>
+        <para>
+          <num>(a)</num>
+          <text>The agreement may be informal, but must be written.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The agreement shall provide that a buyer will receive a deed to the property when all of the conditions of the contract have been satisfied.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Each contract will differ, but many land contracts provide that the buyer may occupy and make improvements to the land, even though the complete right to use and occupy is not transferred until the land contract is fulfilled. Once executed, a land contract may be filed with the Tribal Clerk's office to provide notice to the community at large. If there are multiple land contracts the Tribal Court must have a hearing to determine which land contract takes precedence.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Upon the effective date of this Ordinance, to validate the final conveyance of the right to use and occupy property and to ensure the Tribe's Land Records are accurate and current,</text>
+        </para>
+        <text>once a land contract is fulfilled, and if it was not previously recorded it shall be recorded with the Tribal Clerk and a Use and Occupancy Deed shall then be issued. The failure to record a contract that was fulfilled prior to the effective date of this Ordinance shall not be a basis to declare the contract invalid.</text>
+        <para>
+          <num>(e)</num>
+          <text>If the buyer defaults under the terms of the contract, the seller may seek to evict the buyer through a claim in Tribal Court, if necessary, and may keep the installment payments and any improvements thereon, unless the buyer can demonstrate to the Court's satisfaction that to return the land with the improvement along with keeping monies paid would result in the seller's unjust enrichment. The Tribal Court must have a hearing to determine if the buyer is entitled to any compensation. The Tribal Court must state its findings in a written order.</text>
+        </para>
+      </para>
+      <para>
+        <num>9.</num>
+        <text><u>Bill of Sale</u>. A Bill of Sale is a record of a purchase transaction between individuals for the exchange of their right to use and occupy a particular parcel of land and may stand as a deed conveying the right to use and occupy the property under tribal law. The following shall be considered in assessing a Bill of Sale:</text>
+        <para>
+          <num>(a)</num>
+          <text>As of the effective date of this Ordinance, the Bill of Sale must be signed, witnessed or notarized and then recorded with the Tribal Clerk in order to be a valid transfer of the right to use and occupy property.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In the past, Bills of Sale were not always recorded with the Tribal Clerk. In the event the Bill of Sale was not recorded, the Bill of Sale will be considered a binding document evincing an intent to transfer the right to use and occupy a property in the same manner as a deed, unless there is evidence expressly contrary to that intent.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In the instance that there are two Bills of Sale for one particular property, the Bill of Sale dated first will supersede any and all other Bills of Sale unless it can be shown to be invalid. A Bill of Sale may only be deemed invalid by the Tribal Court if there is evidence of fraud, deceit, coercion or duress in the transfer made in the Bill of Sale or in the signing of the document. The party challenging the Bill of Sale has the burden of proof to show with clear and convincing evidence that a document is invalid.</text>
+        </para>
+      </para>
+      <para>
+        <num>10.</num>
+        <text><u>Survey of Tribal Lands</u>.</text>
+        <para>
+          <num>(a)</num>
+          <text>For those transfers of property where a survey is required, the parties may either provide the survey themselves, subject to the approval of the Tribal Clerk, or the Tribal Clerk may provide assistance in obtaining a survey. The Tribal Clerk shall set a fee schedule for the cost of a survey, to be approved by the Tribal Council. For those Tribal Members who cannot afford a survey, they can submit a request to Tribal Clerk or his/her designee for a fee waiver, subject to availability of resources. The Tribal Clerk shall determine, based upon established guidelines, who shall be eligible for such a waiver.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Property transferred on the Reservation must be properly described with boundaries that are clearly delineated, measurable and not in dispute. As of the effective date of this Ordinance, a survey by a licensed surveyor is required for all parcels of land transferred on the Reservation unless:</text>
+          <para>
+            <num>(1)</num>
+            <text>there is an existing survey of the subject parcel that is less than ten (10) years old; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the parties and any affected adjacent landowners enter into a boundary line agreement that provides an accurate description of the property being transferred, and the parties agree in writing that a survey is not necessary and they agree to be bound to the property description; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the transfer is a family transfer and does not change the existing boundaries of the property, unless the Tribal Clerk deems it necessary. If the Tribal Clerk deems a survey necessary none shall be required if the affected adjacent landowners enter into a boundary line agreement.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Surveys for disputed land parcels:</text>
+          <para>
+            <num>(1)</num>
+            <text>If a parcel is not surveyed prior to a transfer and a dispute arises as to boundaries described within the transferring document, the parties to the transaction or adjacent landowners agree to be bound by an impartial survey by a third party, unless the transferring document is so ambiguous that the surveyor cannot complete the survey. In that instance, the Tribal Court shall be empowered to decide how the boundaries shall be surveyed, based on evidence presented in a Tribal Court proceeding.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>In resolving boundary disputes, the Tribal Court may not rely on GIS or other data to determine property boundaries. The parties shall provide the Court with surveys performed by licensed surveyors to support any claims regarding boundary lines provided that, in the case of ambiguity in a deed and relying on common law principles in drawing property boundaries, the Court may issue instructions to resolve an ambiguity so that a proper survey may be performed. If neither party presents a survey to the Court in a boundary dispute or in a case involving property lines, the Court may order a survey and assess the cost to the party or parties in its discretion.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>V.</num>
+    <text>
+      <strong>LAND DISPUTE CLAIM PROCEDURES</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <heading>Tribal Court Jurisdiction.</heading>
+      <para>
+        <num>1.</num>
+        <text>The Saint Regis Mohawk Tribal Court shall have jurisdiction over land disputes. The Tribal Court shall have the authority to award monetary damages and equitable relief, provided however, that the Tribal Council retains the sole authority to issue, revise, or rescind a Use and Occupancy Deed. The Tribal Council is bound by any Tribal Court Order regarding land disputes, and failure to obey such orders shall subject the Tribe, but not the individual Council Members acting in their official capacity, to equitable or injunctive relief, as necessary to enforce the Order.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Tribal Court shall have jurisdiction over any land dispute that is commenced within six years of accrual of the injury or the date the party knew or should have known of the injury that serves as the basis of the claim. The Tribal Court has the discretion to waive the statute of limitations for good cause, such as where the party could not have known or was prevented from knowing of his or her injury.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Capacity to File a Dispute.</heading>
+      <text>A land dispute may be filed by:</text>
+      <para>
+        <num>1.</num>
+        <text>Any enrolled Tribal Member;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A non-member on behalf of his or her minor, mentally or physically handicapped and dependent child(ren) or family member, as long as the child(ren) or family member is/are Tribally-enrolled; or</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A non-member spouse who may seek a life estate after the death of his or her Member spouse.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <heading>Information Required.</heading>
+      <text>A Land Dispute Complaint shall contain the following information:</text>
+      <para>
+        <num>1.</num>
+        <text>A Statement of the nature of the dispute, e.g. boundary line, title, ownership;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Names of all other Interested Parties, including Claimant and Respondent and their connection to the dispute and the reason for each party's interest; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Copies of any relevant documents which may be required to address the dispute and which will inform the Court and the parties about the facts, including, but not limited to, Wills, Deeds, Use and Occupancy Deeds, Tribal Council Decisions, Surveys, Bills of Sale or any other relevant correspondence, or receipts.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <heading>Public Notice.</heading>
+      <para>
+        <num>1.</num>
+        <text>Within ten (10) days following the filing of the Claim, the Tribal Court Clerk shall publish a Notice which shall start the thirty-day (30) Public Notice Period. The Notice shall state:</text>
+        <text class="center">
+          <strong>PUBLIC NOTICE OF LAND DISPUTE</strong>
+        </text>
+        <text>
+          <strong>Any Person having any interest whatsoever or information pertaining to this matter shall have thirty (30) business days from the date of publication of this Notice to file opposing or related claims or to provide relevant information to the Court. Information and related claims should be filed no later than _________________, 20 _______.</strong>
+        </text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Notice shall also contain the following information:</text>
+        <para>
+          <num>(a)</num>
+          <text>Name and address of the Claimant;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Name and address of Respondent;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Address or other information regarding the location of the property in dispute;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Claim file number;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>A brief description of the nature of the dispute.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Notice shall appear in at least one weekly Akwesasne community newspaper and on the Official Tribal Website at www.srmt-nsn.gov. The Public Notice shall be published for two consecutive weeks and shall also be displayed at the Tribal Community Building. The cost of the notice shall be born by the Claimant as provided for in the Court fee schedule.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <heading>Confidentiality.</heading>
+      <text>Any material provided to the Court during this process also will be provided to all Interested Parties. However, any documentation that could be considered private or confidential, including but not limited to social security number, date of birth or other information used as identity, shall be segregated from the case file and may be viewed only by the Court, the Claimant, and the Respondent unless a release is signed by the affected party.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <heading>Applicable Laws and Rules.</heading>
+      <text>All Tribal Laws, including those pertaining to procedures before the Saint Regis Mohawk Tribal Court shall govern the land dispute claims filed in Tribal Court. If there is an apparent conflict of Laws, the Tribal Court shall seek to read the Laws in a way that they will work together. But, to the extent there is a conflict, this Ordinance shall take precedence in relation to land and land disputes.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <heading>Review of Prior Tribal Council Land Dispute Decisions.</heading>
+      <para>
+        <num>1.</num>
+        <text>As a matter of equity, the statute of limitations will be waived and the Tribal Court shall have the authority to review any land dispute decisions made by Tribal Council between December 1, 1998 and December 3, 2009 (the original Effective Date of the prior Land Dispute Ordinance). Such review shall be de novo. This authority shall expire on June 30, 2018.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>As of December 3, 2009, the Tribal Council no longer had authority to resolve land disputes. If, between December 4, 2009, and the date of the adoption of this Ordinance, the Tribal Council took action on a land dispute despite this bar, the party seeking to file a claim regarding such action must first establish that Tribal Council actually resolved a land dispute as defined herein before a claim may be brought. The Tribal Court shall have the discretion to waive the statute of limitations regarding a land dispute in such case, but in no instance, may the Tribal Council or Tribe be named as a party except as permitted under this Ordinance. Tribal Court shall not entertain cases where the Tribal Council simply executed a Use and Occupancy Deed.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>
+        <strong>Review of Prior Land Tribunal Cases</strong>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>All cases filed with but <strong><u>not finally resolved</u></strong> by the Land Dispute Tribunal under the prior Ordinance shall be transferred to the Tribal Court to be heard under this Ordinance. No additional filing fee shall be required. The Court shall provide written notice to each party in each pending matter.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>All cases that were previously filed under the prior Ordinance with the Land Dispute Tribunal that resulted in final decisions from the Land Dispute Tribunal or for which appeals have been exhausted may not be filed in, nor reheard by, the Tribal Court.</text>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <heading>Appeals.</heading>
+      <text>All final decisions of the Tribal Court regarding land or land disputes shall be appealable to the Saint Regis Mohawk Tribe Appellate Court.</text>
+    </para>
+  </para>
+  <para>
+    <num>VI.</num>
+    <text>
+      <strong>SOVEREIGN IMMUNITY NOT WAIVED</strong>
+    </text>
+    <text>The Tribal Council agrees to a limited waiver of its immunity solely for the Tribal Court to review any decisions the Tribal Council rendered on land disputes as defined in Sec. III.F., to hear any claim in which the Tribe claims title or an ownership interest in property which is in dispute, or to hear a claim regarding the correction of a deed. The waiver shall apply to equitable remedies only. Otherwise, nothing in this Ordinance is intended nor shall be construed as any other waiver of the sovereign immunity of the Saint Regis Mohawk Tribe from suit in State, Federal or Tribal Court against the Saint Regis Mohawk Tribe, any Tribal entity, or any official acting in his or her official capacity.</text>
+  </para>
+  <para>
+    <num>VII.</num>
+    <text>
+      <strong>AMENDMENT</strong>
+    </text>
+    <text>This Ordinance may be amended upon the approval of such amendments by the majority of Tribal Council and upon notice to the Tribal membership.</text>
+  </para>
+  <para>
+    <num>VIII.</num>
+    <text>
+      <strong>REPEALER</strong>
+    </text>
+    <text>This Ordinance shall supersede and replace all prior Ordinances, or portions thereof, adopted by the Saint Regis Mohawk Tribe, as they pertain to the matters contained herein.</text>
+  </para>
+  <para>
+    <num>IX.</num>
+    <text>
+      <strong>SEVERABILITY</strong>
+    </text>
+    <text>The provisions of this Ordinance are severable and if any part or provision shall be held void by any Court of competent jurisdiction, the decision of the Court so holding shall not affect or impair any of the remaining parts or provisions of this Ordinance.</text>
+  </para>
+  <para>
+    <num>X.</num>
+    <text>
+      <strong>EFFECTIVE DATE</strong>
+    </text>
+    <text>This Amended Ordinance shall become effective upon enactment.</text>
+    <text>
+      <u>Amendments</u>
+    </text>
+  </para>
+  <para>
+    <num>1.</num>
+    <text>Updated the definition of Interested Party and who may be permitted to be an intervenor in a case.</text>
+  </para>
+  <para>
+    <num>2.</num>
+    <text>Included in definition of Tribal Member to include anyone who is eligible for Membership with the Saint Regis Mohawk Tribe.</text>
+  </para>
+  <para>
+    <num>3.</num>
+    <text>Clarified Section IV.E.3.c regarding a valid Will as a form of land ownership. In order to be considered proof of land ownership the Will must meet the requirements of the Tribe's Probate Law (TCR 2017-52 or as amended).</text>
+  </para>
+  <para>
+    <num>4.</num>
+    <text>In Section IV.E.4 clarified who may own land on th Reservation and disqualified certain entities from owning land such as a trust.</text>
+  </para>
+  <para>
+    <num>5.</num>
+    <text>Added a Section IV.E.6 regarding certain assumptions on the ownership of land as written in Tribal Use and Occupancy Deeds. It also recognizes that Tribal Court has been utilizing certain terms such as tenants in common.</text>
+  </para>
+  <para>
+    <num>6.</num>
+    <text>Updated Section IV.E.8 Land Contracts regarding requirements and process for a land contract.</text>
+  </para>
+  <para>
+    <num>7.</num>
+    <text>Section IV.E.10.c - clarified the requirements for surveys for disputed land parcels.</text>
+  </para>
+  <para>
+    <num>8.</num>
+    <text>Deleted Section V-Principles of Inheritance since the Tribe enacted a Probate Law.</text>
+  </para>
+  <para>
+    <num>9.</num>
+    <text>Section V.D.3 - Public Notice section has shifted the cost of the public notice from Tribal Court to the Claimant with cost being set out in the Court's fee schedule.</text>
+  </para>
+  <para>
+    <num>10.</num>
+    <text>Section VI - Sovereign Immunity Not Waived-fixed an incorrect internal reference.</text>
+  </para>
+</document>

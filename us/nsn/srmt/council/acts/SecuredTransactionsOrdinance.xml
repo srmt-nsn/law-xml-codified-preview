@@ -2,7 +2,7 @@
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Secured Transactions Ordinance (Saint Regis Mohawk Tribal Act)">
   <section>
     <num>I</num>
-    <heading>Title, Purpose and Applicability.</heading>
+    <heading>Title, Purpose and Applicability</heading>
     <para>
       <num>A.</num>
       <text><u>Title</u>. This Ordinance shall be known as the "Saint Regis Mohawk Secured Transactions Ordinance" (the "Ordinance").</text>
@@ -18,7 +18,7 @@
   </section>
   <section>
     <num>II</num>
-    <heading>Definitions.</heading>
+    <heading>Definitions</heading>
     <text>In this Ordinance, the terms listed below have the following meanings:</text>
     <para>
       <num>A.</num>
@@ -44,12 +44,12 @@
   </section>
   <section>
     <num>III</num>
-    <heading>Scope.</heading>
+    <heading>Scope</heading>
     <text>This Ordinance shall apply only to security interests and collateral subject to the sovereign authority of the Tribe securing the Obligations described in the Credit Agreement, to the same extent provided in Section 9-109 of the New York UCC, except that provisions of Sections 9-109(c)(2) and (c)(3) of the New York UCC shall be ineffective to limit the application of the New York UCC to Tribal Parties in accordance with this Ordinance. This Ordinance shall not apply to security interests or collateral securing any obligations other than the Obligations described in the Credit Agreement.</text>
   </section>
   <section>
     <num>IV</num>
-    <heading>Laws Applicable to Security Interests.</heading>
+    <heading>Laws Applicable to Security Interests</heading>
     <para>
       <num>A.</num>
       <text>With respect to any security interest to which this Ordinance applies, except as provided elsewhere in this Ordinance, the rights and obligations of any person shall be governed by the New York UCC, including those rights and obligations related to enforcement of a security interest or arising after a default, including all filing requirements.</text>
@@ -73,12 +73,12 @@
   </section>
   <section>
     <num>V</num>
-    <heading>Amendment.</heading>
+    <heading>Amendment</heading>
     <text>Once applicable to any security interest, this Ordinance shall remain in effect with respect to that security interest until all obligations secured thereby have been fully and finally discharged or otherwise fully satisfied, except that this Ordinance may be amended, with prior notice to each secured party, only to the extent such amendment is not adverse in any way to any secured party with respect to any security interest.</text>
   </section>
   <section>
     <num>VI</num>
-    <heading>Repealer and Effective Date.</heading>
+    <heading>Repealer and Effective Date</heading>
     <para>
       <num>A.</num>
       <text>To the extent any provision of any law, ordinance, resolution, motion, or any other action of the Tribe or any Tribal Party heretofore taken is in conflict with any provision of this Ordinance, the provisions of this Ordinance shall control.</text>
@@ -90,7 +90,7 @@
   </section>
   <section>
     <num>VII</num>
-    <heading>No Waiver of Immunity.</heading>
+    <heading>No Waiver of Immunity</heading>
     <text>Nothing in this Ordinance shall waive or impair the Tribe's sovereign immunity or the sovereign immunity of any other Tribal Party.</text>
   </section>
 </document>

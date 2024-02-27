@@ -1,0 +1,917 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Fishing Ordinance (Saint Regis Mohawk Tribal Act)">
+  <section>
+    <num>I</num>
+    <heading>Title</heading>
+    <text>This Ordinance shall be known as the "Saint Regis Mohawk Tribe's Fishing Ordinance" (hereinafter "Fishing Ordinance").</text>
+  </section>
+  <section>
+    <num>II</num>
+    <heading>Purpose</heading>
+    <text>This Fishing Ordinance and regulations promulgated hereunder are designed to protect the Tribe's natural resources including fish and waterways within the Saint Regis Mohawk Tribe's ("SRMT" or "Tribe") jurisdiction including, but not limited to the waters of the St. Lawrence River and the contributories known as the St. Regis River, Raquette River, Salmon River and Grasse River, and to promote the health, welfare, and safety of all Tribal Members.</text>
+  </section>
+  <section>
+    <num>III</num>
+    <heading>Authority</heading>
+    <text>The Saint Regis Mohawk Tribal Council ("Tribal Council") has the inherent sovereign power to enact laws governing commercial activity within the Tribe's territory and to adopt laws to protect the health, welfare, and safety of all Tribal Members. Tribal Council with its inherent authority may delegate its authority to the Tribe's Compliance Department to promulgate and enforce fishing regulations. The Compliance Department is hereby delegated authority and is authorized to adopt any regulations it deems necessary to implement this Fishing Ordinance.</text>
+    <text>Pursuant to the Compliance Department's delegated authority its actions regarding this Fishing Ordinance shall be taken in the Tribe's best interests. These actions are undertaken to ensure the continuation of natural resources such as fish, which are important to the community that may use it as a food source or a source of economic development for Tribal Members.</text>
+  </section>
+  <section>
+    <num>IV</num>
+    <heading>Applicability</heading>
+    <text>This Fishing Ordinance shall be applicable to Members and Non-Members to participate in fishing activities within the Tribe's jurisdiction.</text>
+  </section>
+  <section>
+    <num>V</num>
+    <heading>Definitions</heading>
+    <text><strong>"Registered Fishing Agent"</strong> Means a Tribal member or Tribal Member's business that is recognized for the sale, distribution of Temporary SRMT nonmember fishing permits.</text>
+    <text><strong>"Angling/ Fishing"</strong> means taking fish by hook and line. This includes bait and fly fishing, casting, trolling and the use of landing nets to complete the catch. Anglers must be in immediate attendance when their lines are in the water. An angler may operate no more than two lines with or without a rod, and each line is limited to not more than five lures or baits or a combination of both, and in addition, each line shall not exceed fifteen hook points in any combination of single, double or treble hooks. Snatching, lifting, hooking and use of tip-ups are not angling.</text>
+    <text><strong>"Artificial fly"</strong> means a hook with no more than two points dressed with feathers, hair, thread, tinsel or any similar material to which no additional hooks, spinners, spoons or similar devices have been added.</text>
+    <text><strong>"Artificial lures or bait"</strong> means artificial imitations of natural bait, man-made flies, spinners, spoons, plugs, jigs and other lures including those that may contain some natural substances such as deer hair and feathers.</text>
+    <text><strong>"Compliance Inspector"</strong> means any staff member of the Compliance Department who is assigned to patrol, monitor and enforce this ordinance, either by water vessel or land patrols of Tribal waterways.</text>
+    <text><strong>"Black bass"</strong> means both largemouth and smallmouth bass.</text>
+    <text><strong>"Blind snatching"</strong> means the taking of fish by snatching when the fish is not visible to the angler.</text>
+    <text><strong>"Catch and release"</strong> means catching and immediately releasing the caught fish without harm. Measuring, weighing and photographing of the fish are permitted as long as the fish is not removed from the water for an extended period of time or handled in a manner that could cause it harm. Fish may not be placed in a bucket, tub, live well, on a string or any other holding device.</text>
+    <text><strong>"Chumming"</strong> means depositing in the water any substance, not attached to a hook, which may attract fish.</text>
+    <text><strong>"Closed Season"</strong> means the period of time as identified in Appendix A as it may be amended from time to time attached hereto and made a part hereof within which it is unlawful to harvest any species or group of species.</text>
+    <text><strong>"Foul-hooked"</strong> means not hooked in the mouth.</text>
+    <text><strong>"Hook gap"</strong> means the distance from the shank to the point of the hook.</text>
+    <text><strong>"LL Salmon"</strong> means landlocked salmon or Atlantic salmon.</text>
+    <text><strong>"Minimum length"</strong> means the greatest possible length measured from the tip of the fish's snout to the tip of the tail. The mouth may be open or closed and the tail may be spread or compressed in order to achieve the greatest length.</text>
+    <text><strong>"Member"</strong> means any individual who is an enrolled/registered member of the SRMT, Mohawks of Akwesasne (MCA) and/or Mohawk Nation or may include an enrolled member of any other federally recognized Tribe or First Nations Member in certain instances.</text>
+    <text><strong>"Natural bait"</strong> means all baits which entice or might be ingested or swallowed by fish including, but not limited to, fish (dead or alive), fish eggs, worms, shellfish, crustacean, amphibians (salamanders, frogs and toads), insects (including all stages of development such as larvae, pupae, etc.), pork rinds, liver, meat, corn or other vegetable matter, tapioca, candy, cheese, bread and putty or dough-like scented baits.</text>
+    <text><strong>"Night "</strong>means 1/2 hour after sunset to 1/2 hour before sunrise.</text>
+    <text><strong>"Non-Member"</strong> means any individual that is not a Member as defined herein.</text>
+    <text><strong>"Open Season"</strong> means the period of time as identified in Appendix A as it may be amended from time to time attached hereto and made a part hereof within which it is lawful to harvest a species or group of species.</text>
+    <text><strong>"Permit"</strong> means a Permit issued pursuant to the Saint Regis Mohawk Tribe Fishing Regulation &amp; Law.</text>
+    <text><strong>"Registered Fishing Agent"</strong> means an Individual Tribal Member or Tribal Member business that the Compliance Department has certified to distribute applications to Non-Members and collect fees for a fishing license.</text>
+    <text><strong>"Registered Member Guide"</strong> means any Tribal Member or Tribal Member business who is authorized to offer guide services to Non-Members. He/she must fill out an application with the required information and remit the application with the required fee of <strong>[insert sum]</strong> to the Tribe's Compliance Department. The application is attached in Appendix D.</text>
+    <text><strong>"Charter Boat / Fishing Guides"</strong> means a party or charter boat owner must purchase a license to carry recreational fishing passengers in the Tribe's waterways or to land fish taken within the territorial waters of the Tribe.</text>
+    <text><strong>"Snatching"</strong> means taking fish not attracted by bait or artificial lure with hooks, gangs or similar devices whether or not baited. Snagging, lifting, and single hook snagging are types of snatching. Snatching is indicated by repeated or exaggerated jerking motions of the fishing rod.</text>
+    <text><strong>"Spear fishing or Spear"</strong> means taking a fish with a hand-propelled single or multiple pronged pike, blade or harpoon. It does not include the mechanically propelled device commonly called a spear gun.</text>
+    <text><strong>"Sport Angling or Fishing"</strong> means the taking or attempting to take any fish species by using a rod and reel, hook and line including casting and trolling for the retrieval of fish for one's own enjoyment or use. Any fish or fish species that are taken are not to be sold, traded or harvested for any commercial purposes.</text>
+    <text><strong>"SRMT jurisdiction"</strong> includes, but is not limited to, the waters of the St Lawrence River and the tributaries known as the St. Regis River, Raquette River, Salmon River and Grasse River.</text>
+    <text><strong>"Tip-up"</strong> means any device used for fishing through the ice that has a signaling device attached, except a bobber or other floating object on the water that will visually or audibly signal a strike.</text>
+    <text><strong>"Tournament Fishing"</strong> means the retrieval of fish with the use of a rod and reel for the purpose of participating in an advertised tournament that will be offering monetary and non- monetary prizes for participating.</text>
+    <text><strong>"Tribal Court"</strong> means the Saint Regis Mohawk Tribal Court.</text>
+    <text><strong>"Tribal Member"</strong> means a person who is an enrolled member of the SRMT.</text>
+    <text><strong>"Trout"</strong> means brook trout, brown trout, rainbow trout and hybrids of these species including lake.</text>
+    <text><strong>"Vehicle"</strong> means a vehicle that is drawn, propelled, or driven by any means, including muscular power, motor fuel and/or any other kind of power.</text>
+    <text><strong>"Vessel"</strong> means a boat, ship, skiff, canoe, punt and raft regardless of how it may be propelled, which includes muscular power, motor fuel and or other means.</text>
+  </section>
+  <section>
+    <num>VI</num>
+    <heading>Permitting</heading>
+    <text>The Tribal Council has delegated its authority to the Compliance Department to establish guidelines to grant permits.</text>
+    <para>
+      <num>A.</num>
+      <text>
+        <strong>
+          <u>Fishing Permit Limitations for Non-Members</u>
+        </strong>
+      </text>
+      <text>Fishing Permits shall be required of all Non-Members choosing to enter SRMT waters and fish.</text>
+      <text>Any Non-Member, who wishes to fish within the SRMT's jurisdiction, must obtain a valid SRMT Fishing permit.</text>
+      <text><em><u>Except</u></em><u>:</u> a Non-Member who has not yet reached the age of sixteen (16), provided that the individual under sixteen (16) is accompanied by a Member or a Non-Member who possesses a valid SRMT Fishing Permit. The Permit holder or Member who is accompanying a Non- Member who is less than sixteen (16) years of age shall not exceed the daily limits of one individual as outlined in Appendix A.</text>
+      <text>A Non-Member shall not Sport Fish, Fish, or Catch and Release during the Closed Season as outlined in Appendix A for any species within the tributary waterways of the St. Lawrence River known as the St. Regis River and Raquette River from the (mouth) location as those waterways enter the St. Lawrence River upstream through the SRMT's jurisdiction.</text>
+      <text><em><u>Except:</u></em> a Non-Member may Fish, Sport Fish or Catch and Release as long as the Non- Member is accompanied by a Registered Member Guide during the closed season.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>
+        <strong>
+          <u>Permit Application Requirements for Non-Members</u>
+        </strong>
+      </text>
+      <text>
+        <em>(Appendix C and the Compliance Department may amend it)</em>
+      </text>
+      <text>A Non-Member applicant must complete all required information on the application to be considered for a SRMT Fishing Permit. A Non-Member must submit an application containing at a minimum the following information:</text>
+      <text>
+        <ul proof="needed">
+          <li>Full Name</li>
+          <li>Address</li>
+          <li>Driver's license number</li>
+          <li>Phone Numbers: Home, and Cell (one (1) is required)</li>
+          <li>Date of Birth</li>
+        </ul>
+      </text>
+      <text>Once the application is completed return it to either the Compliance Department or a Registered Fishing Agent,</text>
+      <para>
+        <num>1.</num>
+        <text>Sign the application and accept the jurisdiction of the Tribe and the Saint Regis Mohawk Tribal Court ("Court").</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If applying for a season-long Permit, a <strong>non-refundable</strong> application fee of (Amount TBD) to the Compliance Department or Registered Fishing Agent along with the application or if applying for a three-day (3) pass then a non-refundable Amount TBD application fee to the Compliance Department or Registered Fishing Agent along with the application. Application fees are listed on Appendix A.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>
+        <strong>
+          <u>License Denial</u>
+        </strong>
+      </text>
+      <text>The Tribe reserves the right to deny any request for a SRMT Fishing Permit for the following reasons:</text>
+      <para>
+        <num>1.</num>
+        <text>The omission of inaccurate or incomplete information on the application; or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A determination that the individual applicant would not likely comply with this Fishing Ordinance, or other tribal laws; or</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Compliance Department may deny a request for a Fishing Permit for any other reason as long as a justification is provided for the denial.</text>
+      </para>
+      <text>If an application is denied, the Compliance Department shall notify the applicant of the denial by registered and regular mail within thirty (30) days for applicants located in the United States. For any applicant residing outside of the United States regular mail only shall be used.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>
+        <strong>
+          <u>Registered Fishing Agent</u>
+        </strong>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>Individual Mohawks or Tribal Members may apply to become a Registered Fishing Agent of the SRMT by filling out an application with the SRMT Compliance Inspector at the Compliance department.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Each Registered Fishing Agent is required to submit a monthly report to the Compliance Department as outlined in Appendix E attached hereto and made a part hereof. The monthly report shall contain the following information:</text>
+        <para>
+          <num>a.</num>
+          <text>Number of applications distributed and approved;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Application Date;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Total number of completed applications and</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Total amount of fees collected</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Each Registered Fishing Agent must return each completed fishing permit application along with the imposed fee collected to the Compliance Department within ten (10) business days of the preceding month for any completed fishing permit application and fees sold. Based upon the Compliance Department's discretion, failure to return such fees and applications in a timely manner may result in the suspension of Tribal Member as a Registered Fishing Agent.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The SRMT Compliance Department shall have the sole discretion to determine the eligibility requirements for Registered Fishing Agents and shall have the sole discretion to determine whether to certify someone as a Registered Fishing Agent. This determination may not be appealed. Any Tribal Member may obtain an application to become a Registered Fishing Agent from the Compliance Department. By becoming a Registered Fishing Agent, he or she shall have certain duties and responsibilities as outlined herein.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>
+        <strong>
+          <u>Charter Boat Operators / Guides</u>
+        </strong>
+      </text>
+      <text>Charter Fishing Boat Operators and Fishing Guide Applicants - A person desiring to be a Charter Boat Operator or a Fishing Guide on the waters of the Tribe must first apply for a permit and certify to the following requirements and conditions within their registered jurisdiction. The fee is $250.00 for Non-Residents. Resident Member Mohawks or SRMT members application fees shall be $25.00 per season. All applicants must be 21 years of age or older.</text>
+      <para>
+        <num>1.</num>
+        <text>Display of Charter Boat/Fishing Guide Permit. While operating as a Charter Boat or Fishing Guide, Charter Boat Operators and Fishing Guides must display their SRMT permits on a hat or an outer garment in plain view. Charter Boat Operators and Fishing Guides must present their Charter Boat/Fishing Guide permits upon the request of a Waterways Compliance Officer (WCO) authorized to enforce this Fishing Ordinance.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Possession of a valid SRMT Fishing License. All Non-Resident non-Mohawk or SRMT members Charter Boat Operators and their crew members and Fishing Guides must possess valid SRMT Fishing License and the permits required for the waters in which they fish. Charter Boat Operators and Fishing Guides are responsible for ensuring that their employees, passengers and customers possess a valid SRMT fishing license and any appropriate SRMT permits.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>
+        <strong>
+          <u>Permit Renewal</u>
+        </strong>
+      </text>
+      <text>Each holder of an annual Fishing Permit must complete a new application on an annual basis. Each year-long Permit Expires OCTOBER 10<sup>th</sup> of the year in which it was issued <em>(A Permit Does NOT Permit out of season harvesting or sport fishing on Tribal Waters).</em></text>
+      <text>
+        <em>(Please see Appendix A - Seasons)</em>
+      </text>
+    </para>
+  </section>
+  <section>
+    <num>VII</num>
+    <heading>Enforcement</heading>
+    <para>
+      <num>A.</num>
+      <text>
+        <strong>
+          <u>Authority</u>
+        </strong>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>The Saint Regis Mohawk Tribal Court has the jurisdiction over matters arising under this Fishing Ordinance.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>In the sole discretion of a Compliance Inspector; any individual found to be violating this Fishing Ordinance may be offered the opportunity to comply by completing an application for a Fishing Permit and remitting the appropriate application fee. In his/her discretion, the Compliance Inspector may issue a fine pursuant to subsection D herein and collect the fine. If such a fine is issued and collected, a record of it will be submitted to Tribal Court for record-keeping.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>If the alleged violator complies and completes an application and submits the appropriate fee and any assessed fine, any species of fish that may be in the possession of the alleged violator when discovered may be seized by the Compliance Inspector and disposed of pursuant to the Compliance Department's established policy.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>If a Compliance Inspector reasonably believes an individual is in violation of this Fishing Ordinance or the individual refuses to comply with the Compliance Inspector request he/she shall issue a Notice of Violation with a date certain to appear before Tribal Court. The procedure for Tribal Court is outlined in section C herein.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>A Compliance Inspector has the authority and may seize any article or vessel if he or she believes this Fishing Ordinance has been violated. Any article seized or ordered forfeited pursuant to this Fishing Ordinance shall be held in accordance with SRMT policy and will be remitted to the owner upon a Tribal Court order.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>
+        <strong>
+          <u>Violations</u>
+        </strong>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>Any Non-Member who does not possess a valid SRMT Non-Member Fishing Permit is in violation of this Fishing Ordinance.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any Non-Member determined to be in possession of a species of fish that is not in season (Appendix A) shall be in violation of this Fishing Ordinance.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any Non-Member found to be in possession of more fish than permitted in the daily limits (Appendix A) shall be in violation of this Fishing Ordinance.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Should a Fishing Permit holder be found have previously violated this Fishing Ordinance or any other Tribal Law on a recurring basis a Compliance Inspector may seize the Permit immediately, complete a report substantiating the basis for taking the Permit, and may issue a summons to appear in Tribal Court.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>
+        <strong>
+          <u>Tribal Court Procedures</u>
+        </strong>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>For every Notice of Violation (Ticket) that a Compliance Inspector issues pursuant to Section VII.A.4, shall be made returnable to Tribal Court the first Tuesday of the following month at 1:00 pm.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Upon the return date, the Compliance Inspector shall present to Tribal Court the reasons for issuing a Ticket. The Compliance Inspector may present his/her observations, list of items seized, and any other relevant evidence that the Court deems just and proper. The alleged violator may then rebut the evidence presented.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Upon the preponderance of evidence, the Tribal Court shall determine whether a violation under Subsection B or of this Fishing Ordinance has occurred. If it determines a violation occurred, the Tribal Court shall determine the amount of the fine and any penalty based upon subsection D that the violator must pay.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>
+        <strong>
+          <u>Fines and Penalties</u>
+        </strong>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>Tribal Court may assess the following fines and penalties for violations of this Ordinance:</text>
+        <para>
+          <num>a.</num>
+          <text><strong>First Offense</strong> -A monetary fine of up to Five Hundred dollars ($500.00) and a Thirty-Five dollar ($35.00) administration surcharge as a penalty. When Tribal Court issues the fine it may include a year-long ban from fishing within the Tribe's jurisdiction. For those with permits, if a ban is imposed, the violator shall need to turn in his/her permit.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text><strong>Second Offense</strong> (within three (3) years of a prior offense) -A monetary fine of up to One Thousand ($1,000.00) dollars and a Thirty-Five ($35.00) dollar administration surcharge as a penalty.</text>
+          <text>The Tribal Court may include up to a two (2)-year ban from fishing within the Tribe's jurisdiction. For those with permits, if a ban is imposed, the violator shall need to turn in his/her permit.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>When a Compliance Officer from the Compliance Department issues the fine it shall collect the fine and penalty, but remit the notice of violation to Tribal Court for record- keeping. If Tribal Court issues the fine it shall collect the fine and penalty and remit the administrative surcharge to the Compliance Department.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any decision made by either the Compliance Officer or Tribal Court is final and shall not be appealable.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>VIII</num>
+    <heading>General Guidelines</heading>
+    <para>
+      <num>A.</num>
+      <text>
+        <strong>
+          <u>Permit Holder Responsibilities</u>
+        </strong>
+      </text>
+      <text>Every Non-Member who has obtained a permit under this Fishing Ordinance shall:</text>
+      <para>
+        <num>1.</num>
+        <text>Have the issued Permit on his person at all times when Angling/ Fishing within the jurisdiction of the SRMT</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Have the issued Permit on his persons at all times when within the jurisdiction of the SRMT while possessing and/or transporting of fish.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Shall provide the issued permit to any Compliance Inspector when requested.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Every Non-Member who possesses a valid Permit shall wear the valid permit on his/her person and provide additional proof of name and address should a Compliance Inspector request to do so.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Non-Members with a fishing Permit may only take fish or species by Angling/Fishing and according to Appendix A.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Non-Members even with a Permit shall not take possession of fish by means of Spearing, Bow Hunting, Snagging or the use of un-baited hooks except for an artificial lure/plug.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Non-Members even with a Permit shall not use or possess Gill, Hoop, Pound, Seine, trap or trawls nets in any waters within the jurisdiction of the SRMT.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>
+        <strong>
+          <u>Taking and Possession of Fish</u>
+        </strong>
+      </text>
+      <text>Saint Regis Mohawk Tribe Waters include the following waterways and /or a portion of: the St Lawrence River, St. Regis River, Raquette River, Grasse River and Salmon River</text>
+      <para>
+        <num>1.</num>
+        <text>A Non-Member with a valid Permit may not have in his/her possession, or intentionally kill or injure fish that is not in open season within the jurisdiction of the SRMT.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A Non-Member with a valid Permit may not possess, kill or unnecessarily injure fish in excess of the daily limit for that species that is within open season.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Non-Member with a valid SRMT Fishing Permit who catches and immediately releases <u>uninjured</u> fish will not have those released fish be counted as part of the daily limit for that species.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>A Non-Member having obtained a valid SRMT Fishing Permit may continue to fish for a species while in possession of a daily limit for that species provided all fish of that species subsequently caught are immediately returned to the water except for largemouth or smallmouth bass as outlined below.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>A single, uninjured largemouth bass or smallmouth bass that a Non-Member Permit holder is landing, measuring or in the process of releasing from a recirculating or aerated livewell, is not considered part of the daily limit.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>
+        <strong>
+          <u>Foul Hooking</u>
+        </strong>
+      </text>
+      <text>All foul-hooked trout, lake trout, coho salmon, Chinook salmon, pink salmon and landlocked salmon must be released without unnecessary injury to the fish.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>
+        <strong>
+          <u>Tournament General Guidelines</u>
+        </strong>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>When it is likely a participant(s) in a tournament may enter SRMT jurisdiction to participate in it all such tournaments or individuals operating such tournaments must register within fourteen (14) days of the tournament with the Compliance Department.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>All Non-Members who choose to be tournament participants must apply and hold a valid SRMT Fishing Permit prior to conducting angling activities within SRMT's jurisdiction.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>All Non-Member tournament participants must follow this Fishing Ordinance when fishing within SRMT jurisdiction</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text><em>During Tournament Competition only</em> a Non-Member with a valid SRMT Fishing Permit may continue to fish for a species while in possession of a daily limit for that species provided all fish of that species subsequently caught are immediately returned to the water or in the process of releasing from a recirculating or aerated live well.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>
+        <strong>
+          <u>Amendments</u>
+        </strong>
+      </text>
+      <text>This Fishing Ordinance may be amended by Tribal Council Resolution. This process shall allow for any changes that may be necessary and shall be within the best interests of the Tribe and shall continue to ensure the health, safety and welfare of Tribal Members and the community.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>
+        <strong>
+          <u>Severability</u>
+        </strong>
+      </text>
+      <text>The provisions of this Fishing Ordinance are severable and if any part or provision shall be held void by any Court of competent jurisdiction. the decision of the Court so holding shall not affect or impair any of the remaining parts or provisions of this Fishing Ordinance.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>
+        <strong>
+          <u>Immunity Not Waived</u>
+        </strong>
+      </text>
+      <text>The Tribal Council does not waive its immunity or that of its designees for any actions taken herein.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>
+        <strong>
+          <u>Effective Date</u>
+        </strong>
+      </text>
+      <text>This Fishing Ordinance shall become effective upon enactment</text>
+    </para>
+  </section>
+  <text>Amendment Summary</text>
+  <para>
+    <num>1.</num>
+    <text>The Ordinance's name was changed to the Fishing Ordinance from the Non-Member Fishing Regulations and Law.</text>
+  </para>
+  <para>
+    <num>2.</num>
+    <text>Added certain definitions to include a Charter Boat / Fishing Guides.</text>
+  </para>
+  <para>
+    <num>3.</num>
+    <text>Clarified that Tribal Council has delegated certain authority to the Tribe's Compliance Department to adopt and enforce regulations to implement the Ordinance.</text>
+  </para>
+  <para>
+    <num>4.</num>
+    <text>Updated application fees, fines, penalties and administrative surcharges.</text>
+  </para>
+  <para>
+    <num>5.</num>
+    <text>Clarified that Non-Members may not fish during the Closed Season and may only fish during the Open Season with limits on types of fish, length and daily limits.</text>
+  </para>
+  <para>
+    <num>6.</num>
+    <text>Ice fishing is no longer permitted for Non-Members.</text>
+  </para>
+  <para>
+    <num>7.</num>
+    <text>Updated enforcement procedures and clarified Tribal Court's role in the enforcement process.</text>
+  </para>
+  <para>
+    <num>8.</num>
+    <text>Added a section for Charter Boats and Fishing Guides. It excludes non-native fishing businesses.</text>
+  </para>
+  <para>
+    <num>9.</num>
+    <text>Clarified who will be enforcing the Fishing Ordinance.</text>
+  </para>
+  <para>
+    <num>10.</num>
+    <text>Updated application process.</text>
+  </para>
+  <container>
+    <prefix>APPENDIX</prefix>
+    <num>A</num>
+    <heading>SRMT Angling Regulations</heading>
+    <text>
+      <ul proof="needed">
+        <li>Species Open Season</li>
+        <li>Species Minimum Length</li>
+        <li>Species Daily Limit</li>
+        <li>Permit Fees</li>
+      </ul>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th colspan="4">SAINT REGIS MOHAWK TRIBE NON-MEMBER ANGLING REGULATIONS</th>
+          </tr>
+          <tr>
+            <th colspan="4">SRMT REGULATIONS EFFECTIVE APRIL 1, 2023</th>
+          </tr>
+          <tr>
+            <th>Species</th>
+            <th>Open</th>
+            <th>Minimum Length</th>
+            <th>Daily limit</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Trout-Brook, Brown and Rainbow and hybrids of these species; and Splake</td>
+            <td>June 1 through October 10</td>
+            <td>15" except Rainbow or Steelhead</td>
+            <td>3 in any combination not to include more than 1 Rainbow or Steelhead in the tributaries</td>
+          </tr>
+          <tr>
+            <td>Lake Trout</td>
+            <td>June 1 through Oct 10</td>
+            <td>21"</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>Landlocked (LL)/Atlantic Salmon</td>
+            <td>June 1 through October 10</td>
+            <td>25"</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Kokanee</td>
+            <td>June 1 through Oct 10</td>
+            <td>Any size</td>
+            <td>10</td>
+          </tr>
+          <tr>
+            <td>Coho, Chinook, Pink Salmon</td>
+            <td>June 1 through October 10</td>
+            <td>15", except 21" for Rainbow or Steelhead</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>Largemouth/Smallmouth Bass</td>
+            <td>June 1 through October 10</td>
+            <td>12"</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Muskellunge</td>
+            <td>June 1 through October 10</td>
+            <td>48"</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Northern Pike</td>
+            <td>June 1 through October 10</td>
+            <td>18"</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Pickerel</td>
+            <td>June 1 through October 10</td>
+            <td>15"</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Tiger Muskellunge</td>
+            <td>June 1 through October 10</td>
+            <td>48"</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Walleye</td>
+            <td>June 1 through October 10</td>
+            <td>18"</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>Crappie</td>
+            <td>June 1 through October 10</td>
+            <td>9"</td>
+            <td>25</td>
+          </tr>
+          <tr>
+            <td>Atlantic, Shortnose &amp; Lake Sturgeon; Paddlefish (Longnose Gar)</td>
+            <td>Closed</td>
+            <td>0</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Lake Whitefish</td>
+            <td>June 1 through October 10</td>
+            <td>Any size</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Striped Bass</td>
+            <td>June 1 through October 10</td>
+            <td>18"</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Hickory Shad</td>
+            <td>Aug 1-October 10</td>
+            <td>Any size</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Yellow Perch</td>
+            <td>June 1 through October 10</td>
+            <td>Any size</td>
+            <td>50</td>
+          </tr>
+          <tr>
+            <td>Sunfish (Bluegill, Pumpkinseed and Redbreast Sunfish)</td>
+            <td>June 1 through October 10</td>
+            <td>Any size</td>
+            <td>50</td>
+          </tr>
+          <tr>
+            <td>American Eel</td>
+            <td>Closed</td>
+            <td>0</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>All other species (except endangered and threatened species and those listed elsewhere in specical regulation</td>
+            <td>June 1 through October 10</td>
+            <td>Any size</td>
+            <td>Any number</td>
+          </tr>
+          <tr>
+            <th proof="needed" colspan="4">
+              <p>SRMT WATERS CLOSED TO NON-MEMBERS OCTOBER 11-MAY 31</p>
+              <p>2023 Full Season fee $50.00</p>
+              <p>2023 3-day pass fee $25.00</p>
+            </th>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </container>
+  <container>
+    <prefix>Appendix</prefix>
+    <num>B</num>
+    <heading>Fishing Permit Application</heading>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <th proof="needed">
+              <p class="text-indent-1">Saint Regis Mohawk Tribe</p>
+              <p class="text-indent-1">Compliance Department</p>
+            </th>
+            <td proof="needed">
+              <p>412 State Route 37 Akwesasne, NY</p>
+              <p>Phone (518) 358-2272</p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>TEMPORARY NON MEMBER FISHING PERMIT</strong>
+    </text>
+    <text class="center">
+      <strong>Three Day Permit ☐		Full Season ☐</strong>
+    </text>
+    <text>(3 day permit is from date of issue)</text>
+    <text class="center">Date Issued: ______/_______/____________ ~ 	Valid Thru: ______/_______/____________</text>
+    <text>First Name: _________________________________ Last Name: _________________________________</text>
+    <text>Address: ___________________________________ City: ______________________________________</text>
+    <text>State/Prov: _________________ Postal Code/ZIP: _____________ Phone #: (____) _______-___________</text>
+    <text>This I certify that I understand the Saint Regis Mohawk Tribe's rules and regulations governing fishing within SRMT territory waters. I understand my responsibility, obligations to property, health and safety of the community upon this permit's approval. I certify that I will pay fees due to the Saint Regis Mohawk Tribe.</text>
+    <text>Permit Applicant Signature: ___________________________________</text>
+    <text>Agent Signature: __________________________ Authorized Signature: ___________________________</text>
+    <text>Fee: $____________.00 								<strong>Permit #:</strong></text>
+    <text class="center">PRINTED BY FASPRINT * 518-483-4831. *www.fasprint.com</text>
+  </container>
+  <container>
+    <prefix>Appendix</prefix>
+    <num>C</num>
+    <heading>Authorized Agent Monthly Report Form</heading>
+    <text class="center">
+      <strong>Authorized Agent Reporting Form</strong>
+    </text>
+    <text><strong>Authorized Agents Name</strong> _____________________________________________</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>Application #</th>
+            <th>Date</th>
+            <th>Applicants Name</th>
+            <th>Full/Temp License</th>
+            <th>Fee Remitted</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>5</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>6</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>7</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>8</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>9</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>10</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>11</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>12</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>13</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>14</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>15</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>16</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>17</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>18</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>19</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>20</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>21</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>22</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>23</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>24</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>25</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>26</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>27</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>28</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>29</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>30</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </container>
+</document>

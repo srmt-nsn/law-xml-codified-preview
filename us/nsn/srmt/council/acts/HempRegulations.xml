@@ -1,0 +1,1068 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Hemp Production Regulations (Saint Regis Mohawk Tribal Act)">
+  <para>
+    <num>I.</num>
+    <text>
+      <strong>TITLE</strong>
+    </text>
+    <text>These regulations shall be known and cited as the "Saint Regis Mohawk Tribe Hemp Production Regulations".</text>
+  </para>
+  <para>
+    <num>II.</num>
+    <text>
+      <strong>PURPOSE, AUTHORITY AND JURISDICTION</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>The Saint Regis Mohawk Tribal Council ("Tribal Council") adopts these Hemp Production Regulations ("Regulations") to establish rules to govern the production of hemp on Mohawk Tribal Territory.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Authority to adopt these Regulations derives from the Saint Regis Mohawk Tribe's ("Tribe") inherent sovereignty to regulate activities within Mohawk Tribal Territory that includes the authority to regulate hemp production and the Agricultural Improvement Act of 2018, Pub. L. 115-334, December 20, 2018, 132 Stat. 4490 ("Farm Bill") and the U.S. Department of Agriculture's ("USDA") Final Rule (January 19, 2021), 86 FR 5596, recognizing a tribe's right to assume primary authority over hemp production.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Tribe's jurisdiction, as recognized in the USDA Final Rule, upon approval by USDA, extends to production of hemp with the Tribe's territory regardless of the extent of the Tribe's inherent regulatory authority.</text>
+    </para>
+  </para>
+  <para>
+    <num>III.</num>
+    <text>
+      <strong>DEFINITIONS</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>The following terms and phrases used in these Regulations are arranged in alphabetical order. More detailed definitions of some technical terms are contained in the USDA Final Rule, Subchapter A which is adopted and incorporated by reference in these Regulations.</text>
+      <para>
+        <num>1.</num>
+        <text>"Acceptable hemp THC level" is when the application of the measurement of uncertainty to the reported delta-9 tetrahydrocannabinol content concentration level on a dry weight basis produces a distribution or range that includes 0.3% or less. For example, if the reported delta-9 tetrahydrocannabinol content concentration level on a dry weight basis is 0.35% and the measurement of uncertainty is +/- 0.06%, the measured delta-9 tetrahydrocannabinol content concentration level on a dry weight basis for this sample ranges from 0.29% to 0.41%. Because 0.3% is within the distribution or range, the sample is within the acceptable hemp THC level for plan compliance. This definition of "acceptable hemp THC level" affects neither the statutory definition of hemp, 7 U.S.C. § 1639o (1), in the 2018 Farm Bill nor the definition of "marihuana," 21 U.S.C. § 802(16), in the CSA.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Agricultural Marketing Service" or "AMS" means the Agricultural Marketing Service of the U.S. Department of Agriculture.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Cannabis" means a genus of flowering plants in the family Cannabaceae of which <em>Cannabissativais</em> a species, and <em>Cannabis indica and Cannabis ruderalis</em> are subspecies thereof. Cannabis refers to any form of the plant in which the delta-9 tetrahydrocannabinol concentration on a dry weight basis has not yet been determined.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Conviction" means any plea of guilty or nolo contendere, or any finding of guilt, except when the finding of guilt is subsequently overturned on appeal, pardoned, or expunged. For purposes of these Regulations, a conviction is expunged when the conviction is removed from the individual's criminal history record and there are no legal disabilities or restrictions associated with the expunged conviction, other than the fact that the conviction may be used for sentencing purposes for subsequent convictions. In addition, where an individual is allowed to withdraw an original plea of guilty or nolo contendere and enter a plea of not guilty and the case is subsequently dismissed, the individual is no longer considered to have a conviction.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Corrective action plan" means a plan established by the Tribe for a licensed hemp producer to correct a negligent violation or non-compliance.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Criminal History Report" means the Federal Bureau of Investigation's Identity History Summary.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Culpable mental state greater than negligence" means to act intentionally, knowingly, willfully, or recklessly.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Decarboxylated" means the completion of the chemical reaction that converts THC-acid (THC-A) into delta-9-THC, the intoxicating component of cannabis. The decarboxylated value is also calculated using a conversion formula that sums delta-9-THC and eighty-seven and seven tenths (87.7) percent of THC-acid.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"Decarboxylation" means the removal or elimination of carboxyl group from a molecule or organic compound.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"Delta-9 tetrahydrocannabinol" or "THC" is the primary psychoactive component of cannabis. For the purposes of this part, delta-9 THC and THC are interchangeable.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"Disposal" means an activity that transitions a non-compliant product into a non-retrievable or non-ingestible form. Such activities include plowing, tilling, or disking plant material into the soil; mulching, composting, chopping, or bush mowing plant material into green manure; burning plant material; burying plant material into the earth and covering with soil.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"Drug Enforcement Administration" or "DEA" means the United States Drug Enforcement Administration.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>"Dry weight basis" means the ratio of the amount of moisture in a sample to the amount of dry solid in a sample. A basis for expressing the percentage of a chemical in a substance after removing the moisture from the substance. Percentage of THC on a dry weight basis means the percentage of THC, by weight, in a cannabis item (plant, extract, or other derivative), after excluding moisture from the item.</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>"Entity" means a corporation, joint stock company, association, limited partnership, limited liability partnership, limited liability company, irrevocable trust, estate, charitable organization, or other similar organization, including any such organization participating in the hemp production as a partner in a general partnership, a participant in a joint venture, or a participant in a similar organization.</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>"Farm Service Agency" or "FSA" is an agency of the United States Department of Agriculture.</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>"Gas chromatography" or "GC" means a type of chromatography in analytical chemistry used to separate, identify, and quantify each component in a mixture. GC relies on heat for separating and analyzing compounds that can be vaporized without decomposition.</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <text>"Geospatial location" means a location designated through a global system of navigational satellites used to determine the precise ground position of a place or object.</text>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>"Hemp" means the plant species <em>Cannabis sativa</em> L. and any part of that plant, including the seeds thereof and all derivatives, extracts, cannabinoids, isomers, acids, salts, and salts of isomers, whether growing or not, with a delta-9 tetrahydrocannabinol concentration of not more than 0.3 percent on a dry weight basis.</text>
+      </para>
+      <para>
+        <num>19.</num>
+        <text>"High-performance liquid chromatography" or "HPLC" is a type of chromatography technique in analytical chemistry used to separate, identify, and quantify each component in a mixture. HPLC relies on pumps to pass a pressurized liquid solvent containing the sample mixture through a column filled with a solid adsorbent material to separate and analyze compounds.</text>
+      </para>
+      <para>
+        <num>20.</num>
+        <text>"Key participants" means a sole proprietor, a partner in partnership, or a person with executive managerial control in a corporation. A person with executive managerial control includes persons such as a chief executive officer, chief operating officer and chief financial officer. This definition does not include non-executive managers such as farm, field, or shift managers.</text>
+      </para>
+      <para>
+        <num>21.</num>
+        <text>"Law enforcement agency" refers to the Saint Regis Mohawk Tribal Police Department or, in some circumstances, a Federal, State, or local law enforcement agency.</text>
+      </para>
+      <para>
+        <num>22.</num>
+        <text>"Lot" means a contiguous area in a field, greenhouse, or indoor growing structure containing the same variety or strain of cannabis throughout the area. The term lot also means the terms "farm," "tract," "field," and "subfield" as these are terms are used by FSA in 7 CFR 718.2 to define lot.</text>
+      </para>
+      <para>
+        <num>23.</num>
+        <text>"Marijuana" or "marihuana" means all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin. The term 'marihuana' does not include hemp, as defined in section 297A of the Agricultural Marketing Act of 1946 and does not include the mature stalks of such plant, fiber produced from such stalks, oil or cake made from the seeds of such plant, any other compound, manufacture, salt, derivative, mixture, or preparation of such mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of such plant which is incapable of germination (7 U.S.C. 1639o). "Marihuana" means all cannabis that tests as having a concentration level of THC on a dry weight basis of higher than 0.3 percent.</text>
+      </para>
+      <para>
+        <num>24.</num>
+        <text>"Measurement of Uncertainty (MU)" is the parameter, associated with the result of a measurement, that characterizes the dispersion of the values that could reasonably be attributed to the quantity subject to measurement.</text>
+      </para>
+      <para>
+        <num>25.</num>
+        <text>"Negligence" means the failure to exercise the level of care that a reasonably prudent person would exercise in complying with these Regulations.</text>
+      </para>
+      <para>
+        <num>26.</num>
+        <text>"Post decarboxylation" means a value determined after the process of decarboxylation that determines the total potential delta-9 tetrahydrocannabinol content derived from the sum of the THC and THC-A content and reported on a dry weight basis. The post decarboxylation value of THC can be calculated by using a chromatograph technique using heat, gas chromatography, through which THCA is converted from its acid form to its neutral form, THC. Thus, this test calculates the total potential THC in a given sample. The post decarboxylation value of THC can also be calculated by using a high-performance liquid chromatograph technique, which keeps the THC-A intact, and requires a conversion calculation of that THC-A to calculate total potential THC in a given sample.</text>
+      </para>
+      <para>
+        <num>27.</num>
+        <text>"Produce" means to grow hemp plants for market, or for cultivation for market, in the United States. For purposes of these Regulations it also includes, but is not limited to, cultivation, extraction, obtaining seeds, handling hemp, storage, transportation and shipment of hemp to market.</text>
+      </para>
+      <para>
+        <num>28.</num>
+        <text>"Remediation" refers to the process of rendering non-compliant cannabis, compliant. Remediation can occur by removing and destroying flower material, while retaining stalk, stems, leaf material, and seeds. Remediation can also occur by shredding the entire plant into a biomass like material, then re-testing the shredded biomass material for compliance.</text>
+      </para>
+      <para>
+        <num>29.</num>
+        <text>"Saint Regis Mohawk Tribe" or "Tribe" means the federally recognized Indian Tribe, the Saint Regis Mohawk Tribe with government offices in Akwesasne, New York.</text>
+      </para>
+      <para>
+        <num>30.</num>
+        <text>"Saint Regis Mohawk Tribal Police" means the law enforcement department for the Saint Regis Mohawk Tribe with police authority over Tribal Territory.</text>
+      </para>
+      <para>
+        <num>31.</num>
+        <text>"Secretary" means the Secretary of the U.S. Department of Agriculture.</text>
+      </para>
+      <para>
+        <num>32.</num>
+        <text>"Total THC" is the value determined after the process of decarboxylation, or the application of a conversion factor if the testing methodology does not include decarboxylation, that expresses the potential total delta-9 tetrahydrocannabinol content derived from the sum of the THC and THCA content and reported on a dry weight basis. This post-decarboxylation value of THC can be calculated by using a chromatograph technique using heat, such as gas chromatography, through which THCA is converted from its acid form to its neutral form, THC. Thus, this test calculates the total potential THC in a given sample. The total THC can also be calculated by using a liquid chromatograph technique, which keeps the THCA intact. This technique requires the use of the following conversion: [Total THC = (0.877 x THCA) + THC] which calculates the potential total THC in a given sample.</text>
+      </para>
+      <para>
+        <num>33.</num>
+        <text>"Tribal Member" or "Mohawk Tribal Member" means a person who is enrolled in the Tribe under the Tribe's Membership Code or a person who is eligible to be enrolled regardless of where they reside.</text>
+      </para>
+      <para>
+        <num>34.</num>
+        <text>"Tribal Member-Owned Business" or "Tribal Member Business" means an entity that is more than fifty percent (50%) owned and controlled by a Tribal Member. "Controlled" means to have controlling interest whereby a person holds a majority of a company's voting stock, giving them significant influence over any corporate actions. A person or group of persons having a controlling interest will be able to direct the course of a company and make strategic and operational decisions.</text>
+      </para>
+      <para>
+        <num>35.</num>
+        <text>"Tribal Territory" or "Mohawk Tribal Territory" means all lands within the 1796 Treaty with the Seven Nations of Canada (97 Stat. 55) and includes any other lands over which the Tribe exercises jurisdiction. It also includes rights-of-way running through the 1796 Reservation; and any land title to which is either held in trust by the United States for the benefit the Tribe or individual or held by the Tribe or individual subject to restriction by the United States against alienation and over which the Tribe exercises jurisdiction.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>IV.</num>
+    <text>
+      <strong>TRIBAL HEMP COMPLIANCE OFFICE</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text><u>Establishment of Office</u>.</text>
+      <para>
+        <num>1.</num>
+        <text>The Tribe hereby establishes a Hemp Compliance Office ("HCO") within the Tribe's government structure to regulate hemp production and administer these Regulations.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>
+        <u>Powers and Duties of HCO.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>Review, process and approve or deny all hemp production licenses.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Develop policies, procedures, protocols and forms necessary to carry out these Regulations.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Issue hemp licenses and take any and all actions including, but not limited to, suspension, revocation, renewal or non-renewal of such licenses.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Inspect and monitor hemp production operations, facilities and grow sites including sampling, testing and inspections.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Collect and maintain all required records related to hemp production and submit all required reports to the Tribal Council, law enforcement agencies and the USDA.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Investigate potential violations and wrongdoing associated with hemp production and report any potential criminal violations to the Tribe's General Counsel, law enforcement agencies and USDA.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Enforce the regulations, impose and collect fees and/or penalties.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Ensure that the Tribe's hemp program complies with all mandatory requirements in the Farm Bill and other applicable federal law.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>
+        <u>HCO Decisions.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>The HCO shall make all final administrative decisions under these Regulations including, but not limited to, approval and denial of license applications, renewal and non-renewal of licenses, revocation or suspension of licenses and issuing administrative orders to enforce these Regulations.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The HCO will provide notice and an opportunity to be heard, including a hearing if necessary, to the affected party.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The HCO will make its decisions based upon the administrative record presented and, where appropriate, issue its decision in writing.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text><u>Tribal Court Review</u>.</text>
+      <para>
+        <num>1.</num>
+        <text>Final decisions of the HCO may be appealed to the Saint Regis Mohawk Tribal Court (trial, not appellate division).</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The appeal shall be filed with the Tribal Court Clerk within thirty (30) days of the date of the HCO's decision.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Tribal Court will review the appeal based upon the administrative record and make its decision based upon the "arbitrary and capricious" standard of review.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The Tribal Court's decision shall be final and non-appealable.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>
+        <u>Fees.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>The HCO may collect fees that are reasonably related to the costs of regulation including, but not limited to, application fees, the cost of pre-and post-harvest sampling and laboratory testing.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If fees are not paid within 30 days when such fees are due that will be considered a violation of the producer's license and subject the producer to penalties and enforcement provisions contained herein.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>V.</num>
+    <text>
+      <strong>HEMP LICENSES</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>
+        <u>General Requirements.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>No person shall engage in hemp production on Tribal Territory without first obtaining an approved hemp license. Failure to obtain a license will subject a person to penalties and enforcement provisions contained herein.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The only persons eligible to obtain hemp licenses are Mohawk Tribal Members and Mohawk Tribal Member-Owned Businesses ("Tribal Member Business").</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The HCO will issue hemp producer licenses to cover all hemp production activities including, but not limited to, cultivation, extraction, obtaining seeds, handling hemp, storage, transportation and shipment of hemp to market.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The HCO will develop application forms for all production license types and make those forms and other application information available to the public.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>
+        <u>License Applications.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>Applications for hemp licenses shall contain, at a minimum, the following information:</text>
+        <para>
+          <num>(a)</num>
+          <text>The applicant's full name, residential address, telephone number, and email address, if an email address is available.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Proof of Tribal Membership or, if a Tribal Member Business, proof that the entity is more than fifty percent (50%) owned and controlled by a Tribal Member.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>For Member Businesses, the full name of the business, the principal business location address, EIN number, the full name, title, and email address (if available) of each individual who will be a Key Participant in the business.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Documentation of the applicant's valid legal right to the lands to be used for the proposed hemp site (this must be verified by the Saint Regis Mohawk Tribal Clerk).</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Street address, Lot number, legal description and, to the extent practicable, the Geospatial Location coordinates for each field, greenhouse, building, or site where Hemp will be produced, handled, processed or stored.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>If the applicant is engaged in hemp production in any other jurisdiction, information regarding that activity and a copy of applicant's license(s) in that jurisdiction.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Proof of insurance that includes worker's compensation insurance for any employees, and general liability insurance.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>A business plan and/or operations plan that includes at a minimum the proposed acreage or greenhouse or indoor square footage to be used for hemp cultivation or used for processing, type of activity proposed (growing or extraction), description of facility, number of employees, security plan, description of all equipment, proposed customers for the hemp and source of seeds.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Licenses will be issued for an initial three (3) year term and may be renewed for additional three (3) year terms upon reapplication by the producer and approval by the HCO.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>
+        <u>License Agreements.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>As part of the licensing process the producer shall execute a License Agreement and agree, at a minimum to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Comply with all requirements in these regulations and all orders issued by the HCO with the understanding that failure to comply shall constitute grounds for the suspension or termination of a license and require the HCO to report such failure to the USDA, or potentially, a law enforcement agency for further action.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Submit all planting reports for both outdoor and indoor (greenhouse) sites within fifteen (15) days after every planting, including planting of seeds or propagules in the site that includes at a minimum the varieties of hemp planted, location ID as listed in the License Agreement and primary intended use of the harvest of each planting.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Submit growing reports for each location ID as required by the HCO and hemp crop acreage to the USDA Farm Service Agency ("FSA") providing, at a minimum the street address and location ID and, to the extent practicable, the geospatial location for each site or greenhouse, acreage dedicated to the production of hemp, or greenhouse or indoor square footage dedicated to the production of hemp and license identifier.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Give permission to the HCO, law enforcement agencies and USDA to enter onto the licensed site without cause, with or without advance notice to conduct an inspection or investigation, collect random samples of any Cannabis material or investigate other hemp production matters related to producer's facilities including access to all hemp and other Cannabis plants and seeds, whether growing or harvested, and all land, buildings, and other structures used for the production, handling, and storage of all hemp and other Cannabis plants and seeds.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Agree to forfeiture and disposal or remediation, without compensation, of hemp that is produced in violation of these Regulations.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Not implement any change to the licensed site as designated in the License Agreement without prior written approval.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Not interplant hemp with any other crop without express written permission of the HCO.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Agree that any time hemp is in transit, a copy of the License and License Agreement shall be available for inspection upon request.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Agree to immediately notify the HCO by telephone or electronically of any hemp-related interaction with a law enforcement agency and to follow-up to the HCO in writing within three (3) calendar days of that occurrence.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Agree to pay all fees imposed under these Regulations.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Agree to pay for and submit to a Criminal Background Investigation.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Contact the HCO and sampling agent to arrange for the collection of samples from the flower material from such Cannabis plants for THC concentration level testing at least 30 days prior to the anticipated harvest of hemp. The sampling cuts shall then be collected within 15 days of anticipated cultivation of the crop.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Not harvest hemp prior to the hemp being sampled and receipt of permission to harvest from the HCO and tests of samples are taken to obtain specimens for the measurement of tetrahydrocannabinol (THC) content, which determine whether the specimens are hemp or marijuana.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Not transport live hemp plants, viable seeds, leaf materials, or floral materials to unapproved locations including trade shows, county fairs, educational or other events, or any other address not listed on the producer's License Agreement without the prior written approval of the HCO.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Not ship or transport, or allow to be shipped or transported, live hemp plants, cuttings for planting, or viable seeds from a variety that is currently designated by the HCO as a prohibited variety.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>Not allow the public to access hemp sites for activities such as a maze and not allow the unsupervised public on grow sites.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>Agree to restrictions by the HCO regarding location of hemp grow sites and facilities near schools, playgrounds or other open public areas that may not be appropriate site locations. (r) Not transfer or assign the license to another person without the express written approval of the HCO.</text>
+        </para>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>VI.</num>
+    <text>
+      <strong>SAMPLING AND INSPECTIONS</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>
+        <u>Sampling Requirements.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>Within 30 days prior to the anticipated harvest of cannabis plants, a producer shall have the HCO's sampling agent collect samples from the producer's crop for total delta-9 tetrahydrocannabinol concentration level testing. The sampling agent will be a person who is trained by the HCO to conduct sampling under USDA rules. Producers may not collect samples from their own growing facilities.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Samples shall be obtained from the flowering tops of plants when flowering tops are present, and shall be approximately five to eight inches in length from the "main stem" (that includes the leaves and flowers), "terminal bud" (that occurs at the end of a stem), or "central cola" (cut stem that could develop into a bud) of the flowering top of the plant.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>
+        <u>Sampling Methods.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>The method used for sampling must be sufficient at a confidence level of 95 percent that no more than one percent of the plants in each lot would exceed the acceptable hemp THC level and ensure that a representative sample is collected that represents a homogeneous composition of the lot.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Alternatively, the Tribe may adopt a performance-based method subject to USDA approval.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The alternative method must have the potential to ensure, at a confidence level of 95 percent, that the cannabis plant species Cannabis sativa L. that will be subject to the alternative method will not test above the acceptable hemp THC level. The alternative method may consider one or more of the following factors:</text>
+        <para>
+          <num>(a)</num>
+          <text>Seed certification process or process that identifies varieties that have consistently demonstrated to result in compliant hemp plants within Tribal Territory;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Whether the producer is conducting research on hemp;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Whether a producer has consistently produced compliant hemp plants over an extended period of time; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Factors similar to those identified above in 3(a)-(c).</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>
+        <u>Sample Collection Protocol.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>During a scheduled sample collection, the producer or an authorized representative of the producer shall be present at the growing site if possible.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Sampling agents shall be provided with complete and unrestricted access during business hours to all hemp and other cannabis plants (whether growing or harvested), to areas where hemp is grown and stored, and to all land, buildings, and other structures used for the cultivation, handling, and storage of all hemp and other cannabis plants, and all locations listed in the producer license.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A producer shall not harvest the cannabis crop prior to samples being taken.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>
+        <u>Inspections.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>The HCO shall conduct annual inspections of a random sample of no less than 10% of all producers to verify that hemp is not produced in violation of these Regulations.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>VII.</num>
+    <text>
+      <strong>TESTING</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>
+        <u>General Requirements.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>Laboratory testing of samples will be conducted so that the HCO is able to accurately identify whether the sample contains a total delta-9 tetrahydrocannabinol content concentration level that exceeds the acceptable hemp THC level are as follows.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The testing procedure will include a validated testing methodology that uses post- decarboxylation or other similarly reliable methods. The testing methodology must consider the potential conversion of THCA in hemp into THC and the test result must report the total available THC derived from the sum of the THC and THCA content. Testing methodologies meeting the requirements of this Section include, but are not limited to, gas or liquid chromatography with detection. The total THC concentration level shall be determined and reported on a dry weight basis.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any test of a representative sample resulting in higher than the acceptable hemp THC level shall be conclusive evidence that the lot represented by the sample is not in compliance with this part and shall be disposed of or remediated in accordance with Section VIII.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Samples of hemp plant material from one lot shall not be commingled with hemp plant material from other lots.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>
+        <u>Testing Laboratories.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>Laboratories conducting analytical testing for purposes of detecting the concentration levels of Total THC shall meet the following requirements:</text>
+        <para>
+          <num>(a)</num>
+          <text>Laboratory quality assurance must ensure the validity and reliability of test results;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Analytical method selection, validation, and verification must ensure that the testing method used is appropriate (fit for purpose), and that the laboratory can successfully perform the testing;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The demonstration of testing validity must ensure consistent, accurate analytical performance;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Method performance specifications must ensure analytical tests are sufficiently sensitive for the purposes of the detectability requirements of this part; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Effective disposal procedures for non-compliant samples that do not meet the requirements of this part.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Measurement of uncertainty (MU) must be estimated and reported with test results. Laboratories shall use appropriate, validated methods and procedures for all testing activities and evaluate measurement of uncertainty.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Sample preparation of pre- or post-harvest samples shall require grinding of samples to ensure homogeneity of plant material prior to testing. Sample preparation may follow a procedure described by USDA.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>After December 31, 2022, the Tribe shall require that only laboratories registered with the DEA may conduct testing under these Regulations.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Tribe will require testing laboratories to comply with USDA reporting requirements.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Laboratories shall only report formal test results that are used to determine compliance under these Regulations. Test results from informal testing conducted throughout the growing season shall not be reported to USDA.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>VIII.</num>
+    <text>
+      <strong>DISPOSAL AND REMEDIATION</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>
+        <u>General Procedure.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>Cannabis plants exceeding the acceptable hemp THC level constitute marijuana, a schedule I controlled substance under the Controlled Substances Act (CSA), 21 U.S.C. 801 et seq., and producers must either use a DEA-registered reverse distributor or law enforcement to dispose of non-compliant plants or ensure the disposal of such cannabis plant on site at the farm or hemp production facility.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Producers must notify the HCO of their intent to dispose of or remediate non-conforming plants and verify disposal or remediation by submitting required documentation.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>If a producer elects to perform remediation activities, an additional sampling and testing of the post-remediated crop must occur to determine THC concentration levels.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>
+        <u>Disposal Or Remediation Procedures.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>Disposal and remediation when a producer's plants are deemed non-compliant shall be conducted as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>Disposal must be conducted either by using a DEA-registered reverse distributor or law enforcement; or on site at the farm or hemp production facility.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Tribe will provide procedures to verify the disposal or remediation of the cannabis plant. This may be done in the form of in-person verification by the HCO or alternative requirements that direct growers to provide pictures, videos, or other proof that disposal or remediation occurred successfully. (Disposal and remediation means are described at AMS's website).</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If a producer elects to perform remediation activities, an additional sampling and testing of the post-remediated crop must occur to determine THC concentration levels.</text>
+        </para>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>IX.</num>
+    <text>
+      <strong>VIOLATIONS AND ENFORCEMENT</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>
+        <u>Responsibility Of Producer After Laboratory Testing Is Performed.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>The producer shall harvest the crop no later than thirty (30) days after the date of sample collection.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If the producer fails to complete harvest within thirty (30) days of sample collection, a second pre-harvest sample of the lot shall be required to be submitted for testing.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Harvested lots of hemp plants shall not be commingled with other harvested lots or other material.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Lots that meet the acceptable hemp THC level may enter the stream of commerce.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Lots that do not meet the acceptable hemp THC level are subject to Sections B-E, below.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Any producer may request additional pre-harvest testing if it is believed that the original total delta-9 tetrahydrocannabinol concentration level test results were in error. Additional testing may be conducted by the laboratory that conducted the initial test, or another laboratory.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>
+        <u>Non-Compliant Cannabis Plants.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>Cannabis plants exceeding the acceptable hemp THC level constitute marijuana, a schedule I controlled substance under the Controlled Substances Act (CSA), 21 U.S.C. 801 et seq., and producers must either use a DEA-registered reverse distributor or law enforcement to dispose of non-compliant plants or ensure the disposal of such cannabis plant on site at the farm or hemp production facility.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Producers must notify the HCO of their intent to dispose of or remediate non-conforming plants and verify disposal or remediation by submitting required documentation.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>If a producer elects to perform remediation activities, an additional sampling and testing of the post-remediated crop must occur to determine THC concentration levels.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>
+        <u>Violations.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>Violations of this part shall be subject to enforcement in accordance with the terms of this section.</text>
+        <para>
+          <num>(a)</num>
+          <text>Negligent violations. Hemp producers are not subject to more than one negligent violation per calendar year. A hemp producer shall be subject to enforcement for negligently:</text>
+          <para>
+            <num>(1)</num>
+            <text>Failing to provide an accurate legal description of land where hemp is produced;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Producing hemp without a license; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Producing cannabis exceeding the acceptable hemp THC level. Hemp producers do not commit a negligent violation under this paragraph (a) if they make reasonable efforts to grow hemp and the cannabis does not have a total THC concentration of more than 1.0 percent on a dry weight basis.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Corrective action for negligent violations. For each negligent violation, the HCO will issue a Notice of Violation and require a corrective action plan from the producer. The producer shall comply with the corrective action plan to cure the negligent violation. Corrective action plans will be in place for a minimum of two (2) years from the date of their approval. Corrective action plans will, at a minimum, include:</text>
+          <para>
+            <num>(1)</num>
+            <text>The date by which the producer shall correct each negligent violation;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Steps that will be taken to correct each negligent violation; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A description of the procedures that will demonstrate compliance must be submitted to the HCO.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Negligent violations and criminal enforcement. A producer who negligently violates this part shall not, as a result of that violation, be subject to any criminal enforcement action by any Federal, State, Tribal, or local government.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Subsequent negligent violations. If a subsequent negligent violation occurs while a corrective action plan is in place, a new corrective action plan must be submitted with a heightened level of quality control, staff training, and quantifiable action measures.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Negligent violations and license revocation. A producer that negligently violates the license 3 times in a 5-year period shall have their license revoked and be ineligible to produce hemp for a period of 5 years beginning on the date of the third violation.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Culpable mental state greater than negligence. If the HCO determines that a producer has violated the terms of the license or of this part with a culpable mental state greater than negligence the HCO shall immediately report the licensee to:</text>
+          <para>
+            <num>(1)</num>
+            <text>The U.S. Attorney General; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Tribe's General Counsel and Chief of Police; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Paragraphs (b) and (c) of this Section shall not apply to culpable violations.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>
+        <u>License suspension.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>The HCO may issue a notice of suspension to a producer if it receives some credible evidence establishing that a producer has:</text>
+        <para>
+          <num>(a)</num>
+          <text>Engaged in conduct violating a provision of this part; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Failed to comply with a written order from the HCO related to negligence as defined in this part.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any producer whose license has been suspended shall not handle or remove hemp or cannabis from the location where hemp or cannabis was located at the time when the HCO issued its notice of suspension, without prior written authorization from the HCO.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Any person whose license has been suspended shall not produce hemp during the period of suspension.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>A producer whose license has been suspended may appeal that decision in accordance with Section IV, D.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>A producer whose license has been suspended and not restored on appeal may have their license restored after a waiting period of one year from the date of the suspension. If the license was issued more than three years prior to the date of restoration, the producer shall submit a new application and criminal history report to the HCO.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>A producer whose license has been suspended may be required to provide, and operate under, a corrective action plan to fully restore their license.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>
+        <u>License Revocation.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>The HCO shall immediately revoke the license of a producer if such producer:</text>
+        <para>
+          <num>(a)</num>
+          <text>Pleads guilty to, or is convicted of, any felony related to a controlled substance; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Made any materially false statement with regard to this part to the HCO or its representatives with a culpable mental state greater than negligence; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Is found to be growing cannabis exceeding the acceptable hemp THC level with a culpable mental state greater than negligence or negligently violated this part three times in five years.</text>
+        </para>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>X.</num>
+    <text>
+      <strong>REPORTING AND RECORDKEEPING</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>
+        <u>Hemp Producer Report.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>The Tribe will submit to the USDA, by the first of each month, a report providing the contact information and the status of licenses or other authorization issued for each producer covered under these Regulations. If the first of the month falls on a weekend or holiday, the report is due by the first business day following the due date. The report will be submitted using a digital format compatible with USDA's information sharing systems, whenever possible.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Tribe's report will contain the following information:</text>
+        <para>
+          <num>(a)</num>
+          <text>For each new producer who is an individual and is licensed or authorized under these Regulations, the full name of the individual, license or authorization identifier, business address, telephone number, and email address (if available).</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For each new producer that is an entity and is licensed or authorized under these regulations, the full name of the entity, the principal business location address, license or authorization identifier, and the full name, title, and email address (if available) of each employee for whom the entity is required to submit a criminal history record report.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>For each producer that was included in a previous report and whose reported information has changed, the previously reported information and the new information.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The status of each producer's license or authorization.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The period covered by the report.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Indication that there were no changes during the current reporting cycle, if applicable.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>
+        <u>Hemp Disposal And Remediation Report.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>If a producer has produced cannabis exceeding the acceptable hemp THC level, the cannabis must be disposed of or remediated.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Tribe shall submit to USDA, by the first of each month, a report notifying USDA of any occurrence of non-conforming plants or plant material and providing a disposal or remediation record of those plants and materials. This report will include information regarding name and contact information for each producer subject to a disposal or remediation during the reporting period, and date disposal or remediation was completed. If the first of the month fall on a weekend or holiday, reports are due by the first business day following the due date.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The report shall contain the following information:</text>
+        <para>
+          <num>(a)</num>
+          <text>Name and address of the producer.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Producer license or license identifier.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Location information, such as lot number, location type, and geospatial location or other location descriptor for the production area subject to disposal or remediation.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Information on the agent handling the disposal or remediation.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Disposal or remediation completion date.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Total acreage.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>
+        <u>Annual Report.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>The Tribe will submit an annual report to USDA by December 15 of each year that contains the following information:</text>
+        <para>
+          <num>(a)</num>
+          <text>Total planted acreage.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Total harvested acreage.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Total acreage disposed and remediated</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>
+        <u>Test Results Report.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>Each producer must ensure that the laboratory that conducts the test of the samples from its lots reports the test results for all samples tested to the HCO. Informal testing conducted throughout the growing season for purposes of monitoring THC concentration do not need to be reported to the HCO.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The test results report shall contain the following information:</text>
+        <para>
+          <num>(a)</num>
+          <text>Producer's license or license identifier.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Name of producer.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Business address of producer.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Lot identification number for the sample.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Name of laboratory and, after December 31, 2022, the DEA registration number of laboratory for testing.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Date of test and report.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Identification of a retest.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Test result.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>
+        <u>Producers Report To FSA.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>All licensed producers shall report hemp crop acreage to the FSA and provide, at a minimum, the following information:</text>
+      </para>
+      <para>
+        <num>(a)</num>
+        <text>Street address and, to the extent practicable, geospatial location for each lot or greenhouse where hemp will be produced. If an applicant operates in more than one location, or is producing under multiple licenses, production information shall be provided for each location.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Acreage dedicated to the production of hemp, or greenhouse or indoor square footage dedicated to the production of hemp.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>License or authorization identifier in a format prescribed by USDA.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>
+        <u>Procedure To Collect And Share Information with USDA.</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>The Tribe agrees to the following procedure to collect and share information with the USDA to comply with 7 U.S.C. §1639q(d).</text>
+        <para>
+          <num>(a)</num>
+          <text>All producers will report their crop acreage to the FSA consistent with the requirements of 7 CFR 990.7.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The HCO will assign a license identifier for each producer in a format prescribed by the USDA.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>All producers will report the total acreage of hemp planted, harvested, and, if applicable, disposed or remediated. That information will be collected by the Tribe and reported to the AMS.</text>
+        </para>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>XI.</num>
+    <text>
+      <strong>MISCELLANEOUS</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>
+        <u>Certification By Tribe</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>The Tribe certifies that it has the resources and personnel to carry out the practices and procedures described in these Regulations.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>
+        <u>Amendment Of Regulations</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>These Regulations may be amended by the Tribal Council under the provisions of the Tribal Procedures Act that includes notice to, and review by, the Community.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>
+        <u>Effective Date</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>These Regulations shall be effective upon it adoption by the Tribal Council and approval by the Secretary of the United States Department of Agriculture.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>
+        <u>Severability</u>
+      </text>
+      <para>
+        <num>1.</num>
+        <text>The provisions in these Regulations shall be severable and if any part or provision shall be held void by any Court the decision so holding shall not affect any of the remaining parts.</text>
+      </para>
+    </para>
+  </para>
+</document>
