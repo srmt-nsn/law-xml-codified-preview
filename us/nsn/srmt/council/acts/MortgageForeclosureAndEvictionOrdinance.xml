@@ -159,13 +159,10 @@
         <strong>St. Regis Mohawk Tribe}</strong>
       </text>
       <text>Indian Reservation</text>
-    </section>
-    <section>
-      <num>I </num>
-      <heading>Certify That This Is a True and Correct Copy of a Document Received for Recording This Date</heading>
+      <text>I Certify That This Is a True and Correct Copy of a Document Received for Recording This Date</text>
       <text>Given under my hand and seal this _______ day of _____________________, 20_____.</text>
-      <text>_____________________________	    -Seal-		_______________________________</text>
-      <text>(Signature) 						(Date)</text>
+      <text>_____________________________     -Seal-    _______________________________</text>
+      <text>(Signature)             (Date)</text>
     </section>
     <section>
       <num>D</num>
