@@ -55,12 +55,14 @@
     <heading>Tribal Acts/Codes/Laws/Ordinances</heading>
     <xi:include href="./us/nsn/srmt/council/acts/AdultUseCannabisOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/AlcoholBeveragesControlAct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/ATVOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/BusinessOrganizationsOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/CivilCode.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/CodeOfJudicialConduct.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/CommunicationsRegulatoryAct.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/CourtAndJudiciaryCode.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/ElectionAndReferendumOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/EthicsOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/FamilySupportAct.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/GamingOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/HempRegulations.xml"/>
@@ -70,6 +72,7 @@
     <xi:include href="./us/nsn/srmt/council/acts/MortgageForeclosureAndEvictionOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/MortgageLandAssignmentOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/NonMemberFishingRegulationsAndLaws.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/PawnbrokerOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/PesticideRegulation.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/PoliceCommissionAct.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/ProbateLaw.xml"/>
