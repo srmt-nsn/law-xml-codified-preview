@@ -1,0 +1,599 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribal Court Rules of Civil Procedure (Saint Regis Mohawk Tribal Act)">
+  <section>
+    <num>I</num>
+    <heading>Title and Codification</heading>
+    <text>This Ordinance shall be known as the Saint Regis Mohawk Tribal Court Rules of Civil Procedure.</text>
+  </section>
+  <section>
+    <num>II</num>
+    <heading>Purpose</heading>
+    <text>The purpose of this Ordinance is to establish Rules of Civil Procedure and practice before the courts of the Saint Regis Mohawk Tribe.</text>
+  </section>
+  <section>
+    <num>III</num>
+    <heading>Definitions</heading>
+    <text>There are no words or phrases of that require statutory definition as part of this enactment.</text>
+  </section>
+  <section>
+    <num>IV</num>
+    <heading>[Rule 1] Filing and Notice</heading>
+    <para>
+      <num>A.</num>
+      <text>The original written complaint, petition, answer, summons, motion, argument, agreement, order or other document served upon a party during a case in Tribal Court shall be filed with the Court Clerk.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A party who files any document with the Court Clerk in a lawsuit shall give a copy of the same document to every other party in the case. If a party is represented by counsel, all documents except the complaint and summons shall be given to counsel, instead of the party. Delivery of a copy as required by this Rule may be made either by giving it to the party or counsel in person or by mailing it first class, postage paid, to the party's or counsel's correct address.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Every decision and order of the court shall be written by a judge or court clerk staff and signed by a judge. The Court Clerk shall file a copy and give or send a copy of each ruling to each party and counsel in the case.</text>
+    </para>
+  </section>
+  <section>
+    <num>V</num>
+    <heading>[Rule 2] Timing</heading>
+    <para>
+      <num>A.</num>
+      <text>Whenever a rule, Tribal Law, or an order of the Court requires that an action be taken within a certain number of days, the day of the action from which the time limit begins shall not be counted; but the last day shall be counted unless it is a Saturday, Sunday or Tribal holiday. When the last day is a Saturday, Sunday or Tribal holiday, the deadlines shall be the first work day following that day that is not counted. Where the time limit is less than seven (7) days, Saturdays, Sundays and Tribal holidays shall be counted.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>When a time limit is counted from or to the time that notice is delivered to a person and the notice is delivered by mail rather than given directly to the person, it shall be presumed that delivery takes place three (3) days after the notice is placed in a United States Postal Service mailbox.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>On request of a party, and if good cause exists, the Judge may allow an extension of any time limit prescribed by a Rule of Civil Procedure or a Rule of the Court.</text>
+    </para>
+  </section>
+  <section>
+    <num>VI</num>
+    <heading>[Rule 3] Civil Procedure</heading>
+    <para>
+      <num>(a)</num>
+      <text>Unless otherwise specified by these Rules, or ordered by a Judge pursuant to a Rule of the Court, motions, arguments, discovery requests and other actions taken by the parties during the course of lawsuit may be oral or written. Oral actions taken by the parties, in order to be enforceable by the Court, shall take place in open court in the presence of the Judge and all parties.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>All oral actions taken by the parties in open court shall be subject to the notice requirements of Section 16, Rule 13. The Notice of Motion form provided for by that Rule may be used to satisfy the notice requirements for all oral actions.</text>
+    </para>
+  </section>
+  <section>
+    <num>VII</num>
+    <heading>[Rule 4] Form of Court Papers</heading>
+    <text>All written material submitted to the Court must be clear and legible on 8 'A" X 11" white paper and shall contain the name of the Court, the names of the parties, the Court file number for the case, the signature of the party filing it or the party's counsel, and any other information required by these Rules. For convenience, the Court may develop standard forms for pleadings, motions, notices and orders. Standard forms officially adopted by the Court will become an appendix to these Rules of Civil Procedure.</text>
+  </section>
+  <section>
+    <num>VIII</num>
+    <heading>[Rule 5] Limitations of Actions</heading>
+    <para>
+      <num>A.</num>
+      <text>A civil lawsuit filed in Tribal Court must be started:</text>
+      <para>
+        <num>1.</num>
+        <text>In the case of torts and oral contracts, and actions not otherwise provided for herein, within three (3) years;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>In the case of causes of action based upon a statute or ordinance, within one (1) year, unless stated otherwise in the applicable statute or ordinance;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>In the case of written contracts, five (5) years from the time of the breach of contract.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>In the case of actions to enforce a judgment, except judgments rendered in regard to child custody, adoption proceedings or matrimonial cases, within ten (10) years of the date the person or persons in whose favor the judgment was rendered was first entitled to enforce.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The time within which a civil lawsuit must be filed shall be counted from the date on which the injury or breach was first known to the injured party or should have been known to a reasonably aware person in the position of the injured party.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>For the purposes of meeting the deadline set in this Rule, a civil suit is started when the complaint is filed with the Clerk of the Court.</text>
+    </para>
+  </section>
+  <section>
+    <num>IX</num>
+    <heading>[Rule 6] Commencement of a Lawsuit; Complaints; Proof of Service; Filing Fee; Summons</heading>
+    <para>
+      <num>A.</num>
+      <text>To start a civil lawsuit in Tribal Court, a person shall first file a written complaint with the Court Clerk. The person who has filed the complaint shall be known as the plaintiff in the lawsuit. The complaint shall describe the injury or breach the plaintiff is complaining of, name or describe the person responsible for such injury or breach, who shall be known as the defendant, and state the relief requested. The plaintiff shall sign the complaint and have the document notarized. If a person is unable to prepare a written complaint, the Clerk may help that person complete a complaint form provided by the Rules of the Court.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>After the plaintiff has filed the complaint, the Clerk shall issue a summons directing the defendant to answer the complaint within twenty (20) days of the time the defendant receives the complaint and summons. The summons shall be on the official form provided by the Rules of the Court. The summons must notify the defendant that a failure to appear and defend will result in a default judgment being entered against the defendant for the relief demanded in the complaint.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Within sixty (60) days after plaintiff files a civil complaint, plaintiff shall cause a copy of the complaint, together with the summons, to be served upon (delivered to) each defendant named in the complaint. The complaint and summons must be served by a person eighteen (18) or more years old who has no stake in the outcome of the lawsuit. It may be served either by giving it to the defendant directly or by leaving it at a defendant's residence or place of employment with a person at least fourteen (14) years old who lives or works there.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The person who delivers the complaint shall sign and file a proof of service with the Clerk. The proof of service shall indicate the type of document served, the date and place of service, and the name of the person served, and shall be on the form provided for that purpose by the Rules of the Court. This shall be done within thirty (30) days from the date of service.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Every person who files a civil lawsuit shall pay a filing fee to be established by the Rules of the Court.</text>
+    </para>
+  </section>
+  <section>
+    <num>X</num>
+    <heading>[Rule 7] Amendment, Withdrawal, Dismissal of the Complaint</heading>
+    <para>
+      <num>A.</num>
+      <text>A plaintiff may change the complaint without Court permission at any time before the defendant answers it, as long as a copy of the changed complaint is delivered to all parties according to the rules for complainants. After the defendant has answered the complaint, the judge may still allow plaintiff to change the complaint as long as allowing the change would not be unfair to the defendant.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Judge shall allow plaintiff to withdraw the complaint and shall dismiss the case at any time plaintiff requests unless the defendant has counterclaimed against plaintiff, or dismissal of the case would otherwise be unfair to the defendant. The judge may order a plaintiff who withdraws a complaint to pay to the defendant all costs of the suit incurred by the defendant.</text>
+    </para>
+  </section>
+  <section>
+    <num>XI</num>
+    <heading>[Rule 8] Defenses, Answers; Counterclaims</heading>
+    <para>
+      <num>A.</num>
+      <text>Within twenty (20) days after a defendant receives a copy of a civil complaint and summons, he or she must answer the complaint in writing. The Defendant must sign the answer, file it with the Clerk, and cause it to be served upon and delivered to the plaintiff If the defendant is not able to prepare a written answer, he or she shall explain to the Clerk the nature of the defense which will be presented, and the Clerk shall help the defendant to put the answer in writing, on the form provided for that purpose by the Rules of the Court.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>In addition to or as a way of raising a defense to the complaint, a defendant may file a complaint/counterclaim against plaintiff, following the same rules which apply to complaints.</text>
+    </para>
+  </section>
+  <section>
+    <num>XII</num>
+    <heading>[Rule 9] Preliminary Injunctions and Temporary Restraining Orders</heading>
+    <para>
+      <num>A.</num>
+      <text>A party to a civil suit may ask the judge for a pretrial order (injunction) prohibiting or requiring particular action by another party to keep things as they are until the Court has a chance to reach a final decision in the case. The order shall be granted if the person requesting it shows that there is a good chance that he or she will win the suit and that he or she will suffer irreparable loss or injury if the injunction is not issued.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Unless otherwise stated in the injunction, a pretrial injunction shall remain in effect until final judgment in the case.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Except as provided in Section 12, Rule 9(d), no pretrial injunction shall be issued unless the party to be enjoined first has notice and an opportunity to be heard in court.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A judge may issue a temporary restraining order prohibiting or requiring particular action by a party to keep things as they are pending the court's final decision in the case without prior notice to the party to be restrained when the party who requests such an order provides by sworn statement or oral testimony that he or she will suffer permanent loss or injury if the order is not issued before the opposing party can be notified and heard and that he or she made a reasonable attempt to notify the opposing party of the time when the request would be made.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A temporary restraining order shall be effective only for the time period specified in the order, and in no case for longer than ten (10) days. Subject to the requirements of Section 12, Rule 9(d), a temporary restraining order may be renewed once and only for good cause.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The judge may require a party who requests a restraining order or pretrial injunction to provide security for any loss or injury which may be suffered by a party who is wrongfully enjoined or restrained; provided, however, that the judge shall not require such security from the Tribal government or any of its branches or instrumentalities.</text>
+    </para>
+  </section>
+  <section>
+    <num>XIII</num>
+    <heading>[Rule 10] Default</heading>
+    <para>
+      <num>A.</num>
+      <text>Failure of a defendant to file and serve an answer upon the plaintiff within twenty (20) days after the complaint was served shall be in default and shall provide grounds for judgment against the defendant as asked for in the complaint. No judgment of default shall be made, however, unless the plaintiff makes a written motion for a default judgment and serves a copy of the motion on each defendant. If defendant files an answer to the complaint at or before the time that the motion is to be argued to the Judge, no default judgment shall be granted, and the matter shall proceed as though answered on time. If defendant does not answer by that time, a default judgment shall be entered.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>In granting a default judgment, the Judge may refuse to grant relief requested by plaintiff if granting the relief would be contrary to Tribal law or would be unjust. The judge may not grant plaintiff greater relief on default than was requested in the complaint.</text>
+    </para>
+  </section>
+  <section>
+    <num>XIV</num>
+    <heading>[Rule 11] Discovery</heading>
+    <para>
+      <num>A.</num>
+      <text>It is the policy of the Tribal Court that the truth will be revealed if all parties in a civil case have access to all information and evidence related to the case. In preparation for trial the parties may ask each other for and shall make available to each other all information in each other's possession or control which will be used as evidence in the case or which can reasonably be expected to lead to evidence.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Methods of discovering and exchanging information may include but need not be limited to written questions, oral examination, requests for witness' names, requests for admissions, physical inspection of property, requests to perform scientific or physical tests, and requests for documents. The party who makes a request under this Rule shall be as clear and as specific as possible in describing what he or she wants.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A party may refuse to make available the information requested pursuant to this Rule if its release would cause the responding party or a third person undue hardship, annoyance, or embarrassment, or would violate a confidence which is Tribal custom or official Tribal policy to protect. If parties disagree about whether the responding party is required to release the information, the judge shall decide the dispute. The Judge may place conditions on the release of information to protect confidential material, prevent unreasonable burden or expense to one party, or otherwise ensure fairness to all parties.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A party who receives a request for information under this Rule shall, within ten (10) days of receiving the request, respond either with information, with an indication where and when the information will be available, or with an objection and refusal to comply with the request. Failure to respond within ten (10) days is grounds for a Court order requiring a response.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A copy of all written requests for discovery shall be filed with the Court.</text>
+    </para>
+  </section>
+  <section>
+    <num>XV</num>
+    <heading>[Rule 12] Pretrial Conference</heading>
+    <para>
+      <num>A.</num>
+      <text>In the interest of saving time, simplifying the issues and avoiding unnecessary litigation, the Judge may, on his or her own motion, or on the motion of any party, schedule one or more pretrial conferences with all parties to a case. In any case determined by the Judge to be complex, at least one pretrial conference shall be held after the completion of discovery and early enough to aid parties in planning for trial.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The pretrial conference shall be held in an informal setting and shall be conducted without formal procedures. The parties and the Judge shall discuss areas where the parties are in agreement and areas where they disagree. The purpose of the discussion shall include the following:</text>
+      <para>
+        <num>1.</num>
+        <text>To identify and dispose of issues which may be resolved without a trial;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>To narrow and focus issues of law which remain to be decided and to identify central acts which are still in dispute;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>To limit the number of witnesses and the evidence that will be presented so that testimony and other evidence is not repetitious or irrelevant; and</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>To avoid surprise at trial.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>To accomplish the above purposes, all parties to a lawsuit shall, at the pretrial conference after discovery, fully disclose:</text>
+      <para>
+        <num>1.</num>
+        <text>The names and addresses of all witnesses they expect to present at trial, and the basic information to which they expect the witness to testify;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>All documents they expect to introduce as evidence, and the basic information which they intend to prove with those documents; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>All objects which they intend to introduce as evidence and the basic information which they intend to prove with those objects.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>No party shall be permitted to use the testimony of any witness or introduce as evidence any document or object unless they disclose the witness, document, or object at the pretrial conference as provided in (c) above, unless the party proves that at the time of the pretrial conference they were unaware of the existence or nature of the witness, document or object and could not, with reasonable effort, have discovered it in time to disclose it. Such evidence must, in any case, be disclosed to the judge and opposing party as soon as possible before it may be offered in the trial.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>No offer of settlement or other statement which is made by a party during a pretrial conference may be used as evidence against that party if settlement is not then achieved. Agreements reached as a result of a pretrial conference shall be put in writing and signed by all parties. Such agreement shall be made part of the final judgment issued by the judge.</text>
+    </para>
+  </section>
+  <section>
+    <num>XVI </num>
+    <heading>[Rule 13] Motions</heading>
+    <para>
+      <num>A.</num>
+      <text>Any questions regarding procedure or the rights of the parties which arise during a lawsuit and which cannot be settled by agreement of the parties may be presented to the judge in a motion, which is a request for an order.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Motions may be made in writing or orally. If the motion is not made during and as a consequence of events at a trial or other hearing, the moving party shall notify other parties of the nature and basis of the motion and the hearing time at least ten (10) days before the motion is presented in Court, so the responding party has a chance to plan a response. The notice required by this section shall be called a Notice of Motion, shall be in writing, and shall be served upon the party, or, if the party is represented by counsel, upon the party's counsel, according to Section 4, Rule 1 (b). Persons who are unable to prepare their own written Notice of Motion may be assisted by the Clerk in the filling out of a Notice of Motion form, provided for that purpose by the Rules of the Court.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Motions to dismiss the lawsuit because the Court lacks jurisdiction or because the plaintiff has not stated a legitimate basis for relief may be made at any time. All other pretrial motions which would determine the procedures used at trial must be made at least five (5) days before the trial. The judge may deny a motion which could and should have been made earlier in the case if it appears that the moving party knew or should have known earlier about the basis for the motion and has raised it late because of negligence or an intent to harass the other party.</text>
+    </para>
+  </section>
+  <section>
+    <num>XVII</num>
+    <heading>[Rule 14] Compelling Witnesses to Appear; Subpoenas</heading>
+    <para>
+      <num>A.</num>
+      <text>Any party to a lawsuit or other proceeding in Tribal Court shall have the right to compel witnesses to appear in Court and testify concerning the matter.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Upon request of a party, the Court shall issue a subpoena, an order which commands a named person to appear in Court and/or to bring certain evidence or documents to court.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>All subpoenas shall be signed by a judge, except as otherwise provided by the Rules of the Court.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Every subpoena shall be in writing and shall include the name of the Court, the Court's seal, the names of all parties, the time and place that the witness must appear, and a clear and detailed description of any documents or evidence that the witness is required to bring.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Subpoenas shall be delivered to the witness by a person of the age of eighteen (18) or more years who has no stake in the case. The subpoena must be delivered by giving it to the witness directly.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>A person who delivers a subpoena shall promptly file with the Clerk a copy of the subpoena and a proof of service as defined in Section 9, Rule (6)(d). The proof of service must be filed prior to the date the person is to appear, and in any event no more than thirty (30) days after the date of service.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Failure of a witness to obey a subpoena shall be grounds for holding the witness in contempt of Court after a hearing.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>A witness who responds to a civil subpoena shall be entitled to a fee of Thirty Dollars ($30.00) for each day or partial day that he or she must appear in court. The judge may, in addition, order that the witness be paid reasonable and necessary travel and living expenses incurred in responding to the subpoena. Witnesses shall be offered full payment of their fees for one day's service at the time they are served with the subpoena. The party requesting the issuance of a subpoena shall tender the fees to the witness upon service of the subpoena.</text>
+    </para>
+  </section>
+  <section>
+    <num>XVIII</num>
+    <heading>[Rule 15] Jury Trials</heading>
+    <para>
+      <num>A.</num>
+      <text>Jury request; fee.</text>
+      <text>A jury trial shall be held if requested by either party to the case at least ten (10) days before the trial, and only if specifically allowed by applicable Tribal law. The party who requests a jury trial shall pay to the Court a jury fee established by the Rules of the Court. Payment of the jury fee may be waived by the Chief Judge upon the request of a party if payment of the fee would result in severe hardship to the party. The party who requests a jury trial or a visiting judge who fails to provide at least five (5) days notice by a written motion to continue shall be liable for the payment of jury fees and fees payable to the visiting judge at the discretion of the Judge presiding over the trial.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Eligibility; jury list.</text>
+      <text>To be eligible to serve as a juror on a civil case, a person must be a Tribal member who is a resident of the St. Regis Mohawk Reservation, must be eighteen (18) years of age or older, must never have been convicted in any court of a felony, and must not at the time the list is made, or at the time of trial, be holding the office of Tribal judge, Tribal police officer, or Tribal Council Member.</text>
+      <para>
+        <num>1.</num>
+        <text>For the purposes of this section, a permanent resident of the Reservation is a person who rents or owns a dwelling place on the reservation, and who resides in that dwelling place other than seasonally or periodically, and who receives mail on the reservation at a reservation post office box or reservation street address, and who intends to make the reservation his or her permanent home for the future, and who does not claim residence in any other location for any purpose.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Tribal Clerk shall prepare each year a list of persons eligible to serve as jurors, and shall provide the jury list to the Clerk of the Court. The Clerk of the Court shall prepare a ballot in the name of each eligible person and protect the ballots from access by unauthorized persons by placing the ballots in a master ballot box and securing the master ballot box in a safe.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Selection of panel; jury summons; failure to appear; excuse from jury duty.</text>
+      <para>
+        <num>1.</num>
+        <text>Not less than seven (7) days before the date set for the beginning of a jury trial, the judge shall draw from the master ballot box, at random, the number of ballots specified by the Rules of the Court for a civil jury trial of the type scheduled. The Clerk of the Court shall then issue and cause to be served upon each person whose ballot was drawn a Jury Summons.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Jury Summons shall notify the person being summoned to appear in Court on the date set for the beginning of the trial, one hour before the time set for the trial. Failure of a person served with a Jury Summons to appear shall constitute contempt of court and the Summons shall contain a warning to that effect. Any person for whom jury service would be a severe hardship may be excused from service by a judge, but such excuse from jury duty shall be disfavored.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Jury selection.</text>
+      <text>On the day of the trial, the Clerk shall deposit in a ballot box ballots containing the names of each of the summoned potential jurors who have appeared by the time set for their appearance. Those persons whose names are in the ballot box shall be known as the jury panel. After the Judge calls the Court to order, he or shall draw from the jury panel ballot box, at random, the names of fourteen (14) members of the jury panel, who shall then be seated in the jury area. The Clerk shall make a list of the names in the order in which they are called.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Removal for cause; examination by Court, parties.</text>
+      <para>
+        <num>1.</num>
+        <text>After the first fourteen (14) members of the jury panel have been seated, the judge shall examine each of them as to their qualifications, and excuse any who appear to him or her to be biased, prejudiced, unable to fairly and effectively perform the duties of a juror or otherwise not qualified to serve as juror. The judge shall permit the parties or their counsel to similarly examine and ask for the removal of jurors for cause, without any limit to the number of jurors so challenged or removed, except that all such challenges must be in good faith. The judge shall excuse any juror he or she believes to be unqualified, directing him or her to leave the jury area.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>After all the disqualified jurors have been excused from the jury area, enough additional ballots shall be drawn by the judge to replace the disqualified persons with members of the jury panel. The Clerk shall add their names to the list in the order in which they were called. The procedure for challenge for cause shall continue until fourteen (14) qualified persons are seated in the jury area.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Peremptory Challenges.</text>
+      <text>After the fourteen (14) qualified persons have been seated in the jury area, each party shall have the right to remove three persons from the jury without stating any reason. The parties shall alternatively remove jurors, or waive their turn to do so, until they have exhausted their peremptory challenges.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Trial jury; alternate.</text>
+      <text>The Clerk of the Court shall then read aloud the first seven (7) names on the list and those persons shall be jurors for the trial. The Clerk shall also read aloud the eighth (8th) name on the list, and that person shall be an alternate juror for the trial. The alternate juror shall act in all respects as a juror, except that he or she shall not vote during jury deliberations unless one of the other jurors has been excused by the judge during the course of the trial.</text>
+    </para>
+  </section>
+  <section>
+    <num>XIX</num>
+    <heading>[Rule 16] Order of Trial</heading>
+    <para>
+      <num>A.</num>
+      <text>At the trial of a civil case, presentations shall be made in the following order unless otherwise agreed by the parties or determined at the pretrial conference:</text>
+      <para>
+        <num>1.</num>
+        <text>Motions by either party regarding procedure at trial, evidence to be presented, jurisdiction of the Court, or the sufficiency of claim;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Evidence and statements presented by the party (the plaintiff) who filed the original complaint;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Evidence, statements or motions presented by the person complained against (the defendant);</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Motions of either party which are based on events at trial; and</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Final arguments by both parties.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The judge may announce a final decision at the close of trial or may take the matter under submission and issue a written decision at a later time. All decisions shall be announced within thirty (30) days after the end of the trial.</text>
+    </para>
+  </section>
+  <section>
+    <num>XX</num>
+    <heading>[Rule 17] Burden and Standard of Proof; Jury Verdicts</heading>
+    <para>
+      <num>A.</num>
+      <text>Unless otherwise provided by Tribal law, the burden of providing a civil claim shall be on the party who makes the claim.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Unless otherwise provided by Tribal law, a party to a civil case shall be considered to have met the burden of proof by a preponderance of the evidence standard. This shall mean the necessary party met the burden of proof by providing superior evidentiary weight that, though not sufficient to free the mind wholly from all reasonable doubt, is still sufficient to incline a fair and impartial mind to one side of the issue rather than the other.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A civil jury verdict must be based upon the agreement of at least six (6) of the seven (7) jurors.</text>
+    </para>
+  </section>
+  <section>
+    <num>XXI</num>
+    <heading>[Rule 18] Rules of Evidence Governing Trials</heading>
+    <para>
+      <num>A.</num>
+      <text>Purpose.</text>
+      <text>The purpose of these informal Rules of Evidence is to ensure that the Tribal Court is able to determine the truth of a matter with a minimum of delay, confusion, and uncertainty of the parties.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>General Rules.</text>
+      <para>
+        <num>1.</num>
+        <text>Where there is more than one kind of evidence about the same subject, the judge shall give each item of evidence the importance (weight) which, according the judge's common sense and sense of fairness, that particular type of evidence deserves. For example, in oral testimony, the testimony of persons who testify from their personal knowledge, such as first-hand observation of, or participation in, the event described shall be given more weight than the testimony of persons who only have knowledge of the event that they gained from other persons.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Evidence admitted in the Tribal Court must be related either to the issues before the court or to the weight and credibility which should be given to other evidence. When questioned by the judge or another party as to why certain evidence should be allowed, the party who wishes to present the evidence shall:</text>
+        <text>a) 	State the issue which he or she will use the evidence to resolve; and</text>
+        <text>b) 	Explain how the evidence is relevant to the issue.</text>
+        <text>c) 	 When the relevance or reliability of evidence is challenged, the judge shall decide whether or not to use the evidence, and explain the decision.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Oaths. Prior to testifying before the Tribal Court, every witness shall first state before the judge, parties and spectators that he or she will testify truthfully. The Court may prescribe an oath for this purpose by the Rules of the Court.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Questioning Witnesses.</text>
+      <para>
+        <num>1.</num>
+        <text>When questioning a witness, the judge and parties or their counsel shall not ask questions in such a way as to suggest the answer, unless the witness is one who was called by the opposing party, or is clearly hostile to the person asking questions.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The judge shall determine the order in which the parties or their counsel shall be allowed to question witnesses. The judge shall protect the witnesses from harassment or unnecessarily repetitious or irrelevant questioning.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>During the questioning of a witness, the judge may exclude from the Court room any witnesses who have not yet testified, if this seems to be necessary to ensure that all witnesses will give truthful testimony. At the request of any party, such witness shall be excluded.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The Judge may call and/or question any witnesses on his or her own initiative.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Sworn Written Testimony: Subject to the provisions of Section 21, Rule I 8 (b) (2), testimony of a witness may be presented in sworn written form if and only if:</text>
+      <para>
+        <num>1.</num>
+        <text>The witness is unable to appear in person to testify, or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If the evidence presented in writing is not contradicted by other parties, or</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>If the sworn written testimony is offered to support a motion or an uncontested request for relief, or</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>If the sworn written testimony contradicts oral testimony already given by the same witness.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Written testimony must show clearly who gave it and when the witness gave it. Notarized documents are favored.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Copies or written records, photographs, and other documentary evidence may be presented as long as there is a reasonably reliable way to identify the items and the methods used to prepare them.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>When the relevance or reliability of evidence is challenged, the Judge shall decide whether or not to use the evidence, and explain the decision.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>XXII</num>
+    <heading>[Rule 19] Judgments</heading>
+    <para>
+      <num>A.</num>
+      <text>A judgment is a final order of the Court which disposes of a claim in whole or in part. The Judge may announce a judgment orally at a hearing in open Court before the parties, or in writing, at the time of hearing or after the hearing, but in no case more than thirty (30) days after the end of the trial.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Finality: A judgment becomes final when it has been recorded in the Docket Book by the court Clerk. The Court shall establish, by the Rules of the Court, the length of time after issuance of an order within which the Court Clerk must enter the Order in the Docket Book.</text>
+    </para>
+  </section>
+  <section>
+    <num>XXIII</num>
+    <heading>[Rule 20] Proceedings After Judgment</heading>
+    <para>
+      <num>A.</num>
+      <text>No later than ten (10) days after a judgment is final, a party may ask the Judge for a rehearing, reconsideration, correction, vacation, or modification of the judgment.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Judge may grant a new hearing or reconsider any change in the judgment if he or she finds at least one of the following to be true:</text>
+      <para>
+        <num>1.</num>
+        <text>The original judgment was based on or reached as a result of fraud or mistake of law;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>There is newly discovered evidence which probably would have affected the outcome of the case and which could not, with reasonable effort, have been discovered in time for a hearing of the case;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The court did not have jurisdiction over a party or over the subject matter.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>No later than ten (10) days after judgment is final or no later than ten (10) days after a motion made pursuant to Section (a) of this Rule is denied, a party may appeal an adverse judgment as provided in the Rules of Appellate Procedure.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>No civil judgment shall be enforced sooner that thirty (30) days after judgment is entered in the docket.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Failure to abide by the decision of the Court for resolution of the action, within a reasonable time as may be determined by the Court, will result in a "letter of warning" from the Court Clerk. Further non-compliance may result in a judgment for Contempt of Court, and enforcement of the original decision will be determined by the Court through such measures as garnishment of wages, restraining orders on bank accounts, sale offer implement liens on personal and/or real property, or any other remedy as authorized by the law.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>A party appealing a judgment against him or her, or filing a motion pursuant to Section 23, Rule 20(a) may make a motion requesting that the Court delay (stay) enforcement of the judgment until after the Section 23, Rule 20(a) motion or appeal has been decided. The party who won the original judgment may oppose the motion for a stay and/or may request that the Court require that the party asking for the stay post a bond to protect him or her from further damage, to cover costs, or to guarantee that sufficient assets are within the control of the Court to satisfy the judgment if the original winning party wins the motion or the appeal. Stays shall be granted only under the terms of this Section and the Rules of Appellate Procedure, and no stays shall be granted automatically.</text>
+    </para>
+  </section>
+  <section>
+    <num>XXIV</num>
+    <heading>[Rule 21] Costs</heading>
+    <para>
+      <num>A.</num>
+      <text>Upon judgment, the Judge shall order the losing party to pay to the winning party the costs of the lawsuit, unless the applicable law provides otherwise or the judge determines that such an order would be unjust. Costs shall not be imposed on the Tribe or any branch of the Tribe unless specifically permitted by an applicable Tribal law or agreement.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Costs shall include civil filing fees, any costs for delivering documents required by these Rules to be delivered, postage for court notice sent to the parties, and fees and expenses paid to witnesses and jurors, but shall not include counsel fees unless Tribal law so provides in a particular type of case.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>No person shall be jailed because he or she is unable to pay costs.</text>
+    </para>
+  </section>
+  <section>
+    <num>XXV</num>
+    <heading>[Rule 22] Interpretation and Publication of Rules of Civil Procedure</heading>
+    <text>The Tribal Court may apply interpretation of like provisions in the Federal Rules of Civil Procedure in construing these rules. The Tribal Court may authorize special, as well as annotated editions of these Rules of Civil Procedure, together with any requirement for citations of practice before the Tribal Courts.</text>
+  </section>
+  <section>
+    <num>XXVI</num>
+    <heading>Provisions as Cumulative</heading>
+    <text>The provisions of this Ordinance shall be cumulative to existing law.</text>
+  </section>
+  <section>
+    <num>XXVII</num>
+    <heading>Repeal Provisions and Conforming Amendments</heading>
+    <para>
+      <num>A.</num>
+      <text>No provisions of law are expressly repealed by this enactment.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>No current or previous provisions of law are conformed by this enactment.</text>
+    </para>
+  </section>
+  <section>
+    <num>XXVIII</num>
+    <heading>Severability</heading>
+    <text>The provisions of this Ordinance are severable and if any part or provision shall be held void by any Court of competent jurisdiction, the decision of the Court shall not affect or impair any of the remaining parts or provisions of this Ordinance.</text>
+  </section>
+</document>

@@ -1,0 +1,671 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribal Rules of Civil Appellate Procedure (Saint Regis Mohawk Tribal Act)">
+  <section>
+    <num>I</num>
+    <heading>Title and Codification</heading>
+    <text>This Ordinance shall be known as the Saint Regis Mohawk Tribal Rules of Civil Appellate Procedure.</text>
+  </section>
+  <section>
+    <num>II</num>
+    <heading>Scope of Rules</heading>
+    <para>
+      <num>A.</num>
+      <text>These Rules govern procedure in appeals to the Saint Regis Mohawk Court of Appeals from any final judgment of the Saint Regis Mohawk Tribal Court.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any procedure, issue, question or other matter not covered by these Rules shall be governed by the federal Rules of Appellate Procedure.</text>
+    </para>
+  </section>
+  <section>
+    <num>III</num>
+    <heading>Right of Appeal</heading>
+    <para>
+      <num>A.</num>
+      <text>Any aggrieved party may appeal from a final judgment of the tribal court. A final judgment is one that disposes of all issues in the case.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Failure to file an appeal within the time limits imposed by Rule 3 shall result in the dismissal of the appeal.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Failure to follow any procedure required by these Rules, other than the timely filing of a notice of appeal, shall not affect the validity of the appeal, but is grounds only for such action as the appellate court deems appropriate, which may include dismissal of the appeal.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Appeals may be considered by order of the appellate court upon its own motion, or upon motion of a party, or by stipulation of the parties to the several appeals.</text>
+    </para>
+  </section>
+  <section>
+    <num>IV</num>
+    <heading>Suspension of Rules</heading>
+    <text>Except as provided in Section 6, Rule 4(b), the Appellate Court may, upon motion for good cause shown, suspend the requirements or provision of any of these Rules in a particular case, and may order proceedings accordingly within its discretion. These Rules shall be liberally construed in the furtherance of justice.</text>
+  </section>
+  <section>
+    <num>V</num>
+    <heading>[Rule 3] Filing and Service</heading>
+    <para>
+      <num>A.</num>
+      <text>Filings; Form of Papers; Number of Copies.</text>
+      <text>All papers required or permitted to be filed in the Appellate Court shall be filed with the Clerk of the Appellate Court. All papers filed shall be typewritten and double spaced. Quotations may be single spaced. The paper shall contain a caption stating the Saint Regis Mohawk Tribal Appellate Court, the title of the case, the case number and a brief descriptive title. All filings, except those provided by Section 10, Rule 8, shall consist of an original and four (4) copies. Filing may be accomplished by certified mail addressed to the Clerk, but filing shall not be made timely unless the papers are received and stamped by the Clerk within the time scheduled for filing.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Service of All Papers Required; Notice By the Court Manner of Service</text>
+      <text>Copies of all papers filed by any party shall be served by a party or person acting for him or her, who is over the age of eighteen (18), on all other parties to the appeal at or before the time of filing. This Rule shall not apply to the transcript filed pursuant to Section 10, Rule 8. Service may be personal or by mail. Personal service includes delivery of the copy to counsel, or a clerk, or other responsible person over the age of eighteen (18) at the office of counsel, or to any pro per party. Service by mail is complete upon mailing. Service of copies of notice and papers that the Clerk of the Appellate Court must serve on parties to the appeal shall also be made in accordance with the foregoing.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Proof of Service</text>
+      <text>Papers presented for filing shall contain an acknowledgement of service by the person served, or proof of service in the form of a statement of the date and manner of service and of the name of the person served, signed by the person who made service. Proof of service may appear on or be annexed to the paper filed.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Service on Attorney or Guardian Ad Litem; Substitution; Notice.</text>
+      <text>Attorneys or guardians ad litem in the Court or at the administrative hearing will be deemed attorneys and guardians ad litem of the same parties in the Appellate Court until a substitution is made or there has been an appropriate withdrawal. Service of notices, briefs and all paper shall be made, when appropriate under these Rules, on such attorneys or guardians ad litem until a substitution is made and notice given to all other parties.</text>
+    </para>
+  </section>
+  <section>
+    <num>VI</num>
+    <heading>[Rule 4] Computation, Shortening or Extension of Time</heading>
+    <para>
+      <num>A.</num>
+      <text>Computation of Time</text>
+      <text>In computing time limits required by these Rules, or by order of the Appellate Court, or by any applicable law, the day of the act, event or judgment shall not be included. The last day of the period so computed is to be included unless it is a Saturday, Sunday, or court holiday, in which case the period shall extend to the end of the next business day which is not Saturday, Sunday or court holiday.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Shortening or Extension of Time</text>
+      <text>The time for doing any of the acts provided for in these Rules, or by order of the Appellate Court, or by any applicable statute or ordinance, may be shortened or extended upon stipulation and approval by the Appellate Court, or upon written motion for good cause shown, but the Appellate Court may not shorten or extend the time for filing a Notice of Appeal.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Additional Time After Service by Mail</text>
+      <text>Whenever a party is required or permitted to do an act within a prescribed period after the filing of a paper and the paper is served on the party by mail, five (5) days shall be added to the prescribed period.</text>
+    </para>
+  </section>
+  <section>
+    <num>VII</num>
+    <heading>[Rule 5] Motion</heading>
+    <para>
+      <num>A.</num>
+      <text>Contents of Motions; Responses; Reply</text>
+      <text>An application for an order or other relief shall be made by filing a written motion. The motion shall contain or be accompanied by any matter required by a specific provision of these Rules governing such a motion, shall specifically state the grounds on which it is based, and shall set forth the order or relief sought. Any party may file a response to a motion within twenty (20) days after service of the motion. The moving party may file a reply memorandum within ten (10) days after service of the response. The reply memorandum shall be confined to rebuttal of points argued in the response to the motion.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Motions on Papers, Requiring Supporting Affidavits or Other Evidence</text>
+      <text>Motion papers which rely on facts not apparent in the record, and of which the Appellate Court cannot take judicial notice, shall be supported by affidavit or other satisfactory evidence.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Motions for Procedural Orders</text>
+      <text>Notwithstanding the preceding subsections, motions for procedural orders may be acted upon at any time without awaiting a response. Any such motion must contain an affidavit containing the following:</text>
+      <para>
+        <num>1.</num>
+        <text>The reason why the motion constitutes a motion for procedural order and can be acted upon without a response; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A description of all efforts to secure a stipulation from adverse counsel and the reason why the stipulation has not been obtained.</text>
+      </para>
+      <text>The majority of the Justices of the Appellate Court may grant a motion for a procedural order without awaiting a response. Any party adversely affected by the granting of a procedural order may file a motion requesting rehearing, vacation, or modification of the order.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Oral Argument</text>
+      <text>Motions shall be considered and decided without oral argument unless otherwise ordered.</text>
+    </para>
+  </section>
+  <section>
+    <num>VIII</num>
+    <heading>[Rule 6] How Appeals Are to Be Taken</heading>
+    <para>
+      <num>A.</num>
+      <text>Filing of the Notice of Appeal</text>
+      <text>All appeals shall originate by filing a Written Notice of Appeal with the Clerk of the Appellate Court. A certified copy of the judgment, order, or administrative decision being appealed, signed by the Judge or hearing officer and dated, must be attached to the Notice of Appeal, and the filing fee must be paid at the time of filing.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Filing Fee</text>
+      <text>The Clerk shall not accept any appeal for filing and no appeal shall be considered filed until the filing fee has been paid and a copy of the final judgment has been attached. Filing fees shall be established by the Appellate Court and become effective upon thirty (30) days notice to the public.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Consent of the Notice of Appeal</text>
+      <text>The Notice of Appeal shall state the title of the Saint Regis Mohawk Tribal Court and of the action; shall specify the party or parties taking the appeal; shall designate the judgment or part appealed from; shall name the court or administrative agency from which the appeal is taken; and shall be signed by the attorney, or if the party is not represented by an attorney, then by the party taking the appeal. The Notice of Appeal shall conform to Form 1 in the Appendix of Forms.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Service of the Notice of Appeal</text>
+      <text>The Notice of Appeal and any motion or other papers filed in support of an appeal shall be served in accordance with Section 5, Rule 3(B). Service shall be sufficient notwithstanding the death of a party or counsel.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Filing of Notice of Appeal with the Court or Administrative Agency</text>
+      <text>The appellant shall file a copy of the Notice of Appeal with the Tribal Court or the Administrative agency and shall have this copy dated by the Tribal Court clerk or the administrative agency. The Tribal Court or administrative agency shall be notified of the appeal in the above manner no later than the same day the Notice of Appeal is filed with the Appellate Court.</text>
+    </para>
+  </section>
+  <section>
+    <num>IX</num>
+    <heading>[Rule 7] When Appeals May Be Taken</heading>
+    <para>
+      <num>A.</num>
+      <text>Time; Personal Representative; Cross-Appeal</text>
+      <text>The Notice of Appeal required by Section 8, Rule 6 shall be filed no later than thirty (30) days after the entry of the judgment from which the appeal is taken, unless a different time is provided by law. If a party dies during the time he is entitled to take an appeal, the appeal may be taken by his personal representative within ninety (90) days after the death of the party. A notice of cross-appeal may be filed by an opposing party within twenty (20) days from the date the Notice of Appeal is filed.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Extension of Appeal Time</text>
+      <text>When any of the following motions are timely filed, the time of appeal is extended, and times set forth in Section 9, Rule 7(a) shall be computed from the entry of any of the following orders:</text>
+      <para>
+        <num>1.</num>
+        <text>Granting or denying a motion for judgment notwithstanding the verdict.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Granting or denying a motion to amend or make additional findings of fact whether or not granting the motion would alter the judgment.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Granting of denying a motion to alter or amend the judgment.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Denying a motion for a new trial.</text>
+      </para>
+      <text>If more than one of the motions is timely filed, the expiration of the time for appeal is to be computed from the date of the entry of the order which disposes of the last remaining motion. When a motion to amend or make additional findings of fact is granted, the time begins to run when the amendment or addition has been accomplished by the Court Order. The same applies to the granting of a motion to amend or alter the judgment. Entry of an order occurs when the judge or hearing officer signs and dates the order.</text>
+    </para>
+  </section>
+  <section>
+    <num>X</num>
+    <heading>[Rule 8] Record on Appeal</heading>
+    <para>
+      <num>A.</num>
+      <text>Composition of Record on Appeal; Transmission of Record</text>
+      <para>
+        <num>1.</num>
+        <text>The papers making up the record on appeal to the Appellate Court shall be on the original paper, exhibits and other objects filed with the Court Clerk or administrative agency, a reporter's transcript, the transcription of any electronic recording or narrative or agreed statement and copies of all entries. The Tribal Court Clerk or administrative agency shall make and retain copies of original papers, exhibits, and objects as are capable of being copied before transmittal to the Appellate Court.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Tribal Court Clerk shall number the items comprising the record, and shall transmit the record to the Appellate Court, together with an appropriate index listing the contents of the record and the number, within thirty (30) days from the date of filing the notice of appeal. The Tribal Court Clerk shall serve a copy of the index upon all parties to the appeal. If a time extension is desired, the appellant may obtain an order from the court extending the time for transmitting the record to not more than forty-five (45) days from the date of the first Notice of Appeal, application by the appealing party shall be made to the Appellate Court. The order for extension must be made before the extension of the period for transmittal as originally prescribed or as extended by previous order. If a transcript cannot be obtained within forty-five (45) days from the date of the first Notice of Appeal, application by the appealing party shall be made to the Appellate Court for relief.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The parties to an appeal may agree by written stipulation that any portion of the record on appeal need not be transmitted to the Appellate Court. Either party may include copies of any of the papers making up the record on appeal as an appendix to their briefs.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Transcript of Proceedings; Duty of Appellant to Order; Notice of Appellee if Partial Transcript Is Ordered</text>
+      <para>
+        <num>1.</num>
+        <text>No later than ten (10) days after filing the Notice of Appeal, the appellant shall order from the court reporter or transcriber an original and one copy of a transcript, of such parts of the proceedings necessary for inclusion in the record. If the Appellant intends to argue on appeal that a finding or conclusion is unsupported by the evidence or is contrary to the evidence, the appellant shall include in the record a transcript of all evidence relevant to such finding or conclusion.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Unless the entire transcript is to be included, the appellant shall, within the time provided in Section 10, Rule 8(b)(1), file a description of the parts of the transcript which he intends to include in the record and a concise statement of the issues he intends to present on appeal, a copy of which shall be served by appellant on appellee. If the appellee deems a transcript of other parts of the proceedings to be necessary, he shall within ten (10) days after the service of the statement of the appellant, file a designation of additional parts to be included. If the appellant refuses to order such parts, he shall within five (5) days notify the appellee in writing of such refusal. The appellee may either order the parts or apply to the Appellate Court for an order requiring the appellant to do so. At any time prior to the submission to the Appellate Court for a decision, a party may apply to the Appellate Court to include any additional part of the transcript.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>At the time of ordering, the party shall make satisfactory arrangement with the court reporter or transcriber for payment of the cost of the transcript and file a notice with the Appellate Court to that effect. Failure or delay in making satisfactory arrangements with the court reporter or transcriber shall be cause for such sanctions as the Appellate Court deems proper pursuant to Section 30, Rule 28.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The appellant shall file an original and one copy of the transcript with the Tribal Court Clerk or administrative agency, within the period of time for transmitting the record stated in Section 10, Rule 8 (a). Notice of the filing of the transcript shall be served by the appellant upon the other parties to the appeal. If there is one appellee, the Court Clerk shall mail a copy of the transcript to him or her. If there is more than one appellee, the copy of the transcript shall remain with the Court Clerk and shall be available for the use of all appellees and shall be released to one of the appellees only upon stipulations of all the appellees, or upon order of the court.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The transcript shall not contain voir dire of jurors, or any other matters preceding the impaneling of a jury, or the opening statements of counsel to the jury, or any part, unless requested by one of the parties to be contained in the transcript.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>The parties shall not include in the transcript any matter not essential to the decision of questions presented by the appeal. For any infraction of this Rule, the Appellate Court may impose sanctions pursuant to Section 30, Rule 28.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Narrative Statement of Evidence or Proceedings; The Transcript Unavailable</text>
+      <text>If a transcript is unavailable, the appellant may prepare and file with the Tribal Court or administrative agency a sworn narrative statement of the evidence or proceedings from the best available means, including appellant's recollection. The sworn statement shall be filed within thirty (30) days after filing the Notice of Appeal. The appellee may file objections or propose amendments within ten (10) days after service. If the appellant does not intend to file a sworn statement, he shall notify the appellee and the appellee may prepare and file a sworn statement within the time remaining, and the appellant may file objections or propose amendments within ten (10) days after service.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Agreed Statements in Lieu of Transcript</text>
+      <text>In lieu of the transcript, the parties may stipulate and file an agreed statement in the Tribal Court or administrative agency setting forth evidence or proceedings as are essential to a decision of the issues presented on appeal which shall be filed within thirty (30) days after filing the Notice of Appeal.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Correction or Modification of the Record</text>
+      <text>If a dispute arises as to whether the record discloses what actually occurred in the Tribal Court or in the administrative proceeding, the difference shall be submitted to and settled by that court or agency, and the record made to conform to the truth. If material is omitted from the record by error or accident or is misstated, the parties upon stipulation, or the Tribal Court upon motion, may direct that the omission or misstatement be corrected. An amended record shall be transmitted to the Appellate Court.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Several Appeals</text>
+      <text>When more than one appeal is taken from the same judgment, a single transcript (or narrative statement of the evidence or agreed statement) shall be prepared containing all the matters designated or agreed upon by the parties, without duplication.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Certification of Copies of Relevant Portions of Original Record of Preliminary Hearing in the Appellate Court</text>
+      <text>If prior to the time the record is transmitted, a party files a motion for dismissal, for a stay pending appeal, or for any intermediate order, that party or the party responding to the motion, shall attach to the motion a copy of those portions of the original record which are relevant. The Tribal Court Clerk or administrative agency shall attach to the copy a certification stating that the attached portions of the record are true copies of the Tribal Court or administrative record.</text>
+    </para>
+  </section>
+  <section>
+    <num>XI</num>
+    <heading>[Rule 9] Docketing the Appeal; Filing of the Record</heading>
+    <para>
+      <num>A.</num>
+      <text>Docketing the Appeal</text>
+      <text>The appellant shall pay to the Clerk of the Appellate Court the required filing fee within the time provided. The Clerk shall enter the appeal upon the docket. An appeal shall be docketed under the title given to the action in the Court or the administrative agency with the appellant identified as such, but if the title does not contain the name of the appellant, his name, identified as appellant, shall be added to the title.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Filing of the Record</text>
+      <text>Upon receipt of the record by the Clerk of the Appellate Court and after the appeal has been timely docketed, the Clerk shall file the record and immediately give notice to all parties of the date of filing.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Dismissal for Failure of Appellant to Cause Timely Transmission or To Docket Appeal</text>
+      <text>If the appellant fails to timely transmit or to pay the filing fee if a filing fee is required, the Appellate Court shall dismiss the appeal on its own motion.</text>
+    </para>
+  </section>
+  <section>
+    <num>XII</num>
+    <heading>[Rule 10] Briefs</heading>
+    <para>
+      <num>A.</num>
+      <text>Brief of the Appellant</text>
+      <text>The appellant's brief shall clearly state under appropriate headings and in the order indicated:</text>
+      <para>
+        <num>1.</num>
+        <text>A table of contents with page references.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A table of citations, which shall be arranged alphabetically and case indexed with authorities cited, with reference to the pages of the briefs on which they are cited.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A brief statement of the case, proceedings, and the disposition in the Tribal Court or administrative agency below.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>A statement of relevant facts to the issues presented for review, with appropriate references to the record. The statement shall not contain evidentiary matters unless material to a proper consideration of the issues is presented, in which instance reference shall be made to the record or page of the transcript wherever such evidence appears.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>A statement of the issues presented for review which shall be deemed to include every subsidiary issue comprised within.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>An argument, which shall contain the contentions of the appellant with respect to the issues presented, and the reasons, with citations to the authorities, statutes, ordinances and parts of the record relied on. The argument may include a summary. Citations of authorities shall be to the volume and page number of the official reporters and also when possible to the unofficial reporters and other sources.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>A short conclusion stating the relief sought.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Brief of the Appellee</text>
+      <text>The Appellee's brief shall conform to the preceding subsection, except that a statement of the case, a statement of the proceedings, a statement of the facts, or a statement of the issues need not be included unless the appellant considers it to be insufficient or incorrect.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Reply Brief</text>
+      <text>The appellant may file a reply brief, but it shall be confined to rebuttal of points argued in the appellee's brief. No further briefs may be filed except as provided in Section 14, Rule 12.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Reproduction of the Tribal Code Provisions, Tribal Council Regulations, Applicable Statues, Rules, Regulations and Instructions; The Appendix</text>
+      <text>If the determination of the issues presented requires the study of the Tribal Code provisions, Tribal Council Resolutions, rules, applicable statutes, ordinances, regulations or instructions given or refused, the relevant parts of any of the foregoing shall be reproduced in the brief or in an appendix to the brief. An appendix may include additional items of the record, as provided in Section 10, Rule 8(a) (3). An appendix may include extended quotations from cases and authorities where quotations are required for proper presentation of the issues.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Briefs in Cases Involving Cross-Appeals</text>
+      <text>A party who files a cross-appeal may combine in one brief his brief as appellee and as cross-appellant. If the appellant files a further brief, he may combine in one brief his reply brief as appellant and as cross-appellee. The cross-appellant may file a reply brief on the issues of cross-appeal.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Briefs Involving Multiple Appellants or Appellees</text>
+      <text>In cases involving more than one appellant or appellee, including cases consolidated for appeal, any number of either may join in a single brief, and any appellant or appellee may adopt by reference any part of the brief of another.</text>
+    </para>
+  </section>
+  <section>
+    <num>XIII</num>
+    <heading>[Rule 11] Filing of Briefs</heading>
+    <para>
+      <num>A.</num>
+      <text>Time for Filing Briefs</text>
+      <text>The appellant shall file his brief and four (4) copies within thirty (30) days after the Clerk of the Appellate Court mails the notice required by Section 11, Rule 9(b). The appellee shall file his brief and four (4) copies within thirty (30) days after service of the appellant's brief. The appellant may file a reply brief and four (4) copies within fifteen (15) days after service of the appellee's brief, or the appellant may file a notice that no reply brief will be filed, at which time the appeal shall be "at issue." Otherwise, the appeal shall be "at issue" upon the filing of the reply brief or fifteen (15) days after service of the appellee's brief, whichever occurs first.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Service of Briefs</text>
+      <text>One copy of each brief shall be served on each party separately represented and proof of service shall be filed with the Clerk of the Appellate Court.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Consequences of Failure to Timely File Briefs</text>
+      <text>If an appellant does not timely file a brief, the Appellate Court, upon Appellee's motion, may dismiss the appeal. If the appellee does not timely file a brief, the appeal may be decided on the appellate record.</text>
+    </para>
+  </section>
+  <section>
+    <num>XIV</num>
+    <heading>[Rule 12] Amicus Curiae</heading>
+    <text>An amicus curiae brief shall be filed only with permission of the Appellate Court. The motion shall identify the interest of the applicant, state that the applicant has read the briefs of the parties, and reason why applicant's amicus curiae brief is necessary. Any response to an amicus curiae brief shall be filed within fifteen (15) days after service. No further briefs shall be allowed. Section 12, Rule 10 shall govern the form of an amicus curiae brief.</text>
+  </section>
+  <section>
+    <num>XV</num>
+    <heading>[Rule 13] Supplemental Citation of Legal Authority</heading>
+    <text>Any party may supplement the citation of legal authority previously presented to his brief by filing with the Appellate Court a list of supplemental citations of legal authority. The list of citations shall identify by page number which portion or portions of the party's appeal brief is intended to be supplemented. Supplemental citations shall not be governed by Section 12, Rule 10(a) (2).</text>
+  </section>
+  <section>
+    <num>XVI</num>
+    <heading>[Rule 14] Conference</heading>
+    <text>The Appellate Court may direct the attorneys for the parties to appear before the Appellate Court for a conference to simplify the issues, and to address other matters which may aid the Appellate Court in the disposition of the proceeding.</text>
+  </section>
+  <section>
+    <num>XVII</num>
+    <heading>[Rule 15] Oral Argument</heading>
+    <para>
+      <num>A.</num>
+      <text>Appeal Granted may be scheduled for Oral Argument</text>
+      <text>The clerk of the Appellate Court shall notify the parties of the date, time and place at which oral argument will be heard at least twenty (20) days prior to the date scheduled for oral argument. Cases given priority pursuant to Section 28, Rule 26 shall be scheduled as directed by the Appellate Court.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Disqualification of Justice</text>
+      <text>Any justice may be disqualified on motion of one of the parties or on his own motion. When any justice is disqualified, the Chief Justice shall name another Justice to complete the panel. A motion to disqualify a Justice shall be made at least ten (10) days prior to the date set for the oral argument. The motion shall state the grounds on which it is based and it shall be supported by affidavit or other satisfactory evidence.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Failure To Appear by Either Party</text>
+      <text>If either party fails to appear at the time set for the hearing of the appeal, the Appellate Court may hear the argument presented by the party appearing and decide the appeal on the basis of the presentation and of the briefs submitted.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Decision on the Basis of Briefs Alone</text>
+      <text>The Appellate Court may, within its discretion or if the parties stipulate, decide the appeal on the basis of the briefs alone.</text>
+    </para>
+  </section>
+  <section>
+    <num>XVIII</num>
+    <heading>[Rule 16] Notice of Decisions and Orders</heading>
+    <text>Immediately after a decision is rendered or an order is made in any appeal, the Clerk of the Appellate Court shall notify all attorneys of record, and any party not represented by an attorney pursuant to Section 5, Rule 3(b). The notice shall state the date on which the decision was rendered or the order made, and shall include a copy of any opinion, memorandum, decision, or order respecting the decision. The date of notice shall be entered in the docket.</text>
+  </section>
+  <section>
+    <num>XIX</num>
+    <heading>[Rule 17] Costs and Attorney's Fees</heading>
+    <para>
+      <num>A.</num>
+      <text>Statement of Costs; Objections</text>
+      <text>A party entitled to costs may, within ten (10) days after the Clerk has given notice that a decision has been rendered, file with the Clerk a verified itemized costs of appeal. An adverse party may file objections to the statement of costs within five (5) days after service of such statement. If no objections are filed, the clerk may compute the cost in accordance with these rules. If objections are filed, the party entitled to costs may reply within five (5) days after service of the objections. The Appellate Court shall determine the amount of costs, if any, to be allowed.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Costs of Briefs; Appendices</text>
+      <text>The allowance for cost of the copies of briefs and appendices shall be the amount expended.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Claim for Attorney's Fees</text>
+      <para>
+        <num>1.</num>
+        <text>When attorney's fees are claimed pursuant to statute, law, or contract, a request for allowance of attorney's fees in connection with the prosecution or defense of the appeal shall be by written motion filed and served prior to oral argument or submission of the appeal. If recovery of attorney's fees is allowed by the Appellate Court in its decision, a statement of the amount claimed for such fees may be included in the statement of costs prescribed by Section 19, Rule 17(a).</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The statement of the amount claimed for attorney's fees shall set forth any relevant statutory or contractual provision and any other factors relevant to the determination of a reasonable fee. Counsel shall also attach and submit an affidavit containing an itemized statement of hours, indicating the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>The date on which the service was performed</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The time and costs expended on such date</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The nature of the service; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The name and title of the persons performing the service.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Clerk to Insert Costs in Mandate</text>
+      <text>The clerk shall include in the mandate an itemized statement of any attorney's fees and costs allowed on appeal.</text>
+    </para>
+  </section>
+  <section>
+    <num>XX</num>
+    <heading>[Rule 18] Petition for Reconsideration</heading>
+    <para>
+      <num>A.</num>
+      <text>Time for Filing; Response</text>
+      <text>Any party seeking reconsideration of a decision of the Appellate Court shall file a petition for reconsideration with a supporting memorandum with the Clerk of the Appellate Court within twenty (20) days after the Clerk has notified the parties that a decision has been rendered by the Appellate Court. The petition shall not be amended except by leave of Court.</text>
+      <text>Any adverse party may file a response to the petition within fifteen (15) days after service of the petition and memorandum. Failure to file a response shall not be considered an admission that the petition should be granted.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Contents</text>
+      <text>A petition for reconsideration and supporting memorandum shall be directed to the discussion of the matters of law in which it is claimed that the Appellate Court erred.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Petitions Set for Oral Argument</text>
+      <text>After a petition for reconsideration is filed, the Justices who heard the appeal may deny it or if they believe it has merit, they may set it for oral argument before the original Justices with notice to all parties. No single Justice shall have authority to modify the decision or to order any temporary stay of execution of an Appellate Court decision.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Petitions Not Permitted</text>
+      <text>Unless permitted by order of the Appellate Court, no party shall file a petition for reconsideration of:</text>
+      <para>
+        <num>1.</num>
+        <text>An order denying a petition for reconsideration; or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>An order declining to accept jurisdiction of a petition for special action; or</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A decision denying an appeal.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>XXI</num>
+    <heading>[Rule 19] Issuance of Mandates</heading>
+    <para>
+      <num>A.</num>
+      <text>Mandates by Appellate Court</text>
+      <para>
+        <num>1.</num>
+        <text>If a petition for reconsideration has not been filed, the Clerk of the Appellate Court shall issue the mandate at the expiration of the time for filing the petition.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If a petition for reconsideration has been filed, the mandate shall not issue until the disposition of the petition.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The papers making up the record on appeal, transmitted by the Clerk of the Tribal Court or administrative agency to the Appellate Court pursuant to Section 10, Rule 8(a) (1), shall be returned with the mandate to the Clerk of the Court or to the administrative agency.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Dismissal in the Appellate Court</text>
+      <text>If the parties to an appeal file with the Clerk of the Appellate Court a stipulation that the proceeding be dismissed, indicating the terms as to payment of costs and after all fees are paid, the Appellate Court shall dismiss the case. An appeal may be dismissed on motion of the party appealing or if there are multiple appellants, the appeal may be dismissed only to the appellant motioning the dismissal.</text>
+    </para>
+  </section>
+  <section>
+    <num>XXII</num>
+    <heading>[Rule 20] Substitution of Parties</heading>
+    <para>
+      <num>A.</num>
+      <text>Death of a Party</text>
+      <text>If a party to an appeal dies while the appeal is pending, the action shall not cease unless provided by law. The personal representative of the deceased may be substituted in his or her place, upon motion and supporting affidavit or any relevant document filed with the Appellate Court by the representative or by any party. The motion shall be served upon all parties to the appeal. If the deceased party has no representative, then any party may advise the Court of the death and proceedings shall then be had as the Appellate Court may direct.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Substitution of a Party</text>
+      <text>If substitution of a party is necessary for any reason other than death, substitution shall be effected in accordance with the procedure prescribed in subsection (a) herein.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Substitution for Other Causes</text>
+      <para>
+        <num>1.</num>
+        <text>When a public officer in his official capacity is a party to an appeal, and during its pendency he ceases to hold the office, the action shall not cease and his successor will be substituted as a party. Proceedings following the substitution shall be in the name of the substituted party, but any misnomer not affecting the rights of the parties shall be disregarded. An order of substitution may be entered at any time, but failure to enter such an order shall not affect the substitution.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>When a public officer in his official capacity is a party to an appeal, he may be described as a party by his official title rather than by name; but the Appellate Court may require his name be added.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>XXIII</num>
+    <heading>[Rule 21] Publication of Opinions of the Appellate Court</heading>
+    <para>
+      <num>A.</num>
+      <text>Opinion; Memorandum Decision; Order; Publication</text>
+      <text>Dispositions of all matter before the Appellate Court shall be by opinion only when a majority of the Justices acting determine that it:</text>
+      <para>
+        <num>1.</num>
+        <text>Establishes, alter, modifies or clarifies a rule of law, or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Calls attention to a rule of law which appears to have been generally overlooked, or</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Criticizes the law, or</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Involves a legal or factual issue of unique interest or substantial public importance, or</text>
+      </para>
+    </para>
+    <para>
+      <num>5.</num>
+      <text>If the disposition of a matter is accompanied by a separate concurring or dissenting expression, and the author of such expression desires that it be published. All other dispositions shall be in the form of orders or memorandum decisions.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Dispositions as Precedent</text>
+      <text>Memoranda decisions and order shall not be used as precedent nor cited in any court except for the purpose of establishing the defense of res judicata, collateral estoppel, or the law of the case. Only opinions shall be used as precedent.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Designation of Disposition</text>
+      <text>The disposition of the case shall contain in the caption the designation "Opinion", "Memorandum of Decision", or "Order".</text>
+    </para>
+  </section>
+  <section>
+    <num>XXIV</num>
+    <heading>[Rule 22] Appeals in Forcible Entry and Detainer Cases</heading>
+    <text>In an appeal from a judgment in a proceeding of forcible entry and detainer, the procedure and time period for filing a notice of appeal shall be the same as provided for appeals, in these rules, except that within five (5) days from the entry of judgment, the appellant shall file with the Court an appeal bond. Proof that the bond has been filed shall be forwarded to the Clerk of the Appellate Court with the case record.</text>
+  </section>
+  <section>
+    <num>XXV</num>
+    <heading>[Rule 23] Appeals in Children's Court Cases</heading>
+    <text>An appeal from a judgment of the Saint Regis Mohawk Tribal Family Court shall follow the same procedure as provided for appeals in these rules, except that the names of the child shall not appear in the record on appeal. The cases shall be designated by the child's initial (i.e., IN RE: ABC), or other appropriate designation (i.e., IN RE: Doe), and the case number from the Saint Regis Mohawk Tribal Family Court.</text>
+  </section>
+  <section>
+    <num>XXVI</num>
+    <heading>[Rule 24] Stay of Execution</heading>
+    <para>
+      <num>A.</num>
+      <text>Filing Requirements</text>
+      <text>The appellant may file with the Tribal Court or administrative agency a motion for a stay of execution of its judgment or order, at the time the Notice of Appeal is filed, or at any time after. If the Court or administrative agency denies the motion, it shall set forth its reasons in writing.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Bond</text>
+      <text>A stay may be required upon appeal bond or otherwise as the Tribal Court or administrative agency may require.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Documents Forwarded</text>
+      <text>All original documents, orders, and other papers filed in the Tribal Court or administrative agency relating to the stay of execution shall be included in the case file and forwarded to the Appellate Court on appeal.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Motion for Stay Denied</text>
+      <text>If the Tribal Court or administrative agency denies the motion for stay, a petition for a stay may be filed with the Appellate Court, which may grant the stay as provided in subsection (b) above. The Order of the Tribal Court or administrative agency denying the stay shall be attached to the petition to the Appellate Court for such a stay. If the Tribal Court or administrative agency grants the stay, the order of the stay shall be added to the Notice of Appeal filed with the Clerk of the Appellate Court. The Clerk of the Tribal Court of administrative agency shall retain a copy of the order granting or denying the stay.</text>
+    </para>
+  </section>
+  <section>
+    <num>XXVII</num>
+    <heading>[Rule 25] Extraordinary Writs</heading>
+    <para>
+      <num>A.</num>
+      <text>Writs of Mandamus and Prohibition</text>
+      <text>The applicant for a writ of mandamus or of prohibition shall file a petition and the appropriate fee with the Clerk of the Appellate Court. The petition shall contain a statement of the facts necessary for an understanding of the issues presented; a statement of issues presented; an argument with respect to the issues presented; a statement of relief sought; and copies of any order, or opinion, or parts of the record which is necessary for an understanding of the matters set forth in the petition.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Service of Petition</text>
+      <text>The petition for a writ of mandamus or of prohibition shall be served on the respondent judge, and if not a judge, then on the party against whom the writ is sought, and upon all parties to the action in the Court or administrative agency pursuant to Section 5, Rule 3.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Action on the Petition</text>
+      <text>If the Appellate Court is of the opinion that the writs should not be granted, it shall deny the petition. Otherwise, the Appellate Court shall grant an alternative writ and order the respondent to show cause why the Writ should not be made permanent. The response to the petition shall be filed by the respondent within the time determined by the Appellate Court. The order shall be served by the Clerk on the respondent and on all parties to the action. All parties below, other than the petitioners, may be deemed respondents. If the respondent judge does not intend to appear in the proceedings, he shall advise the Court Clerk and all other parties by letter, but the petition shall not be taken as admitted. The Clerk shall advise the parties of the date of oral argument if ordered by the Appellate Court.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Other Extraordinary Writs</text>
+      <text>Petitions for extraordinary writs, other than those for mandamus or prohibition, shall conform so far as practicable to the procedures prescribed in subdivision (a), (b), and (c) of this Rule.</text>
+    </para>
+  </section>
+  <section>
+    <num>XXVIII</num>
+    <heading>[Rule 26] Cases Given Priority</heading>
+    <text>Notices of Appeal involving custody of a child, adoption, elections, applications for extraordinary writs and other Notices of Appeal within the discretion of the Appellate Court shall be given priority over ordinary civil cases.</text>
+    <text>The appellant or petitioner shall inform the Clerk of the Appellate Court, in writing, of such priority at the time of filing the Notice of Appeal or petition or immediately after.</text>
+  </section>
+  <section>
+    <num>XXIX</num>
+    <heading>[Rule 27] Withdrawal of Counsel</heading>
+    <text>Whenever counsel has once filed papers in an appeal, such counsel shall not be allowed to withdraw from appeal, except by order of the Appellate Court upon written motion showing good cause, notice to the client, and naming new counsel.</text>
+  </section>
+  <section>
+    <num>XXX</num>
+    <heading>[Rule 28] Sanctions</heading>
+    <text>Where the appeal is not real or taken solely for the purpose of delay, or where any party has been guilty of an unreasonable infraction of these rules, the Appellate Court may impose upon the offending attorneys, parties, or both, such penalties or damages (including contempt, withholding or imposing costs, or imposing of attorney's fees) as the circumstances of the case and the discouragement of conduct in the future may require.</text>
+  </section>
+  <section>
+    <num>XXXI</num>
+    <heading>[Rule 29] Disciplinary Power of the Court over Attorney's</heading>
+    <text>The Appellate Court may, after reasonable notice and an opportunity to show cause to the contrary, and after hearing, if requested by the offending counsel, take any appropriate disciplinary action (including suspension from practice before the Appellate Court, Tribal Court and/or complete disbarment) against any attorney or advocate, who practices before it for conduct unbecoming a member of the bar, or for failure to comply with rules or any order of the Appellate Court.</text>
+  </section>
+  <section>
+    <num>XXXII</num>
+    <heading>[Rule 30] Interpretation and Publication of Rules of Appellate Procedure</heading>
+    <text>The Tribal Court may apply interpretation of like provisions in the Federal Rules of Appellate Procedure in construing these rules. The Tribal Court may authorize special as well as annotated editions of these rules of Appellate Procedure together with any requirements for citations of practice before the Tribal Courts.</text>
+  </section>
+  <section>
+    <num>XXXIII</num>
+    <heading>Provisions as Cumulative</heading>
+    <text>The provisions of this enactment shall be cumulative to existing law.</text>
+  </section>
+  <section>
+    <num>XXXIV</num>
+    <heading>Repeal Provisions and Conforming Amendments</heading>
+    <text>No provisions of law are expressly repealed by this enactment. No current or previous provisions of law are conformed by this enactment.</text>
+  </section>
+  <section>
+    <num>XXXV</num>
+    <heading>Severability</heading>
+    <text>The provisions of this enactment are severable and if any part or provision shall be held void by any court of competent jurisdiction so holding shall not affect or impair any part of the remaining parts or provisions of this enactment.</text>
+  </section>
+</document>

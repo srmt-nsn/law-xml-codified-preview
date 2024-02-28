@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribal Civil Code (Saint Regis Mohawk Tribal Act)">
+  <section>
+    <num>I</num>
+    <heading>Title and Purpose</heading>
+    <para>
+      <num>A.</num>
+      <text>This Ordinance shall be known as the "Saint Regis Mohawk Tribal Civil Code".</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The purpose and intent of this Code is to ensure that civil disputes arising in Mohawk Indian Country or over which the St. Regis Mohawk Tribal Court ("Tribal Court") otherwise has jurisdiction should be decided in the Tribal Court and not in state or federal courts.</text>
+    </para>
+  </section>
+  <section>
+    <num>II</num>
+    <heading>Jurisdiction</heading>
+    <text>The Tribal Court shall have civil jurisdiction over civil disputes as follows:</text>
+    <para>
+      <num>A.</num>
+      <text>Disputes arising in, connected with, or substantially affecting Mohawk Indian Country;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Disputes involving contracts (i) negotiated, executed, or performed in Mohawk Indian Country, or (ii) whose subject matter substantially involves Mohawk Indian Country, or (iii) under which substantial performance would occur in Mohawk Indian Country, or (iv) in which the Saint Regis Mohawk Tribe ("Tribe") or any of its subordinate entities, agencies, or agents is a party (except that this provision does not waive Tribal sovereign immunity);</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Disputes involving torts in which (i) a proximate cause (or the last component in a chain or sequence of proximate cause) occurred or was carried out in Mohawk Indian Country, or (ii) the effect or injury occurred or was inflicted in Mohawk Indian Country, or (iii) the Saint Regis Mohawk Tribe or any of its subordinate entities, agencies, or agents is the injured party or alleged to be the party causing the injury (except that this provision does not waive Tribal sovereign immunity);</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Disputes involving claims against (i) the Saint Regis Mohawk Tribe or any of its subordinate entities, or agencies (except that this provision does not waive Tribal sovereign immunity), or (ii) against Tribal officers, agents, or employees for acts, omissions, or within their official capacity (except that this provision does not waive the sovereign immunity or governmental official immunity of Tribal officials, agents, or employees);</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Claims against the Saint Regis Mohawk Tribe (but not against individual Indians, officials, officers, employees or agents of the Tribe) under the federal Indian Civil Rights Act, in which case the Court may grant equitable relief only (injunctive or declaratory remedies, excluding monetary damage or monetary relief of any kind);</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Review of the denial of a gaming license by the Tribal Gaming Commission to the limited extent, and only to the limited extent, that a petition for the review of such denial is filed with the Court within 30 days of notice of the denial to the applicant, where after the Court shall grant equitable relief to direct approval of a license only if it finds upon review of the record before the Tribal Gaming Commission (in the nature of an appellate proceeding not involving <u>de novo</u> evidence) that the denial was a violation of due process by being wholly arbitrary and capricious and without any basis whatsoever in law or fact; and</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Except as limited by St. Regis Mohawk Tribal laws, to the fullest extent, reach, and scope of civil jurisdiction otherwise permitted under applicable principles of American Indian law for Indian tribes located within the territorial boundaries of the United States, as recognized by the Supreme Court of the United States.</text>
+    </para>
+  </section>
+  <section>
+    <num>III</num>
+    <heading>Definitions</heading>
+    <text>The following definitions are used in this Civil Judicial Code:</text>
+    <para>
+      <num>A.</num>
+      <text>"Mohawk Indian Country" means the Saint Regis Mohawk Reservation and any other land controlled by the Tribe which is classified as federal Indian Country.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>"Mohawk Court" or "Court" means either the Tribal Court or the Court of Appeals, or both, as the context indicates.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>"Mohawk Tribal Court" or "Tribal Court" means the trial court established by the St. Regis Mohawk Tribe, in which civil disputes are initially filed.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>"United States" and "Federal" means the government and courts of the United States of America, and not the government and courts of any state.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>"Laws of the United States" means the laws of the government of the United States of America, and not the laws of any state.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>"Mohawk Tribe" and "Tribe" means the Saint Regis Mohawk Tribe, a federally recognized Tribe.</text>
+    </para>
+  </section>
+  <section>
+    <num>IV</num>
+    <heading>Sovereign Immunity</heading>
+    <para>
+      <num>A.</num>
+      <text>The Saint Regis Mohawk Tribe hereby asserts and preserves its sovereign immunity to the fullest possible extent on behalf of itself and its subordinate entities, agencies, officers, agents (including its Tribal attorneys), and employees.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The officers, agents (including Tribal attorneys), and employees of the Saint Regis Mohawk Tribe are immune from suit for acts of omission within the scope of their official capacity and for acts or omissions which such officers, agents (including Tribal attorneys), or employees reasonably believed to be within their official capacity.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Nothing in this Civil Code shall be interpreted as waiving or diminishing the sovereign immunity of the Saint Regis Mohawk Tribe or of its subordinate entities, agencies, officers, agents, or employees.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Tribal sovereign immunity is hereby found and stated to be an essential element of self-determination and self-government, and as such will be waived by the Saint Regis Mohawk Tribal Council only under such circumstances as the Saint Regis Mohawk Tribal Council finds to be in the interests of the Tribe in promoting economic or commercial development or for other Tribal purposes. Any such specific waivers of sovereign immunity as may from time to time be executed must be clear, explicit and in writing; any such waivers shall be interpreted narrowly and limited to the explicit terms of the waivers; and any such waivers shall not by implication or interpretation be extended in any manner or fashion beyond their narrow, explicit terms.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The filing of a claim or complaint by the Saint Regis Mohawk Tribe or any of its subordinate entities, officers, agents or employees does not waive, and shall not be interpreted as waiving sovereign immunity in any manner or fashion including immunity from counter-claims, cross-claims, off-sets, and similar claims.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The Mohawk Tribe does not assert sovereign immunity against claims for equitable relief brought in Mohawk Court (and only in Mohawk Court) under the federal Indian Civil Rights Act, but such claims may not be brought against individual Indians or officers, agents or employees of the Tribe and such claims must be limited to non-monetary (injunctive or declaratory) relief.</text>
+    </para>
+  </section>
+  <section>
+    <num>V</num>
+    <heading>Applicable Law</heading>
+    <para>
+      <num>A.</num>
+      <text>Civil disputes over which the Tribal Court has jurisdiction shall be decided by the Court in accordance with and by applying the following principles of law in the priority and precedence in which the principles of law are first identified below (higher priority and precedence being accorded those identified earliest in the list, so that in the event of inconsistency or conflict between principles of law, the principle of law identified earlier in the list shall be relied upon as the controlling principle for deciding the dispute):</text>
+      <para>
+        <num>1.</num>
+        <text>Such portions of the Constitution of the United States and federal law are clearly applicable in Mohawk Indian Country (with great weight given at all times to principles of the United States Constitution and federal Indian law which recognize Indian sovereignty, self-determination, and self-government, which render many federal and state laws inapplicable to federal Indian Country, which provide for a federal trust responsibility to Indian tribes, and which provide rules of legal interpretation favorable to Indian tribes);</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Written Mohawk laws adopted by the recognized governmental system of the Mohawk Tribe;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Unwritten Mohawk laws, and written and unwritten Mohawk customs, traditions and practices, whenever such Mohawk laws, customs, traditions or practices are found by the Mohawk Court to be (i) well-established within the Tribe and recognized by Tribal members, (ii) applicable or relevant to the dispute in issue, and (iii) not inconsistent with due process and other rights established under Tribal law;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Generally recognized principles of the law of contracts (including quasi-contracts or imperfectly formed invalid contracts), as reflected by the most recent Restatement of Contracts or in such expert treatises as the Court may choose to recognize or as the Court may otherwise determine;</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Generally recognized principles of the law of torts, as reflected by the most recent Restatement of Torts or in such expert treatises as the Court may choose to recognize or as the Court may otherwise determine;</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>If (but only if) consistent with principles of Tribal sovereignty, self- government, and self-determination, and if (but only if) consistent with principles of law identified earlier in this section, New York State laws on contracts and torts.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Principles of New York State law for resolving private civil disputes are not automatically applied in Mohawk Courts. Principles of New York State law for resolving private civil disputes may be applied in Mohawk Courts for the purpose of resolving a private civil dispute over which the Mohawk Court has jurisdiction if (but only if) the Mohawk Court finds: (i) there is no other controlling principle of Mohawk law; (ii) application of the New York State law is consistent with principles of Tribal sovereignty, self-government, and self-determination; and (iii) application of the New York State law is in the overall interest of justice and fairness to the parties.</text>
+    </para>
+  </section>
+  <section>
+    <num>VI</num>
+    <heading>Practice, Procedure and Organization</heading>
+    <para>
+      <num>A.</num>
+      <text>
+        <strong>Rules of Procedure</strong>
+      </text>
+      <text>Until the Court adopts its own rules of procedure or when not otherwise in conflict with a specific rule adopted by the Tribal Court or the Tribal Council, the Federal Rules of Civil Procedure shall be deemed to be the rules of procedure for the Tribal Court, but the Court may modify, set or direct any specific rule or procedure for individual cases as the Court deems appropriate.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>
+        <strong>Rules of Evidence</strong>
+      </text>
+      <text>Until the Court adopts its own rules of evidence or when not otherwise in conflict with a specific rule adopted by the Tribal Court or the Tribal Council, the Federal Rules of Evidence shall be deemed to be the rules of evidence for the Tribal Court, but the Court may modify, set or direct any specific rule for individual cases as the Court deems appropriate and may accept such evidence as it deems useful in the interests of justice.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>
+        <strong>Appearance and Practice before the Court</strong>
+      </text>
+      <text>Any party may represent himself, herself or itself, so long as the Court determines that the party is reasonably competent to comprehend and participate effectively in the proceedings. Any person may be admitted to practice before the Court for the purpose of representing clients therein if the person meets the requirements set forth by the Tribal Court for practice before the Court and the requirements established by any applicable Tribal code or ordinance.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>
+        <strong>Assigning and Deciding Cases</strong>
+      </text>
+      <text>A case shall be assigned to a single Judge of the Tribal Court, but another Tribal Court Judge may from time to time handle various aspects of the case upon the request of the primary Judge as considerations of scheduling, workload, and the like may make such temporary assignment convenient and in the interests of justice. All aspects of cases (including preliminary procedures, motions, and trials) shall be decided by one Tribal Court Judge; civil cases will not be decided by jury trial except if allowed by a specific Tribal ordinance.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>
+        <strong>Service of Process</strong>
+      </text>
+      <text>Process may be served by any Mohawk Tribal police officer, by any adult (not interested in the case), or by certified mail with return receipt executed by recipient. The Court may set aside claimed service of process when it finds the process was not in fact received.</text>
+    </para>
+  </section>
+  <section>
+    <num>VII</num>
+    <heading>Judicial Power and Enforcement of Judgments</heading>
+    <para>
+      <num>A.</num>
+      <text>The Tribal Court is hereby further empowered with the inherent judicial authority which is necessary and proper to decide civil disputes over which it has jurisdiction (except as otherwise limited in this Code, is limited by the scope of its jurisdiction, and as limited by Tribal sovereign immunity).</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Tribal Court may enforce its judgments using methods and procedures commonly recognized for such enforcement in United States courts, provided that in all enforcement proceedings due process is accorded the parties. When not inconsistent with Mohawk law, custom and practice with Tribal sovereignty and self-determination, enforcement procedures commonly recognized in New York State courts may be utilized by the Tribal Court.</text>
+    </para>
+  </section>
+</document>

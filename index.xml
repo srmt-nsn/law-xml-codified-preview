@@ -56,6 +56,7 @@
     <xi:include href="./us/nsn/srmt/council/acts/AdultUseCannabisOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/AlcoholBeveragesControlAct.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/BusinessOrganizationsOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/CivilCode.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/CodeOfJudicialConduct.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/CommunicationsRegulatoryAct.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/CourtAndJudiciaryCode.xml"/>
@@ -67,12 +68,16 @@
     <xi:include href="./us/nsn/srmt/council/acts/LandLawsAndLandDisputeOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/MedicalMarijuanaOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/MortgageForeclosureAndEvictionOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/MortgageLandAssignmentOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/NonMemberFishingRegulationsAndLaws.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/PesticideRegulation.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/PoliceCommissionAct.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/ProbateLaw.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/ResidencyOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/RoomOccupancyFeeOrdinance.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/RulesOfCivilAppellateProcedure.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/RulesOfCivilProcedure.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/RulesOfEvidence.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/SecuredTransactionsOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/SolidWasteManagementCode.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/TribalProceduresAct.xml"/>
