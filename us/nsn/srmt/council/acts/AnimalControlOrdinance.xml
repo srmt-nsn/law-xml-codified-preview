@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Amended Domestic Animal Control Ordinance (Saint Regis Mohawk Tribal Act)">
+  <section>
+    <num>1</num>
+    <heading>Title</heading>
+    <text>This Ordinance shall be known as the Amended Animal Control Ordinance.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Definitions</heading>
+    <text><strong>Animal Control Office</strong> means the agency or department of the Saint Regis Mohawk Tribe or any designated representative thereof charged with administering the issuance of permits and licenses under the provisions of this ordinance.</text>
+    <text><strong>Animal </strong>means any animal, dog, cat, farm animal, reptile, etc., whether domesticated or wild, that is owned, harbored or living on the Saint Regis Mohawk Reservation.</text>
+    <text><strong>At large </strong>means an animal shall be deemed to be at large when off the property of the owner and/or not under restraint or control of the owner.</text>
+    <text><strong>Court of Appeals</strong> means the appellate level of the Saint Regis Mohawk Tribal Courts.</text>
+    <text><strong>"Dangerous" animal </strong>means any animal that without justification attacks a person or domestic animal causing physical injury or death, or behaves in a manner that a reasonable person would believe poses an unjustified imminent threat, serious injury, or death to one or more persons or domestic animals.</text>
+    <text><strong>"Dangerous dog collar" </strong>means a collar which consists of red stripes alternatively spaced with yellow stripes set diagonal to the rim of the collar at an angle, and at least one of the 2 colors reflects light in the dark.</text>
+    <text><strong>Exotic Animal </strong>means any animal that is not normally domesticated in Akwesasne or is wild by nature.  Exotic animals include but are not limited to, any of the following orders and families, whether bred in the wild or captivity, and also any of their hybrids with domestic species.  The animals listed in parentheses are intended to act as examples and are not to be construed as an exhaustive list or limit the generality of each group of animals, unless otherwise specified:</text>
+    <para>
+      <num>1.</num>
+      <text>Non-human primates and prosimians (monkeys, chimpanzees, baboons)</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Felidae (lions, tigers, bobcats, lynx, cougars, leopards, jaguars, not domesticated cats)</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Canidae (wolves, coyotes, foxes, jackals, not domesticated dogs)</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>Ursidae (all bears)</text>
+    </para>
+    <para>
+      <num>5.</num>
+      <text>Reptilia (all venomous snakes, all constricting snakes)</text>
+    </para>
+    <para>
+      <num>6.</num>
+      <text>Crocodilia (alligators, crocodiles)</text>
+    </para>
+    <para>
+      <num>7.</num>
+      <text>Proboscidae (elephants)</text>
+    </para>
+    <para>
+      <num>8.</num>
+      <text>Hyanenidae (hyenas)</text>
+    </para>
+    <para>
+      <num>9.</num>
+      <text>Artiodatyla (hippotamuses, giraffes, camels, not cattle or swine or sheep or goats)</text>
+    </para>
+    <para>
+      <num>10.</num>
+      <text>Procyonidae (raccoons, coatis)</text>
+    </para>
+    <para>
+      <num>11.</num>
+      <text>Marsupialia (kangaroos, oppossums)</text>
+    </para>
+    <para>
+      <num>12.</num>
+      <text>Perissodactylea (rhinoceroses , tapirs, not horses or donkeys or mules)</text>
+    </para>
+    <para>
+      <num>13.</num>
+      <text>Edentara (anteaters, sloths, armadillos)</text>
+    </para>
+    <para>
+      <num>14.</num>
+      <text>Viverridae (mongooses, civets, and genets)</text>
+    </para>
+    <text><strong>Humane Manner </strong>means the care of an animal shall include, but is not limited to, adequate shelter, shade, heat, ventilation, sanitary shelter, wholesome food, and a fresh and adequate source of water, consistent with the normal requirements and feedings habits of the animal's size, species, and breed.</text>
+    <text><strong>Kennel</strong> means an establishment kept for the purpose of breeding, selling, or boarding animals or engaged in training animals.</text>
+    <text><strong>Neutered or spayed </strong>means an animal rendered permanently incapable of reproduction.</text>
+    <text><strong>Nuisance </strong>means an animal shall be considered a nuisance if  (1) it is at large, damages, soils, defiles, or defecates on private property other than the owner's or on public walks and recreation areas unless such waste is immediately removed and properly disposed of by the owner; (2) causes unsanitary, "dangerous," or offensive conditions; causes a disturbance by excessive barking or other noise making; or (3) chases vehicles, or molests, attacks, or interferes with persons or other domestic animals on public property.</text>
+    <text><strong>Owner </strong>means a person having the right of property or custody of an animal or who keeps or harbors an animal or knowingly permits an animal to remain on or about any premises occupied by that person.</text>
+    <text><strong>Physical Injury </strong>means impairment of physical condition or substantial pain.</text>
+    <text><strong>Pound</strong> means a facility designated or recognized by the Saint Regis Mohawk Tribe for the purpose of impounding and caring for animals.</text>
+    <text><strong>Restraint </strong>means an animal shall be considered under restraint if it is fenced within the real property limits of its owner or secured by a leash or lead or under the control of an owner or a responsible person designated by the owner.</text>
+    <text><strong>Saint Regis Mohawk Reservation</strong> means both the Saint Regis Mohawk Indian Tribe Reservation as established by the 1796 Treaty with the Seven Nations of Canada (7 Stat. 55) and any other lands over which the Tribe exercises jurisdiction now or in the future.</text>
+    <text><strong>Serious Physical Injury</strong> means physical injury which creates a substantial risk of death, or which causes death or serious or protracted disfigurement, protracted impairment of health or protracted loss or impairment of the function of any bodily organ.</text>
+    <text><strong>Tribal Animal Control Officer</strong> refers to the person or persons designated by the Saint Regis Mohawk Tribe to enforce this Ordinance.</text>
+    <text><strong>Tribal Council </strong>means the duly elected Saint Regis Mohawk Tribal Council consisting of three (3) chiefs and three (3) sub-chiefs.</text>
+    <text><strong>Tribal Court </strong>refers to the trial level of the Saint Regis Mohawk Tribal Court which shall retain exclusive jurisdiction to preside over all proceedings relating to a summons and complaints filed under this Ordinance.</text>
+    <text><strong>Unaltered </strong>means any animal that has not been spayed or neutered.</text>
+    <text><strong>Wild Animal </strong>means any animal which is now or historically has been found in the wild, or in the wild state. This term includes, but is not limited to, animals such as: deer, skunk, opossum, raccoon, mink, armadillo, coyote, squirrel, fox, wolf and wolf-dog hybrids.</text>
+    <text><strong>Wildlife sanctuary </strong>means an area specially designated for the protection of wildlife and wherein it is illegal to interfere in anyway with the natural habitat.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Owner Responsibilities and Offenses</heading>
+    <para>
+      <num>A.</num>
+      <text>All animals shall be kept under restraint, which includes having animals constrained to an owner's yard or if outside of an owner's yard is kept on a leash or within the control of the owner. Owners of "aggressive" animal(s), as determined by the Animal Control Officer, must take extra caution that their animal(s) are not given free, unsupervised access to the general public.  The Animal Control Officer shall use the following the factors to determine whether an animal is aggressive:</text>
+      <para>
+        <num>1.</num>
+        <text>the animal is baring its teeth;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>the animal is reported to have gotten into a fight with another animal; and</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>any other factor for which the Animal Control Officer deems in his/her opinion to make the animal aggressive and provides documentation to the owner or reputed owner.</text>
+      </para>
+    </para>
+    <para>
+      <num>A.</num>
+      <text>An Owner must ensure that his animal is not a nuisance in any way to the general public. The owner of every animal shall be held responsible for every behavior of such animal under the provisions of this Ordinance.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An Owner must ensure that his animal is properly cared for in a humane manner.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Animals are not to be left unattended in a vehicle in extreme heat or cold temperatures. Animals left in a vehicle in hot or cold temperatures may be subject to seizure or impoundment. If extreme heat or cold is a factor, the Animal Control Officer or the Tribal Police may enter the vehicle with force if necessary to aid an unattended animal</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Owners shall ensure that their animal carries identification at all times in the form of a microchip, tag, or other means to allow easy identification of the owner.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A person shall not abandon, instigate, torture, injure, kill, or poison an animal whether it belongs to him or another; or, inflict any act of cruelty on any animal with the exception of Section 4 of this ordinance.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>No person shall own, keep, or harbor any dog or cat over four months of age within the Saint Regis Mohawk Reservation unless such dog or cat is vaccinated for rabies by a licensed veterinarian. A certificate of vaccination shall be issued to the owner of each vaccinated animal. Each owner shall also receive a durable vaccination tag indicating the year in which it was issued. The provisions of this section do not apply to animals held in a government operated or licensed animal shelter.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Any dog, not under the control of the Owner or that bites a person and causes Serious Physical Injury or is deemed "dangerous" by the Animal Control Officer/Department, shall be quarantined under the authority of the Animal Control Officer/Department. The Animal Control Department may order the Owner to quarantine their dog for a period not exceeding ten (10) days unless the Animal Control Officer deems the dog "dangerous".  Upon such determination the Animal Control Officer shall have the discretion to issue a Summons to the Owner to appear in Tribal Court to obtain a judicial determination that a dog is "dangerous".  Any dog subject to quarantine may be destroyed after ten (10) days at the discretion of the Animal Control Department.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Failure of an Owner to comply with the provisions of this section may result in a fine as outlined in Section 4.F. Fines shall be used to offset costs associated with the Animal Control Program.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>This Ordinance shall apply to any animal found within the Reservation even if the Owner does not reside within the Reservation and the Owner is visiting, living here temporarily or passing through.</text>
+    </para>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Exemption</heading>
+    <text>If any dog shall, without justification, attack a person, a companion animal, farm animal or domestic animal, or behaves in a manner which a reasonable person would believe poses a serious and unjustified imminent threat of serious physical injury to a person or such animal, when such person or animal is peaceably conducting himself in a place where he or it may lawfully be, such person or any other person witnessing the attack or threatened attack may destroy such dog and no liability in damages or otherwise shall be incurred on account of such destruction.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Issuance of Summons and Court Procedure</heading>
+    <para>
+      <num>A.</num>
+      <text>The Animal Control Officer or an officer from the Saint Regis Mohawk Tribe Police Department may issue a Summons with Notice of Violation to a person when, based upon personal observation, eye witness reports or investigation, the officer has reasonable cause to believe that the Owner has committed a violation of this Ordinance. The Summons and Notice will detail the offense, the time, date and location of the offense and an exact time and date at which the Owner must appear at the Saint Regis Mohawk Tribal Court.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If the Summons and Notice is for a determination that a dog is "dangerous" the Animal Control Officer shall have the burden to demonstrate the dog is "dangerous" by a preponderance of the evidence.  The Animal Control Officer can meet this burden with eyewitness statements, sworn testimony or any other evidence.  The evidence does not need to be competent or meet other evidentiary standards, but can be hearsay.  Once the Animal Control Officer has met the burden it shifts to the Owner to demonstrate by clear and convincing evidence that the dog is not "dangerous".  If a dog has caused Serious Physical Injury then the Animal Control Officer shall file documentation such as medical reports, photographs, or police reports showing Serious Physical Injury and the Owner shall need to rebut the presumption that the dog is "dangerous".  The Tribal Court shall then make a written determination whether (1) the dog is "dangerous"; (2) the dog is to be destroyed, if not to be destroyed then the conditions the Owner must abide for ownership; and (3) a fine should be assessed to the Owner.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Once a there is a judicial determination that a dog is dangerous and there has been Serious Physical Injury, the victim may sue the Owner to recover in a separate action for any medical expenses for which the injured party cannot recover from another source and for any veterinarian expenses an Owner's animal may have suffered.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>For any other type of Summons, the Court shall determine based upon a preponderance of the evidence whether a violation of this Ordinance occurred.  The Animal Control Officer shall have the burden by a preponderance of evidence of showing a violation of this Ordinance.  The evidence does not need to be competent or meet other evidentiary standards, but can be hearsay.  Once the Animal Control Officer has met the burden it shifts to the person summoned to demonstrate by clear and convincing evidence that it did not violate this Ordinance.  The Tribal Court can then make a determination whether a violation of this Ordinance has occurred.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Owner shall pay any applicable fine within 30 days from the date the fine was issued in full satisfaction of the violation.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The fine for a violation of this Ordinance shall be $50.00 for a first offense and up to $500.00 for each subsequent offense except as otherwise outlined in this Ordinance in Section 11.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>For anyone who is summoned to Tribal Court and found to be in violation of this Ordinance shall be assessed a court fee as determined by separate Tribal Council Resolution which may be amended from time to time in addition to any fine.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Any fine or court fee shall be payable within thirty (30) days of being assessed.  Failure to pay a fine may subject the person to contempt of court proceedings or the person's name may be transferred to the Tribal Council's designee for collection under the Tribe's Good Standing Policy.</text>
+    </para>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Impoundment</heading>
+    <para>
+      <num>A.</num>
+      <text>Any animal found running at large shall be impounded by the Animal Control Officer in an animal shelter and confined in a humane manner. Immediately upon impounding the animal, the Animal Control Officer shall make every reasonable effort to notify the owner and inform such owner of the conditions whereby custody of the animal may be regained. Animals not claimed by their owners within a period of five (5) days, shall forfeit ownership of the animal, which shall then become the property of the Saint Regis Mohawk Tribe.  Before release an animal to the owner, the owner shall pay a fine of $10 per day including any expenses to the Animal Control Department.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>When an animal is found running at large and its ownership is verified by the Animal Control Officer, he may exercise the option of serving the owner with a Summons to the Saint Regis Mohawk Tribal Court for a violation of this Ordinance in lieu of impounding the animal.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Any dog that has been impounded and deemed, by the Animal Control Officer, to be aggressive shall not be released to its owner until that owner has satisfied the Animal Control Office that the aggressive behavior no longer poses a threat to the safety or health of any person or animal or reasonable steps have been undertaken by the owner which ensures the safety of the community.</text>
+      <para>
+        <num>(1)</num>
+        <text>The owner of an aggressive dog shall keep the dog restrained, as defined in section 2 of this Ordinance, at all times.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any dog deemed aggressive by the Animal Control Officer may be required, at the officer's discretion, to wear a dangerous dog collar at all times</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>In the event that the Animal Control Department finds an animal(s) to be suffering, it shall have the right forthwith to remove or cause to have removed the animal(s) to a safe place for care at the owner's expense; or, to euthanize the animal(s) when necessary to prevent further suffering. Return of an impounded animal(s) to the owner may be withheld until the owner shall have made full payment for the impoundment and for  all expenses so incurred.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Disposal of an animal by the Animal Control Office or the owner does not relieve the owner of liability for violations and any accrued charges.</text>
+    </para>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Enforcement and Authority</heading>
+    <para>
+      <num>A.</num>
+      <text>The Animal Control Officer is hereby delegated and shall have the power to seize animals, and/or to use physical force when necessary to protect self, others, and other animals.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Animal Control Officer shall have the power to enter property (public or private) when in the course of executing the duties and obligations under this Ordinance, when he has reasonable cause to believe a violation of this Ordinance is occurring and has reason to believe that a potential harm has occurred, or is about to occur.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>At any and all times, the Animal Control Officer shall have the right to inspect the animal(s) and where it is housed within the jurisdiction of the Saint Regis Mohawk Tribe and upon reasonable notice. Any party who intentionally interferes with or obstructs the inspection violates this Ordinance.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Animal Control Officer shall have the authority to issue a summons with a notice of violation to appear before the Tribal Court for the enforcement of this Ordinance.</text>
+      <text>The Animal Control Office shall have the authority to solicit and apply for any grants or assistance in the performance of his duties under the ordinance including but not limited to spaying, neutering and public information ads.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Animal Control Officer shall have the authority to adopt regulations and policies as necessary to implement this Ordinance.</text>
+    </para>
+  </section>
+  <section>
+    <num>8</num>
+    <heading>Grants</heading>
+    <text>The Animal Control Office shall have the authority to solicit and apply for any grants or assistance in the performance of his/her duties under the Ordinance including but not limited to spaying, neutering and public information ads.</text>
+  </section>
+  <section>
+    <num>9</num>
+    <heading>Permits and Licenses</heading>
+    <text>
+      <em>RESERVED</em>
+    </text>
+  </section>
+  <section>
+    <num>10</num>
+    <heading>Redemption</heading>
+    <para>
+      <num>A.</num>
+      <text>Any animal impounded may be redeemed by the owner thereof within five (5) days upon payment of an impoundment fees and any fees or fines assessed unless the Animal Control Officer has set a longer period. Impoundment fees shall be inclusive of food, shelter, and services rendered pursuant to a fee schedule established by the Animal Control Office. Payment of impoundment fees is not considered to be in lieu of any fine, penalty, or license fees.  Any animal confined for rabies quarantine, evidence, or other purpose may be redeemed by the owner thereof upon payment of a daily fee plus incurred expenses.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any animal required to be licensed or vaccinated under this ordinance may NOT be redeemed until provisions for such licensing and vaccination have been fulfilled.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The owner must pay all fines and fees prior to animal being returned.</text>
+      <text>Section 10.	Pound and Adoption</text>
+      <text>The Saint Regis Mohawk Tribe shall establish a temporary pound and said pound shall be operated by the Animal Control Office in a secure and humane manner and environment.</text>
+    </para>
+    <para>
+      <num>A.</num>
+      <text>Any dog in the custody of the pound not claimed by their owner within five (5) days, or seized from their owner for just cause, shall become the property of the Saint Regis Mohawk Tribe.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any dog that is deemed suitable for adoption, by the Animal Control Office, may be adopted as an option to euthanasia. An adoption fee shall be assessed at the time of adoption. No dog shall be released for adoption as a pet without being neutered. Vaccination fees, licensing fees, and veterinary costs may be assessed above and beyond the adoption fee.</text>
+    </para>
+  </section>
+  <section>
+    <num>11</num>
+    <heading>Wild or Exotic Animals</heading>
+    <para>
+      <num>A.</num>
+      <text>No person shall knowingly possess, harbor, sell, barter, transfer, exchange or import any wild or exotic animal for use as a pet within the territory of Akwesasne, except that this section shall not apply to the following persons and entities with respect to wild or exotic animals owned or harbored by them solely for a purpose other than for use as a pet:</text>
+      <para>
+        <num>1.</num>
+        <text>Licensed veterinarians and incorporated humane societies, or animal shelters, societies for the prevention of cruelty to animals or animal welfare organizations duly licensed by the St. Regis Mohawk Tribe or other recognized licensing authority, in the temporary possession of wild animals;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A person having custody of a wild animal solely for the purpose of transporting it to a licensed veterinarian, wildlife rehabilitator, humane society or other entity authorized by this section to handle or treat wild animals;</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Animal Control Officer is hereby authorized to enforce the provisions of this section and issue notices of violation to persons in violation of this section, and shall have the authority to seize any wild or exotic animal held in violation of this section. Wild or Exotic animals seized or surrendered pursuant to the provisions of this section shall be transferred to a duly incorporated wildlife sanctuary as defined in this section, or a zoological facility accredited by the American Zoological and Aquarium Association, or shall be humanely euthanized.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Notwithstanding any other provision of law, any person who knowingly breeds a wild or exotic animal or knowingly possesses, owns, harbors, sells, barters, transfers, exchanges, or imports a wild or exotic animal for use as a pet in violation of the provisions of this section shall be subject to the penalty of not more than $500.00 (five hundred dollars) for the first offense and not more than $1,000.00 (one thousand dollars) for a second and subsequent offenses. Each instance of breeding, owning, harboring, sale, barter, transfer, exchange, or import of a wild or exotic animal in violation of this section shall constitute a separate offense.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Grandfather Clause: Any person who owns, possesses, keeps or harbors exotic or wild animal(s) on or before the effective date of this Ordinance shall be permitted to continue ownership or possession as long as they meet all the requirements set in this Ordinance, however, these animals may not be bred and once they die, they may not be replaced.</text>
+    </para>
+  </section>
+  <section>
+    <num>12</num>
+    <heading>Interference</heading>
+    <text>No person shall interfere, hinder, or molest any agent of the Animal Control Office in the performance of any duty as herein provided.</text>
+    <text>Any person violating this section shall be deemed guilty of a civil fine of not more than one thousand dollars $1,000.00 and may be liable for a criminal offense.</text>
+  </section>
+  <section>
+    <num>13</num>
+    <heading>Inter-Agency Cooperation</heading>
+    <text>The Animal Control Officer is hereby authorized to coordinate and cooperate with other tribal divisions or programs, including but not limited to the Environment Division, the Saint Regis Mohawk Tribal Police, and other area agencies including, but not limited to the Mohawk Council of Akwesasne Environment Division; the Mohawk Council of Akwesasne Compliance Department, the New York State Department of Environmental Conservation, and any other agency as may be necessary and appropriate.</text>
+  </section>
+  <section>
+    <num>14</num>
+    <heading>Appeals</heading>
+    <text>Every matter herein shall have no right to appeal to the Court of Appeals except for matters related to personal injury and medical expenses as outlined in Section 5.C.</text>
+  </section>
+  <section>
+    <num>15</num>
+    <heading>Severability &amp; Procedure</heading>
+    <text>If any part of this Ordinance shall be held invalid, such part shall be deemed severable and the invalidity thereof shall not affect the remaining parts of this ordinance.  If any procedure is not outlined herein the Tribe's Rules of Civil Procedure shall govern.</text>
+  </section>
+  <section>
+    <num>16</num>
+    <heading>Amendment</heading>
+    <text>This Ordinance may be amended from time to time by the Saint Regis Mohawk Tribal Council.</text>
+  </section>
+  <section>
+    <num>17</num>
+    <heading>Effective Date</heading>
+    <text>This Amended Ordinance shall become effective upon its adoption by the Saint Regis Mohawk Tribal Council.</text>
+  </section>
+</document>
