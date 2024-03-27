@@ -14,10 +14,10 @@
     </canonical-urls>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="srmt-nsn/law-xml" commit="553899b4912b1596e5b3514330b58801c050e10d"/>
+        <repository name="srmt-nsn/law-xml" commit="f4e258f6ac9f06cff1a277c97c6c6fef6966bd49"/>
       </repositories>
       <platform version="2.14.0" reproducible="false"/>
-      <build-date>2024-02-28</build-date>
+      <build-date>2024-03-27</build-date>
       <codified-date>2023-09-13</codified-date>
     </build>
   </meta>
@@ -65,6 +65,7 @@
     <xi:include href="./us/nsn/srmt/council/acts/ElectionAndReferendumOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/EthicsOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/FamilySupportAct.xml"/>
+    <xi:include href="./us/nsn/srmt/council/acts/FishingOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/GamingOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/HempRegulations.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/JudicialOversightCommissionOrdinance.xml"/>
@@ -72,7 +73,6 @@
     <xi:include href="./us/nsn/srmt/council/acts/MedicalMarijuanaOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/MortgageForeclosureAndEvictionOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/MortgageLandAssignmentOrdinance.xml"/>
-    <xi:include href="./us/nsn/srmt/council/acts/NonMemberFishingRegulationsAndLaws.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/PawnbrokerOrdinance.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/PesticideRegulation.xml"/>
     <xi:include href="./us/nsn/srmt/council/acts/PoliceCommissionAct.xml"/>
