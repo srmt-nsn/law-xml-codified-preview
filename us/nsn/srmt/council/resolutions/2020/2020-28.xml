@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2020-28">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2020-28" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2020-28</num>
   <heading>Amend the Saint Regis Mohawk Tribe Police Commission Act</heading>
   <meta>
@@ -8,7 +8,7 @@
       <adopted>2020-04-29</adopted>
     </history>
     <citations>
-      <citation type="res" url="./adopted/2020-28.pdf">Saint Regis Mohawk Tribe Res. No. 2020-28</citation>
+      <citation type="res" url="./adopted/2020-28.pdf">Res. No. 2020-28</citation>
     </citations>
   </meta>
   <recitals>
@@ -83,20 +83,38 @@
       </table>
     </text>
   </procedural-data>
+  <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2">
+    <container>
+      <prefix>Title</prefix>
+      <num>2</num>
+      <heading>Law Enforcement</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="2" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02">
+    <container>
+      <prefix>Chapter</prefix>
+      <num>2.02</num>
+      <heading>Saint Regis Mohawk Tribe Police Commission Act</heading>
+    </container>
+  </codify:insert>
   <attachment id="law">
+    <codified:at path="2.02"/>
     <heading>Saint Regis Mohawk Tribe Police Commission Act</heading>
     <section>
-      <num>1</num>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.010"/>
+      <num codify:value="2.02.010">1</num>
       <heading>Title and Codification</heading>
-      <text>This Act shall be known as the Saint Regis Mohawk Tribe Police Commission Act.</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">This Act</code-cite> shall be known as the Saint Regis Mohawk Tribe Police Commission Act.</text>
     </section>
     <section>
-      <num>2</num>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.020"/>
+      <num codify:value="2.02.020">2</num>
       <heading>Prior Laws</heading>
-      <text>The Police Commission Act of 2014 is hereby amended through the adoption of this Act.</text>
+      <text>The Police Commission Act of 2014 is hereby amended through the adoption of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">this Act</code-cite>.</text>
     </section>
     <section>
-      <num>3</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.030"/>
+      <num codify:value="2.02.030">3</num>
       <heading>Purpose and Goals</heading>
       <para>
         <num>A.</num>
@@ -124,7 +142,8 @@
       </para>
     </section>
     <section>
-      <num>4</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.040"/>
+      <num codify:value="2.02.040">4</num>
       <heading>Definitions</heading>
       <para>
         <num>A.</num>
@@ -188,17 +207,20 @@
       </para>
     </section>
     <section>
-      <num>5</num>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.050"/>
+      <num codify:value="2.02.050">5</num>
       <heading>Source of Authority</heading>
       <text>The Saint Regis Mohawk Tribe has inherent sovereign authority to govern and provide for the health and safety of its members, residents, visitors and territory, and through that authority has created the Saint Regis Mohawk Tribal Police Commission.</text>
     </section>
     <section>
-      <num>6</num>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.060"/>
+      <num codify:value="2.02.060">6</num>
       <heading>Scope of Authority</heading>
       <text>The Saint Regis Mohawk Tribal Police Commission shall supervise the Chief of Police and oversee all complaints and disciplinary actions against the Chief of Police while also overseeing hearings of formal charges against Police Officers or Police Department Personnel as outlined herein and in certain instances hear appeals of personnel complaints as outlined herein. In addition, the Commission may also recommend Police Department policies and procedures or amendments thereto.</text>
     </section>
     <section>
-      <num>7</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.070"/>
+      <num codify:value="2.02.070">7</num>
       <heading>Composition of the Police Commission</heading>
       <para>
         <num>A.</num>
@@ -231,31 +253,31 @@
           <num>1.</num>
           <text>All Commission members and candidates shall:</text>
           <para>
-            <num>a.</num>
+            <num>A.</num>
             <text>Be a member of the Saint Regis Mohawk Tribe;</text>
           </para>
           <para>
-            <num>b.</num>
+            <num>B.</num>
             <text>Possess a minimum of a high school diploma or GED, with a preference for a post-secondary degree;</text>
           </para>
           <para>
-            <num>c.</num>
+            <num>C.</num>
             <text>Pass a drug test and criminal background check;</text>
           </para>
           <para>
-            <num>d.</num>
+            <num>D.</num>
             <text>Possess supervisory capability, with experience preferred;</text>
           </para>
           <para>
-            <num>e.</num>
+            <num>E.</num>
             <text>Possess relevant and significant qualifications and experience. Areas of Human Resources, Law, and Policing/Public Safety are preferred;</text>
           </para>
           <para>
-            <num>f.</num>
+            <num>F.</num>
             <text>Submit proof of supervisory training or willingness to take training within one (1) year; and</text>
           </para>
           <para>
-            <num>g.</num>
+            <num>G.</num>
             <text>Be willing to maintain communication through technology and be accessible.</text>
           </para>
         </para>
@@ -263,35 +285,35 @@
           <num>2.</num>
           <text>All Commission members and candidates shall not:</text>
           <para>
-            <num>a.</num>
+            <num>A.</num>
             <text>Have a felony conviction.</text>
           </para>
           <para>
-            <num>b.</num>
+            <num>B.</num>
             <text>Have been convicted of any misdemeanor offense within one (1) year of application and during tenure.</text>
           </para>
           <para>
-            <num>c.</num>
+            <num>C.</num>
             <text>Have been convicted of any drug or alcohol misdemeanor offense within the last five (5) years and during tenure.</text>
           </para>
           <para>
-            <num>d.</num>
+            <num>D.</num>
             <text>Have been convicted of any misdemeanor domestic violence or sexual assault convictions.</text>
           </para>
           <para>
-            <num>e.</num>
+            <num>E.</num>
             <text>Be currently employed by the Saint Regis Mohawk Tribal Police Department.</text>
           </para>
           <para>
-            <num>f.</num>
+            <num>F.</num>
             <text>Have been terminated for cause by any police department.</text>
           </para>
           <para>
-            <num>g.</num>
+            <num>G.</num>
             <text>Have resigned within the past year from a police department.</text>
           </para>
           <para>
-            <num>h.</num>
+            <num>H.</num>
             <text>Be an immediate relative, as defined by the SRMT Employee Handbook, to the Chief of Police.</text>
           </para>
         </para>
@@ -303,15 +325,16 @@
       </para>
     </section>
     <section>
-      <num>8</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.080"/>
+      <num codify:value="2.02.080">8</num>
       <heading>Removal of Commissioners</heading>
       <para>
         <num>A.</num>
-        <text>In the event a Commissioner violates any provisions contained in Section 7 C. 2., he or she shall be removed by Tribal Council.</text>
+        <text>In the event a Commissioner violates any provisions contained in <code-cite path="§7|C.|2." doc="Saint Regis Mohawk Tribe Res. No. 2020-28">Section 7 C. 2.</code-cite>, he or she shall be removed by Tribal Council.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>When a Commissioner fails to meet the duties outlined in Section 11, the Commission shall meet to determine whether a Commissioner shall be recommended for removal or for any other discipline to the Tribal Council.</text>
+        <text>When a Commissioner fails to meet the duties outlined in <code-cite path="§11" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">Section 11</code-cite>, the Commission shall meet to determine whether a Commissioner shall be recommended for removal or for any other discipline to the Tribal Council.</text>
       </para>
       <para>
         <num>C.</num>
@@ -331,21 +354,24 @@
       </para>
       <para>
         <num>G.</num>
-        <text>In the event, the Commission fails to act to determine whether a Commissioner shall be removed or disciplined for any infraction under this Act, Tribal Council retains its discretion to remove or discipline a Commissioner.</text>
+        <text>In the event, the Commission fails to act to determine whether a Commissioner shall be removed or disciplined for any infraction under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">this Act</code-cite>, Tribal Council retains its discretion to remove or discipline a Commissioner.</text>
       </para>
     </section>
     <section>
-      <num>9</num>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.090"/>
+      <num codify:value="2.02.090">9</num>
       <heading>Conflict of Interest</heading>
       <text>In the event a Commissioner possesses a conflict of interest on a particular issue, he or she shall recuse himself/herself from the decision-making process. If the Commissioner fails to recuse himself or herself and the conflict of interest is apparent to the remaining Commissioners, they shall remove him or her by a majority vote. In the case of a conflict of interest, a sub-chief(s) shall replace the conflicted Police Commissioner(s) for the matter.</text>
     </section>
     <section>
-      <num>10</num>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.100"/>
+      <num codify:value="2.02.100">10</num>
       <heading>Confidentiality</heading>
-      <text>All Commissioners shall not reveal any confidential information regarding personnel matters, investigations, and disciplinary hearings. Sharing of confidential information shall result in the removal pursuant to Section 8.</text>
+      <text>All Commissioners shall not reveal any confidential information regarding personnel matters, investigations, and disciplinary hearings. Sharing of confidential information shall result in the removal pursuant to <code-cite path="§8" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">Section 8</code-cite>.</text>
     </section>
     <section>
-      <num>11</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.110"/>
+      <num codify:value="2.02.110">11</num>
       <heading>Duties of the Commission</heading>
       <para>
         <num>A.</num>
@@ -361,7 +387,7 @@
       </para>
       <para>
         <num>D.</num>
-        <text>The Commission shall review and recommend for approval of all policies and procedures of the Saint Regis Mohawk Tribal Police. Within 120 days of the adoption of this Act, the Commission shall conduct, or cause to be conducted, a complete review of existing Policies and Procedures, and if necessary make recommendations to amend such Policies and Procedures for consistency with this Act. All such Policies and Procedures shall be consistent with the Saint Regis Mohawk Tribe's goal of self- sufficiency and sovereignty through the implementation and enforcement of Tribal laws, regulations and ordinances. After the adoption, the Policies and Procedures may be amended under the following circumstances:</text>
+        <text>The Commission shall review and recommend for approval of all policies and procedures of the Saint Regis Mohawk Tribal Police. Within 120 days of the adoption of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">this Act</code-cite>, the Commission shall conduct, or cause to be conducted, a complete review of existing Policies and Procedures, and if necessary make recommendations to amend such Policies and Procedures for consistency with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">this Act</code-cite>. All such Policies and Procedures shall be consistent with the Saint Regis Mohawk Tribe's goal of self- sufficiency and sovereignty through the implementation and enforcement of Tribal laws, regulations and ordinances. After the adoption, the Policies and Procedures may be amended under the following circumstances:</text>
         <para>
           <num>1.</num>
           <text>The Chief of Police may provide the Commission with any recommended or necessary additions or amendments to Department policies and procedures.</text>
@@ -385,7 +411,7 @@
       </para>
       <para>
         <num>F.</num>
-        <text>A member of the Commission may participate in hiring and promotion decisions of the Police Department, but the Chief of Police retains the authority to select a candidate. The actions of the Chief of Police must be consistent with departmental policies, the Tribe's current policies and procedures including the Employee Handbook or any amendments thereto. The Commission may terminate Police Department Personnel and Officers consistent with Section 16 herein.</text>
+        <text>A member of the Commission may participate in hiring and promotion decisions of the Police Department, but the Chief of Police retains the authority to select a candidate. The actions of the Chief of Police must be consistent with departmental policies, the Tribe's current policies and procedures including the Employee Handbook or any amendments thereto. The Commission may terminate Police Department Personnel and Officers consistent with <code-cite path="§16" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">Section 16</code-cite> herein.</text>
       </para>
       <para>
         <num>G.</num>
@@ -397,7 +423,7 @@
       </para>
       <para>
         <num>I.</num>
-        <text>The Commission may be involved in complaints against Department Personnel and Officers as outlined in the Police Manual and herein at Section 16. As outlined in Police Manual Section 1100 the Commission may hear appeals regarding certain disciplinary decisions involving Police Personnel reporting directly to the Chief of Police. It shall not oversee any complaints involving conduct or discipline relating to the Tribe's Employee Handbook unless such a review is outlined in the Tribe's Employee Handbook.</text>
+        <text>The Commission may be involved in complaints against Department Personnel and Officers as outlined in the Police Manual and herein at <code-cite path="§16" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">Section 16</code-cite>. As outlined in Police Manual Section 1100 the Commission may hear appeals regarding certain disciplinary decisions involving Police Personnel reporting directly to the Chief of Police. It shall not oversee any complaints involving conduct or discipline relating to the Tribe's Employee Handbook unless such a review is outlined in the Tribe's Employee Handbook.</text>
       </para>
       <para>
         <num>J.</num>
@@ -465,7 +491,7 @@
       </para>
       <para>
         <num>T.</num>
-        <text>To coincide with the Department's annual evaluation from Section 11.S, the Commission shall submit to the Tribal Council an annual report. The annual report shall include a summary of each member's individual activities and should include, but is not limited to, the number of complaints filed and resolved by the Commission, the number of disciplinary actions it oversaw, changes in policies and procedures or recommendations for such changes, goals and needed resources for the following year.</text>
+        <text>To coincide with the Department's annual evaluation from <code-cite path="§11|S." doc="Saint Regis Mohawk Tribe Res. No. 2020-28">Section 11.S</code-cite>, the Commission shall submit to the Tribal Council an annual report. The annual report shall include a summary of each member's individual activities and should include, but is not limited to, the number of complaints filed and resolved by the Commission, the number of disciplinary actions it oversaw, changes in policies and procedures or recommendations for such changes, goals and needed resources for the following year.</text>
       </para>
       <para>
         <num>U.</num>
@@ -473,7 +499,8 @@
       </para>
     </section>
     <section>
-      <num>12</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.120"/>
+      <num codify:value="2.02.120">12</num>
       <heading>Police Commission Personnel</heading>
       <para>
         <num>A.</num>
@@ -481,15 +508,16 @@
       </para>
     </section>
     <section>
-      <num>13</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.130"/>
+      <num codify:value="2.02.130">13</num>
       <heading>Appointment, Supervision, Discipline of the Chief of Police</heading>
       <para>
         <num>A.</num>
-        <text>In accordance with Section 11. A. the Police Commission appoints, supervises, disciplines, and may terminate the Chief of Police.</text>
+        <text>In accordance with <code-cite path="§11|A." doc="Saint Regis Mohawk Tribe Res. No. 2020-28">Section 11. A.</code-cite> the Police Commission appoints, supervises, disciplines, and may terminate the Chief of Police.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>The Chief of Police is an employee of the Saint Regis Mohawk Tribe. As such, he/she is subject to the Tribe's policies and procedures including, but not limited to, the Employee Handbook with its amendments and the Whistleblower Policy. In addition, he/she also is subject to any ratified policies and procedures or Police Manual of the Department. For any conduct that is proscribed in the Tribe's Employee Handbook it will control any complaint or disciplinary process. For any conduct that is proscribed under the Tribal Police's Police Manual it will control any complaint or disciplinary process and the Commission will determine whether to proceed with any disciplinary charges as outlined herein at (G).</text>
+        <text>The Chief of Police is an employee of the Saint Regis Mohawk Tribe. As such, he/she is subject to the Tribe's policies and procedures including, but not limited to, the Employee Handbook with its amendments and the Whistleblower Policy. In addition, he/she also is subject to any ratified policies and procedures or Police Manual of the Department. For any conduct that is proscribed in the Tribe's Employee Handbook it will control any complaint or disciplinary process. For any conduct that is proscribed under the Tribal Police's Police Manual it will control any complaint or disciplinary process and the Commission will determine whether to proceed with any disciplinary charges as outlined herein at <code-cite path="§13|G." doc="Saint Regis Mohawk Tribe Res. No. 2020-28">(G)</code-cite>.</text>
       </para>
       <para>
         <num>C.</num>
@@ -508,7 +536,7 @@
         </para>
         <para>
           <num>3.</num>
-          <text>The Commission shall interview any candidates that meet the criteria for Chief of Police as per Section 13. C.</text>
+          <text>The Commission shall interview any candidates that meet the criteria for Chief of Police as per <code-cite path="§13|C." doc="Saint Regis Mohawk Tribe Res. No. 2020-28">Section 13. C</code-cite>.</text>
         </para>
         <para>
           <num>4.</num>
@@ -537,7 +565,7 @@
       </para>
       <para>
         <num>F.</num>
-        <text>To coincide with the Department's annual evaluation from Section 11.Q, the Commission shall conduct a yearly evaluation of the Chief of Police. It shall be submitted by February fifteenth (15th) of each year. The Commission may hire an outside evaluator to assist with the evaluation. The evaluation shall include, but is not limited to:</text>
+        <text>To coincide with the Department's annual evaluation from <code-cite path="§11|Q." doc="Saint Regis Mohawk Tribe Res. No. 2020-28">Section 11.Q</code-cite>, the Commission shall conduct a yearly evaluation of the Chief of Police. It shall be submitted by February fifteenth (15th) of each year. The Commission may hire an outside evaluator to assist with the evaluation. The evaluation shall include, but is not limited to:</text>
         <para>
           <num>1.</num>
           <text>Interviews with Department personnel and officers.</text>
@@ -597,19 +625,20 @@
       </para>
     </section>
     <section>
-      <num>14</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.140"/>
+      <num codify:value="2.02.140">14</num>
       <heading>Officers and Personnel</heading>
       <para>
         <num>A.</num>
-        <text>The Tribal Police's officers and personnel are employees of the Saint Regis Mohawk Tribe. As such, they are subject to the Tribe's policies and procedures including the Employee Handbook, as amended, and the Whistleblower Policy. In addition, all Officers or personnel of the Tribal Police also are subject to any ratified policies and procedures or Police Manual of the Department. For any conduct that is proscribed in the Tribe's Employee Handbook it will control any complaint or disciplinary process and this Act may only apply if those specific rights are granted under the Employee Handbook. For any conduct that is proscribed under the Tribal Police's Police Manual it will control any complaint or disciplinary process and this Act may only apply if those specific rights are granted under the Police Manual.</text>
+        <text>The Tribal Police's officers and personnel are employees of the Saint Regis Mohawk Tribe. As such, they are subject to the Tribe's policies and procedures including the Employee Handbook, as amended, and the Whistleblower Policy. In addition, all Officers or personnel of the Tribal Police also are subject to any ratified policies and procedures or Police Manual of the Department. For any conduct that is proscribed in the Tribe's Employee Handbook it will control any complaint or disciplinary process and <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">this Act</code-cite> may only apply if those specific rights are granted under the Employee Handbook. For any conduct that is proscribed under the Tribal Police's Police Manual it will control any complaint or disciplinary process and <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">this Act</code-cite> may only apply if those specific rights are granted under the Police Manual.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>The Human Resources Department is responsible to ensure compliance with the Saint Regis Mohawk Tribe's Human Resource Employee Handbook, whereas the Chief of Police is responsible for maintaining compliance with the Police Manual and properly adopted Policies and Procedures while the Police Commission provides oversight. In limited circumstances, the Police Commission may be responsible for determining compliance with the Police Manual or properly adopted Policies and Procedures or as outlined in this Act.</text>
+        <text>The Human Resources Department is responsible to ensure compliance with the Saint Regis Mohawk Tribe's Human Resource Employee Handbook, whereas the Chief of Police is responsible for maintaining compliance with the Police Manual and properly adopted Policies and Procedures while the Police Commission provides oversight. In limited circumstances, the Police Commission may be responsible for determining compliance with the Police Manual or properly adopted Policies and Procedures or as outlined in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">this Act</code-cite>.</text>
       </para>
       <para>
         <num>C.</num>
-        <text>Police Officer or Personnel complaints against the Chief of Police shall be filed with the Commission. The Commission's Chair or his/her designee shall oversee the investigation. If the Chair or the Commission determines it is necessary, an independent investigator may be appointed to assist in the investigation. The Commission shall notify the complainant in writing of the investigation. The Chair shall ensure the complaint is investigated and reported to the Commission. The Commission shall determine whether any disciplinary action needs to be taken and notify the complainant whether the complaint was sustained or unfounded pursuant to the procedures set forth above in Section 13.</text>
+        <text>Police Officer or Personnel complaints against the Chief of Police shall be filed with the Commission. The Commission's Chair or his/her designee shall oversee the investigation. If the Chair or the Commission determines it is necessary, an independent investigator may be appointed to assist in the investigation. The Commission shall notify the complainant in writing of the investigation. The Chair shall ensure the complaint is investigated and reported to the Commission. The Commission shall determine whether any disciplinary action needs to be taken and notify the complainant whether the complaint was sustained or unfounded pursuant to the procedures set forth above in <code-cite path="§13" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">Section 13</code-cite>.</text>
       </para>
       <para>
         <num>D.</num>
@@ -617,7 +646,8 @@
       </para>
     </section>
     <section>
-      <num>15</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.150"/>
+      <num codify:value="2.02.150">15</num>
       <heading>Complaints from the Public</heading>
       <para>
         <num>A.</num>
@@ -641,11 +671,12 @@
       </para>
       <para>
         <num>F.</num>
-        <text>Complaints against the Chief of Police shall be filed with the Commission who shall forward them to Internal Affairs to investigate, if warranted. If an investigation is warranted, the Commission's Chair or his/her designee shall oversee the investigation. If the Commission determines it is necessary, they may appoint an external investigator. The Commission shall notify the complainant in writing of the investigation. Once an investigation is complete, the Commission shall determine whether any disciplinary action needs to be taken and notify the complainant whether the complaint was sustained or unfounded. The process outlined in Section 13 E shall apply to disciplinary actions against the Chief of Police.</text>
+        <text>Complaints against the Chief of Police shall be filed with the Commission who shall forward them to Internal Affairs to investigate, if warranted. If an investigation is warranted, the Commission's Chair or his/her designee shall oversee the investigation. If the Commission determines it is necessary, they may appoint an external investigator. The Commission shall notify the complainant in writing of the investigation. Once an investigation is complete, the Commission shall determine whether any disciplinary action needs to be taken and notify the complainant whether the complaint was sustained or unfounded. The process outlined in <code-cite path="§13|E." doc="Saint Regis Mohawk Tribe Res. No. 2020-28">Section 13 E</code-cite> shall apply to disciplinary actions against the Chief of Police.</text>
       </para>
     </section>
     <section>
-      <num>16</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.160"/>
+      <num codify:value="2.02.160">16</num>
       <heading>Disciplinary Hearing Procedures Involving Officers and Personnel, Other than Chief of Police</heading>
       <para>
         <num>A.</num>
@@ -674,59 +705,59 @@
           <num>4.</num>
           <text>For formal charges before the Police Commission the following shall apply:</text>
           <para>
-            <num>a.</num>
+            <num>A.</num>
             <text>The Commission shall be notified when formal disciplinary charges are filed. The notification shall contain the name of the Police Officer and/or Personnel but shall not include the details of the complaint.</text>
           </para>
           <para>
-            <num>b.</num>
+            <num>B.</num>
             <text>Upon the filing of formal disciplinary charges, the Police Officer or Personnel shall receive a copy of the charges in writing, along with notice of a hearing before the Police Commission. The notice shall include the right to cross- examine witnesses, the right to present evidence and the right to an attorney at his/her own expense or some other representative/advocate.</text>
           </para>
           <para>
-            <num>c.</num>
+            <num>C.</num>
             <text>The disciplinary hearing shall be heard by the Commission within thirty (30) days of the filing of the formal disciplinary charges.</text>
           </para>
           <para>
-            <num>d.</num>
+            <num>D.</num>
             <text>The hearing shall be closed to the public.</text>
           </para>
           <para>
-            <num>e.</num>
+            <num>E.</num>
             <text>The Chairperson shall not be involved in hearings involving an investigation overseen by him/her, unless it is a disciplinary action involving the Chief of Police.</text>
           </para>
           <para>
-            <num>f.</num>
+            <num>F.</num>
             <text>The Police Commission shall determine which evidence is relevant and allowed at the hearing.</text>
           </para>
           <para>
-            <num>g.</num>
+            <num>G.</num>
             <text>At the hearing, the Internal Affairs Officer shall present evidence to prove the charges. The Police Department may be represented by the Tribe's General Counsel. The burden of proof shall be a preponderance of the evidence. Past conduct may be offered if relevant to the current case.</text>
           </para>
           <para>
-            <num>h.</num>
+            <num>H.</num>
             <text>The Police Officer or Personnel may make a motion to disqualify a Commissioner for a conflict of interest. The challenged Commissioner may step down from the hearing or the Commission shall decide by majority vote whether to grant the motion.</text>
           </para>
           <para>
-            <num>i.</num>
+            <num>I.</num>
             <text>The Commission may question witnesses and request additional evidence.</text>
           </para>
           <para>
-            <num>j.</num>
+            <num>J.</num>
             <text>The Officer or Personnel may cross-examine witnesses and offer any evidence to refute the charges.</text>
           </para>
           <para>
-            <num>k.</num>
+            <num>K.</num>
             <text>The Commission shall decide whether the charges have been sustained based upon the evidence presented to them. They may retire to executive session to discuss and decide the case.</text>
           </para>
           <para>
-            <num>l.</num>
+            <num>L.</num>
             <text>Upon a finding the charges have been sustained, the Commission shall impose discipline based upon Department policies and procedures. The Commission shall review the personnel file for prior conduct and the Officer or Personnel may offer evidence of prior good conduct. Discipline may include, but is not limited to, counseling, training, probation, suspension, last chance agreement and termination from the Department. The Commission shall ensure that any discipline is fair and commensurate with the violation and that all Officers and Personnel are disciplined equally.</text>
           </para>
           <para>
-            <num>m.</num>
+            <num>M.</num>
             <text>A Police Officer or Personnel may petition for a rehearing within sixty (60) days of the Commission's decision upon discovery of new evidence. The Commission shall grant a new hearing if the evidence is relevant to the charges and was not available at the initial hearing.</text>
           </para>
           <para>
-            <num>n.</num>
+            <num>N.</num>
             <text>If a hearing, stemming from an Internal Affairs investigation, results in the termination of a Police Officer or Personnel, or if he/she is suspended without pay he/she may appeal the Commission's decision to the Saint Regis Mohawk Tribal Court of Appeals. Such an appeal must be filed within ten (10) days of the decision being issued on notice to the Commission. The Court of Appeals shall determine whether the Commission's decision was arbitrary and capricious based upon the record the Commission develops. Once an appeal is filed, the Commission shall file within ten (10) business days a certified copy of the record with the Court of Appeals on notice to the Officer or Personnel. If the Commission's decision involves counseling, training, probation or anything other than suspension or termination the Commission's decision is final.</text>
           </para>
         </para>
@@ -741,7 +772,8 @@
       </para>
     </section>
     <section>
-      <num>17</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.170"/>
+      <num codify:value="2.02.170">17</num>
       <heading>Non-Tribal Law Enforcement Agencies</heading>
       <para>
         <num>A.</num>
@@ -761,7 +793,8 @@
       </para>
     </section>
     <section>
-      <num>18</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.180"/>
+      <num codify:value="2.02.180">18</num>
       <heading>Commission Meetings</heading>
       <para>
         <num>A.</num>
@@ -785,7 +818,8 @@
       </para>
     </section>
     <section>
-      <num>19</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.190"/>
+      <num codify:value="2.02.190">19</num>
       <heading>Funding</heading>
       <para>
         <num>A.</num>
@@ -798,24 +832,28 @@
       <text>The Commission shall submit a proposed budget for the Commission's funding to the Budget Team by June 1<sup>st</sup> of every year, unless requested at a different time by the Tribal Council.</text>
     </section>
     <section>
-      <num>20</num>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.200"/>
+      <num codify:value="2.02.200">20</num>
       <heading>Severability</heading>
       <text>If any word, clause, phrase, sentence, subsection, section, or other provision of this Code is held invalid by a court of competent jurisdiction, the invalidity shall not affect any other provisions or applications of this law that can be given effect without the invalid provision.</text>
     </section>
     <section>
-      <num>21</num>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.210"/>
+      <num codify:value="2.02.210">21</num>
       <heading>Sovereign Immunity</heading>
-      <text>Nothing in this Act shall be deemed as a waiver of the Tribe's sovereignty immunity.</text>
+      <text>Nothing in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">this Act</code-cite> shall be deemed as a waiver of the Tribe's sovereignty immunity.</text>
     </section>
     <section>
-      <num>22</num>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.220"/>
+      <num codify:value="2.02.220">22</num>
       <heading>Amendment</heading>
       <text>This Ordinance may be amended upon the approval and adoption of such amendments by Tribal Council.</text>
     </section>
     <section>
-      <num>23</num>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.02.230"/>
+      <num codify:value="2.02.230">23</num>
       <heading>Repealer</heading>
-      <text>This Act shall supersede and replace all other Acts, or portions thereof, adopted by the Saint Regis Mohawk Tribal Council, as they contain to the matters herein.</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">This Act</code-cite> shall supersede and replace all other Acts, or portions thereof, adopted by the Saint Regis Mohawk Tribal Council, as they contain to the matters herein.</text>
     </section>
   </attachment>
 </document>
