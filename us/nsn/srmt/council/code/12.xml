@@ -1,143 +1,529 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2021-47" codify:doc="Saint Regis Mohawk Tribal Code of Law">
-  <num>2021-47</num>
-  <heading>To Amend the Saint Regis Mohawk Tribe Probate Law</heading>
-  <meta>
-    <effective>2021-09-09</effective>
-    <history>
-      <adopted>2021-09-09</adopted>
-    </history>
-    <citations>
-      <citation type="res" url="./adopted/2021-47.pdf">Res. No. 2021-47</citation>
-    </citations>
-  </meta>
-  <recitals>
-    <recital>
-      <conjunction>WHEREAS,</conjunction>
-      <text>the Saint Regis Mohawk Tribal Council ("Tribal Council") is the duly recognized governing body of the Saint Regis Mohawk Tribe ("Tribe") and is responsible for the health, safety, education and welfare of all community member; and</text>
-    </recital>
-    <recital>
-      <conjunction>WHEREAS,</conjunction>
-      <text>the Tribal Council on behalf of the Tribe, possesses inherent legislative authority to adopt policies, ordinance, regulations, or codes on behalf of the Tribe; and</text>
-    </recital>
-    <recital>
-      <conjunction>WHEREAS,</conjunction>
-      <text>the Saint Regis Mohawk Tribal Council previously adopted the" Saint Regis Mohawk Tribe Probate Law" ("Probate Law") in Tribal Council Resolution (TCR) 2017-52; and</text>
-    </recital>
-    <recital>
-      <conjunction>WHEREAS,</conjunction>
-      <text>the Tribe's General Counsel Office working in conjunction with Tribal Council and Tribal Court has put forward amendments to the Probate Law to improve the process to distribute a decedent's estate and to expand the list of eligible relatives who may inherit when someone dies without a will; and</text>
-    </recital>
-    <recital>
-      <conjunction>WHEREAS,</conjunction>
-      <text>pursuant to the Tribal Procedures Act Section X (3), the General Counsel's Office has met all of the necessary requirements for Tribal Member's public review and comments on the proposed legislation; and</text>
-    </recital>
-    <recital>
-      <conjunction>WHEREAS,</conjunction>
-      <text>Tribal Council now wishes to amend the Saint Regis Mohawk Tribe Probate Law; and</text>
-    </recital>
-    <recital>
-      <conjunction>NOW, THEREFORE, BE IT RESOLVED,</conjunction>
-      <text>that the Saint Regis Mohawk Tribal Council hereby amends TCR 2017-52 in its entirety and hereby adopts the attached and amended Saint Regis Mohawk Tribe Probate Law effective the date of this resolution.</text>
-    </recital>
-  </recitals>
-  <procedural-data>
-    <text>SAINT REGIS MOHAWK TRIBAL COUNCIL</text>
-    <text>
-      <table class="layout-table">
-        <tbody>
-          <tr>
-            <td>_____________________</td>
-            <td class="text-indent-2">_____________________</td>
-            <td class="text-indent-2">_____________________</td>
-          </tr>
-          <tr>
-            <td>Beverly Cook</td>
-            <td class="text-indent-2">Michael Conners</td>
-            <td class="text-indent-2">Ronald LaFrance, Jr.</td>
-          </tr>
-          <tr>
-            <td>Tribal Chief</td>
-            <td class="text-indent-2">Tribal Chief</td>
-            <td class="text-indent-2">Tribal Chief</td>
-          </tr>
-        </tbody>
-      </table>
-    </text>
-    <text><strong>CERTIFICATION</strong>: This is to certify that the Saint Regis Mohawk Tribal Council pursuant to the authority vested therein duly passed the above resolution.</text>
-    <text>
-      <table class="layout-table">
-        <tbody>
-          <tr>
-            <td>___________________________________</td>
-            <td class="text-indent-4">September 9, 2021</td>
-          </tr>
-          <tr>
-            <td>Summer Bero, Tribal Clerk</td>
-            <td class="text-indent-4">Date</td>
-          </tr>
-        </tbody>
-      </table>
-    </text>
-  </procedural-data>
-  <codify:insert path="12.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Saint Regis Mohawk Tribal Code of Law">
+  <prefix>Title</prefix>
+  <num>12</num>
+  <heading>Lands, Inheritance and Probate</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>12.01</num>
+    <heading>Land Laws and Land Dispute Ordinance</heading>
+    <section>
+      <num>12.01.010</num>
+      <heading>Title</heading>
+      <text><cite path="|12.01">This chapter</cite> shall be known as the Saint Regis Mohawk Tribe Land Laws and Dispute Ordinance.</text>
+      <annotations>
+        <annotation app="2021-12-29" doc="Saint Regis Mohawk Tribe Res. No. 2021-69" eff="2021-12-29" path="attachments|law|I." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>12.01.020</num>
+      <heading>Authority and Purpose</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Saint Regis Mohawk Tribal Council ("Tribal Council" or "Council") is the duly recognized governing body of the Saint Regis Mohawk Tribe ("Tribe") and is responsible for the health, safety, education and welfare of all members of the Tribe. The Tribe has the inherent authority to control the ownership of property and the issuance of use and occupancy deeds for property within the Tribe's Reservation. The Saint Regis Mohawk Tribe Tribal Clerk ("Tribal Clerk") has the authority to record title and land transfers that occur between members on the Reservation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><cite path="|12.01">This chapter</cite> is intended to set forth general rules for the issuance of deeds and the transfer of title and land interests on the Reservation. In addition, <cite path="|12.01">this chapter</cite> is intended to delegate to the Saint Regis Mohawk Tribal Court ("Tribal Court" or "Court") the authority to resolve land disputes.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><cite path="|12.01">This chapter</cite> shall apply to all lands within the boundaries of the 1796 Saint Regis Mohawk Tribe Reservation.</text>
+      </para>
+      <annotations>
+        <annotation app="2021-12-29" doc="Saint Regis Mohawk Tribe Res. No. 2021-69" eff="2021-12-29" path="attachments|law|II." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>12.01.030</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Boundary line agreement" is a written agreement between adjacent landowners by which each landowner agrees to the written description of the location of the border that delineates each property-one from the other.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Certified Copy" is a copy of a document that has been certified by the Tribal Clerk as a true and accurate copy of the original document.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Child(ren)" / "grandchild(ren)" refers to a natural born or legally adopted child, or grandchild, as long as the child is a Tribal Member or eligible to become a Tribal Member.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Claimant" is the person who files a land dispute claim in Tribal Court.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Interested Party" is any Tribal Member who claims to have an interest in the outcome of the proceeding and who seeks to participate in a land dispute proceeding. "Interested party" does not include a Tribal member without a recognizable interest in resolution of the case. A Tribal Member seeking to participate as an interested party and who has an identifiable and known legal interest in the disputed property shall be treated as an Intervenor and will be bound by the Court's rulings.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Land Dispute" is a disagreement between Tribal Members over claims to title, boundary lines, issuance or validity of deeds, transactions, and any other matter regarding property interests on the Reservation. The issuance of a Use and Occupancy Deed by the Tribe and the Tribal Clerk, even if in error, does not create a land dispute involving the Tribe. Any claim that a deed has been issued in error is to be resolved as a land dispute between the parties claiming an interest in the property and, when resolved, could result in a court order to the Tribe to issue a new deed or to revise or revoke an existing deed.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Legal Guardian" is a parent or an individual legally appointed by a court of competent jurisdiction as the guardian of minor children.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Life estate" is a way of holding real property that is limited to the life of the party holding it and, upon whose death, the property reverts to another Tribal Member.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Recorded" refers to the filing or registration of documents or transactions with the Tribal Clerk's Office so as to memorialize the registration or transaction document in accordance with established procedures.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Respondent" is the person against whom a land dispute claim is filed. The Tribe, the Tribal Council, the Tribal Clerk, or any tribal official may not be named as a Respondent in a land dispute for the official act of issuing a deed. This limitation, however, is subject to the limited waiver of immunity in <cite path="|12.01">this chapter</cite>. The Tribe may be named as a Respondent if a deed is issued to the Tribe itself or if the Tribe is claiming an interest in any land subject to a claim.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Spouse" refers only to a legally married husband or wife. The Saint Regis Mohawk Tribe does not recognize "common law" marriage.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Tribal Council" for purposes of this ordinance, refers to the three duly elected Chiefs of the Saint Regis Mohawk Tribe.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"Tribal Member" for purposes of this ordinance, includes anyone who is enrolled with the Saint Regis MohawkTribe or eligible for enrollment with the Saint Regis Mohawk Tribe.</text>
+      </para>
+      <annotations>
+        <annotation app="2021-12-29" doc="Saint Regis Mohawk Tribe Res. No. 2021-69" eff="2021-12-29" path="attachments|law|III." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>12.01.040</num>
+      <heading>Tribal Law, Customs and Practices</heading>
+      <para>
+        <num>(a)</num>
+        <text>Application of Customs and Practices. The customs and practices of the Saint Regis Mohawk Tribe shall be applied in all situations where it is relevant to resolve a land dispute.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Order of Consideration. Written tribal laws will be considered first. If no written Tribal law applies to the circumstance raised in a dispute, the Tribe's customs and practices may be considered.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Resolution of Ambiguity. Where any doubt arises as to past practices and customs, the Court, with the agreement of both parties, may request the advice of Tribal Members who may be familiar with the Tribe's customs and practices, or the Court may pose a certified question to the Tribal Council or the Tribal Clerk. If issues of doubt regarding past practices and customs are presented in Tribal Court, the matter must be resolved through normal tribal court procedure for witness and evidence collection.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Acknowledgment. The Tribe acknowledges that Mohawk Nation Council of Chiefs uses its own process to record property ownership of its members, which may be recognized by the Tribe as evidence of property ownership for the Tribe's land recording purposes or to resolve land disputes brought to the Tribe.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Guiding Legal Principles. In order to resolve land disputes according to tribal customs and practices, <cite path="|12.01">this chapter</cite> will set forth the general legal principles that have governed land use and occupancy on the reservation.</text>
+        <para>
+          <num>(1)</num>
+          <text><u>Power to Issue Deeds is Reserved</u>. The power to make land assignments and to issue Use and Occupancy Deeds is vested in the Saint Regis Mohawk Tribal Council as the sovereign government with jurisdiction and authority over the Reservation. The Tribal Council and the Tribal Clerk issue deeds in their official capacity based on deeds, contracts and other agreements or documents such as wills.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text><u>Resolution of Disputes</u>. The Tribal Council shall exercise its discretion and judgment in issuing deeds and it may do so upon request of a Tribal Member with the presentation of proper documentation. It is recognized that a request to the Council to issue a deed may change the ownership of land in a way that may negatively affect a Tribal Member. The issuance of a deed by the Tribal Council and the Tribal Clerk does not constitute the resolution of a land dispute. If a Tribal Member disagrees with the recordation or issuance of a deed, the remedy is to file a land dispute claim in Tribal Court.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text><u>Forms of Evidence of Land Ownership</u>. The following documentation may be considered valid evidence of land ownership for all or a portion of land identified in a Use and Occupancy Deed:</text>
+          <para>
+            <num>(A)</num>
+            <text>Official and Original or Certified Copy of a Use and Occupancy Deed issued and signed by the Tribal Council and recorded in the Tribal Clerk's records.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Valid Land Contract.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Valid Will (a will that meets the requirements of the Probate Law).</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Valid Bill of Sale.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Valid receipt for the purchase of property if accompanied by other evidence to substantiate a sale of property.</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>Prior Tribal Council finding.</text>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>Prior Tribal Court finding.</text>
+          </para>
+          <para>
+            <num>(H)</num>
+            <text>Decisions from other Courts.</text>
+          </para>
+          <para>
+            <num>(I)</num>
+            <text>Sworn written testimony.</text>
+          </para>
+          <para>
+            <num>(J)</num>
+            <text>Sworn oral testimony.</text>
+          </para>
+          <para>
+            <num>(K)</num>
+            <text>Any other relevant evidence.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>
+            <u>Limitation on Who May Use and Occupy Land.</u>
+          </text>
+          <para>
+            <num>(A)</num>
+            <text>Only Tribal Members shall be permitted to possess a Use and Occupancy Deed on the Reservation. A corporation, limited liability corporation, or trust either testamentary or inter vivos shall not be permitted to possess a Use and Occupancy Deed on the Reservation even if such entity is formulated under Tribal law; provided however that wholly-owned Tribal entities or those created by the Tribe that are formed for the benefit of the Tribe may use and possess land as needed.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>In any case where a Tribal Member wants to transfer land to a minor Tribal Member, the land shall be held in trust by a legal guardian until the minor Tribal Member reaches the age of majority, which is eighteen (18) years old. When the minor Tribal Member reaches the age of majority the legal guardian's trust obligation shall no longer have any force or effect. The legal guardian shall have a fiduciary responsibility to the minor Tribal Member until the minor reaches the age of majority.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text><u>Limitation on the Right to Transfer</u>. Reservation land may not be sold to, held by, pledged, assigned, or in any way relinquished to a non-member of the Saint Regis Mohawk Tribe.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text><u>Assumptions Regarding Land Ownership</u>.</text>
+          <para>
+            <num>(A)</num>
+            <text>When two or more Tribal Members are listed as owners of property and are granted the interest simultaneously, the owners shall be deemed joint tenants with rights of survivorship, unless expressly declared to be tenants in common. As joint tenants, the owners will own equal undivided shares. Upon the death of one of the tenants, that share will be distributed equally to the remaining tenants (survivorship). A joint tenant may transfer his/her share, but that transfer will automatically change the ownership between the transferring joint tenant and the non- transferring joint tenants to tenants in common. The transfer does not change the relationship between the non-transferring joint tenants.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>If a deed declares the property will be held as tenants in common, each owner will own the property in equal shares unless different portions are expressly stated in the deed and each owner is entitled to possess the whole. A tenant in common may sell his/her share to anyone. If a tenant dies, there is no right of survivorship with the other tenants and that share will pass through inheritance as provided for in the Probate Ordinance.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>A deed held by a husband and wife creates a tenancy by the entirety, unless expressly declared to be a joint tenancy or a tenancy in common. A tenancy in the entirety means that upon the death of one spouse, the property automatically passes to the surviving spouse and probate is not necessary.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>These assumptions shall apply to all deeds existing on the date the amendments to <cite path="|12.01">this chapter</cite> are adopted unless the Tribal Member/s request the deeds be amended to reflect the intention of the owners that may be different than the assumptions enacted here.</text>
+          </para>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text><u>Use and Occupancy Deed</u>. A Use and Occupancy Deed is an official Tribal document granting the holder the right to use and occupy land at the will of the Tribe, signed by the Tribal Council and certified by the Tribal Clerk.</text>
+          <para>
+            <num>(A)</num>
+            <text>All land assignments and deeds made or issued by the Council are presumptively valid. The deed recorded first with the Tribal Clerk of the Saint Regis Mohawk Tribe will supersede all other deeds, unless it can be shown that the deed recorded first is subject to challenge under subparagraph (b).</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>A deed issued and/or recorded by the Tribal Clerk may only be challenged if (i) there has been a substantial error committed by the Tribal Council or Clerk in issuing the deed; (ii) there is evidence of fraud in the documents used to substantiate the issuance of the deed; or (iii) evidence of fraud, deceit, coercion or duress in the signing of documents or in the transfer made in the deed. The party challenging the deed has the burden of proof to show with clear and convincing evidence that a deed was not properly issued or recorded.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The Tribal Council has the right to correct or amend deeds in order to correct language or typographical errors and these corrections may not be reviewed. The Tribal Council also has the right to correct clerical errors, including errors that may have resulted in a deed being issued in violation of a previously recorded valid deed. Tribal Council, however, shall provide written notice to all affected parties of the error and of its intent to make a correction.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Correction of clerical errors may be challenged and shall be reviewed under the arbitrary and capricious standard, and a party may seek declaratory or injunctive relief.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>If a land claim dispute is filed, all actions by all parties in relation to the property in dispute shall be stayed pending review.</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>All recorded deeds must bear the signature of the Tribal Council along with the signature and seal of the Tribal Clerk.</text>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>Use and Occupancy Deeds may be transferred between Tribal Members either through a land contract, a bill of sale, by simple purchase, or as a gift between family members. In order to ensure the Tribe's land records are current and accurate and reflect the current ownership, upon the effective date of <cite path="|12.01">this chapter</cite>, all transfers of Use and Occupancy Deeds shall be recorded with the Tribal Clerk. The failure to record a transfer which took place prior to the effective date of <cite path="|12.01">this chapter</cite> is not a basis to declare a transfer invalid.</text>
+          </para>
+          <para>
+            <num>(H)</num>
+            <text>Use and Occupancy Deeds may not be transferred to a non-member or non-Indian in any manner, and the Tribe reserves the right to declare invalid such a transfer.</text>
+          </para>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text><u>Land Contracts</u>. A land contract is an agreement between a buyer and seller for the purchase of a right to use and occupy a parcel of land where the buyer makes installment payments to the seller for the eventual conveyance of the Tribal Use and Occupancy Deed or right to occupy the property. The following shall be considered in assessing the validity of a Land Contract:</text>
+          <para>
+            <num>(A)</num>
+            <text>The agreement may be informal, but must be written.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The agreement shall provide that a buyer will receive a deed to the property when all of the conditions of the contract have been satisfied.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Each contract will differ, but many land contracts provide that the buyer may occupy and make improvements to the land, even though the complete right to use and occupy is not transferred until the land contract is fulfilled. Once executed, a land contract may be filed with the Tribal Clerk's office to provide notice to the community at large. If there are multiple land contracts the Tribal Court must have a hearing to determine which land contract takes precedence.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Upon the effective date of <cite path="|12.01">this chapter</cite>, to validate the final conveyance of the right to use and occupy property and to ensure the Tribe's Land Records are accurate and current,</text>
+          </para>
+          <text>once a land contract is fulfilled, and if it was not previously recorded it shall be recorded with the Tribal Clerk and a Use and Occupancy Deed shall then be issued. The failure to record a contract that was fulfilled prior to the effective date of <cite path="|12.01">this chapter</cite> shall not be a basis to declare the contract invalid.</text>
+          <para>
+            <num>(E)</num>
+            <text>If the buyer defaults under the terms of the contract, the seller may seek to evict the buyer through a claim in Tribal Court, if necessary, and may keep the installment payments and any improvements thereon, unless the buyer can demonstrate to the Court's satisfaction that to return the land with the improvement along with keeping monies paid would result in the seller's unjust enrichment. The Tribal Court must have a hearing to determine if the buyer is entitled to any compensation. The Tribal Court must state its findings in a written order.</text>
+          </para>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text><u>Bill of Sale</u>. A Bill of Sale is a record of a purchase transaction between individuals for the exchange of their right to use and occupy a particular parcel of land and may stand as a deed conveying the right to use and occupy the property under tribal law. The following shall be considered in assessing a Bill of Sale:</text>
+          <para>
+            <num>(A)</num>
+            <text>As of the effective date of <cite path="|12.01">this chapter</cite>, the Bill of Sale must be signed, witnessed or notarized and then recorded with the Tribal Clerk in order to be a valid transfer of the right to use and occupy property.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>In the past, Bills of Sale were not always recorded with the Tribal Clerk. In the event the Bill of Sale was not recorded, the Bill of Sale will be considered a binding document evincing an intent to transfer the right to use and occupy a property in the same manner as a deed, unless there is evidence expressly contrary to that intent.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>In the instance that there are two Bills of Sale for one particular property, the Bill of Sale dated first will supersede any and all other Bills of Sale unless it can be shown to be invalid. A Bill of Sale may only be deemed invalid by the Tribal Court if there is evidence of fraud, deceit, coercion or duress in the transfer made in the Bill of Sale or in the signing of the document. The party challenging the Bill of Sale has the burden of proof to show with clear and convincing evidence that a document is invalid.</text>
+          </para>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text><u>Survey of Tribal Lands</u>.</text>
+          <para>
+            <num>(A)</num>
+            <text>For those transfers of property where a survey is required, the parties may either provide the survey themselves, subject to the approval of the Tribal Clerk, or the Tribal Clerk may provide assistance in obtaining a survey. The Tribal Clerk shall set a fee schedule for the cost of a survey, to be approved by the Tribal Council. For those Tribal Members who cannot afford a survey, they can submit a request to Tribal Clerk or his/her designee for a fee waiver, subject to availability of resources. The Tribal Clerk shall determine, based upon established guidelines, who shall be eligible for such a waiver.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Property transferred on the Reservation must be properly described with boundaries that are clearly delineated, measurable and not in dispute. As of the effective date of <cite path="|12.01">this chapter</cite>, a survey by a licensed surveyor is required for all parcels of land transferred on the Reservation unless:</text>
+            <para>
+              <num>(i)</num>
+              <text>there is an existing survey of the subject parcel that is less than ten (10) years old; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the parties and any affected adjacent landowners enter into a boundary line agreement that provides an accurate description of the property being transferred, and the parties agree in writing that a survey is not necessary and they agree to be bound to the property description; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>the transfer is a family transfer and does not change the existing boundaries of the property, unless the Tribal Clerk deems it necessary. If the Tribal Clerk deems a survey necessary none shall be required if the affected adjacent landowners enter into a boundary line agreement.</text>
+            </para>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Surveys for disputed land parcels:</text>
+            <para>
+              <num>(i)</num>
+              <text>If a parcel is not surveyed prior to a transfer and a dispute arises as to boundaries described within the transferring document, the parties to the transaction or adjacent landowners agree to be bound by an impartial survey by a third party, unless the transferring document is so ambiguous that the surveyor cannot complete the survey. In that instance, the Tribal Court shall be empowered to decide how the boundaries shall be surveyed, based on evidence presented in a Tribal Court proceeding.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>In resolving boundary disputes, the Tribal Court may not rely on GIS or other data to determine property boundaries. The parties shall provide the Court with surveys performed by licensed surveyors to support any claims regarding boundary lines provided that, in the case of ambiguity in a deed and relying on common law principles in drawing property boundaries, the Court may issue instructions to resolve an ambiguity so that a proper survey may be performed. If neither party presents a survey to the Court in a boundary dispute or in a case involving property lines, the Court may order a survey and assess the cost to the party or parties in its discretion.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2021-12-29" doc="Saint Regis Mohawk Tribe Res. No. 2021-69" eff="2021-12-29" path="attachments|law|IV." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>12.01.050</num>
+      <heading>Land Dispute Claim Procedures</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Tribal Court Jurisdiction.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Saint Regis Mohawk Tribal Court shall have jurisdiction over land disputes. The Tribal Court shall have the authority to award monetary damages and equitable relief, provided however, that the Tribal Council retains the sole authority to issue, revise, or rescind a Use and Occupancy Deed. The Tribal Council is bound by any Tribal Court Order regarding land disputes, and failure to obey such orders shall subject the Tribe, but not the individual Council Members acting in their official capacity, to equitable or injunctive relief, as necessary to enforce the Order.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Tribal Court shall have jurisdiction over any land dispute that is commenced within six years of accrual of the injury or the date the party knew or should have known of the injury that serves as the basis of the claim. The Tribal Court has the discretion to waive the statute of limitations for good cause, such as where the party could not have known or was prevented from knowing of his or her injury.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Capacity to File a Dispute.</heading>
+        <text>A land dispute may be filed by:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any enrolled Tribal Member;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A non-member on behalf of his or her minor, mentally or physically handicapped and dependent child(ren) or family member, as long as the child(ren) or family member is/are Tribally-enrolled; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A non-member spouse who may seek a life estate after the death of his or her Member spouse.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Information Required.</heading>
+        <text>A Land Dispute Complaint shall contain the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>A Statement of the nature of the dispute, e.g. boundary line, title, ownership;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Names of all other Interested Parties, including Claimant and Respondent and their connection to the dispute and the reason for each party's interest; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Copies of any relevant documents which may be required to address the dispute and which will inform the Court and the parties about the facts, including, but not limited to, Wills, Deeds, Use and Occupancy Deeds, Tribal Council Decisions, Surveys, Bills of Sale or any other relevant correspondence, or receipts.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Public Notice.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Within ten (10) days following the filing of the Claim, the Tribal Court Clerk shall publish a Notice which shall start the thirty-day (30) Public Notice Period. The Notice shall state:</text>
+          <text class="center">
+            <strong>PUBLIC NOTICE OF LAND DISPUTE</strong>
+          </text>
+          <text>
+            <strong>Any Person having any interest whatsoever or information pertaining to this matter shall have thirty (30) business days from the date of publication of this Notice to file opposing or related claims or to provide relevant information to the Court. Information and related claims should be filed no later than _________________, 20 _______.</strong>
+          </text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Notice shall also contain the following information:</text>
+          <para>
+            <num>(A)</num>
+            <text>Name and address of the Claimant;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Name and address of Respondent;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Address or other information regarding the location of the property in dispute;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Claim file number;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>A brief description of the nature of the dispute.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Notice shall appear in at least one weekly Akwesasne community newspaper and on the Official Tribal Website at www.srmt-nsn.gov. The Public Notice shall be published for two consecutive weeks and shall also be displayed at the Tribal Community Building. The cost of the notice shall be born by the Claimant as provided for in the Court fee schedule.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Confidentiality.</heading>
+        <text>Any material provided to the Court during this process also will be provided to all Interested Parties. However, any documentation that could be considered private or confidential, including but not limited to social security number, date of birth or other information used as identity, shall be segregated from the case file and may be viewed only by the Court, the Claimant, and the Respondent unless a release is signed by the affected party.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Applicable Laws and Rules.</heading>
+        <text>All Tribal Laws, including those pertaining to procedures before the Saint Regis Mohawk Tribal Court shall govern the land dispute claims filed in Tribal Court. If there is an apparent conflict of Laws, the Tribal Court shall seek to read the Laws in a way that they will work together. But, to the extent there is a conflict, <cite path="|12.01">this chapter</cite> shall take precedence in relation to land and land disputes.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Review of Prior Tribal Council Land Dispute Decisions.</heading>
+        <para>
+          <num>(1)</num>
+          <text>As a matter of equity, the statute of limitations will be waived and the Tribal Court shall have the authority to review any land dispute decisions made by Tribal Council between December 1, 1998 and December 3, 2009 (the original Effective Date of the prior Land Dispute Ordinance). Such review shall be de novo. This authority shall expire on June 30, 2018.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>As of December 3, 2009, the Tribal Council no longer had authority to resolve land disputes. If, between December 4, 2009, and the date of the adoption of <cite path="|12.01">this chapter</cite>, the Tribal Council took action on a land dispute despite this bar, the party seeking to file a claim regarding such action must first establish that Tribal Council actually resolved a land dispute as defined herein before a claim may be brought. The Tribal Court shall have the discretion to waive the statute of limitations regarding a land dispute in such case, but in no instance, may the Tribal Council or Tribe be named as a party except as permitted under <cite path="|12.01">this chapter</cite>. Tribal Court shall not entertain cases where the Tribal Council simply executed a Use and Occupancy Deed.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>
+          <strong>Review of Prior Land Tribunal Cases</strong>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>All cases filed with but <strong><u>not finally resolved</u></strong> by the Land Dispute Tribunal under the prior Ordinance shall be transferred to the Tribal Court to be heard under <cite path="|12.01">this chapter</cite>. No additional filing fee shall be required. The Court shall provide written notice to each party in each pending matter.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>All cases that were previously filed under the prior Ordinance with the Land Dispute Tribunal that resulted in final decisions from the Land Dispute Tribunal or for which appeals have been exhausted may not be filed in, nor reheard by, the Tribal Court.</text>
+        </para>
+      </para>
+      <para>
+        <num>(i)</num>
+        <heading>Appeals.</heading>
+        <text>All final decisions of the Tribal Court regarding land or land disputes shall be appealable to the Saint Regis Mohawk Tribe Appellate Court.</text>
+      </para>
+      <annotations>
+        <annotation app="2021-12-29" doc="Saint Regis Mohawk Tribe Res. No. 2021-69" eff="2021-12-29" path="attachments|law|V." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>12.01.060</num>
+      <heading>Sovereign Immunity Not Waived</heading>
+      <text>The Tribal Council agrees to a limited waiver of its immunity solely for the Tribal Court to review any decisions the Tribal Council rendered on land disputes as defined in <cite path="|12.01.030|(f)">Section 12.01.030(f)</cite>, to hear any claim in which the Tribe claims title or an ownership interest in property which is in dispute, or to hear a claim regarding the correction of a deed. The waiver shall apply to equitable remedies only. Otherwise, nothing in <cite path="|12.01">this chapter</cite> is intended nor shall be construed as any other waiver of the sovereign immunity of the Saint Regis Mohawk Tribe from suit in State, Federal or Tribal Court against the Saint Regis Mohawk Tribe, any Tribal entity, or any official acting in his or her official capacity.</text>
+      <annotations>
+        <annotation app="2021-12-29" doc="Saint Regis Mohawk Tribe Res. No. 2021-69" eff="2021-12-29" path="attachments|law|VI." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>12.01.070</num>
+      <heading>Amendment</heading>
+      <text><cite path="|12.01">This chapter</cite> may be amended upon the approval of such amendments by the majority of Tribal Council and upon notice to the Tribal membership.</text>
+      <annotations>
+        <annotation app="2021-12-29" doc="Saint Regis Mohawk Tribe Res. No. 2021-69" eff="2021-12-29" path="attachments|law|VII." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>12.01.080</num>
+      <heading>Repealer</heading>
+      <text><cite path="|12.01">This chapter</cite> shall supersede and replace all prior Ordinances, or portions thereof, adopted by the Saint Regis Mohawk Tribe, as they pertain to the matters contained herein.</text>
+      <annotations>
+        <annotation app="2021-12-29" doc="Saint Regis Mohawk Tribe Res. No. 2021-69" eff="2021-12-29" path="attachments|law|VIII." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>12.01.090</num>
+      <heading>Severability</heading>
+      <text>The provisions of <cite path="|12.01">this chapter</cite> are severable and if any part or provision shall be held void by any Court of competent jurisdiction, the decision of the Court so holding shall not affect or impair any of the remaining parts or provisions of <cite path="|12.01">this chapter</cite>.</text>
+      <annotations>
+        <annotation app="2021-12-29" doc="Saint Regis Mohawk Tribe Res. No. 2021-69" eff="2021-12-29" path="attachments|law|IX." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>12.01.100</num>
+      <heading>Effective Date</heading>
+      <text>This Amended Ordinance shall become effective upon enactment.</text>
+      <annotations>
+        <annotation app="2021-12-29" doc="Saint Regis Mohawk Tribe Res. No. 2021-69" eff="2021-12-29" path="attachments|law|X." type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>12.02</num>
+    <heading>Probate Law</heading>
     <container>
       <prefix>Subchapter</prefix>
       <num path-omit="true">1</num>
       <heading>General</heading>
-    </container>
-  </codify:insert>
-  <codify:insert path="12.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2">
-    <container>
-      <prefix>Subchapter</prefix>
-      <num path-omit="true">2</num>
-      <heading>Action Upon Death</heading>
-    </container>
-  </codify:insert>
-  <codify:insert path="12.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3">
-    <container>
-      <prefix>Subchapter</prefix>
-      <num path-omit="true">3</num>
-      <heading>Distribution of an Estate without a Will (Intestate)</heading>
-    </container>
-  </codify:insert>
-  <codify:insert path="12.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4">
-    <container>
-      <prefix>Subchapter</prefix>
-      <num path-omit="true">4</num>
-      <heading>Distribution of Estates Subject to a Will (Testate)</heading>
-    </container>
-  </codify:insert>
-  <codify:insert path="12.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5">
-    <container>
-      <prefix>Subchapter</prefix>
-      <num path-omit="true">5</num>
-      <heading>Status of Non-Member or Non-Indian</heading>
-    </container>
-  </codify:insert>
-  <codify:insert path="12.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|6">
-    <container>
-      <prefix>Subchapter</prefix>
-      <num path-omit="true">6</num>
-      <heading>Miscellaneous</heading>
-    </container>
-  </codify:insert>
-  <attachment id="law">
-    <codified:at path="12.02"/>
-    <heading>Saint Regis Mohawk Tribe Probate Law</heading>
-    <container>
-      <prefix>CHAPTER</prefix>
-      <num>1</num>
-      <heading>GENERAL</heading>
+      <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
       <section>
-        <codify:insert path="1" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.010"/>
-        <num codify:value="12.02.010">1.1</num>
+        <num>12.02.010</num>
         <heading>Purpose</heading>
-        <text>The purpose of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this law</code-cite> is (1) to provide a fair and equitable orderly distribution of estates; (2) clarify tribal law concerning estates; (3) promote a speedy and efficient system for administering estates; and (4) empower the application of Tribal Law including sovereignty, culture, customs and values of the Tribe. <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">This Probate Law</code-cite> shall be liberally construed and applied.</text>
+        <text>The purpose of <cite path="|12.02">this chapter</cite> is (1) to provide a fair and equitable orderly distribution of estates; (2) clarify tribal law concerning estates; (3) promote a speedy and efficient system for administering estates; and (4) empower the application of Tribal Law including sovereignty, culture, customs and values of the Tribe. <cite path="|12.02">This chapter</cite> shall be liberally construed and applied.</text>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|1|1.1" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="1" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.020"/>
-        <num codify:value="12.02.020">1.2</num>
+        <num>12.02.020</num>
         <heading>Definitions</heading>
         <para>
           <num>(a)</num>
@@ -149,7 +535,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>"Beneficiary" means any person entitled to take or share in the deceased's estate as provided for under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this law</code-cite>. A "beneficiary by law" also known as an "heir" or "distributee" is one who is entitled to share in an estate because of a legal relationship with the deceased and usually when there is no Will. A "beneficiary by will" is one who may not necessarily have a legal relationship to the deceased but who is entitled to share in an estate because of the terms of a Will.</text>
+          <text>"Beneficiary" means any person entitled to take or share in the deceased's estate as provided for under <cite path="|12.02">this chapter</cite>. A "beneficiary by law" also known as an "heir" or "distributee" is one who is entitled to share in an estate because of a legal relationship with the deceased and usually when there is no Will. A "beneficiary by will" is one who may not necessarily have a legal relationship to the deceased but who is entitled to share in an estate because of the terms of a Will.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -161,7 +547,7 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>"Heir" means a person recognized as being entitled to share in an estate based on a relationship to the deceased, also known as a "beneficiary by law" in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this Law</code-cite>.</text>
+          <text>"Heir" means a person recognized as being entitled to share in an estate based on a relationship to the deceased, also known as a "beneficiary by law" in <cite path="|12.02">this chapter</cite>.</text>
         </para>
         <para>
           <num>(g)</num>
@@ -169,7 +555,7 @@
         </para>
         <para>
           <num>(h)</num>
-          <text>"Real property" means all interests in land or in buildings or improvements permanently attached to land. Reservation land which is held by a tribal member through a use and occupancy deed issued by the Tribe or other written instrument is a "possessory interest" in real property, which means the person has a right to possess the land under tribal law. A possessory interest is real property under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this law</code-cite>.</text>
+          <text>"Real property" means all interests in land or in buildings or improvements permanently attached to land. Reservation land which is held by a tribal member through a use and occupancy deed issued by the Tribe or other written instrument is a "possessory interest" in real property, which means the person has a right to possess the land under tribal law. A possessory interest is real property under <cite path="|12.02">this chapter</cite>.</text>
         </para>
         <para>
           <num>(i)</num>
@@ -195,10 +581,13 @@
           <num>(n)</num>
           <text>"Willmaker" is a person who makes a Will.</text>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|1|1.2" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="1" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.030"/>
-        <num codify:value="12.02.030">1.3</num>
+        <num>12.02.030</num>
         <heading>Jurisdiction</heading>
         <para>
           <num>(a)</num>
@@ -239,7 +628,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>carry out the requirements of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this Law</code-cite>; and</text>
+            <text>carry out the requirements of <cite path="|12.02">this chapter</cite>; and</text>
           </para>
           <para>
             <num>(5)</num>
@@ -252,16 +641,19 @@
         </para>
         <para>
           <num>(f)</num>
-          <text><u>Distribution of Culturally Significant Items.</u> Notwithstanding the provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this Probate Law</code-cite> relating to descent and distribution, the surviving spouse or other surviving next of kin may distribute any item of cultural or religious significance belonging to the deceased in accordance with the customs and traditions of the Saint Regis Mohawk Tribe without having to wait for the resolution of an estate in Tribal Court, provided however, that if a Will or instructions were left by the deceased, such distribution shall be in accordance with those instructions. The Tribal Court may exercise jurisdiction over claims that those directions were not followed.</text>
+          <text><u>Distribution of Culturally Significant Items.</u> Notwithstanding the provisions of <cite path="|12.02">this chapter</cite> relating to descent and distribution, the surviving spouse or other surviving next of kin may distribute any item of cultural or religious significance belonging to the deceased in accordance with the customs and traditions of the Saint Regis Mohawk Tribe without having to wait for the resolution of an estate in Tribal Court, provided however, that if a Will or instructions were left by the deceased, such distribution shall be in accordance with those instructions. The Tribal Court may exercise jurisdiction over claims that those directions were not followed.</text>
         </para>
         <para>
           <num>(g)</num>
           <text><u>Nation Practices.</u> The Tribal Court acknowledges that the traditional Longhouses use their own process to distribute the property of deceased members. The Tribal Court may recognize evidence of a distribution from a 10 Day Feast and may hear from traditional Longhouse members regarding the 10 Day Feast.</text>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|1|1.3" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="1" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.040"/>
-        <num codify:value="12.02.040">1.4</num>
+        <num>12.02.040</num>
         <heading>Records and Certified Copies</heading>
         <para>
           <num>(a)</num>
@@ -271,10 +663,13 @@
           <num>(b)</num>
           <text><u>Estate Files.</u> Once an estate is closed, the Tribal Court shall retain all records related to the deceased's estate and facilitate access to these records upon request. If copies are requested, the Tribal Court may set a fee for the copying and certification of such records.</text>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|1|1.4" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="1" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.050"/>
-        <num codify:value="12.02.050">1.5</num>
+        <num>12.02.050</num>
         <heading>False Statements and Fraud</heading>
         <para>
           <num>(a)</num>
@@ -282,51 +677,61 @@
         </para>
         <para>
           <num>(b)</num>
-          <text><u>Fraudulent Conduct.</u> If a person engages in fraudulent conduct during a probate proceeding, anyone harmed by that conduct may bring an action for damages or other remedies against the person carrying out the fraud and against anyone who has benefitted from the fraud whether innocent or not. A claim for fraud will be barred unless commenced within five years after the discovery of the fraud. <code-cite path="§1.5" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">This section</code-cite> does not apply to any fraud that may have been committed against a deceased during his/her lifetime and which may affect the distribution of the estate.</text>
+          <text><u>Fraudulent Conduct.</u> If a person engages in fraudulent conduct during a probate proceeding, anyone harmed by that conduct may bring an action for damages or other remedies against the person carrying out the fraud and against anyone who has benefitted from the fraud whether innocent or not. A claim for fraud will be barred unless commenced within five years after the discovery of the fraud. <cite path="|12.02.050">This section</cite> does not apply to any fraud that may have been committed against a deceased during his/her lifetime and which may affect the distribution of the estate.</text>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|1|1.5" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="1" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.060"/>
-        <num codify:value="12.02.060">1.6</num>
+        <num>12.02.060</num>
         <heading>Fiduciary Duty</heading>
         <para>
           <num>(a)</num>
-          <text><u>Duty Defined</u>. Any person appointed as Administrator or Executor has a fiduciary duty to uphold <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this law</code-cite> and follow the orders of the Tribal Court. As a fiduciary, the Administrator or Executor shall act honestly and in good faith, expeditiously and efficiently, and consistent with the best interests of the estate. It is assumed that all persons are capable of carrying out their fiduciary duties unless such person has been convicted of a Serious Crime. "Serious Crime" shall have the same meaning as the term is defined in the Tribal Ethics Ordinance.</text>
+          <text><u>Duty Defined</u>. Any person appointed as Administrator or Executor has a fiduciary duty to uphold <cite path="|12.02">this chapter</cite> and follow the orders of the Tribal Court. As a fiduciary, the Administrator or Executor shall act honestly and in good faith, expeditiously and efficiently, and consistent with the best interests of the estate. It is assumed that all persons are capable of carrying out their fiduciary duties unless such person has been convicted of a Serious Crime. "Serious Crime" shall have the same meaning as the term is defined in the Tribal Ethics Ordinance.</text>
         </para>
         <para>
           <num>(b)</num>
           <text><u>Liability</u>. If the Administrator or Executor has improperly exercised his/her power concerning the estate or failed to carry out his/her fiduciary duty, the Administrator or Executor may be held liable for breach of trust. The Administrator or Executor cannot be held liable if the conduct at issue was authorized or if he/she followed the orders of the Tribal Court, even if those orders are later reversed.</text>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|1|1.6" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="1" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.070"/>
-        <num codify:value="12.02.070">1.7</num>
+        <num>12.02.070</num>
         <heading>Service</heading>
-        <text>If no method of service is provided within <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this Law</code-cite> then the Tribal Court Rules of Civil Procedure regarding service of pleadings shall apply.</text>
+        <text>If no method of service is provided within <cite path="|12.02">this chapter</cite> then the Tribal Court Rules of Civil Procedure regarding service of pleadings shall apply.</text>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|1|1.7" type="History"/>
+        </annotations>
       </section>
     </container>
     <container>
-      <prefix>CHAPTER</prefix>
-      <num>2</num>
-      <heading>ACTION UPON DEATH</heading>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">2</num>
+      <heading>Action Upon Death</heading>
+      <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
       <section>
-        <codify:insert path="2" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.080"/>
-        <num codify:value="12.02.080">2.1</num>
+        <num>12.02.080</num>
         <heading>General Guidelines for Estate Distribution and Small Estates</heading>
         <para>
           <num>(a)</num>
-          <text><u>Persons without a Will.</u> The procedure in <span codify:value="Subchapter">Chapter</span> 3 will apply for distribution of an estate without a Will.</text>
+          <text><u>Persons without a Will.</u> The procedure in Subchapter 3 will apply for distribution of an estate without a Will.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text><u>Persons with a Will</u>. The procedure in <span codify:value="Subchapter">Chapter</span> 4 will apply for distribution of an estate with a Will.</text>
+          <text><u>Persons with a Will</u>. The procedure in Subchapter 4 will apply for distribution of an estate with a Will.</text>
         </para>
         <para>
           <num>(c)</num>
           <text><u>Small Estates</u>.</text>
           <para>
             <num>(1)</num>
-            <text>Basis for Using Small Estate Process. If a person dies and leaves an estate whose value is less than $20,000.00 and which does not include any interests in real property, the estate may be settled with minimal Tribal Court involvement so long as all of the heirs and beneficiaries agree to small estate administration and have signed a written waiver of their right to contest the estate. This may also include probate of personal property that is discovered from an estate that was informally probated prior to the enactment of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this Law</code-cite>.</text>
+            <text>Basis for Using Small Estate Process. If a person dies and leaves an estate whose value is less than $20,000.00 and which does not include any interests in real property, the estate may be settled with minimal Tribal Court involvement so long as all of the heirs and beneficiaries agree to small estate administration and have signed a written waiver of their right to contest the estate. This may also include probate of personal property that is discovered from an estate that was informally probated prior to the enactment of <cite path="|12.02">this chapter</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -379,7 +784,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text><u>Limited Administration.</u> If a person dies and his/her heirs and/or beneficiaries need certain limited relief that cannot await full probate of the estate the Tribal Court may allow heirs, beneficiaries, creditors, the Tribe, or other interested party to obtain a special appointment with notice to heirs to address that limited purpose. Tribal Court shall develop a petition for such purpose, determine each case for a limited appointment in its discretion and shall set limits in its order of appointment. The order of appointment shall be recorded in the Tribal Clerk's office in the same manner as outlined in <code-cite path="§3.5|(b)" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">Section 3.5(b)</code-cite>. If there is a subsequent estate that is probated, the limited administration and whatever action was taken shall be included in the decedent's inventory of assets. The Tribal Court's decision regarding a limited appointment is not considered a final decision for purposes of an appeal.</text>
+          <text><u>Limited Administration.</u> If a person dies and his/her heirs and/or beneficiaries need certain limited relief that cannot await full probate of the estate the Tribal Court may allow heirs, beneficiaries, creditors, the Tribe, or other interested party to obtain a special appointment with notice to heirs to address that limited purpose. Tribal Court shall develop a petition for such purpose, determine each case for a limited appointment in its discretion and shall set limits in its order of appointment. The order of appointment shall be recorded in the Tribal Clerk's office in the same manner as outlined in <cite path="|12.02.140|(b)">Section 12.02.140(b)</cite>. If there is a subsequent estate that is probated, the limited administration and whatever action was taken shall be included in the decedent's inventory of assets. The Tribal Court's decision regarding a limited appointment is not considered a final decision for purposes of an appeal.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -402,7 +807,7 @@
           </text>
           <para>
             <num>(1)</num>
-            <text>Heir. A surviving spouse, heir or beneficiary who is found to have criminally and intentionally killed the deceased is not entitled to any benefits passing under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this law</code-cite> and the estate of the deceased shall pass as if the killer had predeceased the deceased.</text>
+            <text>Heir. A surviving spouse, heir or beneficiary who is found to have criminally and intentionally killed the deceased is not entitled to any benefits passing under <cite path="|12.02">this chapter</cite> and the estate of the deceased shall pass as if the killer had predeceased the deceased.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -426,10 +831,13 @@
           <text><u>Simultaneous Death</u>.</text>
           <text>In some cases, title to property or the transfer of property depends upon an individual surviving the death of another person. An individual shall be deemed to have survived the other person if it is established by clear and convincing evidence that the individual survived the other person by 120 hours. If it cannot be established by clear and convincing evidence that the individual survived the deceased by 120 hours, then that individual is deemed to have been predeceased.</text>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|2|2.1" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="2" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.090"/>
-        <num codify:value="12.02.090">2.2</num>
+        <num>12.02.090</num>
         <heading>Evidence as to Death</heading>
         <text>In order to distribute an estate, the death of the estate owner must be proved as part of any proceeding. The Tribal Court may accept the following evidence to confirm proof of death:</text>
         <para>
@@ -448,15 +856,19 @@
           <num>(d)</num>
           <text><u>Absence</u>. A person who is absent for a continuous period of five (5) years, during which he/she has not been heard from, and whose absence is not satisfactorily explained after diligent search or inquiry is presumed to be dead. His/her death is presumed to have occurred at the end of the period unless there is sufficient evidence for determining that death occurred earlier.</text>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|2|2.2" type="History"/>
+        </annotations>
       </section>
     </container>
     <container>
-      <prefix>CHAPTER</prefix>
-      <num>3</num>
-      <heading>DISTRIBUTION OF AN ESTATE WITHOUT A WILL (INTESTATE)</heading>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">3</num>
+      <heading>Distribution of an Estate without a Will (Intestate)</heading>
+      <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
       <section>
-        <codify:insert path="3" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.100"/>
-        <num codify:value="12.02.100">3.1</num>
+        <num>12.02.100</num>
         <heading>Petition for Court Action</heading>
         <para>
           <num>(a)</num>
@@ -467,7 +879,7 @@
           <text><u>Petition Requirements</u>. The petition shall meet the following requirements:</text>
           <para>
             <num>(1)</num>
-            <text>Contents. The petition will be in writing, signed by the petitioner, and include a death certificate or some other proof of death as set forth in <code-cite path="§2.2" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">Section 2.2</code-cite>.</text>
+            <text>Contents. The petition will be in writing, signed by the petitioner, and include a death certificate or some other proof of death as set forth in <cite path="|12.02.090">Section 12.02.090</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -490,10 +902,13 @@
             <text>Identification of Heirs. The petition must state the names of the heirs of the deceased, if known, and include a Family Tree as certified by the Tribal Clerk.</text>
           </para>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|3|3.1" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="3" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.110"/>
-        <num codify:value="12.02.110">3.2</num>
+        <num>12.02.110</num>
         <heading>Estate Distribution Principles for an Estate Without a Will</heading>
         <para>
           <num>(a)</num>
@@ -504,7 +919,7 @@
           <text><u>Order of Inheritance</u>. When a Tribal Member dies without leaving a Will, the following order of inheritance shall apply:</text>
           <para>
             <num>(1)</num>
-            <text>Surviving Spouse. A surviving Tribal Member spouse shall inherit the real property interest in Reservation land and all other property owned by the deceased spouse. A non- member spouse may only inherit a life estate in real property as provided for in <code-cite path="§5.1" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">Section 5.1</code-cite> below but may inherit all of a deceased Member's personal property. A person who is divorced from the deceased or whose marriage to the deceased has been officially annulled is not considered a surviving spouse unless, by virtue of a subsequent marriage, he/she is married to the deceased at the time of death. A decree of separation, which does not terminate the status of husband and wife, is not a divorce for purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this Probate Law</code-cite>.</text>
+            <text>Surviving Spouse. A surviving Tribal Member spouse shall inherit the real property interest in Reservation land and all other property owned by the deceased spouse. A non- member spouse may only inherit a life estate in real property as provided for in <cite path="|12.02.240">Section 12.02.240</cite> below but may inherit all of a deceased Member's personal property. A person who is divorced from the deceased or whose marriage to the deceased has been officially annulled is not considered a surviving spouse unless, by virtue of a subsequent marriage, he/she is married to the deceased at the time of death. A decree of separation, which does not terminate the status of husband and wife, is not a divorce for purposes of <cite path="|12.02">this chapter</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -547,10 +962,13 @@
           <num>(c)</num>
           <text><u>Agreement on Plan for Distribution</u>. If all of the heirs agree in writing on a plan for distribution different than set out in this Ordinance, the plan may be presented to the Tribal Court for approval and the Court shall exercises its discretion in whether to approve the plan based on fairness and equity. If the heirs have not agreed to a plan, the Tribal court shall apply the rules under tribal law for ownership and distribution to the heirs. If Tribal Members and non-members are to share in an estate that includes Tribal Land, because the Tribal Land cannot be distributed to the non-member, the Tribal Court shall determine the extent to which the value of a Tribal Member's share of land should be counted towards the overall distribution of the estate. Tribal Court shall make such a determination in writing.</text>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|3|3.2" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="3" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.120"/>
-        <num codify:value="12.02.120">3.3</num>
+        <num>12.02.120</num>
         <heading>Determination of Relationship of Parent and Child</heading>
         <text>When necessary in the case of a person dying without a Will the relationship of parent and child shall be governed by the following principles:</text>
         <para>
@@ -599,10 +1017,13 @@
           <num>(d)</num>
           <text>Other Children. Stepchildren and foster children and their descendants do not inherit unless adopted as recognized by Tribal Court or any other court of competent jurisdiction.</text>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|3|3.3" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="3" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.130"/>
-        <num codify:value="12.02.130">3.4</num>
+        <num>12.02.130</num>
         <heading>Appointment of Administrator</heading>
         <para>
           <num>(a)</num>
@@ -618,7 +1039,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text><u>Executor Acting as Administrator</u>. When a Will does not dispose of all the deceased's property, that omitted property shall pass according to the provisions of this <span codify:value="subchapter">chapter</span> and the Executor appointed in the Will may act as the Administrator to distribute the property with the rest of the estate.</text>
+          <text><u>Executor Acting as Administrator</u>. When a Will does not dispose of all the deceased's property, that omitted property shall pass according to the provisions of this subchapter and the Executor appointed in the Will may act as the Administrator to distribute the property with the rest of the estate.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -632,10 +1053,13 @@
           <num>(g)</num>
           <text><u>Oath</u>. Upon appointment as Administrator, the person appointed shall take an oath prepared by the Tribal Court, to faithfully and honestly administer the estate. The oath may be taken in person at the Tribal Court or may be done in writing on a form prepared by the Tribal Court and which shall require that the Administrator's signature be notarized.</text>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|3|3.4" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="3" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.140"/>
-        <num codify:value="12.02.140">3.5</num>
+        <num>12.02.140</num>
         <heading>Order of Appointment as Administrator</heading>
         <para>
           <num>(a)</num>
@@ -645,10 +1069,13 @@
           <num>(b)</num>
           <text><u>Record of Order</u>. The Tribal Clerk shall record the Order of Appointment as Administrator in the Tribal Recording Book, including a copy of the Order in the records. The Tribal Clerk shall note the Tribal Recording book number and page number on a copy of the Order and return it to the Administrator for his/her records.</text>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|3|3.5" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="3" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.150"/>
-        <num codify:value="12.02.150">3.6</num>
+        <num>12.02.150</num>
         <heading>Administrator Duties and Procedures</heading>
         <para>
           <num>(a)</num>
@@ -711,7 +1138,7 @@
           <para>
             <num>(5)</num>
             <text>Timing</text>
-            <text>In sum, the time frame for Administrators as set forth in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this law</code-cite> is as follows:</text>
+            <text>In sum, the time frame for Administrators as set forth in <cite path="|12.02">this chapter</cite> is as follows:</text>
             <para>
               <num>(A)</num>
               <text>Inventory.</text>
@@ -787,26 +1214,30 @@
             <text>Discovery of Property. If property is discovered after an estate has been closed, the estate may be reopened to dispose of the property. The Tribal Court shall order distribution of the property to the person or persons entitled thereto after issuing whatever orders are necessary to assure a just participation of the after-discovered property in the expenses of the estate.</text>
           </para>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|3|3.6" type="History"/>
+        </annotations>
       </section>
     </container>
     <container>
-      <prefix>CHAPTER</prefix>
-      <num>4</num>
-      <heading>DISTRIBUTION OF ESTATES SUBJECT TO A WILL (TESTATE)</heading>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">4</num>
+      <heading>Distribution of Estates Subject to a Will (Testate)</heading>
+      <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
       <section>
-        <codify:insert path="4" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.160"/>
-        <num codify:value="12.02.160">4.1</num>
+        <num>12.02.160</num>
         <heading>Requirements for a Valid Will</heading>
         <para>
           <num>(a)</num>
-          <text><u>Applicable Law</u>. A written Will may be declared valid if it was executed in compliance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this Probate Law</code-cite>; or the law in force at the place and time the Will was executed; or the law in force at the time of execution or at the time of death, at the place where the person making the Will was domiciled or had a place of abode.</text>
+          <text><u>Applicable Law</u>. A written Will may be declared valid if it was executed in compliance with <cite path="|12.02">this chapter</cite>; or the law in force at the place and time the Will was executed; or the law in force at the time of execution or at the time of death, at the place where the person making the Will was domiciled or had a place of abode.</text>
         </para>
         <para>
           <num>(b)</num>
           <text>
             <u>Qualification to Make a Will.</u>
           </text>
-          <text>Any person eighteen (18) or more years of age who is of sound mind may make a Will. To be effective, a Will must be declared valid by the process provided for in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this law</code-cite>.</text>
+          <text>Any person eighteen (18) or more years of age who is of sound mind may make a Will. To be effective, a Will must be declared valid by the process provided for in <cite path="|12.02">this chapter</cite>.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -879,10 +1310,13 @@
           </text>
           <text>Will provisions which bequeath real property to a non-member are void as to those provisions, and the subject real property shall pass in accordance with the intestate provisions of this Ordinance, but other personal property may pass as bequeathed.</text>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|4|4.1" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="4" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.170"/>
-        <num codify:value="12.02.170">4.2</num>
+        <num>12.02.170</num>
         <heading>Rules for Interpreting a Will</heading>
         <para>
           <num>(a)</num>
@@ -890,7 +1324,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text><u>Rules of Construction and Intention</u>. The intention of a person making a Will as expressed in his/her Will controls the distribution of the estate. The rules of construction set forth in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this Probate Law</code-cite> do not apply if they are contrary to the intention of the Will.</text>
+          <text><u>Rules of Construction and Intention</u>. The intention of a person making a Will as expressed in his/her Will controls the distribution of the estate. The rules of construction set forth in <cite path="|12.02">this chapter</cite> do not apply if they are contrary to the intention of the Will.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -934,7 +1368,7 @@
         </para>
         <para>
           <num>(f)</num>
-          <text><u>Children Left Out of a Will</u>. If a Willmaker mistakenly leaves a child out of his/her Will, or fails to provide for any children born or adopted after the Will is signed, the child who has been left out shall receive a share in the estate equal in value to that which he would have received had the person died without a Will. In satisfying a share provided for in this section, the other devises made by the Will shall be reduced according to the rules governing the distribution of an estate in <code-cite path="§4.8|(d)" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">Section 4.8(d)</code-cite>. A child who is excluded, however, shall not receive a share if it appears from the Will that the child was left out intentionally or the person making the Will expressed the intention to and did provide for the child outside of the Will. The burden of proof shall be by a preponderance of the evidence and it shall be on the excluded child seeking a share of the estate.</text>
+          <text><u>Children Left Out of a Will</u>. If a Willmaker mistakenly leaves a child out of his/her Will, or fails to provide for any children born or adopted after the Will is signed, the child who has been left out shall receive a share in the estate equal in value to that which he would have received had the person died without a Will. In satisfying a share provided for in this section, the other devises made by the Will shall be reduced according to the rules governing the distribution of an estate in <cite path="|12.02.230|(d)">Section 12.02.230(d)</cite>. A child who is excluded, however, shall not receive a share if it appears from the Will that the child was left out intentionally or the person making the Will expressed the intention to and did provide for the child outside of the Will. The burden of proof shall be by a preponderance of the evidence and it shall be on the excluded child seeking a share of the estate.</text>
         </para>
         <para>
           <num>(g)</num>
@@ -947,17 +1381,20 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>If a Will fails to provide for a surviving spouse who married the person making the Will after the Will was signed, the spouse shall receive the same share of the estate the spouse would have received if the deceased left no Will. In satisfying a share provided for in this section, the other devises made by the Will shall be reduced according to the rules governing the distribution of an estate in <code-cite path="§4.8|(d)" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">Section 4.8(d)</code-cite>.</text>
+            <text>If a Will fails to provide for a surviving spouse who married the person making the Will after the Will was signed, the spouse shall receive the same share of the estate the spouse would have received if the deceased left no Will. In satisfying a share provided for in this section, the other devises made by the Will shall be reduced according to the rules governing the distribution of an estate in <cite path="|12.02.230|(d)">Section 12.02.230(d)</cite>.</text>
           </para>
           <para>
             <num>(3)</num>
             <text>The burden of proof in either case shall be by a preponderance of the evidence and the burden shall be on the excluded spouse seeking a share in the estate.</text>
           </para>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|4|4.2" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="4" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.180"/>
-        <num codify:value="12.02.180">4.3</num>
+        <num>12.02.180</num>
         <heading>Rules Applicable to the Revocation of a Will</heading>
         <para>
           <num>(a)</num>
@@ -991,10 +1428,13 @@
             <text>Separation. A decree of separation, which does not terminate the status of husband and wife, is not a divorce for purposes of this section. No other change of marital circumstances revokes a Will.</text>
           </para>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|4|4.3" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="4" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.190"/>
-        <num codify:value="12.02.190">4.4</num>
+        <num>12.02.190</num>
         <heading>Initiating Process for Probate or Court Validation of a Will</heading>
         <para>
           <num>(a)</num>
@@ -1005,7 +1445,7 @@
           <text><u>Petition Requirements</u>. The petition shall meet the following requirements:</text>
           <para>
             <num>(1)</num>
-            <text>Contents. The petition will be in writing, be signed by the petitioner, and include a death certificate or some other proof of death as set forth in <code-cite path="§2.2" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">Section 2.2</code-cite> and the original Will.</text>
+            <text>Contents. The petition will be in writing, be signed by the petitioner, and include a death certificate or some other proof of death as set forth in <cite path="|12.02.090">Section 12.02.090</cite> and the original Will.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -1031,7 +1471,7 @@
           </text>
           <para>
             <num>(1)</num>
-            <text>Self-Proving. If a Will is self-proving as provided for in <code-cite path="§4.1|(e)" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">Section 4.1(e)</code-cite>, the person filing the petition need not file any separate evidence from the witnesses to the Will.</text>
+            <text>Self-Proving. If a Will is self-proving as provided for in <cite path="|12.02.160|(e)">Section 12.02.160(e)</cite>, the person filing the petition need not file any separate evidence from the witnesses to the Will.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -1042,10 +1482,13 @@
             <text>Other Proof. Every reasonable effort shall be made to obtain the testimony of the witnesses to the Will. If their testimony is not reasonably available, the petitioner must say so in the petition. The Tribal Court may allow proof of the Will by testimony or other evidence that the signature of the person making the Will is genuine.</text>
           </para>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|4|4.4" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="4" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.200"/>
-        <num codify:value="12.02.200">4.5</num>
+        <num>12.02.200</num>
         <heading>Proving or Contesting a Will</heading>
         <para>
           <num>(a)</num>
@@ -1063,18 +1506,21 @@
           <num>(d)</num>
           <text><u>Order</u>. Upon considering all relevant evidence concerning the Will, the Tribal Court shall enter an order which either affirms that the Will may be probated by the Court or rejects such Will and orders that the probate of the deceased's estate shall proceed as if the deceased had died without making a Will. An order affirming or rejecting a Will is a final order and may be appealed to Tribal Appellate Court before probate proceeds.</text>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|4|4.5" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="4" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.210"/>
-        <num codify:value="12.02.210">4.6</num>
+        <num>12.02.210</num>
         <heading>Executor of the Will</heading>
         <para>
           <num>(a)</num>
-          <text><u>When Executor is Named in Will</u>. If the Tribal Court concludes the Will is valid, the Executor named in the Will shall be appointed to administer the estate according to the terms of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this Probate Law</code-cite> and the deceased's Will.</text>
+          <text><u>When Executor is Named in Will</u>. If the Tribal Court concludes the Will is valid, the Executor named in the Will shall be appointed to administer the estate according to the terms of <cite path="|12.02">this chapter</cite> and the deceased's Will.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text><u>When No Executor is Named</u>. If there is no Executor named, an Executor shall be appointed based upon the same procedure used to appoint Administrator in <code-cite path="§3.4" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">Section 3.4</code-cite> above.</text>
+          <text><u>When No Executor is Named</u>. If there is no Executor named, an Executor shall be appointed based upon the same procedure used to appoint Administrator in <cite path="|12.02.130">Section 12.02.130</cite> above.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1084,10 +1530,13 @@
           <num>(d)</num>
           <text><u>Oath</u>. Upon his/her appointment, the person appointed Executor shall take an oath prepared by the Tribal Court to the effect that he/she will faithfully and honestly administer the estate. The oath may be taken in person at the Tribal Court or may be done in writing on a form prepared by the Tribal Court</text>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|4|4.6" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="4" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.220"/>
-        <num codify:value="12.02.220">4.7</num>
+        <num>12.02.220</num>
         <heading>Order of Appointment as Executor</heading>
         <para>
           <num>(a)</num>
@@ -1097,10 +1546,13 @@
           <num>(b)</num>
           <text><u>Record of Order</u>. The Tribal Clerk shall record the Order of Appointment as Executor in the Tribal Recording Book, including a copy of the Order in the records. The Tribal Clerk shall note the Tribal Recording book number and page number on a copy of the Order and return it to the Executor for his/her records.</text>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|4|4.7" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="4" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.230"/>
-        <num codify:value="12.02.230">4.8</num>
+        <num>12.02.230</num>
         <heading>Executor Duties and Procedures</heading>
         <para>
           <num>(a)</num>
@@ -1159,7 +1611,7 @@
           <para>
             <num>(5)</num>
             <text>Timing</text>
-            <text>In sum, the time frame for the Executor as set forth in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this law</code-cite> is as follows:</text>
+            <text>In sum, the time frame for the Executor as set forth in <cite path="|12.02">this chapter</cite> is as follows:</text>
             <para>
               <num>(A)</num>
               <text>Inventory.</text>
@@ -1245,15 +1697,19 @@
           <num>(g)</num>
           <text><u>Reopening an Estate</u>. If property is discovered after an estate has been closed, the estate may be reopened to dispose of the property. The Tribal Court shall order distribution of the property to the person or persons entitled thereto after issuing whatever orders are necessary to assure a just participation of the after-discovered property in the expenses of the estate.</text>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|4|4.8" type="History"/>
+        </annotations>
       </section>
     </container>
     <container>
-      <prefix>CHAPTER</prefix>
-      <num>5</num>
-      <heading>STATUS OF NON-MEMBER OR NON-INDIAN</heading>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">5</num>
+      <heading>Status of Non-Member or Non-Indian</heading>
+      <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
       <section>
-        <codify:insert path="5" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.240"/>
-        <num codify:value="12.02.240">5.1</num>
+        <num>12.02.240</num>
         <heading>Tribal Council Action</heading>
         <para>
           <num>(a)</num>
@@ -1275,73 +1731,71 @@
           <num>(e)</num>
           <text><u>Interest Granted</u>. By granting a life estate, the life estate beneficiary is entitled to the use and income from the deceased's interest in tribal property. Upon the death of the life estate beneficiary, the property shall transfer to the holder of the remainder of the estate interest or if, no other beneficiary exists, it shall revert to the Tribe.</text>
         </para>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|5|5.1" type="History"/>
+        </annotations>
       </section>
     </container>
     <container>
-      <prefix>CHAPTER</prefix>
-      <num>6</num>
-      <heading>MISCELLANEOUS</heading>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">6</num>
+      <heading>Miscellaneous</heading>
+      <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
       <section>
-        <codify:insert path="6" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.250"/>
-        <num codify:value="12.02.250">6.1</num>
+        <num>12.02.250</num>
         <heading>Applicable Laws</heading>
-        <text>Where the method of procedure is not outlined herein the Tribal Civil Procedures Act shall apply. If any provision herein conflicts with any other Tribal Law then <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this law</code-cite> shall govern unless its application would result in an unequitable decision.</text>
+        <text>Where the method of procedure is not outlined herein the Tribal Civil Procedures Act shall apply. If any provision herein conflicts with any other Tribal Law then <cite path="|12.02">this chapter</cite> shall govern unless its application would result in an unequitable decision.</text>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|6|6.1" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="6" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.260"/>
-        <num codify:value="12.02.260">6.2</num>
+        <num>12.02.260</num>
         <heading>Appeals</heading>
-        <text>All final decisions of the Tribal Court regarding <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this Law</code-cite> shall be appealable to the Saint Regis Mohawk Tribe Appellate Court. No interlocutory appeals of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this Law</code-cite> shall be permitted except for appeals concerning <code-cite path="§4.5|(c)" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">Section 4.5(c)</code-cite>.</text>
+        <text>All final decisions of the Tribal Court regarding <cite path="|12.02">this chapter</cite> shall be appealable to the Saint Regis Mohawk Tribe Appellate Court. No interlocutory appeals of <cite path="|12.02">this chapter</cite> shall be permitted except for appeals concerning <cite path="|12.02.200|(c)">Section 12.02.200(c)</cite>.</text>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|6|6.2" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="6" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.270"/>
-        <num codify:value="12.02.270">6.3</num>
+        <num>12.02.270</num>
         <heading>Amendments</heading>
-        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">This Law</code-cite> may be amended from time to time upon the approval of such amendments by the majority of Tribal Council.</text>
+        <text><cite path="|12.02">This chapter</cite> may be amended from time to time upon the approval of such amendments by the majority of Tribal Council.</text>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|6|6.3" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="6" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.280"/>
-        <num codify:value="12.02.280">6.4</num>
+        <num>12.02.280</num>
         <heading>Severability</heading>
-        <text>The provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this Law</code-cite> are severable and if any part or provision shall be held void by any Court of competent jurisdiction, the decision of the Court so holding shall not affect or impair any of the remaining parts or provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">this Law</code-cite>.</text>
+        <text>The provisions of <cite path="|12.02">this chapter</cite> are severable and if any part or provision shall be held void by any Court of competent jurisdiction, the decision of the Court so holding shall not affect or impair any of the remaining parts or provisions of <cite path="|12.02">this chapter</cite>.</text>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|6|6.4" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="6" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.290"/>
-        <num codify:value="12.02.290">6.5</num>
+        <num>12.02.290</num>
         <heading>Immunity Not Waived</heading>
         <text>The Tribal Council does not waive its immunity for any actions taken herein or other decisions it may have taken in the past regarding estates and/or assets contained in a decedent's estate.</text>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|6|6.5" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="6" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.02.300"/>
-        <num codify:value="12.02.300">6.6</num>
+        <num>12.02.300</num>
         <heading>Effective Date</heading>
-        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-47">This Probate Law</code-cite> shall become effective upon enactment.</text>
+        <text><cite path="|12.02">This chapter</cite> shall become effective upon enactment.</text>
+        <annotations>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="" type="History"/>
+          <annotation app="2021-09-09" doc="Saint Regis Mohawk Tribe Res. No. 2021-47" eff="2021-09-09" path="attachments|law|6|6.6" type="History"/>
+        </annotations>
       </section>
-      <text>2021 Amendments</text>
-      <para>
-        <num>1.</num>
-        <text>Added an Ancillary Probate/Administration section at 1.3(c).</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>Updated Section 2.1(d)--Limited Administration to allow the Tribe to file for limited administration.</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>Expanded who can inherit under Section 3.2(b)--Estate Distribution Principles for an Estate Without a Will to include nieces and nephews and aunts and uncles.</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>Updated Section 3.2(c)-Agreement on Plan for Distribution to allow Tribal Court when there is no agreed-upon plan for distribution to take into consideration the value of land in determining a plan when Tribal Members and non-Tribal Members are to share in an estate.</text>
-      </para>
-      <para>
-        <num>5.</num>
-        <text>Clarified who can be appointed as an Administrator under Section 3.4(c) to include a non Tribal Member so long as the person consents to the Tribal Court's jurisdiction.</text>
-      </para>
-      <para>
-        <num>6.</num>
-        <text>Updated Section 6.-Appeals to make clear that only final orders can be appealed except for interlocutory orders issued under Section 4.5(c).</text>
-      </para>
     </container>
-  </attachment>
-</document>
+  </container>
+</container>
