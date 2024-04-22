@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2023-05">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2023-05" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2023-05</num>
   <heading>To Amend the Adult Use Cannabis Ordinance (Allow Consumption Lounges)</heading>
   <meta>
@@ -88,47 +88,192 @@
       </table>
     </text>
   </procedural-data>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">1</num>
+      <heading>General Provisions</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">2</num>
+      <heading>Regulation by the Tribe</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">3</num>
+      <heading>AUC Business Licenses</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">4</num>
+      <heading>Licenses Applications</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">5</num>
+      <heading>AUC License Approval</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|6">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">6</num>
+      <heading>AUC License Fees</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">7</num>
+      <heading>Retail Sale Operations</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|8">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">8</num>
+      <heading>Consumption Lounge Operations</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">9</num>
+      <heading>Cultivation Operations</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|10">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">10</num>
+      <heading>Processing Operations</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">11</num>
+      <heading>Tracking</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">12</num>
+      <heading>Store/Facility Location</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|13">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">13</num>
+      <heading>Testing of Cannabis and Products</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|14">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">14</num>
+      <heading>Labeling and Packaging</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">15</num>
+      <heading>Advertising and Marketing</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">16</num>
+      <heading>Health and Safety Rules</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|17">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">17</num>
+      <heading>Security and Surveillance Rules</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|18">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">18</num>
+      <heading>Violations; Penalties</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|19">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">19</num>
+      <heading>Growing Plants for Personal Use</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="15.02" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|20">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">20</num>
+      <heading>Miscellaneous</heading>
+    </container>
+  </codify:insert>
   <attachment id="law">
+    <codified:at path="15.02"/>
     <heading>Saint Regis Mohawk Tribe Adult Use Cannabis Ordinance</heading>
     <container>
       <prefix>CHAPTER</prefix>
       <num>1</num>
       <heading>GENERAL PROVISIONS</heading>
       <section>
-        <num>1.01</num>
+        <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.010"/>
+        <num codify:value="15.02.010">1.01</num>
         <heading>Title</heading>
-        <text>This Ordinance shall be known as the "Saint Regis Mohawk Tribe Adult Use Cannabis Ordinance".</text>
+        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">This Ordinance</code-cite> shall be known as the "Saint Regis Mohawk Tribe Adult Use Cannabis Ordinance".</text>
       </section>
       <section>
-        <num>1.02</num>
+        <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.020"/>
+        <num codify:value="15.02.020">1.02</num>
         <heading>Purpose</heading>
         <para>
           <num>(a)</num>
-          <text>This Ordinance establishes rules and regulations governing commercial use and activity of "Adult Use Cannabis" (recreational or non-medical cannabis) (hereinafter "AUC" or "Cannabis") including, but not limited to, cultivation, processing and sale on tribal territory. No persons shall engage in any commercial AUC activities unless licensed under this Ordinance.</text>
+          <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">This Ordinance</code-cite> establishes rules and regulations governing commercial use and activity of "Adult Use Cannabis" (recreational or non-medical cannabis) (hereinafter "AUC" or "Cannabis") including, but not limited to, cultivation, processing and sale on tribal territory. No persons shall engage in any commercial AUC activities unless licensed under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>This Ordinance allows adult, tribal members to grow and possess a limited number of Cannabis plants for their own, non-commercial, personal use at their own residences on tribal territory.</text>
+          <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">This Ordinance</code-cite> allows adult, tribal members to grow and possess a limited number of Cannabis plants for their own, non-commercial, personal use at their own residences on tribal territory.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>This Ordinance consolidates Tribal regulation of all cannabis activities including but not limited to hemp, medical cannabis and AUC, within one Tribal board, the Tribal Cannabis Control Board ("CCB"), and one Tribal regulatory office, the Cannabis Compliance Office ("CCO").</text>
+          <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">This Ordinance</code-cite> consolidates Tribal regulation of all cannabis activities including but not limited to hemp, medical cannabis and AUC, within one Tribal board, the Tribal Cannabis Control Board ("CCB"), and one Tribal regulatory office, the Cannabis Compliance Office ("CCO").</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>This Ordinance includes appropriate fees on commercial AUC activities to fund tribal oversight and regulation and to fund tribal member programs and services.</text>
+          <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">This Ordinance</code-cite> includes appropriate fees on commercial AUC activities to fund tribal oversight and regulation and to fund tribal member programs and services.</text>
         </para>
       </section>
       <section>
-        <num>1.03</num>
+        <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.030"/>
+        <num codify:value="15.02.030">1.03</num>
         <heading>Authority</heading>
         <para>
           <num>(a)</num>
-          <text>The Tribe's authority to adopt this Ordinance is based upon the Tribal Procedures Act, as amended, and the Tribe's inherent sovereign power to: (1) enact laws governing commercial activity within its territory; and (2) adopt regulations to protect the health, safety and general welfare of tribal members.</text>
+          <text>The Tribe's authority to adopt <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> is based upon the Tribal Procedures Act, as amended, and the Tribe's inherent sovereign power to: (1) enact laws governing commercial activity within its territory; and (2) adopt regulations to protect the health, safety and general welfare of tribal members.</text>
         </para>
       </section>
       <section>
-        <num>1.04</num>
+        <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.040"/>
+        <num codify:value="15.02.040">1.04</num>
         <heading>Federal Guidance</heading>
         <para>
           <num>(a)</num>
@@ -136,35 +281,37 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>This Ordinance provides a robust regulatory system that addresses these issues. It requires use of a tracking system to record cannabis transactions on tribal territory from cultivation to sale. It contains mandatory rules on sales to minors. And it includes provisions protecting community health and safety at least as robust as those imposed by New York State with respect to AUC sales.</text>
+          <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">This Ordinance</code-cite> provides a robust regulatory system that addresses these issues. It requires use of a tracking system to record cannabis transactions on tribal territory from cultivation to sale. It contains mandatory rules on sales to minors. And it includes provisions protecting community health and safety at least as robust as those imposed by New York State with respect to AUC sales.</text>
         </para>
       </section>
       <section>
-        <num>1.05</num>
+        <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.050"/>
+        <num codify:value="15.02.050">1.05</num>
         <heading>Other Laws Unaffected</heading>
         <para>
           <num>(a)</num>
-          <text>Nothing in this Ordinance is intended to allow driving under the influence of cannabis or driving while impaired by cannabis or to prevent enforcement of any laws imposing penalties for driving under the influence or while impaired.</text>
+          <text>Nothing in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> is intended to allow driving under the influence of cannabis or driving while impaired by cannabis or to prevent enforcement of any laws imposing penalties for driving under the influence or while impaired.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Nothing in this Ordinance is intended to limit any privileges or rights of a medical marijuana patient, primary caregiver or registered or licensed entity under the Tribe's Medical Marijuana Ordinance.</text>
+          <text>Nothing in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> is intended to limit any privileges or rights of a medical marijuana patient, primary caregiver or registered or licensed entity under the Tribe's Medical Marijuana Ordinance.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Nothing in this Ordinance shall affect the ability of any employer on tribal territory to enact policies restricting the use of cannabis by employees.</text>
+          <text>Nothing in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> shall affect the ability of any employer on tribal territory to enact policies restricting the use of cannabis by employees.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>All existing authority of the Tribe shall remain in full force and effect, and nothing in this Ordinance repeals or limits the Tribe's authority to impose penalties or initiate punitive proceedings before or after its effective date.</text>
+          <text>All existing authority of the Tribe shall remain in full force and effect, and nothing in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> repeals or limits the Tribe's authority to impose penalties or initiate punitive proceedings before or after its effective date.</text>
         </para>
       </section>
       <section>
-        <num>1.06</num>
+        <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.060"/>
+        <num codify:value="15.02.060">1.06</num>
         <heading>Definitions</heading>
         <para>
           <num>(a)</num>
-          <text>When used in this Ordinance, unless the context clearly requires otherwise:</text>
+          <text>When used in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>, unless the context clearly requires otherwise:</text>
           <para>
             <num>(1)</num>
             <text>"Adult Use Cannabis" or "AUC" means cannabis intended for non-medical use by persons 21 years of age or older.</text>
@@ -179,12 +326,15 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>"Cannabis Compliance Office" or "CCO" means the Tribal regulatory office established in Chapter Two of this Ordinance.</text>
+            <text>"Cannabis Compliance Office" or "CCO" means the Tribal regulatory office established in <span codify:value="Subchapter">Chapter</span> Two of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>.</text>
           </para>
           <para>
             <num>(5)</num>
-            <text>"Cannabis Control Board" ("CCB") means the Tribal Board established in Chapter Two of this Ordinance.</text>
-            <text>(6  "Concentrate" means the resin extracted from any part of the plant of the genus cannabis.</text>
+            <text>"Cannabis Control Board" ("CCB") means the Tribal Board established in <span codify:value="Subchapter">Chapter</span> Two of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>"Concentrate" means the resin extracted from any part of the plant of the genus cannabis.</text>
           </para>
           <para>
             <num>(7)</num>
@@ -192,7 +342,7 @@
           </para>
           <para>
             <num>(8)</num>
-            <text>"Cultivation" means the planting and growing of AUC under a license issued in this Ordinance either indoors or outdoors that includes the related activities such as cloning, harvesting, drying, curing, grading and trimming of cannabis.</text>
+            <text>"Cultivation" means the planting and growing of AUC under a license issued in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> either indoors or outdoors that includes the related activities such as cloning, harvesting, drying, curing, grading and trimming of cannabis.</text>
           </para>
           <para>
             <num>(9)</num>
@@ -208,7 +358,7 @@
           </para>
           <para>
             <num>(12)</num>
-            <text>"Law enforcement agency" means the Saint Regis Mohawk Tribal Police Department and any federal, state, or local law enforcement agency that may also have jurisdiction over an activity under this Ordinance.</text>
+            <text>"Law enforcement agency" means the Saint Regis Mohawk Tribal Police Department and any federal, state, or local law enforcement agency that may also have jurisdiction over an activity under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>.</text>
           </para>
           <para>
             <num>(13)</num>
@@ -232,7 +382,7 @@
           </para>
           <para>
             <num>(18)</num>
-            <text>"Residence" means a fully enclosed permanent structure used or intended for human occupancy. Recreational vehicles, trailers, motorhomes, tents or other vehicles or structures which are used, designed or intended as temporary housing shall not constitute a residence for purposes of this Ordinance.</text>
+            <text>"Residence" means a fully enclosed permanent structure used or intended for human occupancy. Recreational vehicles, trailers, motorhomes, tents or other vehicles or structures which are used, designed or intended as temporary housing shall not constitute a residence for purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>.</text>
           </para>
           <para>
             <num>(19)</num>
@@ -260,7 +410,7 @@
           </para>
           <para>
             <num>(25)</num>
-            <text>"Sensitive Sites" means the following areas that are protected under this Ordinance by certain proximity provisions: tribal government offices, recreation centers, churches and places of worship, public parks, libraries, game arcades, elementary schools, secondary schools, playgrounds, youth centers such as the Akwesasne Boys and Girls Club, athletic fields and other site designated by the CCO.</text>
+            <text>"Sensitive Sites" means the following areas that are protected under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> by certain proximity provisions: tribal government offices, recreation centers, churches and places of worship, public parks, libraries, game arcades, elementary schools, secondary schools, playgrounds, youth centers such as the Akwesasne Boys and Girls Club, athletic fields and other site designated by the CCO.</text>
           </para>
           <para>
             <num>(26)</num>
@@ -302,7 +452,8 @@
       <num>2</num>
       <heading>REGULATION BY THE TRIBE</heading>
       <section>
-        <num>2.01</num>
+        <codify:insert path="2" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.070"/>
+        <num codify:value="15.02.070">2.01</num>
         <heading>Cannabis Control Board</heading>
         <para>
           <num>(a)</num>
@@ -313,11 +464,11 @@
           <text><u>CCB Powers and Duties</u>. The CCB's duties and powers shall include, but not be limited to:</text>
           <para>
             <num>1.</num>
-            <text>Accept, review, approve, or disapprove cannabis license applications including those required under this Ordinance including, but not limited to, applications for cultivation, processing and retail store licenses;</text>
+            <text>Accept, review, approve, or disapprove cannabis license applications including those required under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> including, but not limited to, applications for cultivation, processing and retail store licenses;</text>
           </para>
           <para>
             <num>2.</num>
-            <text>Adopt rules to impose and collect any fees or fines necessary to the regulation of cannabis including fees imposed under this Ordinance;</text>
+            <text>Adopt rules to impose and collect any fees or fines necessary to the regulation of cannabis including fees imposed under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>;</text>
           </para>
           <para>
             <num>3.</num>
@@ -325,7 +476,7 @@
           </para>
           <para>
             <num>4.</num>
-            <text>Approve the issuance of cannabis orders recommended by the CCO under Tribal Ordinances, including this Ordinance, including but not limited to: orders to cease and desist, closures of facilities, suspension and revocation of licenses as necessary to protect public safety;</text>
+            <text>Approve the issuance of cannabis orders recommended by the CCO under Tribal Ordinances, including <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>, including but not limited to: orders to cease and desist, closures of facilities, suspension and revocation of licenses as necessary to protect public safety;</text>
           </para>
           <para>
             <num>5.</num>
@@ -422,7 +573,8 @@
         </para>
       </section>
       <section>
-        <num>2.02</num>
+        <codify:insert path="2" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.080"/>
+        <num codify:value="15.02.080">2.02</num>
         <heading>Cannabis Compliance Office</heading>
         <para>
           <num>(a)</num>
@@ -437,7 +589,7 @@
           </para>
           <para>
             <num>2.</num>
-            <text>Assist the CCB in developing regulations implementing cannabis laws, including this Ordinance; and policies, procedures, protocols and forms necessary for all cannabis regulation and administration;</text>
+            <text>Assist the CCB in developing regulations implementing cannabis laws, including <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>; and policies, procedures, protocols and forms necessary for all cannabis regulation and administration;</text>
           </para>
           <para>
             <num>3.</num>
@@ -445,7 +597,7 @@
           </para>
           <para>
             <num>4.</num>
-            <text>Work with law enforcement and other appropriate agencies to investigate violations of this Ordinance and all cannabis laws, take or recommend appropriate enforcement actions; and report criminal activity to appropriate law enforcement agencies;</text>
+            <text>Work with law enforcement and other appropriate agencies to investigate violations of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> and all cannabis laws, take or recommend appropriate enforcement actions; and report criminal activity to appropriate law enforcement agencies;</text>
           </para>
           <para>
             <num>5.</num>
@@ -466,11 +618,12 @@
         </para>
       </section>
       <section>
-        <num>2.03</num>
+        <codify:insert path="2" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.090"/>
+        <num codify:value="15.02.090">2.03</num>
         <heading>Tribal Cannabis Exchange</heading>
         <para>
           <num>(a)</num>
-          <text><u>Creation of Exchange</u>. The Tribal Council establishes the Saint Regis Mohawk Tribal Cannabis Exchange ("TCE") to ensure that Processor licensees and Retail Store licensees have access to cannabis, cannabis extract, and cannabis products, as applicable, at prices established by the CCO according to objective standards. Upon the effective date of this ordinance, the CCO shall establish the TCE within the CCO.</text>
+          <text><u>Creation of Exchange</u>. The Tribal Council establishes the Saint Regis Mohawk Tribal Cannabis Exchange ("TCE") to ensure that Processor licensees and Retail Store licensees have access to cannabis, cannabis extract, and cannabis products, as applicable, at prices established by the CCO according to objective standards. Upon the effective date of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this ordinance</code-cite>, the CCO shall establish the TCE within the CCO.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -519,11 +672,12 @@
       <num>3</num>
       <heading>AUC BUSINESS LICENSES</heading>
       <section>
-        <num>3.01</num>
+        <codify:insert path="3" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.100"/>
+        <num codify:value="15.02.100">3.01</num>
         <heading>Cannabis Business Licenses</heading>
         <para>
           <num>(a)</num>
-          <text>This Ordinance shall authorize the issuance of business licenses that will include, but not be limited to:</text>
+          <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">This Ordinance</code-cite> shall authorize the issuance of business licenses that will include, but not be limited to:</text>
           <para>
             <num>1.</num>
             <text>AUC Cultivation licenses;</text>
@@ -555,7 +709,8 @@
         </para>
       </section>
       <section>
-        <num>3.02</num>
+        <codify:insert path="3" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.110"/>
+        <num codify:value="15.02.110">3.02</num>
         <heading>Nature of Business Licenses</heading>
         <para>
           <num>(a)</num>
@@ -567,12 +722,14 @@
         </para>
       </section>
       <section>
-        <num>3.03</num>
+        <codify:insert path="3" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.120"/>
+        <num codify:value="15.02.120">3.03</num>
         <heading>License Term</heading>
-        <text>All licenses shall have a term of five (5) years, unless revoked pursuant to this Ordinance, and may be renewed through a renewal application process established by the CCO.</text>
+        <text>All licenses shall have a term of five (5) years, unless revoked pursuant to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>, and may be renewed through a renewal application process established by the CCO.</text>
       </section>
       <section>
-        <num>3.04</num>
+        <codify:insert path="3" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.130"/>
+        <num codify:value="15.02.130">3.04</num>
         <heading>Threshold Eligibility Requirements</heading>
         <para>
           <num>(a)</num>
@@ -587,7 +744,7 @@
           </para>
           <para>
             <num>3.</num>
-            <text>Not have been convicted of a serious felony as defined in this Ordinance</text>
+            <text>Not have been convicted of a serious felony as defined in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite></text>
           </para>
         </para>
         <para>
@@ -599,19 +756,20 @@
           </para>
           <para>
             <num>2.</num>
-            <text>Not have been convicted of a serious felony, as defined in this Ordinance.</text>
+            <text>Not have been convicted of a serious felony, as defined in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>.</text>
           </para>
         </para>
       </section>
       <section>
-        <num>3.05</num>
+        <codify:insert path="3" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.140"/>
+        <num codify:value="15.02.140">3.05</num>
         <heading>Cannabis Retailers in Operation Prior to Licensing</heading>
         <para>
           <num>(a)</num>
           <text>Any person or business operating a business that is open to the public and is selling cannabis prior to obtaining a license shall be deemed ineligible to obtain a license, unless the person or business:</text>
           <para>
             <num>1.</num>
-            <text>Ceases operation within 48 hours of the enactment of this Ordinance;</text>
+            <text>Ceases operation within 48 hours of the enactment of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>;</text>
           </para>
           <para>
             <num>2.</num>
@@ -624,7 +782,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The CCB has the authority to provide a waiver of subsection (a) on a case-by- case basis if circumstances warrant such a waiver.</text>
+          <text>The CCB has the authority to provide a waiver of <code-cite path="|attachments|law|3|3.05|(a)" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">subsection (a)</code-cite> on a case-by- case basis if circumstances warrant such a waiver.</text>
         </para>
       </section>
     </container>
@@ -633,7 +791,8 @@
       <num>4</num>
       <heading>LICENSE APPLICATIONS</heading>
       <section>
-        <num>4.01</num>
+        <codify:insert path="4" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.150"/>
+        <num codify:value="15.02.150">4.01</num>
         <heading>Information Required for Pre-Clearance</heading>
         <para>
           <num>(a)</num>
@@ -685,7 +844,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>The CCO shall begin to accept pre-clearance applications immediately upon enactment of this Ordinance.</text>
+          <text>The CCO shall begin to accept pre-clearance applications immediately upon enactment of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -693,7 +852,8 @@
         </para>
       </section>
       <section>
-        <num>4.02</num>
+        <codify:insert path="4" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.160"/>
+        <num codify:value="15.02.160">4.02</num>
         <heading>Cultivation Applications</heading>
         <para>
           <num>(a)</num>
@@ -724,7 +884,7 @@
           </para>
           <para>
             <num>7.</num>
-            <text>Agree to follow the TCE requirements in this Ordinance and in CCB regulations; and</text>
+            <text>Agree to follow the TCE requirements in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> and in CCB regulations; and</text>
           </para>
           <para>
             <num>8.</num>
@@ -733,7 +893,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The CCO shall, on the effective date of this ordinance, begin to accept applications for Cultivation licenses from any applicant who has received pre- clearance.</text>
+          <text>The CCO shall, on the effective date of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this ordinance</code-cite>, begin to accept applications for Cultivation licenses from any applicant who has received pre- clearance.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -757,7 +917,8 @@
         </para>
       </section>
       <section>
-        <num>4.03</num>
+        <codify:insert path="4" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.170"/>
+        <num codify:value="15.02.170">4.03</num>
         <heading>Processing Applications</heading>
         <para>
           <num>(a)</num>
@@ -801,7 +962,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The CCO shall begin to accept applications for Processing licenses no later than 30 days after the effective date of this ordinance.</text>
+          <text>The CCO shall begin to accept applications for Processing licenses no later than 30 days after the effective date of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this ordinance</code-cite>.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -809,7 +970,8 @@
         </para>
       </section>
       <section>
-        <num>4.04</num>
+        <codify:insert path="4" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.180"/>
+        <num codify:value="15.02.180">4.04</num>
         <heading>Retail Store Applications</heading>
         <para>
           <num>(a)</num>
@@ -824,7 +986,7 @@
           </para>
           <para>
             <num>3.</num>
-            <text>Whether the store has its own separate ingress and egress as required by this Ordinance;</text>
+            <text>Whether the store has its own separate ingress and egress as required by <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>;</text>
           </para>
           <para>
             <num>4.</num>
@@ -841,11 +1003,12 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The CCO shall begin to accept applications for Retail Store licenses within 30 days of the effective date of this ordinance.</text>
+          <text>The CCO shall begin to accept applications for Retail Store licenses within 30 days of the effective date of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this ordinance</code-cite>.</text>
         </para>
       </section>
       <section>
-        <num>4.05</num>
+        <codify:insert path="4" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.190"/>
+        <num codify:value="15.02.190">4.05</num>
         <heading>Consumption Lounge Applications</heading>
         <para>
           <num>(a)</num>
@@ -864,7 +1027,7 @@
           </para>
           <para>
             <num>4.</num>
-            <text>Whether the lounge has its own separate ingress and egress as required by this Ordinance;</text>
+            <text>Whether the lounge has its own separate ingress and egress as required by <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>;</text>
           </para>
           <para>
             <num>5.</num>
@@ -885,7 +1048,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The CCO shall begin to accept applications for Consumption Lounge licenses within 30 days of the effective date of this ordinance.</text>
+          <text>The CCO shall begin to accept applications for Consumption Lounge licenses within 30 days of the effective date of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this ordinance</code-cite>.</text>
         </para>
       </section>
     </container>
@@ -894,7 +1057,8 @@
       <num>5</num>
       <heading>AUC LICENSE APPROVAL</heading>
       <section>
-        <num>5.01</num>
+        <codify:insert path="5" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.200"/>
+        <num codify:value="15.02.200">5.01</num>
         <heading>Initial Review by Cco</heading>
         <para>
           <num>(a)</num>
@@ -922,7 +1086,8 @@
         </para>
       </section>
       <section>
-        <num>5.02</num>
+        <codify:insert path="5" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.210"/>
+        <num codify:value="15.02.210">5.02</num>
         <heading>Role of the Ccb</heading>
         <para>
           <num>(a)</num>
@@ -950,7 +1115,8 @@
         </para>
       </section>
       <section>
-        <num>5.03</num>
+        <codify:insert path="5" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.220"/>
+        <num codify:value="15.02.220">5.03</num>
         <heading>Tribal Court Review</heading>
         <para>
           <num>(a)</num>
@@ -986,7 +1152,8 @@
         </para>
       </section>
       <section>
-        <num>5.04</num>
+        <codify:insert path="5" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.230"/>
+        <num codify:value="15.02.230">5.04</num>
         <heading>Conditional Licenses</heading>
         <para>
           <num>1.</num>
@@ -999,7 +1166,8 @@
       <num>6</num>
       <heading>AUC LICENSE FEES</heading>
       <section>
-        <num>6.01</num>
+        <codify:insert path="6" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.240"/>
+        <num codify:value="15.02.240">6.01</num>
         <heading>Application Fees</heading>
         <para>
           <num>(a)</num>
@@ -1007,7 +1175,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>There shall be a non-refundable application fee for all licenses issued under this Ordinance. The initial application fees for licenses shall be:</text>
+          <text>There shall be a non-refundable application fee for all licenses issued under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>. The initial application fees for licenses shall be:</text>
           <para>
             <num>1.</num>
             <text>Cultivation License Application Fees:</text>
@@ -1100,7 +1268,8 @@
         </para>
       </section>
       <section>
-        <num>6.02</num>
+        <codify:insert path="6" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.250"/>
+        <num codify:value="15.02.250">6.02</num>
         <heading>Annual License Fees</heading>
         <para>
           <num>(a)</num>
@@ -1109,199 +1278,199 @@
             <num>1.</num>
             <text>Flat Rate Fees</text>
             <text>The CCO shall have discretion to accept the payment of flat rate fees in monthly or quarterly installments.</text>
-          </para>
-          <para>
-            <num>a.</num>
-            <text>Cultivation</text>
-            <text>
-              <table>
-                <tbody>
-                  <tr>
-                    <td>Type of Cultivation Facility</td>
-                    <td>Fee</td>
-                  </tr>
-                  <tr>
-                    <td proof="needed">
-                      <p>Cultivation</p>
-                      <p>Tier I</p>
-                    </td>
-                    <td>$1,000</td>
-                  </tr>
-                  <tr>
-                    <td proof="needed">
-                      <p>Cultivation</p>
-                      <p>Tier II</p>
-                    </td>
-                    <td>$2,500</td>
-                  </tr>
-                  <tr>
-                    <td proof="needed">
-                      <p>Cultivation</p>
-                      <p>Tier III</p>
-                    </td>
-                    <td>$5,000</td>
-                  </tr>
-                </tbody>
-              </table>
-            </text>
-          </para>
-          <para>
-            <num>b.</num>
-            <text>Processing</text>
-            <text>
-              <table>
-                <tbody>
-                  <tr>
-                    <td>Type of Processor Facility</td>
-                    <td>Fee</td>
-                  </tr>
-                  <tr>
-                    <td>Tier I</td>
-                    <td>$1,000</td>
-                  </tr>
-                  <tr>
-                    <td>Tier II</td>
-                    <td>$3,500</td>
-                  </tr>
-                </tbody>
-              </table>
-            </text>
-          </para>
-          <para>
-            <num>c.</num>
-            <text>Retail Store</text>
-            <text>
-              <table>
-                <tbody>
-                  <tr>
-                    <td>Type of Store</td>
-                    <td>Fee</td>
-                  </tr>
-                  <tr>
-                    <td>All retail stores</td>
-                    <td>$5,000</td>
-                  </tr>
-                </tbody>
-              </table>
-            </text>
-          </para>
-          <para>
-            <num>d.</num>
-            <text>Consumption Lounge</text>
-            <text>
-              <table>
-                <tbody>
-                  <tr>
-                    <td>Type of Lounge</td>
-                    <td>Fee</td>
-                  </tr>
-                  <tr>
-                    <td>All Consumption Lounges</td>
-                    <td>$5,000</td>
-                  </tr>
-                </tbody>
-              </table>
-            </text>
+            <para>
+              <num>a.</num>
+              <text>Cultivation</text>
+              <text>
+                <table>
+                  <tbody>
+                    <tr>
+                      <td>Type of Cultivation Facility</td>
+                      <td>Fee</td>
+                    </tr>
+                    <tr>
+                      <td proof="needed">
+                        <p>Cultivation</p>
+                        <p>Tier I</p>
+                      </td>
+                      <td>$1,000</td>
+                    </tr>
+                    <tr>
+                      <td proof="needed">
+                        <p>Cultivation</p>
+                        <p>Tier II</p>
+                      </td>
+                      <td>$2,500</td>
+                    </tr>
+                    <tr>
+                      <td proof="needed">
+                        <p>Cultivation</p>
+                        <p>Tier III</p>
+                      </td>
+                      <td>$5,000</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </text>
+            </para>
+            <para>
+              <num>b.</num>
+              <text>Processing</text>
+              <text>
+                <table>
+                  <tbody>
+                    <tr>
+                      <td>Type of Processor Facility</td>
+                      <td>Fee</td>
+                    </tr>
+                    <tr>
+                      <td>Tier I</td>
+                      <td>$1,000</td>
+                    </tr>
+                    <tr>
+                      <td>Tier II</td>
+                      <td>$3,500</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </text>
+            </para>
+            <para>
+              <num>c.</num>
+              <text>Retail Store</text>
+              <text>
+                <table>
+                  <tbody>
+                    <tr>
+                      <td>Type of Store</td>
+                      <td>Fee</td>
+                    </tr>
+                    <tr>
+                      <td>All retail stores</td>
+                      <td>$5,000</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </text>
+            </para>
+            <para>
+              <num>d.</num>
+              <text>Consumption Lounge</text>
+              <text>
+                <table>
+                  <tbody>
+                    <tr>
+                      <td>Type of Lounge</td>
+                      <td>Fee</td>
+                    </tr>
+                    <tr>
+                      <td>All Consumption Lounges</td>
+                      <td>$5,000</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </text>
+            </para>
           </para>
           <para>
             <num>2.</num>
             <text>Per-Gram Fees</text>
-          </para>
-          <para>
-            <num>a.</num>
-            <text>Fee schedule</text>
-            <text>
-              <table>
-                <tbody>
-                  <tr>
-                    <td>Type of Product</td>
-                    <td>Fees</td>
-                  </tr>
-                  <tr>
-                    <td>Cannabis Flower</td>
-                    <td>$.50/gram</td>
-                  </tr>
-                  <tr>
-                    <td>Concentrate or vaporizer cartridges</td>
-                    <td>5% of sales</td>
-                  </tr>
-                  <tr>
-                    <td>Edibles (including tinctures, oils, or beverages tested by a certified testing facility)</td>
-                    <td>5% of sales</td>
-                  </tr>
-                  <tr>
-                    <td>Tinctures, oils, or beverages (untested)</td>
-                    <td>$14.00/fluid ounce</td>
-                  </tr>
-                  <tr>
-                    <td>Topical (ointment or cream)</td>
-                    <td>$1.00/fluid ounce</td>
-                  </tr>
-                  <tr>
-                    <td>Transdermal patches (tested)</td>
-                    <td>$1.75/100 mg of THC</td>
-                  </tr>
-                  <tr>
-                    <td>Transdermal patches (untested)</td>
-                    <td>$1.00/patch</td>
-                  </tr>
-                </tbody>
-              </table>
-            </text>
+            <para>
+              <num>a.</num>
+              <text>Fee schedule</text>
+              <text>
+                <table>
+                  <tbody>
+                    <tr>
+                      <td>Type of Product</td>
+                      <td>Fees</td>
+                    </tr>
+                    <tr>
+                      <td>Cannabis Flower</td>
+                      <td>$.50/gram</td>
+                    </tr>
+                    <tr>
+                      <td>Concentrate or vaporizer cartridges</td>
+                      <td>5% of sales</td>
+                    </tr>
+                    <tr>
+                      <td>Edibles (including tinctures, oils, or beverages tested by a certified testing facility)</td>
+                      <td>5% of sales</td>
+                    </tr>
+                    <tr>
+                      <td>Tinctures, oils, or beverages (untested)</td>
+                      <td>$14.00/fluid ounce</td>
+                    </tr>
+                    <tr>
+                      <td>Topical (ointment or cream)</td>
+                      <td>$1.00/fluid ounce</td>
+                    </tr>
+                    <tr>
+                      <td>Transdermal patches (tested)</td>
+                      <td>$1.75/100 mg of THC</td>
+                    </tr>
+                    <tr>
+                      <td>Transdermal patches (untested)</td>
+                      <td>$1.00/patch</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </text>
+            </para>
           </para>
           <para>
             <num>3.</num>
             <text>Single Serving Products (sold in Consumption Lounges)</text>
-          </para>
-          <para>
-            <num>a.</num>
-            <text>The CCO has the authority to amend the fee schedule provided in this section with advanced notice to licensees.</text>
-            <text>
-              <table>
-                <tbody>
-                  <tr>
-                    <td>Type of Product</td>
-                    <td>Fees</td>
-                  </tr>
-                  <tr>
-                    <td>Cannabis Flower</td>
-                    <td>$.50/gram</td>
-                  </tr>
-                  <tr>
-                    <td>Concentrate or vaporizer cartridges</td>
-                    <td>5% of sales</td>
-                  </tr>
-                  <tr>
-                    <td>Edibles (including tinctures, oils, or beverages tested by a certified testing facility)</td>
-                    <td>5% of sales</td>
-                  </tr>
-                  <tr>
-                    <td>Tinctures, oils, or beverages (untested)</td>
-                    <td>$14.00/fluid ounce</td>
-                  </tr>
-                  <tr>
-                    <td>Topical (ointment or cream)</td>
-                    <td>$1.00/fluid ounce</td>
-                  </tr>
-                  <tr>
-                    <td>Transdermal patches (tested)</td>
-                    <td>$1.75/100 mg of THC</td>
-                  </tr>
-                  <tr>
-                    <td>Transdermal patches (untested)</td>
-                    <td>$1.00/patch</td>
-                  </tr>
-                </tbody>
-              </table>
-            </text>
-          </para>
-          <para>
-            <num>b.</num>
-            <text>The TCE shall collect this fee from Cultivators and Processors before issuing revenue stamps and before any cannabis or cannabis products are transferred to a Retail Store. For licensees holding multiple licenses, this shall include the transfer of cannabis or cannabis products to the site used as a Retail Store.</text>
-          </para>
-          <para>
-            <num>c.</num>
-            <text>Cultivators and Processors may include per grams fees in their sales to Retail Stores, and, if applicable, may add per-gram fees to the prices established by the TCE.</text>
+            <para>
+              <num>a.</num>
+              <text>The CCO has the authority to amend the fee schedule provided in <code-cite path="|attachments|law|6|6.02" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this section</code-cite> with advanced notice to licensees.</text>
+              <text>
+                <table>
+                  <tbody>
+                    <tr>
+                      <td>Type of Product</td>
+                      <td>Fees</td>
+                    </tr>
+                    <tr>
+                      <td>Cannabis Flower</td>
+                      <td>$.50/gram</td>
+                    </tr>
+                    <tr>
+                      <td>Concentrate or vaporizer cartridges</td>
+                      <td>5% of sales</td>
+                    </tr>
+                    <tr>
+                      <td>Edibles (including tinctures, oils, or beverages tested by a certified testing facility)</td>
+                      <td>5% of sales</td>
+                    </tr>
+                    <tr>
+                      <td>Tinctures, oils, or beverages (untested)</td>
+                      <td>$14.00/fluid ounce</td>
+                    </tr>
+                    <tr>
+                      <td>Topical (ointment or cream)</td>
+                      <td>$1.00/fluid ounce</td>
+                    </tr>
+                    <tr>
+                      <td>Transdermal patches (tested)</td>
+                      <td>$1.75/100 mg of THC</td>
+                    </tr>
+                    <tr>
+                      <td>Transdermal patches (untested)</td>
+                      <td>$1.00/patch</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </text>
+            </para>
+            <para>
+              <num>b.</num>
+              <text>The TCE shall collect this fee from Cultivators and Processors before issuing revenue stamps and before any cannabis or cannabis products are transferred to a Retail Store. For licensees holding multiple licenses, this shall include the transfer of cannabis or cannabis products to the site used as a Retail Store.</text>
+            </para>
+            <para>
+              <num>c.</num>
+              <text>Cultivators and Processors may include per grams fees in their sales to Retail Stores, and, if applicable, may add per-gram fees to the prices established by the TCE.</text>
+            </para>
           </para>
         </para>
         <para>
@@ -1327,11 +1496,12 @@
       <num>7</num>
       <heading>RETAIL SALE OPERATIONS</heading>
       <section>
-        <num>7.01</num>
+        <codify:insert path="7" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.260"/>
+        <num codify:value="15.02.260">7.01</num>
         <heading>Store Sales Restrictions</heading>
         <para>
           <num>(a)</num>
-          <text>Cannabis Retail stores may only offer for sale and sell cannabis, cannabis products and other products listed in this section or approved by the CCO.</text>
+          <text>Cannabis Retail stores may only offer for sale and sell cannabis, cannabis products and other products listed in <code-cite path="|attachments|law|7|7.01" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this section</code-cite> or approved by the CCO.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1343,7 +1513,8 @@
         </para>
       </section>
       <section>
-        <num>7.02</num>
+        <codify:insert path="7" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.270"/>
+        <num codify:value="15.02.270">7.02</num>
         <heading>Approved Products</heading>
         <para>
           <num>(a)</num>
@@ -1383,7 +1554,8 @@
         </para>
       </section>
       <section>
-        <num>7.03</num>
+        <codify:insert path="7" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.280"/>
+        <num codify:value="15.02.280">7.03</num>
         <heading>Prohibited Sales</heading>
         <text>A retail store may not:</text>
         <para>
@@ -1427,7 +1599,7 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>Sell or offer for sale cannabis or cannabis products that do not meet the tracking, packaging, labeling and testing requirements in this Ordinance; or</text>
+          <text>Sell or offer for sale cannabis or cannabis products that do not meet the tracking, packaging, labeling and testing requirements in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>; or</text>
         </para>
         <para>
           <num>(g)</num>
@@ -1435,7 +1607,8 @@
         </para>
       </section>
       <section>
-        <num>7.04</num>
+        <codify:insert path="7" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.290"/>
+        <num codify:value="15.02.290">7.04</num>
         <heading>Verification of Age of Consumers</heading>
         <para>
           <num>(a)</num>
@@ -1447,7 +1620,8 @@
         </para>
       </section>
       <section>
-        <num>7.05</num>
+        <codify:insert path="7" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.300"/>
+        <num codify:value="15.02.300">7.05</num>
         <heading>Retention of Sales Records</heading>
         <para>
           <num>(a)</num>
@@ -1455,11 +1629,12 @@
         </para>
       </section>
       <section>
-        <num>7.06</num>
+        <codify:insert path="7" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.310"/>
+        <num codify:value="15.02.310">7.06</num>
         <heading>Comply with All Other Regulations</heading>
         <para>
           <num>(a)</num>
-          <text>Retail stores shall also comply with this Ordinance and all rules and regulations issued under this Ordinance that apply to cannabis businesses and facilities such as, but not limited to, security, surveillance, health and safety and audit and inspection requirements.</text>
+          <text>Retail stores shall also comply with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> and all rules and regulations issued under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> that apply to cannabis businesses and facilities such as, but not limited to, security, surveillance, health and safety and audit and inspection requirements.</text>
         </para>
       </section>
     </container>
@@ -1468,11 +1643,12 @@
       <num>8</num>
       <heading>CONSUMPTION LOUNGE OPERATIONS</heading>
       <section>
-        <num>8.01</num>
+        <codify:insert path="8" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.320"/>
+        <num codify:value="15.02.320">8.01</num>
         <heading>Consumption Lounge Sales Restrictions</heading>
         <para>
           <num>(a)</num>
-          <text>Cannabis Consumption Lounges may only offer for sale and sell cannabis, cannabis products and other products listed in this section or approved by the CCO.</text>
+          <text>Cannabis Consumption Lounges may only offer for sale and sell cannabis, cannabis products and other products listed in <code-cite path="|attachments|law|8|8.01" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this section</code-cite> or approved by the CCO.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1480,7 +1656,8 @@
         </para>
       </section>
       <section>
-        <num>8.02</num>
+        <codify:insert path="8" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.330"/>
+        <num codify:value="15.02.330">8.02</num>
         <heading>Approved Products</heading>
         <para>
           <num>(a)</num>
@@ -1512,7 +1689,8 @@
         </para>
       </section>
       <section>
-        <num>8.03</num>
+        <codify:insert path="8" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.340"/>
+        <num codify:value="15.02.340">8.03</num>
         <heading>Prohibited Sales. a Consumption Lounge May Not:</heading>
         <para>
           <num>i.</num>
@@ -1555,7 +1733,7 @@
         </para>
         <para>
           <num>vi.</num>
-          <text>Sell or offer for sale cannabis or cannabis products that do not meet the tracking, packaging, labeling and testing requirements in this Ordinance; or</text>
+          <text>Sell or offer for sale cannabis or cannabis products that do not meet the tracking, packaging, labeling and testing requirements in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>; or</text>
         </para>
         <para>
           <num>vii.</num>
@@ -1563,7 +1741,8 @@
         </para>
       </section>
       <section>
-        <num>8.04</num>
+        <codify:insert path="8" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.350"/>
+        <num codify:value="15.02.350">8.04</num>
         <heading>Verification of Age of Consumers</heading>
         <para>
           <num>(a)</num>
@@ -1571,7 +1750,8 @@
         </para>
       </section>
       <section>
-        <num>8.05</num>
+        <codify:insert path="8" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.360"/>
+        <num codify:value="15.02.360">8.05</num>
         <heading>Retention of Sales Records</heading>
         <para>
           <num>(a)</num>
@@ -1600,11 +1780,12 @@
         </para>
       </section>
       <section>
-        <num>8.06</num>
+        <codify:insert path="8" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.370"/>
+        <num codify:value="15.02.370">8.06</num>
         <heading>Comply with All Other Regulations</heading>
         <para>
           <num>(a)</num>
-          <text>Consumption Lounges shall also comply with this Ordinance and all rules and regulations issued under this Ordinance that apply to cannabis businesses and facilities such as, but not limited to, security, surveillance, health and safety and audit and inspection requirements.</text>
+          <text>Consumption Lounges shall also comply with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> and all rules and regulations issued under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> that apply to cannabis businesses and facilities such as, but not limited to, security, surveillance, health and safety and audit and inspection requirements.</text>
         </para>
       </section>
     </container>
@@ -1613,7 +1794,8 @@
       <num>9</num>
       <heading>CULTIVATION OPERATIONS</heading>
       <section>
-        <num>9.01</num>
+        <codify:insert path="9" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.380"/>
+        <num codify:value="15.02.380">9.01</num>
         <heading>General Requirements</heading>
         <para>
           <num>(a)</num>
@@ -1641,7 +1823,8 @@
         </para>
       </section>
       <section>
-        <num>9.02</num>
+        <codify:insert path="9" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.390"/>
+        <num codify:value="15.02.390">9.02</num>
         <heading>Facility Requirements</heading>
         <para>
           <num>(a)</num>
@@ -1710,7 +1893,8 @@
       <num>10</num>
       <heading>PROCESSING OPERATIONS</heading>
       <section>
-        <num>10.01</num>
+        <codify:insert path="10" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.400"/>
+        <num codify:value="15.02.400">10.01</num>
         <heading>Permitted Activity</heading>
         <para>
           <num>(a)</num>
@@ -1718,7 +1902,8 @@
         </para>
       </section>
       <section>
-        <num>10.02</num>
+        <codify:insert path="10" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.410"/>
+        <num codify:value="15.02.410">10.02</num>
         <heading>Limitation on Sales or Transfers</heading>
         <para>
           <num>(a)</num>
@@ -1726,7 +1911,8 @@
         </para>
       </section>
       <section>
-        <num>10.03</num>
+        <codify:insert path="10" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.420"/>
+        <num codify:value="15.02.420">10.03</num>
         <heading>No Retail Sale</heading>
         <para>
           <num>(a)</num>
@@ -1734,7 +1920,8 @@
         </para>
       </section>
       <section>
-        <num>10.04</num>
+        <codify:insert path="10" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.430"/>
+        <num codify:value="15.02.430">10.04</num>
         <heading>Purchase and Acquisition of Cannabis and Cannabis Extract</heading>
         <para>
           <num>(a)</num>
@@ -1742,7 +1929,8 @@
         </para>
       </section>
       <section>
-        <num>10.05</num>
+        <codify:insert path="10" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.440"/>
+        <num codify:value="15.02.440">10.05</num>
         <heading>Cannabis Extraction</heading>
         <para>
           <num>(a)</num>
@@ -1766,7 +1954,8 @@
         </para>
       </section>
       <section>
-        <num>10.06</num>
+        <codify:insert path="10" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.450"/>
+        <num codify:value="15.02.450">10.06</num>
         <heading>Processing of Edible Products</heading>
         <para>
           <num>(a)</num>
@@ -1818,7 +2007,8 @@
         </para>
       </section>
       <section>
-        <num>10.07</num>
+        <codify:insert path="10" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.460"/>
+        <num codify:value="15.02.460">10.07</num>
         <heading>Participation in Tce</heading>
         <para>
           <num>(a)</num>
@@ -1839,7 +2029,8 @@
       <num>11</num>
       <heading>TRACKING</heading>
       <section>
-        <num>11.01</num>
+        <codify:insert path="11" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.470"/>
+        <num codify:value="15.02.470">11.01</num>
         <heading>Obligations of Cultivation Licensees</heading>
         <para>
           <num>(a)</num>
@@ -1875,7 +2066,8 @@
         </para>
       </section>
       <section>
-        <num>11.02</num>
+        <codify:insert path="11" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.480"/>
+        <num codify:value="15.02.480">11.02</num>
         <heading>Obligations of Processor Licensees</heading>
         <para>
           <num>(a)</num>
@@ -1919,7 +2111,8 @@
         </para>
       </section>
       <section>
-        <num>11.03</num>
+        <codify:insert path="11" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.490"/>
+        <num codify:value="15.02.490">11.03</num>
         <heading>Obligations of Retail Licensees</heading>
         <para>
           <num>(a)</num>
@@ -1956,12 +2149,14 @@
       <num>12</num>
       <heading>STORE/FACILITY LOCATION</heading>
       <section>
-        <num>12.01</num>
+        <codify:insert path="12" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.500"/>
+        <num codify:value="15.02.500">12.01</num>
         <heading>Location of Stores and Facilities</heading>
-        <text>Due to the threat of exposure to children, young adults and the general public, any building housing a cannabis retail stores, processing, or cultivation facilities, unless otherwise permitted by the CCO, shall not be located within 500 feet of a sensitive site, as defined in this Ordinance.</text>
+        <text>Due to the threat of exposure to children, young adults and the general public, any building housing a cannabis retail stores, processing, or cultivation facilities, unless otherwise permitted by the CCO, shall not be located within 500 feet of a sensitive site, as defined in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>.</text>
       </section>
       <section>
-        <num>12.02</num>
+        <codify:insert path="12" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.510"/>
+        <num codify:value="15.02.510">12.02</num>
         <heading>Restrictions on Retail Store Buildings</heading>
         <text>At a minimum, retail stores shall observe the following building structure restrictions:</text>
         <para>
@@ -1983,7 +2178,8 @@
       <num>13</num>
       <heading>TESTING OF CANNABIS AND PRODUCTS</heading>
       <section>
-        <num>13.01</num>
+        <codify:insert path="13" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.520"/>
+        <num codify:value="15.02.520">13.01</num>
         <heading>Testing of Cannabis and Products</heading>
         <para>
           <num>(a)</num>
@@ -2040,7 +2236,8 @@
       <num>14</num>
       <heading>LABELING AND PACKAGING</heading>
       <section>
-        <num>14.01</num>
+        <codify:insert path="14" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.530"/>
+        <num codify:value="15.02.530">14.01</num>
         <heading>Labeling Requirements</heading>
         <para>
           <num>(a)</num>
@@ -2104,7 +2301,8 @@
         </para>
       </section>
       <section>
-        <num>14.02</num>
+        <codify:insert path="14" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.540"/>
+        <num codify:value="15.02.540">14.02</num>
         <heading>Packaging Requirements</heading>
         <text>Cannabis and cannabis products to be sold, or offered for sale must be packaged in the following manner, as applicable based on the cannabis or cannabis product to be sold:</text>
         <para>
@@ -2125,7 +2323,8 @@
         </para>
       </section>
       <section>
-        <num>14.03</num>
+        <codify:insert path="14" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.550"/>
+        <num codify:value="15.02.550">14.03</num>
         <heading>Other Allowable Labeling and Packaging</heading>
         <text>Cannabis and cannabis products to be sold to a consumer may include on the label or the packaging of the cannabis or cannabis product:</text>
         <para>
@@ -2146,7 +2345,8 @@
         </para>
       </section>
       <section>
-        <num>14.04</num>
+        <codify:insert path="14" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.560"/>
+        <num codify:value="15.02.560">14.04</num>
         <heading>Labeling and Packaging Prohibitions</heading>
         <text>Cannabis and cannabis products to be sold to a consumer:</text>
         <para>
@@ -2176,7 +2376,8 @@
       <num>15</num>
       <heading>ADVERTISING AND MARKETING</heading>
       <section>
-        <num>15.01</num>
+        <codify:insert path="15" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.570"/>
+        <num codify:value="15.02.570">15.01</num>
         <heading>General Requirement: No Deceptive, False or Misleading Statements</heading>
         <para>
           <num>(a)</num>
@@ -2184,7 +2385,8 @@
         </para>
       </section>
       <section>
-        <num>15.02</num>
+        <codify:insert path="15" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.580"/>
+        <num codify:value="15.02.580">15.02</num>
         <heading>Advertising: All Media</heading>
         <para>
           <num>(a)</num>
@@ -2192,7 +2394,8 @@
         </para>
       </section>
       <section>
-        <num>14.03</num>
+        <codify:insert path="15" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.590"/>
+        <num codify:value="15.02.590">15.03</num>
         <heading>No Safety Claims</heading>
         <para>
           <num>(a)</num>
@@ -2200,7 +2403,8 @@
         </para>
       </section>
       <section>
-        <num>15.04</num>
+        <codify:insert path="15" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.600"/>
+        <num codify:value="15.02.600">15.04</num>
         <heading>Outdoor Advertising</heading>
         <para>
           <num>(a)</num>
@@ -2208,7 +2412,8 @@
         </para>
       </section>
       <section>
-        <num>15.05</num>
+        <codify:insert path="15" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.610"/>
+        <num codify:value="15.02.610">15.05</num>
         <heading>No Content That Targets Minors</heading>
         <para>
           <num>(a)</num>
@@ -2216,7 +2421,8 @@
         </para>
       </section>
       <section>
-        <num>15.06</num>
+        <codify:insert path="15" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.620"/>
+        <num codify:value="15.02.620">15.06</num>
         <heading>Advertising or Marketing Directed Toward Location-Based Devices</heading>
         <para>
           <num>(a)</num>
@@ -2224,7 +2430,8 @@
         </para>
       </section>
       <section>
-        <num>15.07</num>
+        <codify:insert path="15" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.630"/>
+        <num codify:value="15.02.630">15.07</num>
         <heading>Pop-up Advertising</heading>
         <para>
           <num>(a)</num>
@@ -2232,7 +2439,8 @@
         </para>
       </section>
       <section>
-        <num>15.08</num>
+        <codify:insert path="15" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.640"/>
+        <num codify:value="15.02.640">15.08</num>
         <heading>Event Sponsorship</heading>
         <para>
           <num>(a)</num>
@@ -2245,7 +2453,8 @@
       <num>16</num>
       <heading>HEALTH AND SAFETY RULES</heading>
       <section>
-        <num>16.01</num>
+        <codify:insert path="16" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.650"/>
+        <num codify:value="15.02.650">16.01</num>
         <heading>Health and Safety Rules</heading>
         <text>The CCO shall adopt labeling, packaging and other necessary health and safety rules for cannabis and cannabis products to be sold or offered for sale by a licensee to a consumer. Rules adopted pursuant to this subsection must establish mandatory health and safety standards applicable to the cultivation of cannabis, the manufacture of cannabis products and the packaging and labeling of cannabis and cannabis products sold by a licensee to a consumer. Such rules must address, but are not limited to:</text>
         <para>
@@ -2267,7 +2476,8 @@
       <num>17</num>
       <heading>SECURITY AND SURVEILLANCE RULES</heading>
       <section>
-        <num>17.01</num>
+        <codify:insert path="17" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.660"/>
+        <num codify:value="15.02.660">17.01</num>
         <heading>Security and Surveillance</heading>
         <para>
           <num>(a)</num>
@@ -2283,7 +2493,8 @@
         </para>
       </section>
       <section>
-        <num>17.02</num>
+        <codify:insert path="17" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.670"/>
+        <num codify:value="15.02.670">17.02</num>
         <heading>Additional Security</heading>
         <para>
           <num>(a)</num>
@@ -2320,12 +2531,14 @@
       <num>18</num>
       <heading>VIOLATIONS; PENALTIES</heading>
       <section>
-        <num>18.01</num>
+        <codify:insert path="18" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.680"/>
+        <num codify:value="15.02.680">18.01</num>
         <heading>General</heading>
-        <text>The CCO may impose penalties on licensee for license violations and penalties upon non-compliant cannabis businesses (i.e., those operating without obtaining a Tribal AUC business license). Any penalties, orders or decisions of either the CCB or CCO are enforceable by the Tribal Court, which has jurisdiction over any and all matters arising under this Ordinance. The penalties authorized in Sec. 18.02 - 18.07 are in addition to any criminal or civil penalties that may be imposed pursuant to other applicable laws or rules.</text>
+        <text>The CCO may impose penalties on licensee for license violations and penalties upon non-compliant cannabis businesses (i.e., those operating without obtaining a Tribal AUC business license). Any penalties, orders or decisions of either the CCB or CCO are enforceable by the Tribal Court, which has jurisdiction over any and all matters arising under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>. The penalties authorized in Sec. 18.02 - 18.07 are in addition to any criminal or civil penalties that may be imposed pursuant to other applicable laws or rules.</text>
       </section>
       <section>
-        <num>18.02</num>
+        <codify:insert path="18" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.690"/>
+        <num codify:value="15.02.690">18.02</num>
         <heading>Monetary Penalties</heading>
         <para>
           <num>(a)</num>
@@ -2337,39 +2550,46 @@
         </para>
       </section>
       <section>
-        <num>18.03</num>
+        <codify:insert path="18" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.700"/>
+        <num codify:value="15.02.700">18.03</num>
         <heading>License Suspension</heading>
         <text>A licensee whose license has been suspended may not, for the duration of the period of suspension, engage in any activities relating to the operation of the cannabis business.</text>
       </section>
       <section>
-        <num>18.04</num>
+        <codify:insert path="18" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.710"/>
+        <num codify:value="15.02.710">18.04</num>
         <heading>License Revocation</heading>
         <text>A licensee whose license has been revoked shall cease immediately all activities relating to the operation of the cannabis business the licensee was previously licensed to operate and shall ensure that all adult use cannabis and adult use cannabis products in the possession of the licensee are forfeited to the CCO for destruction.</text>
       </section>
       <section>
-        <num>18.05</num>
+        <codify:insert path="18" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.720"/>
+        <num codify:value="15.02.720">18.05</num>
         <heading>Cease and Desist Orders</heading>
-        <text>The CCO may issue cease and desist orders upon any persons who operate any AUC businesses without a Tribal license or upon licensees who operate in violation of this Ordinance. Such orders may include a requirement that the person hold cannabis plants, cannabis, or cannabis products in a secure location pending further instruction from the CCO.</text>
+        <text>The CCO may issue cease and desist orders upon any persons who operate any AUC businesses without a Tribal license or upon licensees who operate in violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>. Such orders may include a requirement that the person hold cannabis plants, cannabis, or cannabis products in a secure location pending further instruction from the CCO.</text>
       </section>
       <section>
-        <num>18.06</num>
+        <codify:insert path="18" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.730"/>
+        <num codify:value="15.02.730">18.06</num>
         <heading>Imposition of Monetary Penalty upon Suspension or Revocation</heading>
         <text>In addition to suspending or revoking a licensee's license, the CCO may impose a monetary penalty on the licensee.</text>
       </section>
       <section>
-        <num>18.07</num>
+        <codify:insert path="18" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.740"/>
+        <num codify:value="15.02.740">18.07</num>
         <heading>Order for Destruction of Cannabis or Cannabis Products</heading>
         <text>If the CCO issues a final order imposing a monetary penalty on or a license suspension, revocation of a licensee or operation without a license, the CCO may specify in the order, in addition to any other penalties imposed in the order, that all or a portion of the cannabis or cannabis products in the possession of the licensee or party are not authorized and are subject to destruction. A person subject to a final order directing the destruction of cannabis or cannabis products shall forfeit the cannabis and cannabis products described in the order.</text>
       </section>
       <section>
-        <num>18.08</num>
+        <codify:insert path="18" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.750"/>
+        <num codify:value="15.02.750">18.08</num>
         <heading>Investigation</heading>
         <text>If the CCO is notified by a law enforcement agency that there is a pending investigation of a person subject to an order, the CCO may not destroy any cannabis or cannabis products of that person until the destruction is approved by the law enforcement agency.</text>
       </section>
       <section>
-        <num>18.09</num>
+        <codify:insert path="18" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.760"/>
+        <num codify:value="15.02.760">18.09</num>
         <heading>Voluntary Surrender</heading>
-        <text>The CCO may negotiate the voluntary surrender of a license in combination with or in place of any other penalties under this chapter. The agreement may stipulate a time during which the licensee may not apply for a new license.</text>
+        <text>The CCO may negotiate the voluntary surrender of a license in combination with or in place of any other penalties under this <span codify:value="subchapter">chapter</span>. The agreement may stipulate a time during which the licensee may not apply for a new license.</text>
       </section>
     </container>
     <container>
@@ -2377,17 +2597,20 @@
       <num>19</num>
       <heading>GROWING PLANTS FOR PERSONAL USE</heading>
       <section>
-        <num>19.01</num>
+        <codify:insert path="19" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.770"/>
+        <num codify:value="15.02.770">19.01</num>
         <heading>Personal Cannabis Plants</heading>
         <text>Adult tribal members may grow and possess up to six (6) mature cannabis plants and six (6) immature plants within his/her private residence for personal use.</text>
       </section>
       <section>
-        <num>19.02</num>
+        <codify:insert path="19" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.780"/>
+        <num codify:value="15.02.780">19.02</num>
         <heading>Eligibility</heading>
         <text>Tribal members must be 21 years old or older.</text>
       </section>
       <section>
-        <num>19.03</num>
+        <codify:insert path="19" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.790"/>
+        <num codify:value="15.02.790">19.03</num>
         <heading>Requirements for Personal Plant Grow</heading>
         <para>
           <num>(a)</num>
@@ -2420,28 +2643,34 @@
       <num>20</num>
       <heading>MISCELLANEOUS</heading>
       <section>
-        <num>20.01</num>
+        <codify:insert path="20" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.800"/>
+        <num codify:value="15.02.800">20.01</num>
         <heading>Sovereign Immunity</heading>
-        <text>Nothing in this Ordinance shall be interpreted as waiving or diminishing the sovereign immunity of the Saint Regis Mohawk Tribe or its subordinate entities, agencies, officers, agents, employees, instrumentalities, or authorize in any form a prospective waiver of such sovereign immunity.</text>
+        <text>Nothing in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> shall be interpreted as waiving or diminishing the sovereign immunity of the Saint Regis Mohawk Tribe or its subordinate entities, agencies, officers, agents, employees, instrumentalities, or authorize in any form a prospective waiver of such sovereign immunity.</text>
       </section>
       <section>
-        <num>20.02</num>
+        <codify:insert path="20" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.810"/>
+        <num codify:value="15.02.810">20.02</num>
         <heading>Regulations</heading>
-        <text>The CCO and CCB may issue regulations as appropriate for the proper administration of this Ordinance and will be processed following the Tribal Procedures Act and include notice to, and review by, the Community.</text>
+        <text>The CCO and CCB may issue regulations as appropriate for the proper administration of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> and will be processed following the Tribal Procedures Act and include notice to, and review by, the Community.</text>
       </section>
       <section>
-        <num>20.03</num>
+        <codify:insert path="20" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.820"/>
+        <num codify:value="15.02.820">20.03</num>
         <heading>Effective Date</heading>
-        <text>This Ordinance shall be effective upon approval by the Tribal Council.</text>
+        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">This Ordinance</code-cite> shall be effective upon approval by the Tribal Council.</text>
       </section>
       <section>
-        <num>20.04</num>
+        <codify:insert path="20" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.830"/>
+        <num codify:value="15.02.830">20.04</num>
         <heading>Amendments</heading>
-        <text>This Ordinance may be amended by the Tribal Council and shall be processed following the Tribal Procedure Act and include notice to, and review by, the Community. Any changes to fees, fee structure, monetary penalties may be made by the CCO in consultation with and with the approval of the CCB and Tribal Council without notice to, and review by, the Community.</text>
+        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">This Ordinance</code-cite> may be amended by the Tribal Council and shall be processed following the Tribal Procedure Act and include notice to, and review by, the Community. Any changes to fees, fee structure, monetary penalties may be made by the CCO in consultation with and with the approval of the CCB and Tribal Council without notice to, and review by, the Community.</text>
       </section>
       <section>
-        <num>20.05</num>
-        <heading>Severability. the Provisions of This Ordinance Shall Be Severable and If Any Part or Provision Shall Be Held Void by Any Court of Competent Jurisdiction, the Decision of the Court so Holding Shall Not Affect or Impair Any of the Remaining Parts or Provisions of This Ordinance</heading>
+        <codify:insert path="20" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.840"/>
+        <num codify:value="15.02.840">20.05</num>
+        <heading>Severability</heading>
+        <text>The Provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">This Ordinance</code-cite> Shall Be Severable and If Any Part or Provision Shall Be Held Void by Any Court of Competent Jurisdiction, the Decision of the Court so Holding Shall Not Affect or Impair Any of the Remaining Parts or Provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">This Ordinance</code-cite></text>
       </section>
     </container>
   </attachment>

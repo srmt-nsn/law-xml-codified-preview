@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2021-08">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2021-08" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2021-08</num>
   <heading>Adopt the Tribal Hemp Regulations</heading>
   <meta>
@@ -85,17 +85,20 @@
     </text>
   </procedural-data>
   <attachment id="law">
+    <codified:at path="15.01"/>
     <heading>Saint Regis Mohawk Tribe Hemp Production Regulations</heading>
-    <para>
-      <num>I.</num>
-      <text>
+    <para codify:tag="section">
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.01.010"/>
+      <num codify:value="15.01.010">I.</num>
+      <text codify:tag="heading" codify:value="Title">
         <strong>TITLE</strong>
       </text>
-      <text>These regulations shall be known and cited as the "Saint Regis Mohawk Tribe Hemp Production Regulations".</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">These regulations</code-cite> shall be known and cited as the "Saint Regis Mohawk Tribe Hemp Production Regulations".</text>
     </para>
-    <para>
-      <num>II.</num>
-      <text>
+    <para codify:tag="section">
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.01.020"/>
+      <num codify:value="15.01.020">II.</num>
+      <text codify:tag="heading" codify:value="Purpose, Authority and Jurisdiction">
         <strong>PURPOSE, AUTHORITY AND JURISDICTION</strong>
       </text>
       <para>
@@ -104,21 +107,22 @@
       </para>
       <para>
         <num>B.</num>
-        <text>Authority to adopt these Regulations derives from the Saint Regis Mohawk Tribe's ("Tribe") inherent sovereignty to regulate activities within Mohawk Tribal Territory that includes the authority to regulate hemp production and the Agricultural Improvement Act of 2018, Pub. L. 115-334, December 20, 2018, 132 Stat. 4490 ("Farm Bill") and the U.S. Department of Agriculture's ("USDA") Final Rule (January 19, 2021), 86 FR 5596, recognizing a tribe's right to assume primary authority over hemp production.</text>
+        <text>Authority to adopt <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these Regulations</code-cite> derives from the Saint Regis Mohawk Tribe's ("Tribe") inherent sovereignty to regulate activities within Mohawk Tribal Territory that includes the authority to regulate hemp production and the Agricultural Improvement Act of 2018, Pub. L. 115-334, December 20, 2018, 132 Stat. 4490 ("Farm Bill") and the U.S. Department of Agriculture's ("USDA") Final Rule (January 19, 2021), 86 FR 5596, recognizing a tribe's right to assume primary authority over hemp production.</text>
       </para>
       <para>
         <num>C.</num>
         <text>The Tribe's jurisdiction, as recognized in the USDA Final Rule, upon approval by USDA, extends to production of hemp with the Tribe's territory regardless of the extent of the Tribe's inherent regulatory authority.</text>
       </para>
     </para>
-    <para>
-      <num>III.</num>
-      <text>
+    <para codify:tag="section">
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.01.030"/>
+      <num codify:value="15.01.030">III.</num>
+      <text codify:tag="heading" codify:value="Definitions">
         <strong>DEFINITIONS</strong>
       </text>
       <para>
         <num>A.</num>
-        <text>The following terms and phrases used in these Regulations are arranged in alphabetical order. More detailed definitions of some technical terms are contained in the USDA Final Rule, Subchapter A which is adopted and incorporated by reference in these Regulations.</text>
+        <text>The following terms and phrases used in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these Regulations</code-cite> are arranged in alphabetical order. More detailed definitions of some technical terms are contained in the USDA Final Rule, Subchapter A which is adopted and incorporated by reference in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these Regulations</code-cite>.</text>
         <para>
           <num>1.</num>
           <text>"Acceptable hemp THC level" is when the application of the measurement of uncertainty to the reported delta-9 tetrahydrocannabinol content concentration level on a dry weight basis produces a distribution or range that includes 0.3% or less. For example, if the reported delta-9 tetrahydrocannabinol content concentration level on a dry weight basis is 0.35% and the measurement of uncertainty is +/- 0.06%, the measured delta-9 tetrahydrocannabinol content concentration level on a dry weight basis for this sample ranges from 0.29% to 0.41%. Because 0.3% is within the distribution or range, the sample is within the acceptable hemp THC level for plan compliance. This definition of "acceptable hemp THC level" affects neither the statutory definition of hemp, 7 U.S.C. § 1639o (1), in the 2018 Farm Bill nor the definition of "marihuana," 21 U.S.C. § 802(16), in the CSA.</text>
@@ -133,7 +137,7 @@
         </para>
         <para>
           <num>4.</num>
-          <text>"Conviction" means any plea of guilty or nolo contendere, or any finding of guilt, except when the finding of guilt is subsequently overturned on appeal, pardoned, or expunged. For purposes of these Regulations, a conviction is expunged when the conviction is removed from the individual's criminal history record and there are no legal disabilities or restrictions associated with the expunged conviction, other than the fact that the conviction may be used for sentencing purposes for subsequent convictions. In addition, where an individual is allowed to withdraw an original plea of guilty or nolo contendere and enter a plea of not guilty and the case is subsequently dismissed, the individual is no longer considered to have a conviction.</text>
+          <text>"Conviction" means any plea of guilty or nolo contendere, or any finding of guilt, except when the finding of guilt is subsequently overturned on appeal, pardoned, or expunged. For purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these Regulations</code-cite>, a conviction is expunged when the conviction is removed from the individual's criminal history record and there are no legal disabilities or restrictions associated with the expunged conviction, other than the fact that the conviction may be used for sentencing purposes for subsequent convictions. In addition, where an individual is allowed to withdraw an original plea of guilty or nolo contendere and enter a plea of not guilty and the case is subsequently dismissed, the individual is no longer considered to have a conviction.</text>
         </para>
         <para>
           <num>5.</num>
@@ -217,7 +221,7 @@
         </para>
         <para>
           <num>25.</num>
-          <text>"Negligence" means the failure to exercise the level of care that a reasonably prudent person would exercise in complying with these Regulations.</text>
+          <text>"Negligence" means the failure to exercise the level of care that a reasonably prudent person would exercise in complying with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these Regulations</code-cite>.</text>
         </para>
         <para>
           <num>26.</num>
@@ -225,7 +229,7 @@
         </para>
         <para>
           <num>27.</num>
-          <text>"Produce" means to grow hemp plants for market, or for cultivation for market, in the United States. For purposes of these Regulations it also includes, but is not limited to, cultivation, extraction, obtaining seeds, handling hemp, storage, transportation and shipment of hemp to market.</text>
+          <text>"Produce" means to grow hemp plants for market, or for cultivation for market, in the United States. For purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these Regulations</code-cite> it also includes, but is not limited to, cultivation, extraction, obtaining seeds, handling hemp, storage, transportation and shipment of hemp to market.</text>
         </para>
         <para>
           <num>28.</num>
@@ -261,9 +265,10 @@
         </para>
       </para>
     </para>
-    <para>
-      <num>IV.</num>
-      <text>
+    <para codify:tag="section">
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.01.040"/>
+      <num codify:value="15.01.040">IV.</num>
+      <text codify:tag="heading" codify:value="Tribal Hemp Compliance Office">
         <strong>TRIBAL HEMP COMPLIANCE OFFICE</strong>
       </text>
       <para>
@@ -271,7 +276,7 @@
         <text><u>Establishment of Office</u>.</text>
         <para>
           <num>1.</num>
-          <text>The Tribe hereby establishes a Hemp Compliance Office ("HCO") within the Tribe's government structure to regulate hemp production and administer these Regulations.</text>
+          <text>The Tribe hereby establishes a Hemp Compliance Office ("HCO") within the Tribe's government structure to regulate hemp production and administer <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these Regulations</code-cite>.</text>
         </para>
       </para>
       <para>
@@ -285,7 +290,7 @@
         </para>
         <para>
           <num>2.</num>
-          <text>Develop policies, procedures, protocols and forms necessary to carry out these Regulations.</text>
+          <text>Develop policies, procedures, protocols and forms necessary to carry out <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these Regulations</code-cite>.</text>
         </para>
         <para>
           <num>3.</num>
@@ -319,7 +324,7 @@
         </text>
         <para>
           <num>1.</num>
-          <text>The HCO shall make all final administrative decisions under these Regulations including, but not limited to, approval and denial of license applications, renewal and non-renewal of licenses, revocation or suspension of licenses and issuing administrative orders to enforce these Regulations.</text>
+          <text>The HCO shall make all final administrative decisions under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these Regulations</code-cite> including, but not limited to, approval and denial of license applications, renewal and non-renewal of licenses, revocation or suspension of licenses and issuing administrative orders to enforce <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these Regulations</code-cite>.</text>
         </para>
         <para>
           <num>2.</num>
@@ -365,9 +370,10 @@
         </para>
       </para>
     </para>
-    <para>
-      <num>V.</num>
-      <text>
+    <para codify:tag="section">
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.01.050"/>
+      <num codify:value="15.01.050">V.</num>
+      <text codify:tag="heading" codify:value="Hemp Licenses">
         <strong>HEMP LICENSES</strong>
       </text>
       <para>
@@ -448,7 +454,7 @@
           <text>As part of the licensing process the producer shall execute a License Agreement and agree, at a minimum to:</text>
           <para>
             <num>(a)</num>
-            <text>Comply with all requirements in these regulations and all orders issued by the HCO with the understanding that failure to comply shall constitute grounds for the suspension or termination of a license and require the HCO to report such failure to the USDA, or potentially, a law enforcement agency for further action.</text>
+            <text>Comply with all requirements in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these regulations</code-cite> and all orders issued by the HCO with the understanding that failure to comply shall constitute grounds for the suspension or termination of a license and require the HCO to report such failure to the USDA, or potentially, a law enforcement agency for further action.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -464,7 +470,7 @@
           </para>
           <para>
             <num>(e)</num>
-            <text>Agree to forfeiture and disposal or remediation, without compensation, of hemp that is produced in violation of these Regulations.</text>
+            <text>Agree to forfeiture and disposal or remediation, without compensation, of hemp that is produced in violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these Regulations</code-cite>.</text>
           </para>
           <para>
             <num>(f)</num>
@@ -484,7 +490,7 @@
           </para>
           <para>
             <num>(j)</num>
-            <text>Agree to pay all fees imposed under these Regulations.</text>
+            <text>Agree to pay all fees imposed under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these Regulations</code-cite>.</text>
           </para>
           <para>
             <num>(k)</num>
@@ -517,9 +523,10 @@
         </para>
       </para>
     </para>
-    <para>
-      <num>VI.</num>
-      <text>
+    <para codify:tag="section">
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.01.060"/>
+      <num codify:value="15.01.060">VI.</num>
+      <text codify:tag="heading" codify:value="Sampling and Inspections">
         <strong>SAMPLING AND INSPECTIONS</strong>
       </text>
       <para>
@@ -595,13 +602,14 @@
         </text>
         <para>
           <num>1.</num>
-          <text>The HCO shall conduct annual inspections of a random sample of no less than 10% of all producers to verify that hemp is not produced in violation of these Regulations.</text>
+          <text>The HCO shall conduct annual inspections of a random sample of no less than 10% of all producers to verify that hemp is not produced in violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these Regulations</code-cite>.</text>
         </para>
       </para>
     </para>
-    <para>
-      <num>VII.</num>
-      <text>
+    <para codify:tag="section">
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.01.070"/>
+      <num codify:value="15.01.070">VII.</num>
+      <text codify:tag="heading" codify:value="Testing">
         <strong>TESTING</strong>
       </text>
       <para>
@@ -615,11 +623,11 @@
         </para>
         <para>
           <num>2.</num>
-          <text>The testing procedure will include a validated testing methodology that uses post- decarboxylation or other similarly reliable methods. The testing methodology must consider the potential conversion of THCA in hemp into THC and the test result must report the total available THC derived from the sum of the THC and THCA content. Testing methodologies meeting the requirements of this Section include, but are not limited to, gas or liquid chromatography with detection. The total THC concentration level shall be determined and reported on a dry weight basis.</text>
+          <text>The testing procedure will include a validated testing methodology that uses post- decarboxylation or other similarly reliable methods. The testing methodology must consider the potential conversion of THCA in hemp into THC and the test result must report the total available THC derived from the sum of the THC and THCA content. Testi.g methodologies meeting the requirements of <code-cite path="|attachments|law|VII." doc="Saint Regis Mohawk Tribe Res. No. 2021-08">this Section</code-cite> include, but are not limited to, gas or liquid chromatography with detection. The total THC concentration level shall be determined and reported on a dry weight basis.</text>
         </para>
         <para>
           <num>3.</num>
-          <text>Any test of a representative sample resulting in higher than the acceptable hemp THC level shall be conclusive evidence that the lot represented by the sample is not in compliance with this part and shall be disposed of or remediated in accordance with Section VIII.</text>
+          <text>Any test of a representative sample resulting in higher than the acceptable hemp THC level shall be conclusive evidence that the lot represented by the sample is not in compliance with this part and shall be disposed of or remediated in accordance with <code-cite path="|attachments|law|VIII." doc="Saint Regis Mohawk Tribe Res. No. 2021-08">Section VIII</code-cite>.</text>
         </para>
         <para>
           <num>4.</num>
@@ -664,7 +672,7 @@
           </para>
           <para>
             <num>(h)</num>
-            <text>After December 31, 2022, the Tribe shall require that only laboratories registered with the DEA may conduct testing under these Regulations.</text>
+            <text>After December 31, 2022, the Tribe shall require that only laboratories registered with the DEA may conduct testing under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these Regulations</code-cite>.</text>
           </para>
         </para>
         <para>
@@ -673,13 +681,14 @@
         </para>
         <para>
           <num>3.</num>
-          <text>Laboratories shall only report formal test results that are used to determine compliance under these Regulations. Test results from informal testing conducted throughout the growing season shall not be reported to USDA.</text>
+          <text>Laboratories shall only report formal test results that are used to determine compliance under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these Regulations</code-cite>. Test results from informal testing conducted throughout the growing season shall not be reported to USDA.</text>
         </para>
       </para>
     </para>
-    <para>
-      <num>VIII.</num>
-      <text>
+    <para codify:tag="section">
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.01.080"/>
+      <num codify:value="15.01.080">VIII.</num>
+      <text codify:tag="heading" codify:value="Disposal and Remediation">
         <strong>DISPOSAL AND REMEDIATION</strong>
       </text>
       <para>
@@ -723,9 +732,10 @@
         </para>
       </para>
     </para>
-    <para>
-      <num>IX.</num>
-      <text>
+    <para codify:tag="section">
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.01.090"/>
+      <num codify:value="15.01.090">IX.</num>
+      <text codify:tag="heading" codify:value="Violations and Enforcement">
         <strong>VIOLATIONS AND ENFORCEMENT</strong>
       </text>
       <para>
@@ -751,7 +761,7 @@
         </para>
         <para>
           <num>5.</num>
-          <text>Lots that do not meet the acceptable hemp THC level are subject to Sections B-E, below.</text>
+          <text>Lots that do not meet the acceptable hemp THC level are subject to <code-cite path="|attachments|law|IX.|B." doc="Saint Regis Mohawk Tribe Res. No. 2021-08">Sections B</code-cite>-<code-cite path="|attachments|law|IX.|E." doc="Saint Regis Mohawk Tribe Res. No. 2021-08">E</code-cite>, below.</text>
         </para>
         <para>
           <num>6.</num>
@@ -783,7 +793,7 @@
         </text>
         <para>
           <num>1.</num>
-          <text>Violations of this part shall be subject to enforcement in accordance with the terms of this section.</text>
+          <text>Violations of this part shall be subject to enforcement in accordance with the terms of <code-cite path="|attachments|law|IX." doc="Saint Regis Mohawk Tribe Res. No. 2021-08">this section</code-cite>.</text>
           <para>
             <num>(a)</num>
             <text>Negligent violations. Hemp producers are not subject to more than one negligent violation per calendar year. A hemp producer shall be subject to enforcement for negligently:</text>
@@ -797,7 +807,7 @@
             </para>
             <para>
               <num>(3)</num>
-              <text>Producing cannabis exceeding the acceptable hemp THC level. Hemp producers do not commit a negligent violation under this paragraph (a) if they make reasonable efforts to grow hemp and the cannabis does not have a total THC concentration of more than 1.0 percent on a dry weight basis.</text>
+              <text>Producing cannabis exceeding the acceptable hemp THC level. Hemp producers do not commit a negligent violation under <code-cite path="|attachments|law|IX.|C.|1.|(a)" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">this paragraph (a)</code-cite> if they make reasonable efforts to grow hemp and the cannabis does not have a total THC concentration of more than 1.0 percent on a dry weight basis.</text>
             </para>
           </para>
           <para>
@@ -841,7 +851,7 @@
             </para>
             <para>
               <num>(3)</num>
-              <text>Paragraphs (b) and (c) of this Section shall not apply to culpable violations.</text>
+              <text>Paragraphs <span codify:value="(a)(2) and (a)(3)">(b) and (c)</span> of <code-cite path="|attachments|law|IX." doc="Saint Regis Mohawk Tribe Res. No. 2021-08">this Section</code-cite> shall not apply to culpable violations.</text>
             </para>
           </para>
         </para>
@@ -873,7 +883,7 @@
         </para>
         <para>
           <num>4.</num>
-          <text>A producer whose license has been suspended may appeal that decision in accordance with Section IV, D.</text>
+          <text>A producer whose license has been suspended may appeal that decision in accordance with <code-cite path="|attachments|law|IV.|D." doc="Saint Regis Mohawk Tribe Res. No. 2021-08">Section IV, D.</code-cite></text>
         </para>
         <para>
           <num>5.</num>
@@ -907,9 +917,10 @@
         </para>
       </para>
     </para>
-    <para>
-      <num>X.</num>
-      <text>
+    <para codify:tag="section">
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.01.100"/>
+      <num codify:value="15.01.100">X.</num>
+      <text codify:tag="heading" codify:value="Reporting and Recordkeeping">
         <strong>REPORTING AND RECORDKEEPING</strong>
       </text>
       <para>
@@ -919,18 +930,18 @@
         </text>
         <para>
           <num>1.</num>
-          <text>The Tribe will submit to the USDA, by the first of each month, a report providing the contact information and the status of licenses or other authorization issued for each producer covered under these Regulations. If the first of the month falls on a weekend or holiday, the report is due by the first business day following the due date. The report will be submitted using a digital format compatible with USDA's information sharing systems, whenever possible.</text>
+          <text>The Tribe will submit to the USDA, by the first of each month, a report providing the contact information and the status of licenses or other authorization issued for each producer covered under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these Regulations</code-cite>. If the first of the month falls on a weekend or holiday, the report is due by the first business day following the due date. The report will be submitted using a digital format compatible with USDA's information sharing systems, whenever possible.</text>
         </para>
         <para>
           <num>2.</num>
           <text>The Tribe's report will contain the following information:</text>
           <para>
             <num>(a)</num>
-            <text>For each new producer who is an individual and is licensed or authorized under these Regulations, the full name of the individual, license or authorization identifier, business address, telephone number, and email address (if available).</text>
+            <text>For each new producer who is an individual and is licensed or authorized under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these Regulations</code-cite>, the full name of the individual, license or authorization identifier, business address, telephone number, and email address (if available).</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>For each new producer that is an entity and is licensed or authorized under these regulations, the full name of the entity, the principal business location address, license or authorization identifier, and the full name, title, and email address (if available) of each employee for whom the entity is required to submit a criminal history record report.</text>
+            <text>For each new producer that is an entity and is licensed or authorized under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these regulations</code-cite>, the full name of the entity, the principal business location address, license or authorization identifier, and the full name, title, and email address (if available) of each employee for whom the entity is required to submit a criminal history record report.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -1105,9 +1116,10 @@
         </para>
       </para>
     </para>
-    <para>
-      <num>XI.</num>
-      <text>
+    <para codify:tag="section">
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.01.110"/>
+      <num codify:value="15.01.110">XI.</num>
+      <text codify:tag="heading" codify:value="Miscellaneous">
         <strong>MISCELLANEOUS</strong>
       </text>
       <para>
@@ -1117,7 +1129,7 @@
         </text>
         <para>
           <num>1.</num>
-          <text>The Tribe certifies that it has the resources and personnel to carry out the practices and procedures described in these Regulations.</text>
+          <text>The Tribe certifies that it has the resources and personnel to carry out the practices and procedures described in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these Regulations</code-cite>.</text>
         </para>
       </para>
       <para>
@@ -1127,7 +1139,7 @@
         </text>
         <para>
           <num>1.</num>
-          <text>These Regulations may be amended by the Tribal Council under the provisions of the Tribal Procedures Act that includes notice to, and review by, the Community.</text>
+          <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">These Regulations</code-cite> may be amended by the Tribal Council under the provisions of the Tribal Procedures Act that includes notice to, and review by, the Community.</text>
         </para>
       </para>
       <para>
@@ -1137,7 +1149,7 @@
         </text>
         <para>
           <num>1.</num>
-          <text>These Regulations shall be effective upon it adoption by the Tribal Council and approval by the Secretary of the United States Department of Agriculture.</text>
+          <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">These Regulations</code-cite> shall be effective upon it adoption by the Tribal Council and approval by the Secretary of the United States Department of Agriculture.</text>
         </para>
       </para>
       <para>
@@ -1147,7 +1159,7 @@
         </text>
         <para>
           <num>1.</num>
-          <text>The provisions in these Regulations shall be severable and if any part or provision shall be held void by any Court the decision so holding shall not affect any of the remaining parts.</text>
+          <text>The provisions in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-08">these Regulations</code-cite> shall be severable and if any part or provision shall be held void by any Court the decision so holding shall not affect any of the remaining parts.</text>
         </para>
       </para>
     </para>
