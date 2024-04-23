@@ -14,7 +14,7 @@
     </canonical-urls>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="srmt-nsn/law-xml" commit="f4e258f6ac9f06cff1a277c97c6c6fef6966bd49"/>
+        <repository name="srmt-nsn/law-xml" commit="e81299b3a153bc24e03175ae7614f31ac6a0c7ba"/>
       </repositories>
       <platform version="2.14.0" reproducible="false"/>
       <build-date>2024-04-23</build-date>

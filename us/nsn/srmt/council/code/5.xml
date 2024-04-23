@@ -1,114 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2020-09" codify:doc="Saint Regis Mohawk Tribal Code of Law">
-  <num>2020-09</num>
-  <heading>Amend Saint Regis Mohawk Tribe Solid Waste Management Code</heading>
-  <meta>
-    <stub/>
-    <effective>2020-02-26</effective>
-    <history>
-      <adopted>2020-02-26</adopted>
-    </history>
-    <citations>
-      <citation type="res" url="./adopted/2020-09.pdf">Res. No. 2020-09</citation>
-    </citations>
-  </meta>
-  <recitals>
-    <recital>
-      <conjunction>WHEREAS,</conjunction>
-      <text>the Saint Regis Mohawk Tribal Council (the "Tribal Council") is the duly recognized governing body of the Saint Regis Mohawk Tribe (the "Tribe") and is responsible for the health, safety, education and welfare of all community members; and</text>
-    </recital>
-    <recital>
-      <conjunction>WHEREAS,</conjunction>
-      <text>the Tribe recognizes that it has the inherent authority to manage and regulate the storage, collection, transportation, handling, treatment and disposal of solid wastes in a manner that best protects Mother Earth, her natural resources, and the health, welfare, and economic security of this generation of the Mohawk people and the generations to follow; and</text>
-    </recital>
-    <recital>
-      <conjunction>WHEREAS,</conjunction>
-      <text>in TCR 2002-25, the Tribal Council adopted the Solid Waste Management Code (the "Code"), on March 1, 2002; and</text>
-    </recital>
-    <recital>
-      <conjunction>WHEREAS,</conjunction>
-      <text>the Tribe issued a draft amendment to the Code for a thirty-day comment period, notifying the public of the following proposed updates to the Code:</text>
-      <text>
-        <ul proof="needed">
-          <li>Defined duties of the Compliance Department to investigate credible complaints and undertake enforcement action(s);</li>
-          <li>Updated penalties for non-compliance with the Code;</li>
-          <li>Added operational requirements for the SRMT Solid Waste Transfer Station; and</li>
-        </ul>
-      </text>
-    </recital>
-    <recital>
-      <conjunction>WHEREAS,</conjunction>
-      <text>the Solid Waste Program addressed or resolved submitted comments in the final proposed Code following the conclusion of the comment period on February 2, 2020, and now recommends the Tribal Council adopt the amendment to the Solid Waste Management Code, as attached.</text>
-    </recital>
-    <recital>
-      <conjunction>NOW, THEREFORE, BE IT RESOLVED:</conjunction>
-      <text/>
-      <para>
-        <num>1.</num>
-        <text>The Saint Regis Mohawk Tribal Council hereby approves and adopts the amendment to the Tribal Solid Waste Management Code, as attached hereto, effective the date of this Resolution; and</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>This Resolution supersedes TCR 2002-25.</text>
-      </para>
-    </recital>
-  </recitals>
-  <procedural-data>
-    <text>SAINT REGIS MOHAWK TRIBAL COUNCIL</text>
-    <text>
-      <table class="layout-table">
-        <tbody>
-          <tr>
-            <td>_____________________</td>
-            <td class="text-indent-2">_____________________</td>
-            <td class="text-indent-2">_____________________</td>
-          </tr>
-          <tr>
-            <td>Michael Conners</td>
-            <td class="text-indent-2">Eric Thompson</td>
-            <td class="text-indent-2">Beverly Cook</td>
-          </tr>
-          <tr>
-            <td>Tribal Chief</td>
-            <td class="text-indent-2">Tribal Chief</td>
-            <td class="text-indent-2">Tribal Chief</td>
-          </tr>
-        </tbody>
-      </table>
-    </text>
-    <text><strong>CERTIFICATION</strong>: This is to certify that the Saint Regis Mohawk Tribal Council pursuant to the authority vested therein duly passed the above resolution.</text>
-    <text>
-      <table class="layout-table">
-        <tbody>
-          <tr>
-            <td>___________________________________</td>
-            <td class="text-indent-4">February 26, 2020</td>
-          </tr>
-          <tr>
-            <td>Summer Bero, Tribal Clerk</td>
-            <td class="text-indent-4">Date</td>
-          </tr>
-        </tbody>
-      </table>
-    </text>
-  </procedural-data>
-  <attachment id="law">
-    <codified:at path="5.03"/>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Saint Regis Mohawk Tribal Code of Law">
+  <prefix>Title</prefix>
+  <num>5</num>
+  <heading>Environment</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5.03</num>
     <heading>Solid Waste Management Code</heading>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.03.010"/>
-      <num codify:value="5.03.010">1</num>
+      <num>5.03.010</num>
       <heading/>
       <para>
-        <num>1.1</num>
+        <num>(a)</num>
         <text>
           <strong>INTRODUCTION</strong>
         </text>
         <text>It is the tradition of the Mohawk People to look generations forward in planning. It is with this foresight that the Saint Regis Mohawk Tribe Solid Waste Management Code ("Code") is intended.</text>
-        <text>Solid waste disposal practices need to be maintained in good harmony with Mother Earth since these practices will have an effect on the future generations inheriting this land. Adherence to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite> will ensure that best practices for solid waste management are maintained.</text>
+        <text>Solid waste disposal practices need to be maintained in good harmony with Mother Earth since these practices will have an effect on the future generations inheriting this land. Adherence to <cite path="|5.03">this chapter</cite> will ensure that best practices for solid waste management are maintained.</text>
       </para>
       <para>
-        <num>1.2</num>
+        <num>(b)</num>
         <text>
           <strong>AUTHORITY</strong>
         </text>
@@ -116,12 +27,12 @@
         <text>The Tribe retains the inherent sovereign power to exercise civil authority and jurisdiction over the conduct of both Tribal and non-Tribal members on all lands within the Saint Regis Mohawk Indian Reservation ("Reservation"). These civil actions will be taken when necessary to maintain the environment, natural resources, public health, safety, welfare, political integrity and economic security of the Tribe.</text>
       </para>
       <para>
-        <num>1.3</num>
+        <num>(c)</num>
         <text>
           <strong>PURPOSE</strong>
         </text>
-        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">This Code</code-cite> does not allow for the improper disposal of any Solid Waste on the Reservation. Improper disposal or creating an Open Dump of any Solid Waste materials or recyclables, whether on the side of the road, in the Community Recycling Depot, or anywhere that they should not be disposed of, will be considered a violation of the Code. Disposal of such Solid Waste or creating an Open Dump site is different than someone who litters as outlined in the Saint Regis Mohawk Tribe Traffic Code Section III(5)(f) (TCR 2018-09 or as amended).</text>
-        <text>It is the intent of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite> to create a comprehensive integrated waste management policy that requires all solid waste to be disposed of properly at management facilities on and off the Reservation. <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">This Code</code-cite> encourages Mohawk People to reduce, recycle and reuse those materials that do not belong in the waste stream. Education of the community through diverse media has been a continuing process, aimed at eliminating the poor solid waste disposal practices of the past.</text>
+        <text><cite path="|5.03">This chapter</cite> does not allow for the improper disposal of any Solid Waste on the Reservation. Improper disposal or creating an Open Dump of any Solid Waste materials or recyclables, whether on the side of the road, in the Community Recycling Depot, or anywhere that they should not be disposed of, will be considered a violation of the Code. Disposal of such Solid Waste or creating an Open Dump site is different than someone who litters as outlined in the Saint Regis Mohawk Tribe Traffic Code Section III(5)(f) (TCR 2018-09 or as amended).</text>
+        <text>It is the intent of <cite path="|5.03">this chapter</cite> to create a comprehensive integrated waste management policy that requires all solid waste to be disposed of properly at management facilities on and off the Reservation. <cite path="|5.03">This chapter</cite> encourages Mohawk People to reduce, recycle and reuse those materials that do not belong in the waste stream. Education of the community through diverse media has been a continuing process, aimed at eliminating the poor solid waste disposal practices of the past.</text>
         <text>The Code intends to:</text>
         <para>
           <num>(1)</num>
@@ -148,585 +59,591 @@
           <text>Provide and promote Tribal waste management efficiency and services within the Reservation.</text>
         </para>
       </para>
+      <annotations>
+        <annotation app="2020-02-26" doc="Saint Regis Mohawk Tribe Res. No. 2020-09" eff="2020-02-26" path="attachments|law|1" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.03.020"/>
-      <num codify:value="5.03.020">2</num>
+      <num>5.03.020</num>
       <heading/>
       <para>
-        <num>2.1</num>
+        <num>(a)</num>
         <text>
           <strong>DEFINITIONS</strong>
         </text>
-        <text>Unless otherwise provided or the context requires another definition, the definitions set forth in <code-cite path="§2|2.1" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this section</code-cite> shall apply to the terms used throughout <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>.</text>
+        <text>Unless otherwise provided or the context requires another definition, the definitions set forth in <cite path="|5.03.020|(a)">Section 5.03.020(a)</cite> shall apply to the terms used throughout <cite path="|5.03">this chapter</cite>.</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>
             <u>Closure</u>
           </text>
           <text>The termination of the receiving, handling, recycling, treatment, composting, or disposal of solid wastes at a management facility. It shall include all operations necessary to prepare the management facility for post-closure maintenance.</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>
             <u>Conditionally Exempt Small Quantity Generators</u>
           </text>
           <text>Facilities that produce less than 100 kg (220.5 lbs.) of hazardous waste, or less than 1 kg (2.205 lbs.) of acutely hazardous waste per calendar month.</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>
             <u>Collection</u>
           </text>
           <text>The act of collecting solid wastes by a SRMT permitted Hauler.</text>
         </para>
         <para>
-          <num>4.</num>
+          <num>(4)</num>
           <text>
             <u>Construction</u>
           </text>
           <text>The erection or building of new structures and the acquisition, replacement, expansion, remodeling, alteration, modernization, or extension of existing structures.</text>
         </para>
         <para>
-          <num>5.</num>
+          <num>(5)</num>
           <text>
             <u>Director</u>
           </text>
           <text>The Director (person in charge) of the Tribe's Environment Division.</text>
         </para>
         <para>
-          <num>6.</num>
+          <num>(6)</num>
           <text>
             <u>Disposal</u>
           </text>
           <text>The discharge, deposit, injection, dumping, spilling, leaking, or placing of any solid waste into or on any land or water so that such solid waste or any constituent thereof may enter the environment or be emitted into the air, or discharged into any waters, including surface waters or ground waters.</text>
         </para>
         <para>
-          <num>7.</num>
+          <num>(7)</num>
           <text>
             <u>Environment Division</u>
           </text>
           <text>The Division of the Tribe whose mission is to preserve, protect, restore, and enhance the community of Akwesasne for the present and future generations.</text>
         </para>
         <para>
-          <num>8.</num>
+          <num>(8)</num>
           <text>
             <u>Farm</u>
           </text>
           <text>A facility that raises or harvests any agricultural or horticultural commodity through the cultivation of the soil, aquaculture product or the raising, shearing, feeding, caring for, training or management of livestock, bee, poultry, fur bearing animals, fish, domestic animals or wildlife.</text>
         </para>
         <para>
-          <num>9.</num>
+          <num>(9)</num>
           <text>
             <u>Financial Mechanism</u>
           </text>
-          <text>A trust fund or other equivalent financial arrangement acceptable to the Environment Division to provide the financial assurances required by <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>.</text>
+          <text>A trust fund or other equivalent financial arrangement acceptable to the Environment Division to provide the financial assurances required by <cite path="|5.03">this chapter</cite>.</text>
         </para>
         <para>
-          <num>10.</num>
+          <num>(10)</num>
           <text>
             <u>Floodplain</u>
           </text>
           <text>Land that would be inundated with floodwater as a result of the occurrence of a 100-year flood.</text>
         </para>
         <para>
-          <num>11.</num>
+          <num>(11)</num>
           <text>
             <u>Groundwater</u>
           </text>
           <text>Water below the land surface in a zone of saturation.</text>
         </para>
         <para>
-          <num>12.</num>
+          <num>(12)</num>
           <text>
             <u>Guidance Document</u>
           </text>
-          <text>A document prepared by the Environment Division that supplements criteria under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>. A guidance document may provide specific technical direction regarding the manner in which an owner or operator shall comply with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>. Guidance documents may be referred to or attached as conditions to permits. Such technical direction must either conform to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>, or be more stringent. A guidance document may also provide direction as to how the Director of the Environment Division interprets the Tribe's solid waste permit program, consistent with Tribal laws and <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>.</text>
+          <text>A document prepared by the Environment Division that supplements criteria under <cite path="|5.03">this chapter</cite>. A guidance document may provide specific technical direction regarding the manner in which an owner or operator shall comply with <cite path="|5.03">this chapter</cite>. Guidance documents may be referred to or attached as conditions to permits. Such technical direction must either conform to <cite path="|5.03">this chapter</cite>, or be more stringent. A guidance document may also provide direction as to how the Director of the Environment Division interprets the Tribe's solid waste permit program, consistent with Tribal laws and <cite path="|5.03">this chapter</cite>.</text>
         </para>
         <para>
-          <num>13.</num>
+          <num>(13)</num>
           <text>
             <u>Hauler</u>
           </text>
           <text>A person or commercial establishment that is in the business of collecting and transporting solid wastes and who has obtained a Tribal permit from the SRMT's Compliance Department ("Compliance Department").</text>
         </para>
         <para>
-          <num>14.</num>
+          <num>(14)</num>
           <text>
             <u>Hazardous Waste</u>
           </text>
           <text>A waste that:</text>
           <para>
-            <num>(a)</num>
+            <num>(A)</num>
             <text>Because of its quantity, concentration, or physical, chemical, or infectious characteristics, may either cause or significantly contribute to an increase in mortality or serious irreversible or incapacitating illness. It may pose a substantial present or potential hazard to human health, living organisms, or the environment when improperly handled, treated, stored, transported, or disposed of; or</text>
           </para>
           <para>
-            <num>(b)</num>
+            <num>(B)</num>
             <text>Is specifically defined to be hazardous or toxic, including but not limited to any substance, material, smoke, gas, particulate matter, or combination thereof. Materials containing asbestos, petroleum or its byproducts, or Polychlorinated Biphenyls (PCBs); or</text>
           </para>
           <para>
-            <num>(c)</num>
+            <num>(C)</num>
             <text>Is hazardous, toxic, ignitable, reactive, or corrosive, and that is defined and regulated as such by the Tribe.</text>
           </para>
         </para>
         <para>
-          <num>15.</num>
+          <num>(15)</num>
           <text>
             <u>Household Hazardous Waste</u>
           </text>
           <text>Chemical products such as paints, solvents or pesticides generated from normal household activities (e.g. routine house and yard maintenance).</text>
         </para>
         <para>
-          <num>16.</num>
+          <num>(16)</num>
           <text>
             <u>Industrial Waste</u>
           </text>
           <text>A subset of solid wastes, which are generated by manufacturing or industrial processes. Such processes may include, but are not limited to the following: electric power generation; fertilizer/agricultural chemicals; inorganic chemicals; iron and steel manufacturing; leather and leather products; nonferrous metals manufacturing/foundries; organic chemicals; plastics and resins manufacturing; pulp and paper industry; rubber and miscellaneous plastic products; stone, glass, clay and concrete products; textile manufacturing; transportation equipment; and water treatment. The forms of such wastes are exemplified by, but not limited to, liquids such as acids, alkalis, caustics, leachate, petroleum (and its derivatives), and processes or treatment wastewaters; sludges which are semi-solid substances resulting from process or treatment operations or residues from storage or use of liquids; solidified chemicals, paints or pigments; and dredge soil, foundry sand, and the end or by- products of incineration or other forms of combustion.</text>
         </para>
         <para>
-          <num>17.</num>
+          <num>(17)</num>
           <text>
             <u>Infectious/Medical Waste</u>
           </text>
           <text>A subset of solid wastes that include but are not limited to the following:</text>
           <para>
-            <num>(a)</num>
+            <num>(A)</num>
             <text>Laboratory wastes, including but not limited to cultures of etiological agents (agents that cause diseases), which pose a substantial threat to health due to their volume and virulence.</text>
           </para>
           <para>
-            <num>(b)</num>
+            <num>(B)</num>
             <text>Pathological specimens, including but not limited to human or animal tissues, blood elements, excreta, and secretions that contain etiologic agents, and attendant disposable fomites.</text>
           </para>
           <para>
-            <num>(c)</num>
+            <num>(C)</num>
             <text>Surgical specimens, including but not limited to human or animal parts and tissues removed surgically, or at autopsy, which in the opinion of the attending physician or veterinarian, contain etiologic agents and attendant disposable fomites.</text>
           </para>
           <para>
-            <num>(d)</num>
+            <num>(D)</num>
             <text>Human dialysis waste materials, including but not limited to arterial lines and dialysate membranes.</text>
           </para>
           <para>
-            <num>(e)</num>
+            <num>(E)</num>
             <text>Carcasses of animals infected with etiological agents that may present a substantial hazard to public health if improperly managed.</text>
           </para>
           <para>
-            <num>(f)</num>
+            <num>(F)</num>
             <text>Equipment, instruments, utensils, or any other material that is likely to transmit etiologic agents or presents a significant danger of infection, because it is contaminated with, or may reasonably be expected to be contaminated with, etiologic agents.</text>
           </para>
         </para>
         <para>
-          <num>18.</num>
+          <num>(18)</num>
           <text>
             <u>Inherently Waste-like Material</u>
           </text>
           <text>A material, such as dioxin-containing wastes, that is always considered a solid waste because of its intrinsic threat to human health and the environment.</text>
         </para>
         <para>
-          <num>19.</num>
+          <num>(19)</num>
           <text>
             <u>Liquid Waste</u>
           </text>
           <text>Waste material that contains free liquid.</text>
         </para>
         <para>
-          <num>20.</num>
+          <num>(20)</num>
           <text>
             <u>Management Facility</u>
           </text>
           <text>All contiguous land and structures, other appurtenances, and improvements on the land used for the management of solid wastes.</text>
         </para>
         <para>
-          <num>21.</num>
+          <num>(21)</num>
           <text>
             <u>Municipal Solid Wastes (MSW)</u>
           </text>
           <text>A subset of solid waste that is defined as durable and non-durable goods, containers and packaging, food wastes, yard trimmings, and miscellaneous organic wastes from residential, commercial, and industrial non-process sources.</text>
         </para>
         <para>
-          <num>22.</num>
+          <num>(22)</num>
           <text>
             <u>MSWLF</u>
           </text>
           <text>Municipal Solid Waste Landfill.</text>
         </para>
         <para>
-          <num>23.</num>
+          <num>(23)</num>
           <text>
             <u>Nuisance</u>
           </text>
           <text>A condition that occurs as a result of the handling, treatment, composting, or disposal of solid waste, which</text>
           <para>
-            <num>(a)</num>
+            <num>(A)</num>
             <text>is injurious to human health or is indecent or offensive to the senses and interferes with the comfortable enjoyment of life or property, and</text>
           </para>
           <para>
-            <num>(b)</num>
+            <num>(B)</num>
             <text>Affects an entire community or neighborhood or any considerable number of persons.</text>
           </para>
         </para>
         <para>
-          <num>24.</num>
+          <num>(24)</num>
           <text>
             <u>100-Year Flood</u>
           </text>
           <text>A flood that has a 1 in 100 chance of being equaled or exceeded in any one (1) year, and it has an average recurrence interval of one hundred (100) years.</text>
         </para>
         <para>
-          <num>25.</num>
+          <num>(25)</num>
           <text>
             <u>Open Burning</u>
           </text>
           <text>Burning of unwanted materials such as paper, trees, brush, leaves, grass, and other debris where smoke and other emissions are released directly into the air. During open burning, air pollutants do not pass through a chimney or stack</text>
         </para>
         <para>
-          <num>26.</num>
+          <num>(26)</num>
           <text>
             <u>Open Dump</u>
           </text>
-          <text>Any management facility or site including roadways and ditches on the Reservation where Solid Waste has been disposed of, which is not a sanitary landfill or transfer station authorized under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>.</text>
+          <text>Any management facility or site including roadways and ditches on the Reservation where Solid Waste has been disposed of, which is not a sanitary landfill or transfer station authorized under <cite path="|5.03">this chapter</cite>.</text>
         </para>
         <para>
-          <num>27.</num>
+          <num>(27)</num>
           <text>
             <u>Operator</u>
           </text>
           <text>The person(s) responsible for the overall operation of a management facility or part of a management facility.</text>
         </para>
         <para>
-          <num>28.</num>
+          <num>(28)</num>
           <text>
             <u>Owner</u>
           </text>
           <text>The person(s) who owns a management facility or part of a management facility.</text>
         </para>
         <para>
-          <num>29.</num>
+          <num>(29)</num>
           <text>
             <u>Permit</u>
           </text>
           <text>An authorization and license issued under the authority of the Compliance Department regulating the collection and transportation of MSW and/or solid waste, or regulating the treatment and disposal of MSW and/or solid waste including the construction and/or operation of a management facility.</text>
         </para>
         <para>
-          <num>30.</num>
+          <num>(30)</num>
           <text>
             <u>Permittee</u>
           </text>
-          <text>A person, hauler, or entity who is authorized and permitted by the Compliance Department to collect and transport MSW and/or solid wastes, or to construct or operate a management facility in compliance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>.</text>
+          <text>A person, hauler, or entity who is authorized and permitted by the Compliance Department to collect and transport MSW and/or solid wastes, or to construct or operate a management facility in compliance with <cite path="|5.03">this chapter</cite>.</text>
         </para>
         <para>
-          <num>31.</num>
+          <num>(31)</num>
           <text>
             <u>Permit Documents</u>
           </text>
-          <text>Permit applications, drafts and final permits, or other documents that include applicable design and management conditions in accordance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>, and the technical and administrative information used to explain the basis of permit conditions, including applicable guidance documents. The unauthorized disposal of any solid waste into the air, land, surface water or groundwater.</text>
+          <text>Permit applications, drafts and final permits, or other documents that include applicable design and management conditions in accordance with <cite path="|5.03">this chapter</cite>, and the technical and administrative information used to explain the basis of permit conditions, including applicable guidance documents. The unauthorized disposal of any solid waste into the air, land, surface water or groundwater.</text>
         </para>
         <para>
-          <num>32.</num>
+          <num>(32)</num>
           <text>
             <u>Person</u>
           </text>
           <text>Any individual, trust, firm, association, partnership, Indian Tribe, tribally chartered corporation, business, or LLC, political subdivision, government agency, industry, public or private corporation, any legal entity or private enterprise. It also includes members of the Tribe, all other non-member Indians, and all non-Indians.</text>
         </para>
         <para>
-          <num>33.</num>
+          <num>(33)</num>
           <text>
             <u>Pollution</u>
           </text>
           <text>The unauthorized disposal of any solid waste into the air, land, surface of the water or groundwater.</text>
         </para>
         <para>
-          <num>34.</num>
+          <num>(34)</num>
           <text>
             <u>Post-Closure Maintenance</u>
           </text>
-          <text>All activities undertaken at a closed management facility to maintain the integrity of containment features and to monitor compliance with applicable performance standards as required under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>.</text>
+          <text>All activities undertaken at a closed management facility to maintain the integrity of containment features and to monitor compliance with applicable performance standards as required under <cite path="|5.03">this chapter</cite>.</text>
         </para>
         <para>
-          <num>35.</num>
+          <num>(35)</num>
           <text>
             <u>Post-Closure Maintenance Period</u>
           </text>
           <text>A period of at least thirty (30) years after closure of a management facility, or Solid Waste Program, a period which ends only after the operator demonstrates to the satisfaction of the Director of the Environment Division that the solid waste contained in such facility no longer poses any threat to human health and the environment.</text>
         </para>
         <para>
-          <num>36.</num>
+          <num>(36)</num>
           <text>
             <u>RCRA (Resource Conservation and Recovery Act)</u>
           </text>
           <text>An Environmental Protection Agency policy, which regulates the generation, transportation and storage of solid and hazardous waste recovery.</text>
         </para>
         <para>
-          <num>37.</num>
+          <num>(37)</num>
           <text>
             <u>Recovery</u>
           </text>
           <text>The reclamation of material, byproducts, or energy from solid waste.</text>
         </para>
         <para>
-          <num>38.</num>
+          <num>(38)</num>
           <text>
             <u>Recycling</u>
           </text>
           <text>The process of separating and collecting solid wastes, their subsequent transformation or remanufacture into usable or marketable products or materials, and the purchase of products made from materials that have already been used in some form.</text>
         </para>
         <para>
-          <num>39.</num>
+          <num>(39)</num>
           <text>
             <u>Reuse</u>
           </text>
           <text>The process of reusing solid wastes for the same purpose that it was originally designed, or using it for a different purpose.</text>
         </para>
         <para>
-          <num>40.</num>
+          <num>(40)</num>
           <text>
             <u>Regulated Hazardous Waste</u>
           </text>
           <text>In RCRA § 1004(5), Congress defined hazardous waste as a solid waste, or combination of solid wastes, which because of its quantity, concentration, or physical, chemical, or infectious characteristics may:</text>
           <para>
-            <num>a.</num>
+            <num>(A)</num>
             <text>Cause, or significantly contribute to, an increase in mortality or an increase in serious irreversible, or incapacitating reversible, illness; or</text>
           </para>
           <para>
-            <num>b.</num>
+            <num>(B)</num>
             <text>Pose a substantial present or potential hazard to human health or the environment when improperly treated, stored, transported, or disposed of, or otherwise managed.</text>
           </para>
         </para>
         <para>
-          <num>41.</num>
+          <num>(41)</num>
           <text>
             <u>Removal</u>
           </text>
           <text>The act of taking solid waste from the place of generation or storage, either by an approved collection agency or by the owner of the solid waste.</text>
         </para>
         <para>
-          <num>42.</num>
+          <num>(42)</num>
           <text>
             <u>Reservation</u>
           </text>
           <text>Reservation means both the Saint Regis Mohawk Indian Tribe Reservation as established by the 1796 Treaty with the Seven Nations of Canada (7 Stat. 55) and any other lands over which the Tribe exercises jurisdiction now or in the future.</text>
         </para>
         <para>
-          <num>43.</num>
+          <num>(43)</num>
           <text>
             <u>Rules and Regulations</u>
           </text>
-          <text>Any policies promulgated by the Environment Division, and adopted by the Tribal Council, regulating the collection, transportation or disposal of solid waste on the Reservation, which will implement, supplement or regulate any provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>.</text>
+          <text>Any policies promulgated by the Environment Division, and adopted by the Tribal Council, regulating the collection, transportation or disposal of solid waste on the Reservation, which will implement, supplement or regulate any provisions of <cite path="|5.03">this chapter</cite>.</text>
         </para>
         <para>
-          <num>44.</num>
+          <num>(44)</num>
           <text>
             <u>Sanitary Landfill</u>
           </text>
-          <text>A disposal facility employing a method of disposing of solid waste on land, without creating nuisances, pollution or hazards to public health or safety, by using methods to confine the solid waste to the smallest practical area, to reduce it to the smallest practical volume, and to cover it with a layer of suitable cover material at specific designated intervals. A MSWLF under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite> is a sanitary landfill.</text>
+          <text>A disposal facility employing a method of disposing of solid waste on land, without creating nuisances, pollution or hazards to public health or safety, by using methods to confine the solid waste to the smallest practical area, to reduce it to the smallest practical volume, and to cover it with a layer of suitable cover material at specific designated intervals. A MSWLF under <cite path="|5.03">this chapter</cite> is a sanitary landfill.</text>
         </para>
         <para>
-          <num>45.</num>
+          <num>(45)</num>
           <text>
             <u>Sewage Sludge</u>
           </text>
           <text>A subset of solid wastes that includes any residue, excluding grit or screenings, removed from wastewater, whether in a dry, semi-dry, or liquid form.</text>
         </para>
         <para>
-          <num>46.</num>
+          <num>(46)</num>
           <text>
             <u>Sludge</u>
           </text>
           <text>A sub-set of solid waste that may be solid, semi-solid, or liquid waste generated from a commercial, or industrial wastewater treatment plant, water supply treatment plant, or air pollution control facility, exclusive of the treated effluent from a wastewater treatment plant.</text>
         </para>
         <para>
-          <num>47.</num>
+          <num>(47)</num>
           <text>
             <u>Special Wastes</u>
           </text>
-          <text>A subset of solid wastes, which is listed in <code-cite path="§4|4.2" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">Section 4.2</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>.</text>
+          <text>A subset of solid wastes, which is listed in <cite path="|5.03.040|(b)">Section 5.03.040(b)</cite> of <cite path="|5.03">this chapter</cite>.</text>
           <para>
-            <num>(a)</num>
+            <num>(A)</num>
             <text>Radioactive wastes.</text>
           </para>
           <para>
-            <num>(b)</num>
+            <num>(B)</num>
             <text>All regulated hazardous wastes as defined by RCRA.</text>
           </para>
           <para>
-            <num>(c)</num>
+            <num>(C)</num>
             <text>Infectious biomedical wastes, which includes human tissue or human anatomical remains.</text>
           </para>
           <para>
-            <num>(d)</num>
+            <num>(D)</num>
             <text>Animals or bedding exposed to infectious agents.</text>
           </para>
           <para>
-            <num>(e)</num>
+            <num>(E)</num>
             <text>Bulk quantities of infectious-type wastes which have been in contact with: blood, blood products and body fluids are handled by Indian Health Services (IHS) through a qualified vendor for disposal.</text>
           </para>
           <para>
-            <num>(f)</num>
+            <num>(F)</num>
             <text>Any materials containing friable asbestos waste.</text>
           </para>
           <para>
-            <num>(g)</num>
+            <num>(G)</num>
             <text>Sewage or sewage sludge wastes.</text>
           </para>
           <para>
-            <num>(h)</num>
+            <num>(H)</num>
             <text>Bulk liquids of any kind.</text>
           </para>
           <para>
-            <num>(i)</num>
+            <num>(I)</num>
             <text>Polychlorinated Biphenyls (PCBs).</text>
           </para>
           <para>
-            <num>(j)</num>
+            <num>(J)</num>
             <text>Explosives.</text>
           </para>
           <para>
-            <num>(k)</num>
+            <num>(K)</num>
             <text>Hazardous waste generated from small quantity generators.</text>
           </para>
         </para>
         <para>
-          <num>48.</num>
+          <num>(48)</num>
           <text>
             <u>Solid Waste</u>
           </text>
           <text>Any garbage, or refuse, sludge from a residence, business, wastewater treatment plant, water supply treatment plant, or air pollution control facility and other discarded materials, resulting from industrial, commercial mining, or agricultural operations, and from community activities, businesses or residences. It includes any discarded or abandoned materials. It can be solid, liquid, semi-solid or containerized gaseous material.</text>
         </para>
         <para>
-          <num>49.</num>
+          <num>(49)</num>
           <text>
             <u>Solid Waste Transfer Station (SWTS) or Transfer Station</u>
           </text>
           <text>A publicly or privately-owned facility or site that receives solid waste as for the purpose of sorting, recycling, compacting, recovering, and transferring solid waste. A SWTS unit may be a new unit, an existing unit or a lateral expansion. A lateral expansion is the horizontal expansion of an existing unit.</text>
         </para>
         <para>
-          <num>50.</num>
+          <num>(50)</num>
           <text>
             <u>Source Reduction</u>
           </text>
           <text>The design, manufacture, and use of products in a way that reduces the quantity and toxicity of waste produced when the products reach the end of their useful lives; i.e. waste prevention.</text>
         </para>
         <para>
-          <num>50.</num>
+          <num>(51)</num>
           <text>
             <u>SWDA (The Solid Waste Disposal Act)</u>
           </text>
           <text>Solid Waste Disposal Act of 1965, set national goals for:</text>
           <para>
-            <num>(a)</num>
+            <num>(A)</num>
             <text>Protecting human health and the environment from the potential hazards of waste disposal.</text>
           </para>
           <para>
-            <num>(b)</num>
+            <num>(B)</num>
             <text>Conserving energy and natural resources.</text>
           </para>
           <para>
-            <num>(c)</num>
+            <num>(C)</num>
             <text>Reducing the amount of waste generated.</text>
           </para>
           <para>
-            <num>(d)</num>
+            <num>(D)</num>
             <text>Ensuring that wastes are managed in an environmentally-sound manner. https://www.epa.gov/history</text>
           </para>
         </para>
         <para>
-          <num>52.</num>
+          <num>(52)</num>
           <text>
             <u>Treatment</u>
           </text>
           <text>When used in connection with hazardous waste, is any method, technique, or process, including neutralization, designed to change the physical, chemical, or biological character or composition of any hazardous waste so as to neutralize such waste or so as to render such waste non-hazardous, safer for transport, amendable for recovery, amendable for storage, or reduced in volume. Such term includes any activity or processing designed to change the physical form or chemical composition of hazardous waste so as to render it non-hazardous.</text>
         </para>
         <para>
-          <num>53.</num>
+          <num>(53)</num>
           <text>
             <u>Tribe's Solid Waste Disposal Program</u>
           </text>
-          <text>All the authorities, activities and procedures under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>, the Tribe's Solid Waste Management Plan, and any other Tribal laws or regulations that comprise the Tribe's system of permits, and prior approval and conditions for regulating the collection, handling, transportation, and disposal, treatment and storage of solid waste, including all of the location, operation, design, groundwater monitoring, corrective action, closure, post-closure and financial assurance requirements.</text>
+          <text>All the authorities, activities and procedures under <cite path="|5.03">this chapter</cite>, the Tribe's Solid Waste Management Plan, and any other Tribal laws or regulations that comprise the Tribe's system of permits, and prior approval and conditions for regulating the collection, handling, transportation, and disposal, treatment and storage of solid waste, including all of the location, operation, design, groundwater monitoring, corrective action, closure, post-closure and financial assurance requirements.</text>
         </para>
         <para>
-          <num>54.</num>
+          <num>(54)</num>
           <text>
             <u>Tribe's Solid Waste Management Plan and Regulations</u>
           </text>
           <text>The formulation of Tribal policies for all solid waste collection, handling, transportation, disposal, treatment, storage, source reduction, reusing, recycling and resource conservation on the Reservation.</text>
         </para>
         <para>
-          <num>55.</num>
+          <num>(55)</num>
           <text>
             <u>Vector</u>
           </text>
           <text>Any insect, arthropod, rodent, or other animal capable of transmitting a pathogen from one organism to another, or of disrupting the normal enjoyment of life by adversely affecting the public health and well-being.</text>
         </para>
       </para>
+      <annotations>
+        <annotation app="2020-02-26" doc="Saint Regis Mohawk Tribe Res. No. 2020-09" eff="2020-02-26" path="attachments|law|2" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.03.030"/>
-      <num codify:value="5.03.030">3</num>
+      <num>5.03.030</num>
       <heading>Designation of Authority</heading>
       <para>
-        <num>3.1</num>
+        <num>(a)</num>
         <text>
           <strong>ENVIRONMENT DIVISION AND COMPLIANCE DEPARTMENT</strong>
         </text>
-        <text>The Tribe respects the thoughts and teachings of the Mohawk People and is entrusted to protect the land, air, water, vegetation and animal life for the next seven generations. To accomplish this mission as it relates to solid waste management, the Tribe hereby appoints the Environment Division as the lead Tribal agency to ensure the proper management of solid wastes while the Tribe's Compliance Department is delegated the authority to issue permits and maintain compliance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>. The Environment Division and the Compliance Department shall each have the powers, duties, and responsibilities as provided herein.</text>
-        <text>The Environment Division shall develop and manage the Tribe's comprehensive integrated waste management policy and regulations using both the traditional concept of seven generations and by the duties specifically designated in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite> or as may be assigned from time to time by the Environment Division Director or Tribal Council. The Environment Division shall communicate to the community information regarding the Tribe's comprehensive integrated waste management policy and make reports containing such information as the Tribe approves, excluding any confidential or privileged information.</text>
+        <text>The Tribe respects the thoughts and teachings of the Mohawk People and is entrusted to protect the land, air, water, vegetation and animal life for the next seven generations. To accomplish this mission as it relates to solid waste management, the Tribe hereby appoints the Environment Division as the lead Tribal agency to ensure the proper management of solid wastes while the Tribe's Compliance Department is delegated the authority to issue permits and maintain compliance with <cite path="|5.03">this chapter</cite>. The Environment Division and the Compliance Department shall each have the powers, duties, and responsibilities as provided herein.</text>
+        <text>The Environment Division shall develop and manage the Tribe's comprehensive integrated waste management policy and regulations using both the traditional concept of seven generations and by the duties specifically designated in <cite path="|5.03">this chapter</cite> or as may be assigned from time to time by the Environment Division Director or Tribal Council. The Environment Division shall communicate to the community information regarding the Tribe's comprehensive integrated waste management policy and make reports containing such information as the Tribe approves, excluding any confidential or privileged information.</text>
         <para>
-          <num>3.1.1</num>
+          <num>(1)</num>
           <heading>Duties of the Environment Division with Respect to Solid Wastes.</heading>
           <text>The Environment Division is entrusted to protect the land, air, water, vegetation and animal life for the future generations from the detrimental effects of improper management of solid waste. To accomplish this task the Environment Division shall perform the following:</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>Develop and implement the Tribe's Solid Waste Management Plan. The goal of the Solid Waste Management Plan is to provide guidance to manage solid wastes in a manner that honors the earth, people, plants, animals, and waters, while contributing to the economic and social progress of the community.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>Build on the community's inherent respect for the natural world by maintaining and improving the processes and equipment utilized in the management of solid wastes, recyclable and reusable materials. Provide the technical standards and criteria for the collection and transportation of Solid Waste.</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(C)</num>
             <text>Prepare an inventory and location of all open dumping sites in and around the Reservation where solid wastes have been disposed, and a plan to close all such sites.</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(D)</num>
             <text>Encourage community involvement and input in the Tribe's Solid Waste Management Plan;</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(E)</num>
             <text>Prepare technical reports as may be requested from time to time, including environmental assessments as may be necessary.</text>
           </para>
           <para>
-            <num>(6)</num>
-            <text>Administer, supervise, monitor, and investigate the collection, transportation, and disposal of Solid Waste on the Reservation in compliance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>, as well as adhere to all laws, rules and regulations, and Guidance Documents promulgated hereunder.</text>
+            <num>(F)</num>
+            <text>Administer, supervise, monitor, and investigate the collection, transportation, and disposal of Solid Waste on the Reservation in compliance with <cite path="|5.03">this chapter</cite>, as well as adhere to all laws, rules and regulations, and Guidance Documents promulgated hereunder.</text>
           </para>
           <para>
-            <num>(7)</num>
+            <num>(G)</num>
             <text>Investigate and prepare applications for private, Federal or State grants or funding, and provide financial and technical assistance to implement the Tribe's Solid Waste Management Plan.</text>
           </para>
           <para>
-            <num>(8)</num>
+            <num>(H)</num>
             <text>Maintain and renew permits for the collection and transportation of and for the operation of the Solid Waste Transfer Station.</text>
           </para>
           <para>
-            <num>(9)</num>
-            <text>Ensure that proper handling, collection and disposal of regulated Hazardous Waste is done in accordance with <code-cite path="§4" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">Section 4</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>.</text>
+            <num>(I)</num>
+            <text>Ensure that proper handling, collection and disposal of regulated Hazardous Waste is done in accordance with <cite path="|5.03.040">Section 5.03.040</cite> of <cite path="|5.03">this chapter</cite>.</text>
           </para>
         </para>
         <para>
-          <num>3.1.2</num>
+          <num>(2)</num>
           <text>
-            <strong>Duty of the Compliance Department to Investigate Under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">This Code</code-cite></strong>
+            <strong>Duty of the Compliance Department to Investigate Under <cite path="|5.03">this chapter</cite></strong>
           </text>
           <text>Upon receiving a credible complaint by any person, or upon its own initiative, the Environment Division shall request that the Compliance Department perform a thorough investigation of any violations made by any person, Management Facility, or Hauler. The Compliance Department shall prepare a report which will then be submitted to the Environment Division, Tribal Council and General Counsel.</text>
           <text>A credible complaint is a complaint that relates to, but is not limited to, improper disposal methods, unauthorized acceptance of special wastes, inappropriate handling, collection and transportation of solid waste and/or worker safety issues.</text>
-          <text>If a complaint is founded then an Enforcement Action pursuant to <code-cite path="§6|6.3" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">Section 6.3</code-cite> may be undertaken. For any complaint that is unfounded a report shall be transmitted to the complainant within thirty (30) days of the investigation's completion.</text>
+          <text>If a complaint is founded then an Enforcement Action pursuant to <cite path="|5.03.060|(c)">Section 5.03.060(c)</cite> may be undertaken. For any complaint that is unfounded a report shall be transmitted to the complainant within thirty (30) days of the investigation's completion.</text>
         </para>
       </para>
+      <annotations>
+        <annotation app="2020-02-26" doc="Saint Regis Mohawk Tribe Res. No. 2020-09" eff="2020-02-26" path="attachments|law|3" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.03.040"/>
-      <num codify:value="5.03.040">4</num>
+      <num>5.03.040</num>
       <heading>Proper Handling, Collection and Disposal of Solid Wastes</heading>
       <para>
-        <num>4.1</num>
+        <num>(a)</num>
         <text>
           <strong>INTEGRATED WASTE MANAGEMENT</strong>
         </text>
@@ -734,37 +651,37 @@
         <text>The Environment Division may issue rules and regulations for reducing, reusing, and recycling of solid wastes on the Reservation. Proper and safe practices based on industry standards will be developed to increase safety in the recovery phase of these efforts.</text>
         <text>The Saint Regis Mohawk Tribe will abide by restrictions on recyclables at the landfill (County of Franklin Solid Waste "Local Law No. 3".) The following rules apply to this Solid Waste Code for recyclable materials:</text>
         <para>
-          <num>a.</num>
+          <num>(1)</num>
           <text>All recyclables shall be separated from Municipal Solid Waste</text>
         </para>
         <para>
-          <num>b.</num>
+          <num>(2)</num>
           <text>Designated Recyclables shall not be contaminated with hazardous waste or any other solid waste.</text>
         </para>
         <para>
-          <num>c.</num>
+          <num>(3)</num>
           <text>Recyclables will be delivered in a manner to follow these requirements or they may be rejected.</text>
         </para>
       </para>
       <para>
-        <num>4.2</num>
+        <num>(b)</num>
         <text>
           <strong>OPEN DUMPING</strong>
         </text>
         <text>The open dumping of Solid Wastes on the Reservation is disrespectful and does irreparable damage to the land and the environment. Much of this waste can last longer than seven generations and can affect even more generations through contamination of: soil, groundwater, and surface waters. Proper disposal of these materials can be accomplished through the utilization of Management Facilities, Haulers and/or taken directly off reservation to permitted disposal areas.</text>
-        <text>It is a violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite> for anyone or business to operate an Open Dump site. If there is an allegation of an Open Dump site it shall be investigated. The Open Dump site shall immediately cease to operate and violator will be subject to enforcement actions as outlined in <code-cite path="§6|6.3" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">Section 6.3</code-cite>. if the matter was not resolved under <code-cite path="§3|3.1|3.1.2" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">Section 3.1.2</code-cite>.</text>
-        <text>It is a violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite> to dump, scatter or place any solid wastes anywhere except at a duly authorized and designated solid waste transfer station or landfill. Any written or verbal allegation of open dumping shall be forwarded to the Compliance Department to investigate. If the alleged violator's conduct does not cease after the Compliance Department has undertaken efforts to seek cooperation to stop the offending behavior, it may then determine whether to refer the matter to Tribal Police or the Environment Division for further enforcement action.</text>
-        <text>If there are further enforcement actions and the matter is brought to the Tribal Court, it shall be dealt with according to <code-cite path="§6|6.4" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">Section 6.4</code-cite>.</text>
+        <text>It is a violation of <cite path="|5.03">this chapter</cite> for anyone or business to operate an Open Dump site. If there is an allegation of an Open Dump site it shall be investigated. The Open Dump site shall immediately cease to operate and violator will be subject to enforcement actions as outlined in <cite path="|5.03.060|(c)">Section 5.03.060(c)</cite>. if the matter was not resolved under <cite path="|5.03.030|(a)|(2)">Section 5.03.030(a)(2)</cite>.</text>
+        <text>It is a violation of <cite path="|5.03">this chapter</cite> to dump, scatter or place any solid wastes anywhere except at a duly authorized and designated solid waste transfer station or landfill. Any written or verbal allegation of open dumping shall be forwarded to the Compliance Department to investigate. If the alleged violator's conduct does not cease after the Compliance Department has undertaken efforts to seek cooperation to stop the offending behavior, it may then determine whether to refer the matter to Tribal Police or the Environment Division for further enforcement action.</text>
+        <text>If there are further enforcement actions and the matter is brought to the Tribal Court, it shall be dealt with according to <cite path="|5.03.060|(d)">Section 5.03.060(d)</cite>.</text>
       </para>
       <para>
-        <num>4.3</num>
+        <num>(c)</num>
         <text>
           <strong>BURNING OF SOLID WASTE</strong>
         </text>
         <text>Any burning of Solid Wastes will be done in accordance with the open burn regulations established by the Environment Division's Clean Air Program (see TCR 2002-59 or as amended)</text>
       </para>
       <para>
-        <num>4.4</num>
+        <num>(d)</num>
         <text>
           <strong>HOUSEHOLD HAZARDOUS WASTES</strong>
         </text>
@@ -775,7 +692,7 @@
         <text>Disposing of Household Hazardous Wastes except as outlined above at a Management Facility located on the Reservation is a violation of the Code.</text>
       </para>
       <para>
-        <num>4.5</num>
+        <num>(e)</num>
         <text>
           <strong>SPECIAL WASTES</strong>
         </text>
@@ -783,101 +700,103 @@
         <text>Tribal Departments or agencies, private enterprises, Haulers or any other person are prohibited from disposing of the following Special Wastes at any management facility located within the Reservation.</text>
         <text>Only Haulers who follow applicable Tribal, Federal and State laws and regulations shall collect and transport Special Waste within the Reservation and from the Reservation.</text>
       </para>
+      <annotations>
+        <annotation app="2020-02-26" doc="Saint Regis Mohawk Tribe Res. No. 2020-09" eff="2020-02-26" path="attachments|law|4" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.03.050"/>
-      <num codify:value="5.03.050">5</num>
+      <num>5.03.050</num>
       <heading>Permit Requirements for Solid Waste Management Activities</heading>
       <para>
-        <num>5.1</num>
+        <num>(a)</num>
         <text>
           <strong>GENERAL PERMIT REQUIREMENTS</strong>
         </text>
-        <text>Tribal departments or agencies, private enterprises, haulers, or any other persons are required to obtain a permit from the Tribe's Compliance Department to collect and/or transport Solid Waste, or to construct or operate a management facility. Any Permittee shall be required to comply with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>, any rule or regulation promulgated thereunder, all Tribal Environmental standards and criteria, all relevant guidance documents, all permit conditions, all orders issued by the Tribe's Compliance Department and applicable Tribal laws.</text>
+        <text>Tribal departments or agencies, private enterprises, haulers, or any other persons are required to obtain a permit from the Tribe's Compliance Department to collect and/or transport Solid Waste, or to construct or operate a management facility. Any Permittee shall be required to comply with <cite path="|5.03">this chapter</cite>, any rule or regulation promulgated thereunder, all Tribal Environmental standards and criteria, all relevant guidance documents, all permit conditions, all orders issued by the Tribe's Compliance Department and applicable Tribal laws.</text>
         <text>No Tribal department or agency, private enterprise, hauler, or person may collect or transport Solid Wastes, or operate a Management Facility within the Reservation without first having obtained from the Environment Division either (1) a solid waste collection and transportation permit; or (2) a solid waste facility construction and/or operation permit.</text>
         <text>In order to provide for Tribal health and safety and to facilitate the conservation of vital Tribal resources, each person living on the Reservation or Tribal business shall provide for the removal of Solid Wastes and recyclables from his/her property on which it is generated either through a service provided by the Tribe or Hauler or by direct haul to a permitted Management Facility approved by the Tribe that is located on the Reservation.</text>
       </para>
       <para>
-        <num>5.2</num>
+        <num>(b)</num>
         <text>
           <strong>PERMITS FOR THE CONSTRUCTION AND OPERATION OF A MANAGEMENT FACILITY</strong>
         </text>
         <para>
-          <num>5.2.1</num>
+          <num>(1)</num>
           <text>
             <strong>Management Facility</strong>
           </text>
           <para>
-            <num>a.</num>
+            <num>(A)</num>
             <heading>Public Hearing.</heading>
             <text>No Management Facility permit shall be issued unless there has been a public hearing conducted by the Environment Division and Compliance Department at which the applicant and all interested persons shall have an opportunity to present relevant evidence and be heard on whether the application should be granted, or whether there are any special conditions which should be included in such permit. No application may be submitted until a business permit has been granted and an environmental assessment review has been conducted, as well as any other necessary permits are obtained.</text>
             <text>All applications for a solid waste construction and/or operation facility permit, including all documentation required for such permit, shall be available for public review and inspection at least thirty (30) calendar days in advance of the hearing. The Environment Division shall publish a notice of such public hearing on each application at least ten (10) calendar days in advance of the hearing in the locally circulated newspaper. The Environment Division also shall post notice of the public hearing near the proposed permanent site for a management facility, but viewable to the public, at least thirty (30) calendar days in advance of the hearing. The Environment Division may designate issues it deems most relevant in the public notice. Such public hearings shall be recorded.</text>
             <text>The Environment Division also may consider, in consultation with the Compliance Department, certain issues that are raised at the hearing. For any issue, which the Environment Division deems contentious it may decide to address them and provide an analysis of alternatives.</text>
-            <text>The information in every application for a Management Facility must include the following information so as to allow the Environment Division in consultation with the Compliance Department to fulfill its responsibilities under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite> by:</text>
+            <text>The information in every application for a Management Facility must include the following information so as to allow the Environment Division in consultation with the Compliance Department to fulfill its responsibilities under <cite path="|5.03">this chapter</cite> by:</text>
             <para>
-              <num>(1)</num>
+              <num>(i)</num>
               <text>having details sufficient to determine how the facility will be constructed, operated, and closed and how it will be monitored and maintained after closure;</text>
             </para>
             <para>
-              <num>(2)</num>
+              <num>(ii)</num>
               <text>provide sufficient detail to ascertain the environmental impact of the proposed project; and</text>
             </para>
             <para>
-              <num>(3)</num>
-              <text>provide sufficient detail to demonstrate that the design, construction, operation, closure, and post closure monitoring and maintenance of the facility is capable of complying with the applicable requirements of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>.</text>
+              <num>(iii)</num>
+              <text>provide sufficient detail to demonstrate that the design, construction, operation, closure, and post closure monitoring and maintenance of the facility is capable of complying with the applicable requirements of <cite path="|5.03">this chapter</cite>.</text>
             </para>
           </para>
           <para>
-            <num>b.</num>
-            <text>Unless otherwise specified in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>, the plans and drawings for all Solid Waste Management Facilities must be submitted using the following format:</text>
+            <num>(B)</num>
+            <text>Unless otherwise specified in <cite path="|5.03">this chapter</cite>, the plans and drawings for all Solid Waste Management Facilities must be submitted using the following format:</text>
             <para>
-              <num>(1)</num>
+              <num>(i)</num>
               <text>the sheet size with title blocks must be 32 by 34 inches or 24 by 26 inches;</text>
             </para>
             <para>
-              <num>(2)</num>
+              <num>(ii)</num>
               <text>the cover sheet must include the project title, applicant's name, sheet index, legend of symbols, and the engineer's name, address, signature, date of signature and seal;</text>
             </para>
             <para>
-              <num>(3)</num>
+              <num>(iii)</num>
               <text>the plans relating to the project to its environmental setting must include:</text>
               <para>
-                <num>a.</num>
+                <num>(I)</num>
                 <text>a regional plan or map (having a minimum scale of 1:62,500)</text>
               </para>
               <para>
-                <num>b.</num>
+                <num>(II)</num>
                 <text>a vicinity plan or map (having a minimum scale of 1:24,000); and</text>
               </para>
               <para>
-                <num>c.</num>
+                <num>(III)</num>
                 <text>an overall site plan (having a minimum scale of 1:2,400 with a five feet minimum contour interval);</text>
               </para>
             </para>
             <para>
-              <num>(4)</num>
+              <num>(iv)</num>
               <text>site plans must contain the location of all property boundaries certified by an individual licensed to practice land surveying in the State of New York;</text>
             </para>
             <para>
-              <num>(5)</num>
+              <num>(v)</num>
               <text>the engineering reports for all Solid Waste Management Facilities must:</text>
               <para>
-                <num>a.</num>
+                <num>(I)</num>
                 <text>contain a cover sheet stating the project title and location, applicant's name, and the engineer's name, address, signature, date of signature and seal;</text>
                 <para>
-                  <num>i.</num>
+                  <num>(a)</num>
                   <text>have its text printed on 8-1/2 x 11-inch pages (paginated consecutively);</text>
                 </para>
                 <para>
-                  <num>ii.</num>
+                  <num>(b)</num>
                   <text>contain a table of contents or index describing the body of the report and the appendices;</text>
                 </para>
                 <para>
-                  <num>iii.</num>
+                  <num>(c)</num>
                   <text>include a body of report; and</text>
                 </para>
                 <para>
-                  <num>iv.</num>
+                  <num>(d)</num>
                   <text>include all appendices.</text>
                 </para>
               </para>
@@ -885,48 +804,48 @@
           </para>
         </para>
         <para>
-          <num>5.2.2</num>
+          <num>(2)</num>
           <text>
             <strong>Transfer Stations</strong>
           </text>
           <text>In addition to sections 5.1 &amp; 5.2.1, Transfer Stations receiving less than 50,000 cubic yards or 12,500 tons of Solid Waste annually, must meet the following additional conditions:</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text>Only MSW (and recyclables) are accepted at the facility;</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text>A maximum of 1,000 yards or 250 tons of MSW are located on-site at any given time;</text>
           </para>
           <para>
-            <num>(3)</num>
+            <num>(C)</num>
             <text>All putrescible MSW (organic matter capable of being decomposed by microorganisms) is removed from the transfer station within seven (7) days of receipt, unless prior written approval is received from the Environment Division;</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(D)</num>
             <text>The facility operates only between the hours of sunrise and sunset, or when an attendant is on duty;</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(E)</num>
             <text>The facility is developed, operated and maintained in a safe, nuisance-free manner; and</text>
           </para>
           <para>
-            <num>(6)</num>
-            <text>The facility complies with the applicable operational requirements of <code-cite path="§4" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">Section 4</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>.</text>
+            <num>(F)</num>
+            <text>The facility complies with the applicable operational requirements of <cite path="|5.03.040">Section 5.03.040</cite> of <cite path="|5.03">this chapter</cite>.</text>
           </para>
         </para>
         <para>
-          <num>5.2.3</num>
+          <num>(3)</num>
           <text>
             <strong>Operational Requirements for Transfer Stations</strong>
           </text>
           <text>All Solid Waste Transfer Stations must comply with the following operational requirements:</text>
           <para>
-            <num>(1)</num>
+            <num>(A)</num>
             <text><u>Acceptable waste</u>. Only MSW shall be accepted at the facility. No industrial wastes, special wastes, or construction and demolition debris shall be accepted unless specifically approved by the Environment Division.</text>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(B)</num>
             <text><u>Ultimate disposal of waste</u>. All Solid Waste passing through the Transfer Station must be ultimately treated or disposed of at a facility authorized by the Environment Division if it is located within the Reservation, or by the appropriate governmental agency or agencies if in other states, territories, or nations. In the case of transfer stations at which Solid Waste is intended to be placed on vessels, no Solid Waste shall be placed on a vessel not owned or operated by a City whose population exceeds one million, without having first received written approval from the Environment Division. That approval shall be granted if the operator of the facility submits to the Environment Division the following:</text>
             <text>
               <ul proof="needed">
@@ -938,7 +857,7 @@
         </para>
       </para>
       <para>
-        <num>5.3</num>
+        <num>(c)</num>
         <text>
           <strong>PERMITS FOR THE COLLECTION AND TRANSPORTATION OF SOLID WASTE BY HAULERS</strong>
         </text>
@@ -948,19 +867,21 @@
         <text>The Compliance Department on a calendar basis must renew solid waste permits for the collection and transportation annually. The Environment Division shall adopt rules and regulations for Solid Waste collection and transportation on the Reservation in consultation with the Compliance Department, including the operation of management facilities, and may impose whatever conditions it deems reasonably necessary to protect the environment, and the health, safety and welfare of the Tribe and its members before issuing any permit under this Section.</text>
       </para>
       <para>
-        <num>5.4</num>
+        <num>(d)</num>
         <text>
           <strong>COMPLIANCE MONITORING</strong>
         </text>
-        <text>The Environment Division and/or the Compliance Department shall have the right to request any and all information from any Permittee or Hauler under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>, including but not limited to records and technical reports or studies, whether contained in the Permittee's or Hauler's operating record or not, which may be relevant to determine whether a Permittee or Hauler is in compliance with all Tribal Solid Waste requirements, including but not limited to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>, any condition contained in a permit, any rules or regulations promulgated under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>, any guidance documents, any orders issued pursuant to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>, or any Tribal environmental laws. Failure by a Permittee or Hauler to provide the requested information may result in the revocation of his/her permit.</text>
+        <text>The Environment Division and/or the Compliance Department shall have the right to request any and all information from any Permittee or Hauler under <cite path="|5.03">this chapter</cite>, including but not limited to records and technical reports or studies, whether contained in the Permittee's or Hauler's operating record or not, which may be relevant to determine whether a Permittee or Hauler is in compliance with all Tribal Solid Waste requirements, including but not limited to <cite path="|5.03">this chapter</cite>, any condition contained in a permit, any rules or regulations promulgated under <cite path="|5.03">this chapter</cite>, any guidance documents, any orders issued pursuant to <cite path="|5.03">this chapter</cite>, or any Tribal environmental laws. Failure by a Permittee or Hauler to provide the requested information may result in the revocation of his/her permit.</text>
       </para>
+      <annotations>
+        <annotation app="2020-02-26" doc="Saint Regis Mohawk Tribe Res. No. 2020-09" eff="2020-02-26" path="attachments|law|5" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.03.060"/>
-      <num codify:value="5.03.060">6</num>
+      <num>5.03.060</num>
       <heading>Public Involvement and Enforcement</heading>
       <para>
-        <num>6.1</num>
+        <num>(a)</num>
         <text>
           <strong>PUBLIC PARTICIPATION AND HEARINGS</strong>
         </text>
@@ -980,37 +901,37 @@
         </para>
       </para>
       <para>
-        <num>6.2</num>
+        <num>(b)</num>
         <text>
           <strong>ACTIONS ON PUBLIC COMPLAINTS</strong>
         </text>
-        <text>If any department of the Saint Regis Mohawk Tribe, including the Environment Division, receives a credible complaint concerning any person, business, Management Facility owner/operator, or Hauler, giving reasonable grounds that <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>, or any of its rules or regulations, permits conditions, environmental standards, or guidance document, has or is being violated it will forward it to the Tribe's Compliance Department to investigate the matter in accordance with <code-cite path="§3|3.1|3.1.2" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">Section 3.1.2</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite>.</text>
+        <text>If any department of the Saint Regis Mohawk Tribe, including the Environment Division, receives a credible complaint concerning any person, business, Management Facility owner/operator, or Hauler, giving reasonable grounds that <cite path="|5.03">this chapter</cite>, or any of its rules or regulations, permits conditions, environmental standards, or guidance document, has or is being violated it will forward it to the Tribe's Compliance Department to investigate the matter in accordance with <cite path="|5.03.030|(a)|(2)">Section 5.03.030(a)(2)</cite> of <cite path="|5.03">this chapter</cite>.</text>
       </para>
       <para>
-        <num>6.3</num>
+        <num>(c)</num>
         <text>
           <strong>ENFORCEMENT ACTIONS</strong>
         </text>
         <para>
-          <num>6.3.1</num>
+          <num>(1)</num>
           <heading>Enforcement Policy:</heading>
-          <text>While it is the Tribe's policy to encourage informal, practical, result- oriented resolutions of any environmental occurrence it must still prevent damage to the Reservation's resources or prevent harm to the health, safety or welfare of the Reservation's population. It is also the Tribe's policy, consistent with the principles of due process, to provide effective procedures for enforcement. Therefore, after the Compliance Department has finalized its investigation pursuant to <code-cite path="§3|3.1|3.1.2" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">Section 3.1.2</code-cite> of a credible complaint it shall forward its findings to the Environment Division, Tribal Council and General Counsel for review and plans of action.</text>
+          <text>While it is the Tribe's policy to encourage informal, practical, result- oriented resolutions of any environmental occurrence it must still prevent damage to the Reservation's resources or prevent harm to the health, safety or welfare of the Reservation's population. It is also the Tribe's policy, consistent with the principles of due process, to provide effective procedures for enforcement. Therefore, after the Compliance Department has finalized its investigation pursuant to <cite path="|5.03.030|(a)|(2)">Section 5.03.030(a)(2)</cite> of a credible complaint it shall forward its findings to the Environment Division, Tribal Council and General Counsel for review and plans of action.</text>
         </para>
         <para>
-          <num>6.3.2</num>
+          <num>(2)</num>
           <heading>Corrective Action Plan:</heading>
           <text>After receiving the Compliance Department's report, the Environment Division shall review it. After this initial review, the Environment Division may along with the Compliance Department contact the Tribal Member or Tribal Member business causing the environmental concern to devise a corrective action plan to remedy the situation. Environmental concerns can include, but are not limited to, any solid waste regulation or permit condition.</text>
-          <text>If the Tribal Member or Tribal Member business agree to a corrective action plan or to cease the offending activity then the Environment Division shall monitor to ensure the corrective action plan is followed or the offending activity is suspended. If the Tribal Member or Tribal Member business fails to follow through on the corrective action plan or cease the activity or refuses to agree to a corrective action plan then the matter shall be referred for further enforcement measures as outlined in <code-cite path="§6|6.3|6.3.3" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">Section 6.3.3</code-cite> and <code-cite path="§6|6.4" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">6.4</code-cite>.</text>
+          <text>If the Tribal Member or Tribal Member business agree to a corrective action plan or to cease the offending activity then the Environment Division shall monitor to ensure the corrective action plan is followed or the offending activity is suspended. If the Tribal Member or Tribal Member business fails to follow through on the corrective action plan or cease the activity or refuses to agree to a corrective action plan then the matter shall be referred for further enforcement measures as outlined in <cite path="|5.03.060|(c)|(3)">Section 5.03.060(c)(3)</cite> and <cite path="|5.03.060|(d)">Section 5.03.060(d)</cite>.</text>
           <text>If the corrective action plan is followed or the activity is suspended then the Compliance Department shall conduct a follow-up investigation with a report submitted to the Environment Division, Tribal Council and General Counsel. If the environmental concern is resolved to the Compliance Department and Environment Division's satisfaction then the matter shall be closed.</text>
         </para>
         <para>
-          <num>6.3.3</num>
+          <num>(3)</num>
           <heading>Cease and Desist Order:</heading>
-          <text>If efforts under <code-cite path="§6|6.3|6.3.2" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">Section 6.3.2</code-cite> fail then the Tribe's Compliance Department shall serve a Cease and Desist Order on the alleged violator. The failure to comply with a Cease and Desist Order shall constitute a violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this Code</code-cite></text>
+          <text>If efforts under <cite path="|5.03.060|(c)|(2)">Section 5.03.060(c)(2)</cite> fail then the Tribe's Compliance Department shall serve a Cease and Desist Order on the alleged violator. The failure to comply with a Cease and Desist Order shall constitute a violation of <cite path="|5.03">this chapter</cite></text>
         </para>
       </para>
       <para>
-        <num>6.4</num>
+        <num>(d)</num>
         <text>
           <strong>TRIBAL COURT AND HEARINGS ON VIOLATIONS</strong>
         </text>
@@ -1018,46 +939,49 @@
           <strong>Wherever rules are not outlined herein the Saint Regis Mohawk Tribe's Rules of Civil Procedure along with the Rules of Evidence shall govern.</strong>
         </text>
         <para>
-          <num>6.4.1</num>
+          <num>(1)</num>
           <heading>Complaint.</heading>
-          <text>If an alleged violator fails to comply with a Cease and Desist Order from <code-cite path="§6|6.3|6.3.3" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">Section 6.3.3</code-cite>. then the Compliance Department shall request General Counsel to file a complaint in Tribal Court. The complaint shall provide notice to the alleged violator of the violation(s) and any other environmental concerns. The Compliance Department shall provide a Summons and arrange for service upon the alleged violator to appear before the Tribal Court.</text>
+          <text>If an alleged violator fails to comply with a Cease and Desist Order from <cite path="|5.03.060|(c)|(3)">Section 5.03.060(c)(3)</cite>. then the Compliance Department shall request General Counsel to file a complaint in Tribal Court. The complaint shall provide notice to the alleged violator of the violation(s) and any other environmental concerns. The Compliance Department shall provide a Summons and arrange for service upon the alleged violator to appear before the Tribal Court.</text>
         </para>
         <para>
-          <num>6.4.2</num>
+          <num>(2)</num>
           <heading>Hearings.</heading>
           <text>On the return date, the Environment Division shall present its documentary proof to the Court and/or present witnesses regarding the alleged violation(s). After closing its proof, the alleged violator shall then be given the opportunity to rebut the proof present or the conduct alleged to have happened.</text>
         </para>
         <para>
-          <num>6.4.3</num>
+          <num>(3)</num>
           <heading>Burden of Proof.</heading>
           <text>After the Environment Division has made its presentation and met its burden of proof based upon the preponderance of the evidence, the burden shall shift to the alleged violator to rebut the evidence and testimony.</text>
         </para>
         <para>
-          <num>6.4.4.</num>
+          <num>(4)</num>
           <heading>Evidentiary Issues.</heading>
           <text>The Tribal Court is free to accept or reject any documentary evidence</text>
         </para>
         <para>
-          <num>6.4.5</num>
+          <num>(5)</num>
           <heading>Judgment.</heading>
-          <text>After hearing all of the testimony, the Court shall issue a written decision to the parties within thirty (30) days of the hearing. If the Court finds in favor of the Environment Division it may issue a civil fine of up to <strong>ten thousand ($10,000.00) dollars, except for an Open Dump violation which shall be assessed a fine of five hundred ($500.00) dollars for zero (0) to one (1) ton of Solid Waste and five hundred ($500.00) dollars per ton for any Solid Waste above one (1) ton.</strong> In addition to the civil fine the Court can include any cost for the remediation needed to remedy the violation and any other relief provided by law, including the assessment and recovery of civil penalties and clean up and administrative costs associated with the enforcement of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-09">this code</code-cite>. If the Court determines that the Environment Division failed to meet its burden it shall dismiss the complaint. Any fines collected shall be remitted to the Tribal General Fund and divided between the Compliance Department and Environment Division.</text>
+          <text>After hearing all of the testimony, the Court shall issue a written decision to the parties within thirty (30) days of the hearing. If the Court finds in favor of the Environment Division it may issue a civil fine of up to <strong>ten thousand ($10,000.00) dollars, except for an Open Dump violation which shall be assessed a fine of five hundred ($500.00) dollars for zero (0) to one (1) ton of Solid Waste and five hundred ($500.00) dollars per ton for any Solid Waste above one (1) ton.</strong> In addition to the civil fine the Court can include any cost for the remediation needed to remedy the violation and any other relief provided by law, including the assessment and recovery of civil penalties and clean up and administrative costs associated with the enforcement of <cite path="|5.03">this chapter</cite>. If the Court determines that the Environment Division failed to meet its burden it shall dismiss the complaint. Any fines collected shall be remitted to the Tribal General Fund and divided between the Compliance Department and Environment Division.</text>
         </para>
         <para>
-          <num>6.4.6</num>
+          <num>(6)</num>
           <heading>Failure to satisfy Judgment.</heading>
           <text>After issuing a judgment, if it is not satisfied within thirty (30) days then the respondent's name may be transferred to Tribal Council or its designee who may issue a reminder notice to the judgment debtor. Failure to remit payment after receiving such a notice may prompt the Compliance Department to issue a "Delinquency Letter" to the Court with a copy provided to the judgment debtor notifying the Tribal Court the judgment debtor has not yet complied. Once received, the Court Clerk shall issue a "letter of warning" to the judgment debtor. The letter of warning must state that further non-compliance may result in a judgment for contempt of Court and that the enforcement of the judgment may result in measurements such as garnishment of wages and the revocation of tribal licenses. If the judgment is not satisfied within ten (10) days from the date the letter is sent by the Court Clerk, the Compliance Department shall notify the Court. The Court shall set a hearing that must take place no later than ten (10) days from the date of notification by the Compliance Department. At the hearing, the Compliance Department may enter evidence demonstrating that the judgment debtor has not satisfied his/her judgment. The judgment debtor/respondent may appear and offer evidence. After review of the evidence, the Court may enter an enforcement order revoking any Tribal licenses or garnish the judgment debtor's wages. The Tribal licenses and/or Tribal services shall remain suspended until the judgment has been paid and proof of payment has been made to the Court.</text>
         </para>
       </para>
       <para>
-        <num>6.5</num>
+        <num>(e)</num>
         <text>
           <strong>APPEALS</strong>
         </text>
         <para>
-          <num>6.5.1</num>
+          <num>(1)</num>
           <text>Within thirty (30) days of the judgment, a respondent may file an appeal with the Saint Regis Mohawk Tribe Court of Appeals. The appeal shall be limited to the fine and penalty imposed.</text>
         </para>
       </para>
+      <annotations>
+        <annotation app="2020-02-26" doc="Saint Regis Mohawk Tribe Res. No. 2020-09" eff="2020-02-26" path="attachments|law|6" type="History"/>
+      </annotations>
     </section>
-  </attachment>
-</document>
+  </container>
+</container>
