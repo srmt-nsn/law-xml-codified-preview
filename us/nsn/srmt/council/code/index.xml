@@ -7,10 +7,13 @@
     </recency>
   </meta>
   <heading>Saint Regis Mohawk Tribal Code of Law</heading>
+  <xi:include href="./1.xml"/>
   <xi:include href="./3.xml"/>
   <xi:include href="./5.xml"/>
   <xi:include href="./8.xml"/>
+  <xi:include href="./9.xml"/>
   <xi:include href="./12.xml"/>
   <xi:include href="./13.xml"/>
   <xi:include href="./15.xml"/>
+  <xi:include href="./16.xml"/>
 </document>

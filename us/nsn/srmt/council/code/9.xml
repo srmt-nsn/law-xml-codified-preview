@@ -1,659 +1,602 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2022-14" codify:doc="Saint Regis Mohawk Tribal Code of Law">
-  <num>2022-14</num>
-  <heading>To Amend the Saint Regis Mohawk Tribal Gaming Ordinance</heading>
-  <meta>
-    <stub/>
-    <effective>2022-03-24</effective>
-    <history>
-      <adopted>2022-03-24</adopted>
-    </history>
-    <citations>
-      <citation type="res" url="./adopted/2022-14.pdf">Res. No. 2022-14</citation>
-    </citations>
-  </meta>
-  <recitals>
-    <recital>
-      <conjunction>WHEREAS,</conjunction>
-      <text>the Saint Regis Mohawk Tribal Council ("Tribal Council") is the duly recognized governing body of the Saint Regis Mohawk Tribe ("Tribe") and is responsible for promoting the health, safety, education and general welfare of all community members; and</text>
-    </recital>
-    <recital>
-      <conjunction>WHEREAS,</conjunction>
-      <text>the Tribe adopted and ratified a gaming ordinance establishing the Tribal Gaming Commission and other regulatory structures to coordinate Tribal gaming on the Saint Regis Mohawk Reservation pursuant to Tribal Council Resolution ("TCR") 1993-102; and</text>
-    </recital>
-    <recital>
-      <conjunction>WHEREAS,</conjunction>
-      <text>the Saint Regis Mohawk Tribal Council now wishes to amend TCR 1993-102 and any amendments thereto.</text>
-    </recital>
-    <recital>
-      <conjunction>NOW, THEREFORE, BE IT RESOLVED:</conjunction>
-      <para>
-        <num>1.</num>
-        <text>The Saint Regis Mohawk Tribal Council hereby adopts and ratifies the Amended Tribal Gaming Ordinance, as attached hereto, and authorizes it to be submitted to the National Indian Gaming Commission for final approval; and</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>This Amendment supersedes TCR 1993-102 and any prior amendments.</text>
-      </para>
-    </recital>
-  </recitals>
-  <procedural-data>
-    <text>
-      <strong>SAINT REGIS MOHAWK TRIBAL COUNCIL</strong>
-    </text>
-    <text>
-      <table class="layout-table">
-        <tbody>
-          <tr>
-            <td>_____________________</td>
-            <td class="text-indent-2">_____________________</td>
-            <td class="text-indent-2">_____________________</td>
-          </tr>
-          <tr>
-            <td>Beverly Cook</td>
-            <td class="text-indent-2">Michael Conners</td>
-            <td class="text-indent-2">Ronald LaFrance, Jr.</td>
-          </tr>
-          <tr>
-            <td>Tribal Chief</td>
-            <td class="text-indent-2">Tribal Chief</td>
-            <td class="text-indent-2">Tribal Chief</td>
-          </tr>
-        </tbody>
-      </table>
-    </text>
-    <text><strong>CERTIFICATION</strong>: This is to certify that the Saint Regis Mohawk Tribal Council pursuant to the authority vested therein duly passed the above resolution.</text>
-    <text>
-      <table class="layout-table">
-        <tbody>
-          <tr>
-            <td>___________________________________</td>
-            <td class="text-indent-4">March 24, 2022</td>
-          </tr>
-          <tr>
-            <td>Summer Bero, Tribal Clerk</td>
-            <td class="text-indent-4">Date</td>
-          </tr>
-        </tbody>
-      </table>
-    </text>
-  </procedural-data>
-  <attachment id="law">
-    <codified:at path="9.01"/>
-    <heading>Saint Regis Mohawk Tribal Gaming Ordinance</heading>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Saint Regis Mohawk Tribal Code of Law">
+  <prefix>Title</prefix>
+  <num>9</num>
+  <heading>Gaming</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>9.01</num>
+    <heading>Gaming Ordinance</heading>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.010"/>
-      <num codify:value="9.01.010">1</num>
+      <num>9.01.010</num>
       <heading>Authority</heading>
-      <text>Pursuant to the authority vested in the Saint Regis Mohawk Tribe, (hereinafter referred to as the "Tribe") and its Tribal Council, by virtue of the Tribe's inherent powers of self-government recognized by the federal government in the Treaty with the Seven Nations of Canada, 7 Stat. 55 (May 31, 1796) and the power of a majority of the Tribal Council to act on behalf of the Tribe pursuant to the customs and traditions of the Tribe, the Tribe hereby authorizes the operation of a variety of Class II and Class III games (as defined by IGRA and <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>) as a means to promote the Tribe's economic development, self-sufficiency, and strong Tribal government and establishes a public body known as the Saint Regis Mohawk Tribal Gaming Commission (hereinafter referred to as the "Tribal Gaming Commission") to regulate such gaming.</text>
+      <text>Pursuant to the authority vested in the Saint Regis Mohawk Tribe, (hereinafter referred to as the "Tribe") and its Tribal Council, by virtue of the Tribe's inherent powers of self-government recognized by the federal government in the Treaty with the Seven Nations of Canada, 7 Stat. 55 (May 31, 1796) and the power of a majority of the Tribal Council to act on behalf of the Tribe pursuant to the customs and traditions of the Tribe, the Tribe hereby authorizes the operation of a variety of Class II and Class III games (as defined by IGRA and <cite path="|9.01">this chapter</cite>) as a means to promote the Tribe's economic development, self-sufficiency, and strong Tribal government and establishes a public body known as the Saint Regis Mohawk Tribal Gaming Commission (hereinafter referred to as the "Tribal Gaming Commission") to regulate such gaming.</text>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|1" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.020"/>
-      <num codify:value="9.01.020">2</num>
+      <num>9.01.020</num>
       <heading>Purpose</heading>
-      <text>The Saint Regis Mohawk Tribal Gaming Commission of the Saint Regis Mohawk Tribe, to enact ordinances, hereby enacts <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite> to promote tribal economic development, self-sufficiency, and sovereignty; to shield the operation of gaming from organized crime and other corrupting influences; and to ensure that gaming is conducted fairly and honestly by both the operator and players.</text>
+      <text>The Saint Regis Mohawk Tribal Gaming Commission of the Saint Regis Mohawk Tribe, to enact ordinances, hereby enacts <cite path="|9.01">this chapter</cite> to promote tribal economic development, self-sufficiency, and sovereignty; to shield the operation of gaming from organized crime and other corrupting influences; and to ensure that gaming is conducted fairly and honestly by both the operator and players.</text>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|2" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.030"/>
-      <num codify:value="9.01.030">3</num>
+      <num>9.01.030</num>
       <heading>Applicability</heading>
-      <text>Unless specifically indicated otherwise, all provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite> shall apply to Class II and Class III gaming on the Tribe's tribal lands.</text>
+      <text>Unless specifically indicated otherwise, all provisions of <cite path="|9.01">this chapter</cite> shall apply to Class II and Class III gaming on the Tribe's tribal lands.</text>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|3" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.040"/>
-      <num codify:value="9.01.040">4</num>
+      <num>9.01.040</num>
       <heading>Definitions</heading>
-      <text>The following terms, wherever used or referred to in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>, shall have the following respective meanings, unless a different meaning clearly appears from the context:</text>
+      <text>The following terms, wherever used or referred to in <cite path="|9.01">this chapter</cite>, shall have the following respective meanings, unless a different meaning clearly appears from the context:</text>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text><strong>Class I gaming</strong> means:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>Social games played solely for prizes of minimal value; or</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Traditional forms of Tribal gaming when played by individuals in connection with tribal ceremonies or celebrations.</text>
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text><strong>Class II gaming</strong> means:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>Bingo or lotto (whether or not electronic, computer or other technologic aids are used) when players:</text>
           <para>
-            <num>a.</num>
+            <num>(A)</num>
             <text>Play for prizes with cards bearing numbers or other designations;</text>
           </para>
           <para>
-            <num>b.</num>
+            <num>(B)</num>
             <text>Cover numbers or designations when objects, similarly numbered or designated, are drawn, or electronically determined; and</text>
           </para>
           <para>
-            <num>c.</num>
+            <num>(C)</num>
             <text>Win the game by being the first person to cover a designated pattern on such cards;</text>
           </para>
           <para>
-            <num>d.</num>
+            <num>(D)</num>
             <text>Pull-tabs, punch boards, tip jars, instant bingo, and other games similar to bingo, if played in the same location as bingo or lotto;</text>
           </para>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Non-banking card games that:</text>
           <para>
-            <num>a.</num>
+            <num>(A)</num>
             <text>State law explicitly authorizes, or does not explicitly prohibit, and are played legally anywhere in the state; and</text>
           </para>
           <para>
-            <num>b.</num>
+            <num>(B)</num>
             <text>Players play in conformity with state laws and regulations concerning hours, periods of operation, and limitations on wagers and pot sizes;</text>
           </para>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>Card games played in the states of Michigan, North Dakota, South Dakota, or Washington, if: a. A tribe actually operates the same card games as played on or before May 1, 1988, as determined by the NIGC Chair; and b. The pot and wager limits remain the same as on or before May 1, 1988, as determined by the NIGC Chair;</text>
         </para>
         <para>
-          <num>4.</num>
+          <num>(4)</num>
           <text>Individually owned class II gaming operations:</text>
           <para>
-            <num>a.</num>
+            <num>(A)</num>
             <text>That were operating on September 1, 1986;</text>
           </para>
           <para>
-            <num>b.</num>
+            <num>(B)</num>
             <text>That meet the requirements of 25 U.S.C. § 2710 (b) (4) (B);</text>
           </para>
           <para>
-            <num>C.</num>
+            <num>(C)</num>
             <text>Where the nature and scope of the game remains as it was on October 17, 1988; and</text>
           </para>
           <para>
-            <num>d.</num>
+            <num>(D)</num>
             <text>Where the ownership interest or interests are the same as on October 17, 1988</text>
           </para>
         </para>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text><strong>Class III gaming</strong> means all forms of gaming that are not class I or class II gaming, including, but not limited to:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>Any house banking game, including but not limited to:</text>
           <para>
-            <num>a.</num>
+            <num>(A)</num>
             <text>Card games such as baccarat, chemin de fer, blackjack (21), and pai gow (if played as house-banking games); and</text>
           </para>
           <para>
-            <num>b.</num>
+            <num>(B)</num>
             <text>Casino games such as roulette, craps, and keno;</text>
           </para>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Any slot machines, as defined in 15 U.S.C. § 1711 (a) (1), and electronic or electromechanical facsimiles of any game of chance;</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>Any sports betting and pari-mutuel wagering, including but not limited to, wagering on horse racing, dog racing or jai alai; or</text>
         </para>
         <para>
-          <num>4.</num>
+          <num>(4)</num>
           <text>Lotteries.</text>
         </para>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text><strong>Compact</strong> means an agreement between a Tribe and State about Class III gaming under 25 U.S.C. § 2710 (d).</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>(e)</num>
         <text><strong>Enterprise</strong> shall have the meaning set forth in Section 2 (f) of the Compact.</text>
       </para>
       <para>
-        <num>F.</num>
+        <num>(f)</num>
         <text><strong>Executive Director</strong> means the Executive Director of the Saint Regis Mohawk Tribal Gaming Commission.</text>
       </para>
       <para>
-        <num>G.</num>
+        <num>(g)</num>
         <text><strong>Facility License</strong> means a separate license by the Tribe to each place, facility, or location on Tribal lands where the Tribe elects to allow Class II or Class III gaming.</text>
       </para>
       <para>
-        <num>H.</num>
-        <text><strong>Gaming employee</strong> means any natural person employed in the operation or management of Class II or Class III gaming authorized by <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite> or as defined in Section 2 (g) of the Compact, whether employed by the Tribe or by any enterprise or management contractor providing on-site services to the Tribe within a Class II or Class III gaming facility.</text>
+        <num>(h)</num>
+        <text><strong>Gaming employee</strong> means any natural person employed in the operation or management of Class II or Class III gaming authorized by <cite path="|9.01">this chapter</cite> or as defined in Section 2 (g) of the Compact, whether employed by the Tribe or by any enterprise or management contractor providing on-site services to the Tribe within a Class II or Class III gaming facility.</text>
       </para>
       <para>
-        <num>I.</num>
+        <num>(i)</num>
         <text><strong>Gaming facility</strong> means any place, facility or location in which Class II or Class II gaming is conducted on Tribal land.</text>
       </para>
       <para>
-        <num>J.</num>
+        <num>(j)</num>
         <text><strong>Gaming operation</strong> means any business or activity operated by or for the Tribe on Tribal lands for the purpose of conducting any form of Class II or Class III gaming in any Class II or Class III gaming facility.</text>
       </para>
       <para>
-        <num>K.</num>
+        <num>(k)</num>
         <text><strong>Gaming service</strong> shall have the meaning set forth in Section 2 (k) of the Compact.</text>
       </para>
       <para>
-        <num>L.</num>
+        <num>(l)</num>
         <text><strong>IGRA</strong> means the Indian Gaming Regulatory Act; Pub. L. 100-497, 102 Stat. 2467, codified at 25 U.S.C. §§ 2701-21 and 18 U.S.C. §§ 1166-68.</text>
       </para>
       <para>
-        <num>M.</num>
+        <num>(m)</num>
         <text><strong>Key employee</strong> means:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>A person who performs one or more of the following functions:</text>
           <para>
-            <num>a.</num>
+            <num>(A)</num>
             <text>Bingo caller;</text>
           </para>
           <para>
-            <num>b.</num>
+            <num>(B)</num>
             <text>Counting room supervisor;</text>
           </para>
           <para>
-            <num>c.</num>
+            <num>(C)</num>
             <text>Chief of Security;</text>
           </para>
           <para>
-            <num>d.</num>
+            <num>(D)</num>
             <text>Custodian of gaming supplies or cash;</text>
           </para>
           <para>
-            <num>e.</num>
+            <num>(E)</num>
             <text>Floor manager;</text>
           </para>
           <para>
-            <num>f.</num>
+            <num>(F)</num>
             <text>Pit boss</text>
           </para>
           <para>
-            <num>g.</num>
+            <num>(G)</num>
             <text>Dealer;</text>
           </para>
           <para>
-            <num>h.</num>
+            <num>(H)</num>
             <text>Croupier;</text>
           </para>
           <para>
-            <num>i.</num>
+            <num>(I)</num>
             <text>Approver of credit; or</text>
           </para>
           <para>
-            <num>j.</num>
+            <num>(J)</num>
             <text>Custodian of gambling devices, including persons with access to cash and accounting records within such devices;</text>
           </para>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>If not otherwise included, any other person whose total cash compensation is in excess of $50,000 per year;</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>If not otherwise included, the four most highly compensated persons in the gaming operation; or</text>
         </para>
         <para>
-          <num>4.</num>
+          <num>(4)</num>
           <text>Any other person designated by the Commission as a key employee.</text>
         </para>
       </para>
       <para>
-        <num>N.</num>
-        <text><strong>Licensee</strong> means a tribally owned Class II or Class II gaming operation or a person licensed by the Tribal Gaming Commission as a primary management official, key employee, or other gaming employee under the provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>.</text>
+        <num>(n)</num>
+        <text><strong>Licensee</strong> means a tribally owned Class II or Class II gaming operation or a person licensed by the Tribal Gaming Commission as a primary management official, key employee, or other gaming employee under the provisions of <cite path="|9.01">this chapter</cite>.</text>
       </para>
       <para>
-        <num>O.</num>
+        <num>(o)</num>
         <text><strong>Licensing</strong> means the permission to be employed in or operate a tribally-owned gaming operation and includes the suspension or revocation of that permission for cause.</text>
       </para>
       <para>
-        <num>P.</num>
+        <num>(p)</num>
         <text><strong>Management Contract</strong> means any contract, subcontract, or collateral agreement between a Tribe and a contractor or between a contractor and a subcontractor if such contract or agreement provides for the management of all or part of a gaming operation.</text>
       </para>
       <para>
-        <num>Q.</num>
+        <num>(q)</num>
         <text><strong>Net revenues</strong> mean the gross revenues of a Tribal gaming operation less:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>Amount paid out as, or paid for, prizes; and</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Total gaming-related operating expenses, including all those expenses of the gaming operation commonly known as operation expense and non-operating expenses consistent with professional accounting pronouncements, excluding management fees.</text>
         </para>
       </para>
       <para>
-        <num>R.</num>
+        <num>(r)</num>
         <text><strong>Ordinance</strong> means this Saint Regis Mohawk Tribal Gaming Ordinance.</text>
       </para>
       <para>
-        <num>S.</num>
+        <num>(s)</num>
         <text><strong>Primary Management</strong> Official means:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>The person(s) having management responsibility for a management contract.</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Any person who has authority:</text>
           <para>
-            <num>a.</num>
+            <num>(A)</num>
             <text>To hire and fire employees; or</text>
           </para>
           <para>
-            <num>b.</num>
+            <num>(B)</num>
             <text>To set up working policy for the gaming operation; or</text>
           </para>
           <para>
-            <num>c.</num>
+            <num>(C)</num>
             <text>The chief financial officer or other person who has financial management responsibility.</text>
           </para>
           <para>
-            <num>d.</num>
+            <num>(D)</num>
             <text>Any other person designated by the Commission as a primary management official.</text>
           </para>
         </para>
       </para>
       <para>
-        <num>T.</num>
+        <num>(t)</num>
         <text><strong>Saint Regis Mohawk Tribal Gaming Commission</strong> or Commission means the Tribal Gaming Commission established pursuant to IGRA; which is the same as the Tribal Gaming Agency or Commission as defined in Section 2 (s) of the Compact. The Commission is established to perform regulatory oversight and to monitor with tribal, federal, and state regulations.</text>
       </para>
       <para>
-        <num>U.</num>
+        <num>(u)</num>
         <text><strong>Saint Regis Mohawk Tribal Gaming Commissioner</strong> means a Tribal Gaming Commissioner.</text>
       </para>
       <para>
-        <num>V.</num>
+        <num>(v)</num>
         <text><strong>State</strong> shall mean the State of New York.</text>
       </para>
       <para>
-        <num>W.</num>
+        <num>(w)</num>
         <text><strong>Tribal Council</strong> means the official governmental body of the Saint Regis Mohawk Tribe recognized by the United States federal government as the governmental body of the Tribe.</text>
       </para>
       <para>
-        <num>X.</num>
+        <num>(x)</num>
         <text><strong>Tribal</strong> lands mean:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>Land with the limits of Tribal reservation; or</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Land over which the Tribe exercises governmental power and that is either;</text>
           <para>
-            <num>a.</num>
+            <num>(A)</num>
             <text>Held in trust by the United State for the benefit of any Tribe or individual; or</text>
           </para>
           <para>
-            <num>b.</num>
+            <num>(B)</num>
             <text>Held by the Tribe or individual subject to restriction by the United States against alienation.</text>
           </para>
         </para>
       </para>
       <para>
-        <num>Y.</num>
+        <num>(y)</num>
         <text><strong>Tribe</strong> means the Saint Regis Mohawk Tribe.</text>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|4" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.050"/>
-      <num codify:value="9.01.050">5</num>
+      <num>9.01.050</num>
       <heading>Gaming Authorized</heading>
-      <text>Class II and Class III gaming are authorized to be conducted on the Tribe's lands, if such gaming is conducted in accordance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>, the Indian Gaming Regulatory Act (IGRA), the NIGC's regulations, and any other applicable laws or regulations.</text>
+      <text>Class II and Class III gaming are authorized to be conducted on the Tribe's lands, if such gaming is conducted in accordance with <cite path="|9.01">this chapter</cite>, the Indian Gaming Regulatory Act (IGRA), the NIGC's regulations, and any other applicable laws or regulations.</text>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|5" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.060"/>
-      <num codify:value="9.01.060">6</num>
+      <num>9.01.060</num>
       <heading>Ownership of Gaming</heading>
       <para>
-        <num>A.</num>
-        <text>The Tribe shall have the sole proprietary interest in and responsibility for the conduct of any gaming operation authorized by <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>.</text>
+        <num>(a)</num>
+        <text>The Tribe shall have the sole proprietary interest in and responsibility for the conduct of any gaming operation authorized by <cite path="|9.01">this chapter</cite>.</text>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|6" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.070"/>
-      <num codify:value="9.01.070">7</num>
+      <num>9.01.070</num>
       <heading>Use of Net Gaming Revenues</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Net revenues from Tribal gaming shall be used only for the following purposes:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>To fund Tribal government operations or programs;</text>
         </para>
         <para>
-          <num>2.</num>
-          <text>To provide for the general welfare of the Tribe and its members to include per capita payments if they comply with <code-cite path="§8" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">Section 8</code-cite> below;</text>
+          <num>(2)</num>
+          <text>To provide for the general welfare of the Tribe and its members to include per capita payments if they comply with <cite path="|9.01.080">Section 9.01.080</cite> below;</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>To promote Tribal economic development;</text>
         </para>
         <para>
-          <num>4.</num>
+          <num>(4)</num>
           <text>To donate to charitable organizations; or</text>
         </para>
         <para>
-          <num>5.</num>
+          <num>(5)</num>
           <text>To help fund operations of local government agencies.</text>
         </para>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|7" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.080"/>
-      <num codify:value="9.01.080">8</num>
+      <num>9.01.080</num>
       <heading>Per Capita Payments</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Net revenues from any Class II and/or Class III gaming activities conducted or licensed by the Tribe may be used to make per capita payments to Tribal members if:</text>
         <para>
-          <num>1.</num>
-          <text>The Tribe has prepared a plan to allocate revenues to one or more of the five uses authorized by <code-cite path="§7|A." doc="Saint Regis Mohawk Tribe Res. No. 2022-14">Section 7 (A)</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>;</text>
+          <num>(1)</num>
+          <text>The Tribe has prepared a plan to allocate revenues to one or more of the five uses authorized by <cite path="|9.01.070|(a)">Section 9.01.070(a)</cite> of <cite path="|9.01">this chapter</cite>;</text>
         </para>
         <para>
-          <num>2.</num>
-          <text>The plan is approved by the Secretary of the Interior as adequate, particularly with respect to the uses described in <code-cite path="§7|A.|1." doc="Saint Regis Mohawk Tribe Res. No. 2022-14">Sections 7 (A) (1)</code-cite> and <code-cite path="§7|A.|3." doc="Saint Regis Mohawk Tribe Res. No. 2022-14">7 (A) (3)</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>;</text>
+          <num>(2)</num>
+          <text>The plan is approved by the Secretary of the Interior as adequate, particularly with respect to the uses described in <cite path="|9.01.070|(a)|(1)">Section 9.01.070(a)(1)</cite> and <cite path="|9.01.070|(a)|(3)">Section 9.01.070(a)(3)</cite> of <cite path="|9.01">this chapter</cite>;</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>The interests of minors and other legally incompetent persons who are entitled to receive any of the per capita payments are protected and preserved, and the per capita payments are disbursed to the parents or legal guardian of such minors or legal incompetents in such amounts as may be necessary for the health, education, or welfare of the minor or other legally incompetent person; and</text>
         </para>
         <para>
-          <num>4.</num>
+          <num>(4)</num>
           <text>The per capita payments are subject to Federal taxation and the Tribe notifies its members of such tax liability when payments are made.</text>
         </para>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|8" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.090"/>
-      <num codify:value="9.01.090">9</num>
+      <num>9.01.090</num>
       <heading>Gaming Commission</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The Saint Regis Mohawk Tribal Gaming Commission ("Commission") shall be composed of a minimum of three (3) persons, each of whom shall carry the title "Tribal Gaming Commissioner," Tribal Gaming Commission Executive Director, the Tribal Gaming Commission employees</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The Tribal Gaming Commissioners shall be appointed, and may be reappointed, by majority vote of the Tribal Council. A Resolution of the Tribal Council as to the appointment or reappointment of any Tribal Gaming Commissioner shall be conclusive evidence of the due and proper appointment of the member.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>The following must be met to qualify to be appointed as a Commissioner:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>Enrolled member of the Saint Regis Mohawk Tribe;</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Twenty-one (21) years of age;</text>
         </para>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>The following persons are not eligible to serve as Commissioners:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>Current employees of the gaming operation;</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Gaming contractors (including principal of a management, or other contracting company);</text>
         </para>
       </para>
       <para>
-        <num>E.</num>
-        <text>The Tribe recognizes the importance of an independent Commission in maintaining a well-regulated gaming operation. The Commission shall be independent of, and act independently and autonomously from, the Saint Regis Mohawk Tribal Council in all matters within its purview. No prior, or subsequent, review by the Saint Regis Mohawk Tribe of any actions of the Commission shall be required or permitted except as otherwise explicitly provided in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>. To avoid potential conflicts of interest between the operation and regulation of the gaming facility, the Tribe requires that, at a minimum:</text>
+        <num>(e)</num>
+        <text>The Tribe recognizes the importance of an independent Commission in maintaining a well-regulated gaming operation. The Commission shall be independent of, and act independently and autonomously from, the Saint Regis Mohawk Tribal Council in all matters within its purview. No prior, or subsequent, review by the Saint Regis Mohawk Tribe of any actions of the Commission shall be required or permitted except as otherwise explicitly provided in <cite path="|9.01">this chapter</cite>. To avoid potential conflicts of interest between the operation and regulation of the gaming facility, the Tribe requires that, at a minimum:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>No member of the Saint Regis Mohawk Tribal Council or gaming board may serve on the Commission;</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>No member directly related to, or living with, any Saint Regis Mohawk Tribal Council member or gaming board member may serve on the Commission; and</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>The Commission and its employees are prohibited from accepting complimentary items from the gaming operation, except food and beverages items valued under 100 dollars ($100.00) or less.</text>
         </para>
       </para>
       <para>
-        <num>F.</num>
+        <num>(f)</num>
         <text>The term of office shall be three years and may be staggered. In the case of a prior vacancy, an appointment shall be only for the length of the unexpired term. If physically able, each Tribal Gaming Commissioner shall hold office until his/her successor has been appointed.</text>
       </para>
       <para>
-        <num>G.</num>
+        <num>(g)</num>
         <text>The Commission shall name one of the Tribal Gaming Commissioners as the Chairman of the Commission. The Chairman of the Commission shall have the authority to call meetings of the Commission and shall preside over such meeting. The Commission shall select from among its Tribal Gaming Commissioners, a Vice Chairman, and no Tribal Gaming Commissioner may hold the positions of both Chairman and Vice Chairman. In absence of the Chairman, the Vice Chairman shall preside.</text>
       </para>
       <para>
-        <num>H.</num>
+        <num>(h)</num>
         <text>A Tribal Gaming Commissioner may be removed before the end of his/her term with or without good cause.</text>
       </para>
       <para>
-        <num>I.</num>
+        <num>(i)</num>
         <text>No Tribal Gaming Commissioner or employee of the Commission shall participate as a player in any gaming activity conducted by the Tribe.</text>
       </para>
       <para>
-        <num>J.</num>
+        <num>(j)</num>
         <text>The Tribal Gaming Commissioners may receive compensation for their services and shall be entitled to compensation for their expenses, including travel expenses, incurred in the discharge of their duties.</text>
       </para>
       <para>
-        <num>K.</num>
+        <num>(k)</num>
         <text>A majority of the full Tribal Gaming Commission shall constitute a quorum for the transaction of business, considering any vacancies which may exist.</text>
       </para>
       <para>
-        <num>L.</num>
+        <num>(l)</num>
         <text>Meetings of the Commission shall be held at regular intervals as provided in the by-laws. Emergency meetings may be held upon 24 hours actual notice and business transacted, provided that at least a quorum exists and that there is a majority vote of those Tribal Gaming Commissioners present with respect to the proposed action.</text>
       </para>
       <para>
-        <num>M.</num>
+        <num>(m)</num>
         <text>Any action required or permitted to be taken at a meeting of the Tribal Gaming Commission may be taken without a meeting if all of the members sign written consents setting forth the action taken or to be taken, at any time before or after the intended effective date of such action. Such consents shall be filed with the minutes of the Commission and shall have the same effect as consent obtained at a meeting.</text>
       </para>
       <para>
-        <num>N.</num>
+        <num>(n)</num>
         <text>Commissioners may participate in a meeting of the Tribal Gaming Commission by means of conference telephone or similar communications equipment by means of which all persons participating in the meetings can hear each other, and participation in a meeting in such manner by any Tribal Gaming Commissioner who does not object at the beginning of such meeting to the holding thereof in such manner shall constitute presence in person of that Tribal Gaming Commissioner at such meeting.</text>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|9" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.100"/>
-      <num codify:value="9.01.100">10</num>
+      <num>9.01.100</num>
       <heading>Powers and Duties of the Tribal Gaming Commission</heading>
-      <text>The Commission shall be responsible for the regulation of any gaming activity authorized by <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite> and shall have the following powers that it may exercise consistent with the purposes for which it is established and in compliance with the Compact:</text>
+      <text>The Commission shall be responsible for the regulation of any gaming activity authorized by <cite path="|9.01">this chapter</cite> and shall have the following powers that it may exercise consistent with the purposes for which it is established and in compliance with the Compact:</text>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>To adopt written standards of operation and management as provided in the compact to govern all authorized gaming which shall include:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>The rules of each game of chance operated by the Tribe or licensed gaming facility;</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Permissible methods of payment;</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>Procedures to license gaming employees, to conduct or cause to be conducted background investigations on employees and management officials; and to train and instruct gaming employees;</text>
         </para>
         <para>
-          <num>4.</num>
+          <num>(4)</num>
           <text>Internal organization and management of the gaming operations;</text>
         </para>
         <para>
-          <num>5.</num>
+          <num>(5)</num>
           <text>Security and surveillance methods;</text>
         </para>
         <para>
-          <num>6.</num>
+          <num>(6)</num>
           <text>Accounting and cash control procedures; and</text>
         </para>
         <para>
-          <num>7.</num>
+          <num>(7)</num>
           <text>Other record keeping requirements.</text>
           <text>Such standards shall protect the public interest in the integrity of the gaming operations, and shall reduce the dangers of unsuitable, unfair, or illegal practices and methods in the conduct of gaming.</text>
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>With regards to subpoena powers, the Commission may in order to investigate any aspect of a gaming operation, issue subpoenas, and in doing so, require and review records of or concerning any gaming operation, and to compel any gaming person employed by any such operation, or doing business with such operations to appear before it, and to provide such information, records or other materials as may be in their possession to assist in any investigation.</text>
       </para>
       <para>
-        <num>C.</num>
-        <text>To license any gaming facility on Tribal Land where the Tribe elects to allow Class II or Class III gaming and to enter and inspect at any time such gaming facility in which games are operated pursuant to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>. Such inspections may be conducted by non-uniformed inspectors employed by and under the direction of the Tribal Gaming Commission.</text>
+        <num>(c)</num>
+        <text>To license any gaming facility on Tribal Land where the Tribe elects to allow Class II or Class III gaming and to enter and inspect at any time such gaming facility in which games are operated pursuant to <cite path="|9.01">this chapter</cite>. Such inspections may be conducted by non-uniformed inspectors employed by and under the direction of the Tribal Gaming Commission.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>To require an annual audit by a certified public accounting firm of all gaming activities and gaming facilities and such other audits as it deems necessary.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>(e)</num>
         <text>To license any gaming employee.</text>
       </para>
       <para>
-        <num>F.</num>
+        <num>(f)</num>
         <text>To acknowledge the registration of gaming service enterprises by the State for purposes of contracting with the Tribe and to assist the State in the registration of gaming service enterprises that seek to do business with a Tribal gaming operation.</text>
       </para>
       <para>
-        <num>G.</num>
+        <num>(g)</num>
         <text>To ensure that background investigations and licensing procedures are conducted on primary management officials and key employees of the gaming operations in accordance with IGRA and the Compact, and to oversee such officials and their management on an ongoing basis.</text>
       </para>
       <para>
-        <num>H.</num>
+        <num>(h)</num>
         <text>To prohibit undesirable conduct from occurring in, and undesirable persons from admission to, any gaming facility.</text>
       </para>
       <para>
-        <num>I.</num>
+        <num>(i)</num>
         <text>To coordinate and cooperate with any legitimate law enforcement effort to protect the Tribe and its gaming operations from harm.</text>
       </para>
       <para>
-        <num>J.</num>
+        <num>(j)</num>
         <text>To provide information to the federal and state governments in accordance with IGRA and the Compact.</text>
       </para>
       <para>
-        <num>K.</num>
+        <num>(k)</num>
         <text>To ensure that the construction and maintenance of all gaming facilities and the operation of all gaming activities is conducted in a manner that adequately protects the environment and the public health and safety of all individuals.</text>
       </para>
       <para>
-        <num>L.</num>
-        <text>To carry out each responsibility and duty of the Commission set forth in IGRA and the Compact not otherwise set forth in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>.</text>
+        <num>(l)</num>
+        <text>To carry out each responsibility and duty of the Commission set forth in IGRA and the Compact not otherwise set forth in <cite path="|9.01">this chapter</cite>.</text>
       </para>
       <para>
-        <num>M.</num>
+        <num>(m)</num>
         <text>Customer Disputes: Any person who has any dispute, disagreement or other grievance that involves currency, tokens, coins, or any other thing of value and is between the customer or player and the Gaming Operation, may raise such dispute with the following persons and in the following recommended order:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>Employees of the Gaming Operations.</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>The supervisor in the area in which the dispute arose.</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>The General Manager of the Gaming Operation.</text>
         </para>
         <para>
-          <num>4.</num>
+          <num>(4)</num>
           <text>The Tribal Gaming Commission.</text>
           <text>At each level, the complainant has the right to explain his/her side of the dispute, and to present witnesses in connection with any factual allegation. At each level, if the dispute remains unresolved, the complainant shall be given a copy of the impartial dispute resolution procedures adopted by the Commission or as agreed to in the Tribal/State Compact. The complainant shall be informed of the right to take the dispute to the next higher level.</text>
           <text>Resolution of any dispute by an employee of the Gaming Operation should always involve two or more employees, one of which should involve the next immediate supervisor. All disputes, whether resolved or not, should be subject to a documented detailed report by all employees involved and submitted to their supervisors, or, in the case of the General Manager, to the Gaming Commission.</text>
@@ -661,730 +604,789 @@
         </para>
       </para>
       <para>
-        <num>N.</num>
-        <text>The Commission may adopt an annual operating budget and may in accordance with that budget employ such staff from time to time as it deems necessary to fulfill its responsibilities under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>. The Commission shall appoint an individual to serve as a full-time Executive Director of the Commission to administer its responsibilities on a day to day basis and to oversee inspectors appointed by the Commission as well as such other staff as the Commission may from time to time employ. The Commission may delegate to the Executive Director those powers not expressly limited to the Commission. The Commission may also enlist legal counsel and other professional services, including investigative services, available to the Tribe, to assist the Commission with respect to any of the issues over which the Commission exercises jurisdiction.</text>
+        <num>(n)</num>
+        <text>The Commission may adopt an annual operating budget and may in accordance with that budget employ such staff from time to time as it deems necessary to fulfill its responsibilities under <cite path="|9.01">this chapter</cite>. The Commission shall appoint an individual to serve as a full-time Executive Director of the Commission to administer its responsibilities on a day to day basis and to oversee inspectors appointed by the Commission as well as such other staff as the Commission may from time to time employ. The Commission may delegate to the Executive Director those powers not expressly limited to the Commission. The Commission may also enlist legal counsel and other professional services, including investigative services, available to the Tribe, to assist the Commission with respect to any of the issues over which the Commission exercises jurisdiction.</text>
       </para>
       <para>
-        <num>O.</num>
+        <num>(o)</num>
         <text>To undertake and carry out studies and analyses of Tribal gaming operations.</text>
       </para>
       <para>
-        <num>P.</num>
+        <num>(p)</num>
         <text>To adopt such by-laws as the Commission deems necessary and appropriate.</text>
       </para>
       <para>
-        <num>Q.</num>
+        <num>(q)</num>
         <text>The Commission shall submit an annual report, in written form, signed by the Chairman of the Commission, to the Tribal Council showing:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>A summary of the year's activities</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>The financial condition of the gaming operations</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>Any significant problems and accomplishments</text>
         </para>
         <para>
-          <num>4.</num>
+          <num>(4)</num>
           <text>Plans for the future</text>
         </para>
         <para>
-          <num>5.</num>
+          <num>(5)</num>
           <text>Such other information as the Tribal Gaming Commission or the Tribal Council may deem pertinent</text>
         </para>
       </para>
       <para>
-        <num>R.</num>
+        <num>(r)</num>
         <text>To oversee and implement any responsibilities of the Tribe or Commission pursuant to any management or service agreement with a third party for the management of Tribal gaming operations.</text>
       </para>
       <para>
-        <num>S.</num>
+        <num>(s)</num>
         <text>To take such further actions as are commonly engaged in by public bodies of this character as the Commission may deem necessary and desirable to effectuate its purposes, including without limitation the power of adopt rules and regulations governing the procedures for the meetings of the Commission.</text>
       </para>
       <para>
-        <num>T.</num>
+        <num>(t)</num>
         <text>To oversee the Gaming Operations and assure compliance with established operating procedures that protect the integrity of the games played. Controls and procedures must be strictly adhered to in order to protect the Tribe from corrupt influences, and to ensure that any Class II and Class III gaming is conducted fairly and honestly by all parties involved.</text>
       </para>
       <para>
-        <num>U.</num>
+        <num>(u)</num>
         <text>The Commission is empowered to levy fines and penalties for violations of the Ordinance, the Compact and the Act (I.G.R.A.), and to issue subpoenas through its delegated licensing authority. Further, the Commission has the power to adopt rules and regulations governing procedures that enhance the Tribe's effectiveness to self-regulate their Gaming Operations. The Commission may impose any of the following civil penalties:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>Termination, suspension, or exclusion from employment in any Gaming Operations or other appropriate employee discipline;</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Exclusion from admittance into any Class II or Class III Gaming Operation;</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>A fine (penalty) of not more than $10,000 per violation, the exceptions are a general manager, owner or controlling person, or a party to a management contract, shall be subject to a fine of not more than $25,000 per violation, and actual damages to the Tribe or it is Gaming Operations.</text>
         </para>
       </para>
       <para>
-        <num>V.</num>
+        <num>(v)</num>
         <text>The Commission has the final authority and responsibility to interpret and implement the Gaming Ordinance and its rules and proceedings before it including Tribal Internal Control Standards.</text>
       </para>
       <para>
-        <num>W.</num>
+        <num>(w)</num>
         <text>The Executive Director shall be responsible for the following, which may delegate, in whole or in part:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>Implement and enforce all applicable rules, procedures, policies, regulations adopted by the Commission.</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Adopt an annual operating budget and submit to the Tribe.</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>Oversight of Commission employees and taking personnel action.</text>
         </para>
         <para>
-          <num>4.</num>
+          <num>(4)</num>
           <text>Taking all licensing actions including issuance, renewal, suspension and revocation for any applicant or licensee.</text>
         </para>
         <para>
-          <num>5.</num>
+          <num>(5)</num>
           <text>Establish and implement Tribal Internal Control Standards (TICS).</text>
         </para>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|10" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.110"/>
-      <num codify:value="9.01.110">11</num>
+      <num>9.01.110</num>
       <heading>Audits</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The Commission shall cause to be conducted independent audits of gaming operations annually and shall submit the results of those audits to the NIGC.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Annual audits shall conform to generally accepted auditing standards.</text>
       </para>
       <para>
-        <num>C.</num>
-        <text>All gaming-related contracts that result in the purchase of supplies, services, or concessions for more than $25,000 in any year (except contracts for professional legal and accounting services) shall be specifically included within the scope of the audit conducted under <code-cite path="§11|A." doc="Saint Regis Mohawk Tribe Res. No. 2022-14">Section 11 (A)</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>.</text>
+        <num>(c)</num>
+        <text>All gaming-related contracts that result in the purchase of supplies, services, or concessions for more than $25,000 in any year (except contracts for professional legal and accounting services) shall be specifically included within the scope of the audit conducted under <cite path="|9.01.110|(a)">Section 9.01.110(a)</cite> of <cite path="|9.01">this chapter</cite>.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>Copies of the annual audit of each licensed gaming operation, and each audit for supplies, services, or concessions of each gaming operation, shall be furnished to the NIGC within 120 days after the end of each fiscal year of the gaming operation.</text>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|11" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.120"/>
-      <num codify:value="9.01.120">12</num>
+      <num>9.01.120</num>
       <heading>Environment and Public Health and Safety</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Each gaming facility shall be constructed, maintained, and operated in a manner that adequately protects the environment and the health and safety of the public.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The Commission shall identify and enforce laws, resolutions, codes, policies, standards, or procedures, which are applicable to each gaming place, facility, or location, to ensure adequate protection of the environment and the health and safety of the public.</text>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|12" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.130"/>
-      <num codify:value="9.01.130">13</num>
+      <num>9.01.130</num>
       <heading>Facilities Licenses</heading>
       <para>
-        <num>A.</num>
-        <text>The Commission shall issue a separate license to each place, facility, or location on Tribal lands where Class II and/or Class III gaming is conducted under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>.</text>
+        <num>(a)</num>
+        <text>The Commission shall issue a separate license to each place, facility, or location on Tribal lands where Class II and/or Class III gaming is conducted under <cite path="|9.01">this chapter</cite>.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The Commission is responsible for issuing new or renewed facility licenses to each place, facility, or location.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>The Commission shall require that a facility license application be completed by the chief management official of the gaming facility for each gaming place, facility, or location.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>The Commission shall identify the environmental, health and public safety standards with which the place, facility or location must comply, and specify the form, conditions, and content of a facility license application.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>(e)</num>
         <text>The Commission shall only issue a facility license if the application includes the required information and documentation, and sufficiently satisfies any additional conditions deemed necessary by the Tribe.</text>
       </para>
       <para>
-        <num>F.</num>
+        <num>(f)</num>
         <text>The Commission shall submit to the NIGC Chair a notice that issuance of a facility license is under consideration by the Commission. This notice must be submitted at least 120 days before the opening of any new place, facility, or location on Tribal lands where Class II and/or Class III gaming will occur.</text>
       </para>
       <para>
-        <num>G.</num>
+        <num>(g)</num>
         <text>The Commission shall submit a copy of each newly issued or renewed facility license to the NIGC Chair within 30 days of issuance, along with any other documentation.</text>
       </para>
       <para>
-        <num>H.</num>
+        <num>(h)</num>
         <text>The Commission shall notify the NIGC Chair within 30 days if a facility license is terminated or expires, or if a gaming place, facility, or location closes or reopens.</text>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|13" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.140"/>
-      <num codify:value="9.01.140">14</num>
+      <num>9.01.140</num>
       <heading>Agent for Service of Process</heading>
       <text>The Commission designates the Executive Director as the agent for service of any official determination, order or notice of violation.</text>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|14" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.150"/>
-      <num codify:value="9.01.150">15</num>
+      <num>9.01.150</num>
       <heading>License Application Forms</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The following notice shall be placed on the Tribe's license application form for a key employee or a primary management official before it is filled out by an applicant:</text>
         <text>In compliance with the Privacy Act of 1974, the following information is provided: Solicitation of the information on this form is authorized by 25 U.S.C. SS 2701 et seq. The purpose of the requested information is to determine the eligibility of individuals to be granted a gaming license. The information will be used by the Tribal gaming regulatory authorities and by the National Indian Gaming Commission members and staff who have need for the information in the performance of their official duties. The information may be disclosed by the Tribe or the NIGC to appropriate Federal, Tribal, State, local or foreign law enforcement and regulatory agencies when relevant to civil, criminal, or regulatory investigations or prosecutions or when pursuant to a requirement by a tribe or the NIGC in connection with the issuance, denial, or revocation of a gaming license, or investigations of activities while associated with a tribe or a gaming operation. Failure to consent to the disclosures indicated in this notice will result in a tribe being unable to license you for a primary management official or key employee position. The disclosure of your Social Security Number (SSN) is voluntary. However, failure to supply an SSN may result in errors in processing your application.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The following additional notice shall be placed on the application form for a key employee or a primary management official before it is filled out by an applicant:</text>
         <text>A false statement on any part of your license application may be grounds for denying a license or the suspension or revocation of a license. Also, you may be punished by fine or imprisonment (U.S. Code, title 18, section 1001).</text>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|15" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.160"/>
-      <num codify:value="9.01.160">16</num>
+      <num>9.01.160</num>
       <heading>License Fees</heading>
       <text>The Commission may charge a license fee, to be set by the Commission, to cover its expenses in investigating and licensing key employees and primary management officials of the gaming operation.</text>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|16" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.170"/>
-      <num codify:value="9.01.170">17</num>
+      <num>9.01.170</num>
       <heading>Background Investigations</heading>
       <para>
-        <num>A.</num>
-        <text>The Commission shall perform a background investigation for each primary management official and key employee in its gaming operation. The investigation must be sufficient to allow the Commission to make an eligibility determination under <code-cite path="§21" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">Section 21</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>.</text>
+        <num>(a)</num>
+        <text>The Commission shall perform a background investigation for each primary management official and key employee in its gaming operation. The investigation must be sufficient to allow the Commission to make an eligibility determination under <cite path="|9.01.210">Section 9.01.210</cite> of <cite path="|9.01">this chapter</cite>.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The Commission is responsible for conducting the background investigations of primary management officials and key employees. The background investigation shall include a check of criminal history records information maintained by the Federal Bureau of Investigations.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>The Commission shall request fingerprints from each primary management official and key employee. The law enforcement agency designated to take fingerprints is the Saint Regis Mohawk Tribal Police Department.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>The Commission shall request from each primary management official and key employee all of the following information:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>Full name, other names used (oral or written), social security number, birth date, place of birth, citizenship, gender, and all languages (spoken and/or written);</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Currently, and for the previous five (5) years; business and employment positions held, ownership interests in those businesses, business and residential addresses, and driver's license numbers;</text>
         </para>
         <para>
-          <num>3.</num>
-          <text>The names and current addresses of at least three (3) personal references, including one (1) personal reference who was acquainted with the applicant during each period of residence listed under <code-cite path="§17|D.|2." doc="Saint Regis Mohawk Tribe Res. No. 2022-14">paragraph (D) (2) of this Section</code-cite>;</text>
+          <num>(3)</num>
+          <text>The names and current addresses of at least three (3) personal references, including one (1) personal reference who was acquainted with the applicant during each period of residence listed under <cite path="|9.01.170|(d)|(2)">Section 9.01.170(d)(2)</cite>;</text>
         </para>
         <para>
-          <num>4.</num>
+          <num>(4)</num>
           <text>Current business and residential telephone numbers, and all cell phone numbers;</text>
         </para>
         <para>
-          <num>5.</num>
+          <num>(5)</num>
           <text>A description of any existing and previous business relationships with other tribes, including any ownership interests in those businesses;</text>
         </para>
         <para>
-          <num>6.</num>
+          <num>(6)</num>
           <text>A description of any existing and previous business relationships with the gaming industry generally, including ownership interests in those businesses;</text>
         </para>
         <para>
-          <num>7.</num>
+          <num>(7)</num>
           <text>The name and address of any licensing or regulatory agency with which the person has filed an application for a license or permit related to gaming, whether or not such license or permit was granted;</text>
         </para>
         <para>
-          <num>8.</num>
+          <num>(8)</num>
           <text>For each felony for which there is an ongoing prosecution or a conviction, the charge, the name, and address of the court involved, and the date of disposition, if any;</text>
         </para>
         <para>
-          <num>9.</num>
+          <num>(9)</num>
           <text>For each misdemeanor conviction or ongoing misdemeanor prosecution (excluding minor traffic violations) within 10 years of the date of the application, the name and address of the court involved and the date of disposition, if any;</text>
         </para>
         <para>
-          <num>10.</num>
-          <text>For each criminal charge (excluding minor traffic charges), whether or not there is a conviction, if such criminal charge is within 10 years of the date of the application, and is not otherwise listed pursuant to <code-cite path="§17|D.|8." doc="Saint Regis Mohawk Tribe Res. No. 2022-14">paragraphs (D) (8)</code-cite> or <code-cite path="§17|D.|9." doc="Saint Regis Mohawk Tribe Res. No. 2022-14">(D) (9) of this Section</code-cite>, the criminal charge, the name, and address of the court involved, and the date of disposition, if any;</text>
+          <num>(10)</num>
+          <text>For each criminal charge (excluding minor traffic charges), whether or not there is a conviction, if such criminal charge is within 10 years of the date of the application, and is not otherwise listed pursuant to <cite path="|9.01.170|(d)|(8)">Section 9.01.170(d)(8)</cite> or <cite path="|9.01.170|(d)|(9)">Section 9.01.170(d)(9)</cite>, the criminal charge, the name, and address of the court involved, and the date of disposition, if any;</text>
         </para>
         <para>
-          <num>11.</num>
+          <num>(11)</num>
           <text>The name and address of any licensing or regulatory agency with which the person has filed an application for an occupational license or permit, whether or not such license or permit was granted;</text>
         </para>
         <para>
-          <num>12.</num>
+          <num>(12)</num>
           <text>A photograph;</text>
         </para>
         <para>
-          <num>13.</num>
+          <num>(13)</num>
           <text>Any other information the Commission deems relevant; and</text>
         </para>
         <para>
-          <num>14.</num>
+          <num>(14)</num>
           <text>Fingerprints obtained in accordance with procedures adopted by the Commission.</text>
         </para>
       </para>
       <para>
-        <num>E.</num>
-        <text>When a primary management official or key employee is employed by the gaming operation, a complete application file, containing all of the information listed in <code-cite path="§19|B." doc="Saint Regis Mohawk Tribe Res. No. 2022-14">Section 19 (D)</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>, shall be maintained.</text>
+        <num>(e)</num>
+        <text>When a primary management official or key employee is employed by the gaming operation, a complete application file, containing all of the information listed in <cite path="|9.01.190|(b)">Section 9.01.190(b)</cite> of <cite path="|9.01">this chapter</cite>, shall be maintained.</text>
       </para>
       <para>
-        <num>F.</num>
+        <num>(f)</num>
         <text>The Commission, and its investigators, shall keep confidential the identity of each person interviewed in the course of conducting a background investigation.</text>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|17" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.180"/>
-      <num codify:value="9.01.180">18</num>
+      <num>9.01.180</num>
       <heading>Procedures for Conducting Background Investigations</heading>
       <text>With regards to Class III gaming, background investigations and the issuance of licenses/registrations to gaming employees and to gaming service enterprises shall be conducted pursuant to Section 5 and 6 of the Compact.</text>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The Commission, or its agent, shall employ or engage an investigator to conduct a background investigation of each applicant for a primary management official or key employee position. The investigator shall:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>Verify the applicant's identity through items such as a social security card, driver's license, birth certificate or passport;</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Contact each personal and business reference provided in the license application, when possible;</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>Conduct a personal credit check;</text>
         </para>
         <para>
-          <num>4.</num>
+          <num>(4)</num>
           <text>Conduct a civil history check;</text>
         </para>
         <para>
-          <num>5.</num>
+          <num>(5)</num>
           <text>Conduct a criminal history records check;</text>
         </para>
         <para>
-          <num>6.</num>
+          <num>(6)</num>
           <text>Based on the results of the criminal history records check, as well as information acquired from an applicant's self- reporting or from any other source, obtain information from the appropriate court regarding any past felony and/or misdemeanor convictions or ongoing prosecutions within the past 10 years;</text>
         </para>
         <para>
-          <num>7.</num>
+          <num>(7)</num>
           <text>Inquire into any previous or existing business relationships with the gaming industry, including with any tribes with gaming operations, by contacting the entities or tribes;</text>
         </para>
         <para>
-          <num>8.</num>
+          <num>(8)</num>
           <text>Verify the applicant's history and current status with any licensing agency by contacting the agency; and</text>
         </para>
         <para>
-          <num>9.</num>
+          <num>(9)</num>
           <text>Take other appropriate steps to verify the accuracy of the information focusing on any problem areas noted.</text>
         </para>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|18" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.190"/>
-      <num codify:value="9.01.190">19</num>
+      <num>9.01.190</num>
       <heading>Investigative Reports</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The Commission shall create and maintain an investigative report for each background investigation of a primary management official or key employee.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Investigative reports shall include all of the following information:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>Steps taken in conducting the investigation;</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Results obtained;</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>Conclusions reached; and</text>
         </para>
         <para>
-          <num>4.</num>
+          <num>(4)</num>
           <text>The basis for those conclusions.</text>
         </para>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|19" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.200"/>
-      <num codify:value="9.01.200">20</num>
+      <num>9.01.200</num>
       <heading>Eligibility Determinations</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Before a license is issued to a primary management official or key employee, an authorized Commission official shall make a finding concerning the eligibility of that person for receiving a gaming license by reviewing the applicant's prior activities, criminal record, if any, and reputation, habits, and associations.</text>
       </para>
       <para>
-        <num>B.</num>
-        <text>If the authorized Commission official, in applying the standards adopted in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>, determines that licensing the person poses a threat to the public interest or to the effective regulation of gaming, or creates or enhances the dangers of unsuitable, unfair, or illegal practices, methods and/or activities in the conduct of gaming, he or she shall not license that person in a key employee or primary management official position.</text>
+        <num>(b)</num>
+        <text>If the authorized Commission official, in applying the standards adopted in <cite path="|9.01">this chapter</cite>, determines that licensing the person poses a threat to the public interest or to the effective regulation of gaming, or creates or enhances the dangers of unsuitable, unfair, or illegal practices, methods and/or activities in the conduct of gaming, he or she shall not license that person in a key employee or primary management official position.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>Copies of the eligibility determination shall be included with. the notice of results that must be submitted to the NIGC before the licensing of a primary management official or key employee.</text>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|20" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.210"/>
-      <num codify:value="9.01.210">21</num>
+      <num>9.01.210</num>
       <heading>Notice of Results of Background Investigations</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Before issuing a license to a primary management official or key employee, the Commission shall prepare a notice of results of the applicant's background investigation to submit to the NIGC.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The notice of results must be submitted to the NIGC no later than 60 days after the applicant begins working for the Commission.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>The notice of results shall include the following information:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>The applicant's name, date of birth and social security number;</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>The date on which the applicant began, or will begin, working as a primary management official or key employee;</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>A summary of the information presented in the investigative report, including:</text>
           <para>
-            <num>a.</num>
+            <num>(A)</num>
             <text>Licenses that have previously been denied;</text>
           </para>
           <para>
-            <num>b.</num>
+            <num>(B)</num>
             <text>Gaming licenses that have been revoked, even if subsequently reinstated;</text>
           </para>
           <para>
-            <num>C.</num>
+            <num>(C)</num>
             <text>Every known criminal charge brought against the applicant within the last 10 years of the date of the application; and</text>
           </para>
           <para>
-            <num>d.</num>
+            <num>(D)</num>
             <text>Every felony offense of which the applicant has been convicted or any ongoing prosecution.</text>
           </para>
         </para>
         <para>
-          <num>4.</num>
-          <text>A copy of the eligibility determination made in accordance with <code-cite path="§21" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">Section 21</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>.</text>
+          <num>(4)</num>
+          <text>A copy of the eligibility determination made in accordance with <cite path="|9.01.210">this section</cite> of <cite path="|9.01">this chapter</cite>.</text>
         </para>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|21" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.220"/>
-      <num codify:value="9.01.220">22</num>
+      <num>9.01.220</num>
       <heading>Granting Gaming Licenses</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>All primary management officials and key employees of the gaming operation must have a gaming license issued by the Commission.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The Commission is responsible for granting and issuing gaming licenses to primary management officials and key employees.</text>
       </para>
       <para>
-        <num>C.</num>
-        <text>The Commission may license a primary management official or key employee applicant after submitting a notice of results of the applicant's background investigation to the NIGC, as required by <code-cite path="§22" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Section</code-cite>.</text>
+        <num>(c)</num>
+        <text>The Commission may license a primary management official or key employee applicant after submitting a notice of results of the applicant's background investigation to the NIGC, as required by <cite path="|9.01.220">this section</cite>.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>The Commission shall notify the NIGC of the issuance of a license to a primary management official or key employee within 30 days of its issuance.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>(e)</num>
         <text>The Commission shall not employ an individual in a primary management official or key employee position who does not have a license after 90 days of beginning work at the gaming operation.</text>
       </para>
       <para>
-        <num>F.</num>
+        <num>(f)</num>
         <text>The Commission must reconsider a license application for a primary management official or key employee if it receives a statement of itemized objections to issuing such a license from the NIGC, and those objections are received within 30 days of the NIGC receiving a notice of results of the applicant's background investigation.</text>
       </para>
       <para>
-        <num>G.</num>
+        <num>(g)</num>
         <text>The Commission shall take the NIGC's objections into account when reconsidering a license application.</text>
       </para>
       <para>
-        <num>H.</num>
+        <num>(h)</num>
         <text>The Commission will make the final decision whether to issue a license to an applicant for a primary management official or key employee position.</text>
       </para>
       <para>
-        <num>I.</num>
-        <text>If the Commission has issued a license to a primary management official or key employee before receiving the NIGC's statement of objections, notice and a hearing shall be provided to the licensee, as required by <code-cite path="§28" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">Section 28</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>.</text>
+        <num>(i)</num>
+        <text>If the Commission has issued a license to a primary management official or key employee before receiving the NIGC's statement of objections, notice and a hearing shall be provided to the licensee, as required by <cite path="|9.01.280">Section 9.01.280</cite> of <cite path="|9.01">this chapter</cite>.</text>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|22" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.230"/>
-      <num codify:value="9.01.230">23</num>
+      <num>9.01.230</num>
       <heading>Denying Gaming Licenses</heading>
       <para>
-        <num>A.</num>
-        <text>The Commission shall not license a primary management official or key employee if an authorized Commission official determines, in applying the standards in <code-cite path="§21" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">Section 21</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite> for making a license eligibility determination, that licensing the person:</text>
+        <num>(a)</num>
+        <text>The Commission shall not license a primary management official or key employee if an authorized Commission official determines, in applying the standards in <cite path="|9.01.210">Section 9.01.210</cite> of <cite path="|9.01">this chapter</cite> for making a license eligibility determination, that licensing the person:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>Poses a threat to the public interest;</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Poses a threat to the effective regulation of gaming; or</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>Creates or enhances the dangers of unsuitable, unfair, or illegal practices, methods and/or activities in the conduct of gaming.</text>
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>When the Commission does not issue a license to an applicant for a primary management official or key employee position, or revokes a previously issued licenses after reconsideration, it shall:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>Notify the NIGC; and</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Forward copies of its eligibility determination and notice of results of the applicant's background investigation to the NIGC for inclusion in the Indian Gaming Individuals Record System.</text>
         </para>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|23" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.240"/>
-      <num codify:value="9.01.240">24</num>
+      <num>9.01.240</num>
       <heading>Gaming License Suspensions and Revocations</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>If, after a license is issued to a primary management official or a key employee, the Commission receives notice from the NIGC that the primary management official or key employee is not eligible for employment, the Commission shall do the following:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>Immediately suspend the license;</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Provide the licensee with written notice of the suspension and proposed revocation; and</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>Provide the licensee with notice of a time and place for a hearing on the proposed revocation of the license.</text>
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Following a revocation hearing, the Commission shall decide whether to revoke or reinstate the license at issue.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>The Commission shall notify the NIGC of its decision to revoke or reinstate a license within 45 days of receiving notification from the NIGC that a primary management official or key employee is not eligible for employment.</text>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|24" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.250"/>
-      <num codify:value="9.01.250">25</num>
+      <num>9.01.250</num>
       <heading>Records Retention</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>The Commission shall retain, for no less than three years from the date a primary management official or key employee is terminated from employment with the gaming operation, the following documentation:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>Application for licensing;</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Investigative Reports; and</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>Eligibility Determinations.</text>
         </para>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|25" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.260"/>
-      <num codify:value="9.01.260">26</num>
+      <num>9.01.260</num>
       <heading>Confidentiality</heading>
-      <text>Communications, documents, records, and other information obtained by the Commission and Commission staff relating to licensing matters are confidential and shall not be disclosed except in furtherance of the duties of the Commission and Commission staff or pursuant to a court order. <code-cite path="§26" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">This Section</code-cite> does not apply to requests for such information for investigatory or law enforcement purposes from tribal, federal, or state law enforcement agencies.</text>
+      <text>Communications, documents, records, and other information obtained by the Commission and Commission staff relating to licensing matters are confidential and shall not be disclosed except in furtherance of the duties of the Commission and Commission staff or pursuant to a court order. <cite path="|9.01.260">This section</cite> does not apply to requests for such information for investigatory or law enforcement purposes from tribal, federal, or state law enforcement agencies.</text>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|26" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.270"/>
-      <num codify:value="9.01.270">27</num>
+      <num>9.01.270</num>
       <heading>Hearings</heading>
       <para>
-        <num>A.</num>
-        <text>The Commission shall provide an applicant for a license an opportunity for a hearing prior to a final action denying such application and shall provide a licensee, or any other person subject to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>, the opportunity for a hearing prior to taking final action resulting in the revocation, suspension, or limitation of a license or any other adverse action, provided that the Commission may summarily suspend temporarily or extend suspension of a license for 30 days in those cases where such action is deemed appropriate by the Commission. In cases where a license is suspended prior to a hearing, an opportunity for a hearing shall be provided.</text>
+        <num>(a)</num>
+        <text>The Commission shall provide an applicant for a license an opportunity for a hearing prior to a final action denying such application and shall provide a licensee, or any other person subject to <cite path="|9.01">this chapter</cite>, the opportunity for a hearing prior to taking final action resulting in the revocation, suspension, or limitation of a license or any other adverse action, provided that the Commission may summarily suspend temporarily or extend suspension of a license for 30 days in those cases where such action is deemed appropriate by the Commission. In cases where a license is suspended prior to a hearing, an opportunity for a hearing shall be provided.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Whenever upon specific factual finding, the Commission determines to take any final action, the Commission shall make a certification of findings and provide a copy thereof and a notice of hearing to the subject of that determination prior to a hearing. The Commission shall hold the hearing within 30 days of provision of the certification of findings and notice of hearing to the subject.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>At the hearing, it shall be the obligation of the subject to show cause why the Commission's determination to take final action should not be upheld. At the hearing, the subject shall be afforded access to evidence upon which any determination to take final action is based, to present the subject's own evidence and to confront witnesses.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>Within 30 days of the hearing, the Commission shall provide the subject written notice of its determination.</text>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|27" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.280"/>
-      <num codify:value="9.01.280">28</num>
+      <num>9.01.280</num>
       <heading>Licenses for Vendors</heading>
-      <text>Vendors of gaming services or supplies must have a vendor license from the Commission in order to transact business with the Gaming operation. Contracts for professional legal and accounting services are excluded from <code-cite path="§28" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Section</code-cite>.</text>
+      <text>Vendors of gaming services or supplies must have a vendor license from the Commission in order to transact business with the Gaming operation. Contracts for professional legal and accounting services are excluded from <cite path="|9.01.280">this section</cite>.</text>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|28" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.290"/>
-      <num codify:value="9.01.290">29</num>
+      <num>9.01.290</num>
       <heading>Submission of a Vendor License Application</heading>
       <text>In order to obtain a gaming vendor license, the business must complete a vendor application and submit to background checks of itself and its principals. Principals of a business include those officers, directors, managers, owners, partners, and non-institutional stockholders that either own 10% or more of the business' stock or are the 10 largest stockholders, as well as the on-site supervisors or managers designated in an agreement with the Tribe, if applicable.</text>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|29" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.300"/>
-      <num codify:value="9.01.300">30</num>
+      <num>9.01.300</num>
       <heading>Contents of the Vendor License Application</heading>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Applications for gaming vendor licenses must include the following:</text>
         <para>
-          <num>1.</num>
+          <num>(1)</num>
           <text>Name of business, business address, business telephone number(s), federal tax identification number (or social security number, if a sole proprietorship), main office address (if different from business address), any other names used by the applicant in business, and type of service (s) applicant will provide;</text>
         </para>
         <para>
-          <num>2.</num>
+          <num>(2)</num>
           <text>Whether the applicant is a partnership, corporation, limited liability company, sole proprietorship, or other entity;</text>
         </para>
         <para>
-          <num>3.</num>
+          <num>(3)</num>
           <text>If the applicant is a corporation, the state of incorporation and the qualification to do business in the State of New York, if the gaming operation is in a different state then the state of incorporation.</text>
         </para>
         <para>
-          <num>4.</num>
+          <num>(4)</num>
           <text>Trade name, other names ever used and names of any wholly owned subsidiaries or other businesses owned by the vendor or its principals;</text>
         </para>
         <para>
-          <num>5.</num>
+          <num>(5)</num>
           <text>General description of the business and its activities;</text>
         </para>
         <para>
-          <num>6.</num>
+          <num>(6)</num>
           <text>Whether the applicant will be investing in, or loaning money to, the gaming operation, and if so, how much;</text>
         </para>
         <para>
-          <num>7.</num>
+          <num>(7)</num>
           <text>A description of any existing and previous business relationships with the gaming industry generally, including ownership interests in those businesses;</text>
         </para>
         <para>
-          <num>8.</num>
+          <num>(8)</num>
           <text>A list of Tribes with which the vendor has an existing or previous business relationship, including ownership, financial or management interests in any non-gaming activity;</text>
         </para>
         <para>
-          <num>9.</num>
+          <num>(9)</num>
           <text>Names, addresses and telephone numbers of three (3) business references with whom the company has regularly done business for the last five (5) years;</text>
         </para>
         <para>
-          <num>10.</num>
+          <num>(10)</num>
           <text>The name and address of any licensing or regulatory agency with which the business has filed an application for a license or permit related to gaming, whether or not such license or permit was granted;</text>
         </para>
         <para>
-          <num>11.</num>
+          <num>(11)</num>
           <text>If the business has ever had a license revoked for any reason, the circumstances involved;</text>
         </para>
         <para>
-          <num>12.</num>
+          <num>(12)</num>
           <text>A list of lawsuits to which the business has been a defendant, including the name and address of the court involved, and the date and disposition, if any;</text>
         </para>
         <para>
-          <num>13.</num>
+          <num>(13)</num>
           <text>A list of the business' funding sources and any liabilities of $50,000 or more;</text>
         </para>
         <para>
-          <num>14.</num>
+          <num>(14)</num>
           <text>A list of the principals of the business, their social security numbers, addresses, telephone numbers, titles, and percentage of ownership in the company; and</text>
         </para>
         <para>
-          <num>15.</num>
+          <num>(15)</num>
           <text>Any further information the Commission deems relevant.</text>
         </para>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>The following notice shall be placed on the application form for a vendor and its principals: Inclusion of false or misleading information in the vendor application may be grounds for denial or revocation of the Commission's vendor license.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>A vendor may submit to the Commission a copy of a recent license application to another jurisdiction if it contains the information listed above. The vendor will be required to submit, in writing, any changes in the information since the other license application was filed, and any information requested by the Commission not contained in the other application.</text>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|30" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.310"/>
-      <num codify:value="9.01.310">31</num>
+      <num>9.01.310</num>
       <heading>Vendor Background Investigations</heading>
       <text>The Commission shall employ or otherwise engage an investigator to complete an investigation of a gaming vendor. This investigation shall include, at a minimum, the following steps:</text>
       <para>
-        <num>A.</num>
+        <num>(a)</num>
         <text>Verification of the vendor's business' incorporation status and qualifications to do business in the state where the gaming operation is located;</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>(b)</num>
         <text>Obtaining a business credit report, if available, and conducting a Better Business Bureau check on the vendor;</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>(c)</num>
         <text>Conducting a check of the vendor's business' credit history;</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>(d)</num>
         <text>Calling and questioning of the references listed in the vendor application; and</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>(e)</num>
         <text>Conducting an investigation of the principals of the vendor's business, including facilitating a criminal history check, obtaining criminal history check results, obtaining a credit report, and interviewing the personal references.</text>
       </para>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|31" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.320"/>
-      <num codify:value="9.01.320">32</num>
+      <num>9.01.320</num>
       <heading>Vendor License Fees</heading>
       <text>The Commission may charge a license fee, to be set by the Commission, to cover its expenses in investigating and licensing vendors of the gaming operation.</text>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|32" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.330"/>
-      <num codify:value="9.01.330">33</num>
+      <num>9.01.330</num>
       <heading>Vendor Background Investigation Reports</heading>
       <text>The Commission employees shall complete an investigative report covering each of the steps taken in the background investigation of the gaming vendor and its principals, and present it to the</text>
       <text>Commission.</text>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|33" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.340"/>
-      <num codify:value="9.01.340">34</num>
+      <num>9.01.340</num>
       <heading>Vendors Licensed by Recognized Regulatory Authorities</heading>
       <text>The Commission may adopt regulations naming specific licensing authorities that it recognizes and may authorize exemptions to the vendor licensing process for vendors who have received a license from one of the named regulatory authorities.</text>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|34" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.350"/>
-      <num codify:value="9.01.350">35</num>
+      <num>9.01.350</num>
       <heading>Compliance with Federal Law</heading>
       <text>The Commission shall comply with all applicable federal laws.</text>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|35" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.360"/>
-      <num codify:value="9.01.360">36</num>
+      <num>9.01.360</num>
       <heading>Surveillance</heading>
       <text>The Surveillance Department and all surveillance staff shall be employees of and report only to the Commission. All surveillance systems, equipment, room, etc. shall be under the exclusive control and jurisdiction of the Commission.</text>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|36" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.370"/>
-      <num codify:value="9.01.370">37</num>
+      <num>9.01.370</num>
       <heading>Repeal</heading>
-      <text>To the extent that they are inconsistent with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>, all prior Tribal gaming ordinances are hereby repealed.</text>
+      <text>To the extent that they are inconsistent with <cite path="|9.01">this chapter</cite>, all prior Tribal gaming ordinances are hereby repealed.</text>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|37" type="History"/>
+      </annotations>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.380"/>
-      <num codify:value="9.01.380">38</num>
+      <num>9.01.380</num>
       <heading>Effective Date</heading>
-      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">This ordinance</code-cite> shall take effect immediately upon its approval by the NIGC Chair.</text>
+      <text><cite path="|9.01">This chapter</cite> shall take effect immediately upon its approval by the NIGC Chair.</text>
+      <annotations>
+        <annotation app="2022-03-24" doc="Saint Regis Mohawk Tribe Res. No. 2022-14" eff="2022-03-24" path="attachments|law|38" type="History"/>
+      </annotations>
     </section>
-  </attachment>
-</document>
+  </container>
+</container>
