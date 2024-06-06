@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2008-30">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2008-30" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2008-30</num>
   <heading>Approving Mortgage Land Assignment Ordinance</heading>
   <meta>
@@ -12,4 +12,782 @@
       <citation type="res" url="./adopted/2008-30.pdf">Res. No. 2008-30</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Saint Regis Mohawk Tribal Council is the duly recognized governing body of the Saint Regis Mohawk Tribe ("Tribe") and is responsible for the health, safety, education and welfare of the Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe has created the Akwesasne Housing Authority (Housing Authority") as the governmental arm of the St. Regis Mohawk Tribe with the administrative capacity and authority to facilitate the development of housing programs for the benefit of the St. Regis Mohawk Tribe and its members; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe and the Housing Authority desire to participate in Mortgage Loan programs sponsored by the U.S. Department of Housing and Urban Development ("HUD") and the U.S. Department of Agriculture ("USDA") in order to benefit and facilitate home ownership by tribal members; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>HUD and USDA require that the Tribe and the Housing Authority satisfy certain legal requirements in order to participate in their mortgage loan programs including enacting a process for the leasing or assignment of tribal lands that may be pledged as collateral for mortgages under the federal programs;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Council has worked with the Housing Authority to draft a Mortgage Land Assignment Ordinance, a copy of which is attached to this Resolution;</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribe hereby approves adoption and enactment of the attached Saint Regis Mohawk Tribe Mortgage Land Assignment Ordinance to govern the above-referenced Mortgage Loan programs; and</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT FINALLY RESOLVED,</conjunction>
+      <text>that the Tribe hereby repeals any mortgage land assignment laws or ordinances that were previously enacted that would apply to these programs.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>THE SAINT REGIS MOHAWK TRIBAL COUNCIL</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+          </tr>
+          <tr>
+            <td>Lorraine M. White</td>
+            <td class="text-indent-2">Barbara A. Lazore</td>
+            <td class="text-indent-2">James W. Ransom</td>
+          </tr>
+          <tr>
+            <td>Tribal Chief</td>
+            <td class="text-indent-2">Tribal Chief</td>
+            <td class="text-indent-2">Tribal Chief</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text><strong><em>CERTIFICATION</em></strong><strong>:</strong> This is to certify that the St. Regis Mohawk Tribal Council pursuant to the authority vested herein duly passed the above Resolution.</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>___________________________________</td>
+            <td class="text-indent-4">April 22, 2008</td>
+          </tr>
+          <tr>
+            <td>Corleen Jacco, Tribal Clerk</td>
+            <td class="text-indent-4">Date</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </procedural-data>
+  <codify:insert path="7.07" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">1</num>
+      <heading>Short Title, Findings and Purpose</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="7.07" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">2</num>
+      <heading>Definitions</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="7.07" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">3</num>
+      <heading>Assignments</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="7.07" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">4</num>
+      <heading>Enforcement</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="7.07" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">5</num>
+      <heading>Delegation to the Tribal Clerk</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="7.07" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|6">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">6</num>
+      <heading>Recording</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="7.07" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">7</num>
+      <heading>Severability</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="7.07"/>
+    <heading>Saint Regis Mohawk Tribe Mortgage Land Assignment Ordinance</heading>
+    <container>
+      <prefix>CHAPTER</prefix>
+      <num>I</num>
+      <heading>SHORT TITLE, FINDINGS AND PURPOSE</heading>
+      <section>
+        <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.010"/>
+        <num codify:value="7.07.010">A</num>
+        <heading>Short Title</heading>
+        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2008-30">This ordinance</code-cite> shall be known as the St. Regis Mohawk Tribe Land Assignment Ordinance. Its short title shall be the "Land Assignment Ordinance".</text>
+      </section>
+      <section>
+        <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.020"/>
+        <num codify:value="7.07.020">B</num>
+        <heading>Findings</heading>
+        <text>The St. Regis Mohawk Tribal Council ("Council" or "Tribal Council") hereby finds that:</text>
+        <para>
+          <num>(1)</num>
+          <text>Due to the unique legal status of lands on the St. Regis Mohawk Indian Reservation ("Reservation"), it is difficult for members of the St. Regis Mohawk Tribe ("Tribe") to purchase homes utilizing traditional financing methods.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In order to alleviate this situation, which exists on all Indian reservations and lands, federal agencies such as the U.S. Department of Housing and Urban Development ("HUD") and the U.S. Department of Agriculture ("USDA") have established Indian housing loan guarantee programs.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>In order for the St. Regis Mohawk Tribe and its members to participate in any mortgage loan program, whether guaranteed or conventional for either residential or commercial purposes, it must first establish the required legal and administrative framework to allow for Reservation land parcels to be used as a security interest for mortgages.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Currently, individual tribal member land interests on the St. Regis Mohawk Indian Reservation are held pursuant to a tribal member's Deed of Right to Use and Occupancy that is approved by the Tribal Council and filed with the Tribal Clerk's office.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.030"/>
+        <num codify:value="7.07.030">C</num>
+        <heading>Purpose</heading>
+        <text>The purpose of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2008-30">this ordinance</code-cite> is to convert and structure the current land interests into tribal land assignments so that such may be pledged as security for a mortgage; and to create a land assignment process to protect the interests of the tribal member borrower, the lender, and any federal agency that is involved.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>CHAPTER</prefix>
+      <num>II</num>
+      <heading>DEFINITIONS</heading>
+      <text>In construing the provisions of this Land Assignment Ordinance, the following words or phrases shall have the meanings designated unless a different meaning is expressly provided, or the context clearly indicates otherwise:</text>
+      <para>
+        <num>(1)</num>
+        <text>"Assignee" means an eligible tribal participant for whom an assignment is conveyed in accordance with the provisions of this Land Assignment Ordinance.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Assignment" means the real property located on the Reservation to which assignment rights are made appurtenant and vested in an assignee pursuant to this Land Assignment Ordinance expressly including the following:</text>
+        <para>
+          <num>a.</num>
+          <text>any tract of land described in, or delineated on a survey as suitable for the construction of a dwelling or building; and</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>such tract of land so described or delineated together with any dwelling or building now or hereafter located thereon; and</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>such other improvements as are now or hereafter made to such tract of land by an assignee in accordance with tribal law for the benefit only of such assignment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"Assignment conveyance" means the conveyance to an assignee of an assignment and the assignment rights appurtenant thereto.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Assignment mortgage" is the mortgage of a assignment of property given to secure a loan, and may be created under the auspices of any federal agency or AHA homebuyer or lending program, or any other agreement entered between a borrower/mortgagor and a lender/ mortgagee. An assignment mortgage differs from a standard mortgage to the extent that an assignment mortgage pledges the assignment interest as collateral for the loan, rather than pledging an ownership interest in the real property.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"Assignment rights" means those rights appurtenant to an assignment as specified in this Land Assignment Ordinance.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"Certificate of assignment" means the written instrument by which an assignment conveyance is made.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"Certificate of compliance" has the meaning as set forth in this Land Assignment Ordinance.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>"Eligible tribal participant" has the meaning as set forth in this Land Assignment Ordinance.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>"Instrument" means any writing or document evidencing or affecting:</text>
+        <para>
+          <num>a.</num>
+          <text>The assignment rights of an assignee in and to an assignment including, but not limited to a certificate of assignment and a license of such rights as permitted under Land Assignment Ordinance;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The possessory rights of a tribal member in a tract or parcel of land that is not an assignment, including, but not limited to the St. Regis Mohawk Tribe's Right to Use and Occupancy Deeds;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The rights of a loan program lender in and to an assignment including, but not limited to, an assignment mortgage;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>The rights of the Tribe in and to an assignment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>"Loan program" means any loan program, such as the U.S. Housing and Urban Development ("HUD") Section 184 or other loan guarantee programs, any other loan guarantee program, or any other loan program including conventional or traditional mortgages as the same may be approved by resolution of the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>"Loan program lender" means any lender making a loan:</text>
+        <para>
+          <num>a.</num>
+          <text>to an assignee secured by an assignment mortgage;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>together with any permitted assignee of or successor;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>such lender as provided for by the terms of the loan program pursuant to which such loan is made.</text>
+        </para>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>"Right to Use and Occupancy Deed" means a written agreement between the Tribe and a tribal member conferring specified rights to a tract or parcel of land pursuant to the use and occupancy procedures of land transactions carried out and administered by the St. Regis Mohawk Tribe.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>"Recording", "record", and "recorded" shall mean the act of recording an instrument as a public document in accordance with this Land Assignment Ordinance.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>"Reservation" and "Reservation Lands" means the St. Regis Mohawk Reservation, which shall include all lands held in restricted status and in trust by the United States of America for the benefit of the St. Regis Mohawk Tribe.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>"Survey" means such maps, surveys, or other documentation defining and delineating assignments therein established as is certified and adopted by Tribal Council for purposes of this Land Assignment Ordinance and duly recorded.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>"Tribal Clerk" is the duly elected tribal official designated to perform the recording functions required by this code or any deputy or designee of such person as assigned by Tribal Council.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>"Tribal Council" or "Council" means the St. Regis Mohawk Tribal Council, the governing body of the Tribe.</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>"Tribal Court" is the St. Regis Mohawk Tribal Court as established by the laws of the Tribe or such body as may now or hereafter be authorized by the laws of the Tribe to exercise the powers and functions of a court of law.</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>"Tribal law" means all laws, resolutions, regulations, ordinances or other form of action by the Tribal Council, and such regulations and policies as are duly adopted by a department of the Tribe in accordance with tribal law.</text>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>"Tribe" means the St. Regis Mohawk Tribe ("St. Regis Mohawk Tribe of New York") as recognized by the United States of America.</text>
+      </para>
+    </container>
+    <codify:insert path="2" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.040">
+      <section>
+        <num>7.07.040</num>
+        <heading>Definitions</heading>
+        <text>In construing the provisions of this Land Assignment Ordinance, the following words or phrases shall have the meanings designated unless a different meaning is expressly provided, or the context clearly indicates otherwise:</text>
+        <para>
+          <num>(1)</num>
+          <text>"Assignee" means an eligible tribal participant for whom an assignment is conveyed in accordance with the provisions of this Land Assignment Ordinance.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Assignment" means the real property located on the Reservation to which assignment rights are made appurtenant and vested in an assignee pursuant to this Land Assignment Ordinance expressly including the following:</text>
+          <para>
+            <num>a.</num>
+            <text>any tract of land described in, or delineated on a survey as suitable for the construction of a dwelling or building; and</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>such tract of land so described or delineated together with any dwelling or building now or hereafter located thereon; and</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>such other improvements as are now or hereafter made to such tract of land by an assignee in accordance with tribal law for the benefit only of such assignment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>"Assignment conveyance" means the conveyance to an assignee of an assignment and the assignment rights appurtenant thereto.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>"Assignment mortgage" is the mortgage of a assignment of property given to secure a loan, and may be created under the auspices of any federal agency or AHA homebuyer or lending program, or any other agreement entered between a borrower/mortgagor and a lender/ mortgagee. An assignment mortgage differs from a standard mortgage to the extent that an assignment mortgage pledges the assignment interest as collateral for the loan, rather than pledging an ownership interest in the real property.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>"Assignment rights" means those rights appurtenant to an assignment as specified in this Land Assignment Ordinance.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>"Certificate of assignment" means the written instrument by which an assignment conveyance is made.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>"Certificate of compliance" has the meaning as set forth in this Land Assignment Ordinance.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>"Eligible tribal participant" has the meaning as set forth in this Land Assignment Ordinance.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>"Instrument" means any writing or document evidencing or affecting:</text>
+          <para>
+            <num>a.</num>
+            <text>The assignment rights of an assignee in and to an assignment including, but not limited to a certificate of assignment and a license of such rights as permitted under Land Assignment Ordinance;</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>The possessory rights of a tribal member in a tract or parcel of land that is not an assignment, including, but not limited to the St. Regis Mohawk Tribe's Right to Use and Occupancy Deeds;</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>The rights of a loan program lender in and to an assignment including, but not limited to, an assignment mortgage;</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>The rights of the Tribe in and to an assignment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>"Loan program" means any loan program, such as the U.S. Housing and Urban Development ("HUD") Section 184 or other loan guarantee programs, any other loan guarantee program, or any other loan program including conventional or traditional mortgages as the same may be approved by resolution of the Tribal Council.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>"Loan program lender" means any lender making a loan:</text>
+          <para>
+            <num>a.</num>
+            <text>to an assignee secured by an assignment mortgage;</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>together with any permitted assignee of or successor;</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>such lender as provided for by the terms of the loan program pursuant to which such loan is made.</text>
+          </para>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>"Right to Use and Occupancy Deed" means a written agreement between the Tribe and a tribal member conferring specified rights to a tract or parcel of land pursuant to the use and occupancy procedures of land transactions carried out and administered by the St. Regis Mohawk Tribe.</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>"Recording", "record", and "recorded" shall mean the act of recording an instrument as a public document in accordance with this Land Assignment Ordinance.</text>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>"Reservation" and "Reservation Lands" means the St. Regis Mohawk Reservation, which shall include all lands held in restricted status and in trust by the United States of America for the benefit of the St. Regis Mohawk Tribe.</text>
+        </para>
+        <para>
+          <num>(15)</num>
+          <text>"Survey" means such maps, surveys, or other documentation defining and delineating assignments therein established as is certified and adopted by Tribal Council for purposes of this Land Assignment Ordinance and duly recorded.</text>
+        </para>
+        <para>
+          <num>(16)</num>
+          <text>"Tribal Clerk" is the duly elected tribal official designated to perform the recording functions required by this code or any deputy or designee of such person as assigned by Tribal Council.</text>
+        </para>
+        <para>
+          <num>(17)</num>
+          <text>"Tribal Council" or "Council" means the St. Regis Mohawk Tribal Council, the governing body of the Tribe.</text>
+        </para>
+        <para>
+          <num>(18)</num>
+          <text>"Tribal Court" is the St. Regis Mohawk Tribal Court as established by the laws of the Tribe or such body as may now or hereafter be authorized by the laws of the Tribe to exercise the powers and functions of a court of law.</text>
+        </para>
+        <para>
+          <num>(19)</num>
+          <text>"Tribal law" means all laws, resolutions, regulations, ordinances or other form of action by the Tribal Council, and such regulations and policies as are duly adopted by a department of the Tribe in accordance with tribal law.</text>
+        </para>
+        <para>
+          <num>(20)</num>
+          <text>"Tribe" means the St. Regis Mohawk Tribe ("St. Regis Mohawk Tribe of New York") as recognized by the United States of America.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <container>
+      <prefix>CHAPTER</prefix>
+      <num>III</num>
+      <heading>ASSIGNMENTS</heading>
+      <section>
+        <codify:insert path="3" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.050"/>
+        <num codify:value="7.07.050">A</num>
+        <heading>Eligible Tribal Participants</heading>
+        <text>Assignments may only be made to eligible tribal participants. An eligible tribal participant is:</text>
+        <para>
+          <num>(1)</num>
+          <text>A person who is a duly enrolled tribal member as defined by the tribal membership laws and code and,</text>
+          <para>
+            <num>a.</num>
+            <text>who is at least 18 years of age or, if below the age of 18, has a guardian or conservator who has been appointed by the Tribal Court;</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>who has not suffered divestiture of assignment rights previously granted arising out of the enforcement by a Loan Program Lender of its rights under an assignment Mortgage;</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Akwesasne Housing Authority, tribally designated housing entity of the St. Regis Mohawk Tribe,</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The St. Regis Mohawk Tribe.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A tribal organization or entity created in compliance with the laws of the St. Regis Mohawk Tribe.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert path="3" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.060"/>
+        <num codify:value="7.07.060">B</num>
+        <heading>Rights Conveyed by Assignment Conveyance</heading>
+        <text>The due execution, delivery, and recording of a certificate of assignment shall vest in the assignee therein named, the right to occupy and exercise dominion and control over the assignment therein identified to the exclusion of the rights of other tribal members subject to the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any rights of the United States of America under federal laws that restrict alienation of Reservation lands for the benefit of the Tribe;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The rights of the Tribe to assert its inherent police power with respect to assignees and assignments including, but not limited to, the adoption of tribal laws relating to land use control, building codes, and similar tribal laws whether of general application to the Reservation or to portions of an assignment;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The rights of a loan program lender arising under an assignment mortgage;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The rights of the Tribe for access over, under, into, and upon any assignment as may be necessary for governmental activities of the Tribe including, but not limited to, the provision of utilities for the benefit of tribal members;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The rights of the Tribe in and to all timber, water, water courses, minerals, sand, gravel, and other natural resources located on the Reservation, which rights are reserved to the Tribe to be managed in accordance with tribal laws; and</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The rights of the Tribe in and to all ceremonial, burial, and sacred grounds, as they may be identified by the Tribal Council from time to time.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert path="3" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.070"/>
+        <num codify:value="7.07.070">C</num>
+        <heading>Rights Conveyed by Assignment Mortgage</heading>
+        <para>
+          <num>(1)</num>
+          <text>The due execution and delivery of an assignment mortgage by an assignee shall vest in the loan program lender therein named, a valid security interest in and to such assignee's assignment and assignment rights. The security interest thereby granted is enforceable in Tribal Court pursuant to the provisions of the St. Regis Mohawk Tribe Mortgage Foreclosure and Eviction Ordinance and in accordance with the terms of such assignment mortgage. Any term of an assignment mortgage shall be deemed void and not enforceable if it is:</text>
+          <para>
+            <num>a.</num>
+            <text>Contrary to the terms and conditions of the loan program pursuant to which it is made; or</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Contrary to the provision of any tribal law in effect at the time the assignment mortgage was executed.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The security interest in an assignment granted to a loan program lender shall be perfected by recording the assignment mortgage instrument.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any purported security interest granted in an assignment to the benefit of other than a loan program lender pursuant to a loan program shall be deemed null, void, and of no effect.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert path="3" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.080"/>
+        <num codify:value="7.07.080">D</num>
+        <heading>Conveyance of Assignment</heading>
+        <para>
+          <num>(1)</num>
+          <text>An assignee shall have the right to convey, grant, assign, transfer, pledge, or encumber the assignee's assignment only as follows:</text>
+          <para>
+            <num>a.</num>
+            <text>Conveyance by an assignee to another eligible tribal participant or eligible tribal participants of such assignee's assignment rights in and to an assignment, and whether for value received or by gift;</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Conveyance of a deceased assignee's assignment to an eligible tribal participant or eligible tribal participants pursuant to the terms of such deceased assignee's will as probated in the Tribal Court or otherwise by operation of the intestacy laws of the Tribe as determined by the Tribal Court;</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>Conveyance of a deceased assignee's assignment by will or intestacy to a eligible surviving spouse will be authorized to the extent permitted by applicable tribal probate, estate or residency law;</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>In accordance with an order of the Tribal Court, conveyance of an assignee's assignment to a guardian or conservator for an eligible tribal participant or eligible tribal participants who are incapable or have not reached the age of majority;</text>
+          </para>
+          <para>
+            <num>e.</num>
+            <text>Granting of a security interest in an assignment to a loan program lender pursuant to the terms of an assignment mortgage;</text>
+          </para>
+          <para>
+            <num>f.</num>
+            <text>License or other grant by an assignee to a tribal member or tribal members of less than all of such assignee's assignment rights, including, but not limited to, rights to occupy an assignment provided such license or other grant is evidenced by an instrument countersigned by Tribal Council indicating its approval and then recorded prior to the date such grantee is entitled to exercise such rights.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Unless expressly permitted above or as otherwise may be permitted by tribal law, any purported conveyance, grant, assignment, transfer, pledge, or encumbrance of an assignee's rights, arising under an assignment conveyance held by such assignee, shall be null, void, and unenforceable. Upon recording an instrument evidencing a permitted conveyance of an assignment, the eligible tribal participant to whom the assignment is conveyed shall be the assignee for all purposes of this Land Assignment Ordinance.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Except as expressly permitted under this law with respect to the rights of a loan program lender, any purported assignment to a corporation, limited liability company, limited partnership, or entity other than a natural person, whether the same is wholly owned or controlled by an eligible tribal participant or eligible tribal participants and whether or not the same is chartered or created under tribal law, shall be null, void and of no effect. A loan program lender is expressly permitted to assign its' interests and rights, in settlement of a title insurance claim, to the title insurer whose policy was issued insuring the loan program lender.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert path="3" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.090"/>
+        <num codify:value="7.07.090">E</num>
+        <heading>General Provisions</heading>
+        <para>
+          <num>(1)</num>
+          <text>The provisions of this Land Assignment Ordinance with respect to assignments shall apply only to those areas of the Reservation described or delineated in a Survey.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In the event of a conflict between the provisions of this Land Assignment Ordinance and the provisions of any other tribal laws affecting the subject matter hereof, the provisions of this Land Assignment Ordinance shall control.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>No assignment, by resolution of the Tribal Council or otherwise, shall lose its designation as such, it being the intent and purpose of this law that such designation shall be of a continuing and perpetual nature.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>CHAPTER</prefix>
+      <num>IV</num>
+      <heading>ENFORCEMENT</heading>
+      <section>
+        <codify:insert path="4" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.100"/>
+        <num codify:value="7.07.100">A</num>
+        <heading>Enforcement of Assignee's Obligations</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Tribal Council, acting directly or by or through the Tribal Clerk, may seek in Tribal Court the enforcement of any provision of this Land Assignment Ordinance and enforcement of the terms of any instrument in which the Tribe has an interest including, but not limited to, a certificate of assignment. The foregoing notwithstanding, unless pursuant to the rights of the Tribe arising under the terms of any loan program pursuant to which an assignment mortgage is made, only the loan program lender or permitted successor or assign of a loan program lender shall be entitled to enforce its security interest arising under an assignment mortgage.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Tribal Court shall have jurisdiction and authority to hear and adjudicate any enforcement action brought pursuant to <code-cite path="|attachments|law|IV|A" doc="Saint Regis Mohawk Tribe Res. No. 2008-30">this section</code-cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Tribal Court shall specifically be authorized to award monetary damages and to impose such equitable orders as Tribal Court may deem necessary for the enforcement of tribal law in harmony with the purposes and intent of this Land Assignment Ordinance.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>CHAPTER</prefix>
+      <num>V</num>
+      <heading>DELEGATION TO THE TRIBAL CLERK</heading>
+      <section>
+        <codify:insert path="4" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.110"/>
+        <num codify:value="7.07.110">A</num>
+        <heading>Application of Land Assignment Ordinance</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Tribal Clerk is hereby authorized to oversee and administer the application of this Land Assignment Ordinance, and to execute, on behalf of the Tribe, assignment conveyances to eligible tribal participants in accordance with this law.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Tribal Clerk is authorized to initiate and/or perform all necessary actions under this Land Assignment Ordinance including, but not limited to:</text>
+          <para>
+            <num>(a)</num>
+            <text>The acceptance of applications for assignments;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The issuance of certifications of eligibility for assignments;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The determination of tribal member priority for the issuance of assignments;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The determination and issuance of corrective actions to address deficiencies in assignments;</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Tribal Clerk, together with the Tribe's office of General Counsel, shall have the responsibility and authority to represent the Tribe in actions before the Tribal Court concerning the Land Assignment Ordinance.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert path="5" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.120"/>
+        <num codify:value="7.07.120">B</num>
+        <heading>Develop, Promulgate and Enforce Regulations</heading>
+        <text>As the Tribal Council shall from time to time authorize and direct, the Tribal Clerk shall develop, adopt and promulgate such regulations as the Tribal Council determines are needed for the orderly operation and administration of this Land Assignment Ordinance.</text>
+      </section>
+    </container>
+    <container>
+      <prefix>CHAPTER</prefix>
+      <num>VI</num>
+      <heading>RECORDING</heading>
+      <section>
+        <codify:insert path="6" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.130"/>
+        <num codify:value="7.07.130">A</num>
+        <heading>Applicability</heading>
+        <text>Any instrument evidencing any interest in an assignment shall be recorded as provided by this <span codify:value="subchapter">chapter</span>.</text>
+      </section>
+      <section>
+        <codify:insert path="6" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.140"/>
+        <num codify:value="7.07.140">B</num>
+        <heading>Effect of Recording</heading>
+        <text>An instrument affecting an assignment in accordance with this Land Assignment Ordinance shall be notice to all persons and entities of the existence of the transaction or transfer, and of any rights, interests, or liabilities created thereby.</text>
+      </section>
+      <section>
+        <codify:insert path="6" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.150"/>
+        <num codify:value="7.07.150">C</num>
+        <heading>Priority</heading>
+        <text>Any instrument affecting any interest in an assignment recorded in accordance with this Land Assignment Ordinance shall be presumed to have priority over any instrument, lien or claim not recorded at the time of such recording.</text>
+      </section>
+      <section>
+        <codify:insert path="6" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.160"/>
+        <num codify:value="7.07.160">D</num>
+        <heading>Recording Process</heading>
+        <para>
+          <num>(1)</num>
+          <text>The Tribal Clerk shall maintain a permanent record of each transaction affecting Reservation lands, including but not limited to, any actions affecting interests in assignments in accordance with the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>The Tribal Clerk shall perform the recording functions under this Land Assignment Ordinance.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Tribal Clerk shall maintain, within its own system of records, a system for the recording of instruments and, as may be directed by Tribal Council, other documentation relating to the lands comprising the Reservation.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The Tribal Clerk shall record instruments only upon the production of a certificate of compliance at the time of recording, which certificate of compliance shall be recorded immediately prior to the instrument to be recorded.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The Tribal Clerk shall endorse the following upon any Instrument received for Recording under this Land Assignment Ordinance:</text>
+            <para>
+              <num>i.</num>
+              <text>The date and time of receipt of the instrument;</text>
+            </para>
+            <para>
+              <num>ii.</num>
+              <text>The filing number, to be assigned by the recording agent, which shall be a unique number for each instrument; and</text>
+            </para>
+            <para>
+              <num>iii.</num>
+              <text>The name of the individual recording agent or other employee of the Tribal Clerk receiving the instrument for recording.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Upon completion of the above endorsements, the Tribal Clerk shall make a true and correct copy of the instrument, shall certify such copy as being a true and correct copy of the original, shall maintain such copy of the instrument in the records of the recording system, and shall return the original of the instrument to the person that presented the same for recording.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>The Tribal Clerk shall maintain a log of each recorded instrument, in which there shall be entered:</text>
+            <para>
+              <num>i.</num>
+              <text>The name of the grantor of each instrument, identified as such;</text>
+            </para>
+            <para>
+              <num>ii.</num>
+              <text>The name of the grantee of each instrument, identified as such;</text>
+            </para>
+            <para>
+              <num>iii.</num>
+              <text>The date and time of receipt of the instrument by the Tribal Clerk;</text>
+            </para>
+            <para>
+              <num>iv.</num>
+              <text>The filing number assigned by the Tribal Clerk;</text>
+            </para>
+            <para>
+              <num>v.</num>
+              <text>The name of the individual in the Tribal Clerk's office receiving the instrument;</text>
+            </para>
+            <para>
+              <num>vi.</num>
+              <text>A description of the assignment, which is the subject of the instrument;</text>
+            </para>
+            <para>
+              <num>vii.</num>
+              <text>A description of the transaction described by the instrument; and</text>
+            </para>
+            <para>
+              <num>viii.</num>
+              <text>A notation that the certificate of compliance has been tendered.</text>
+            </para>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>The Tribal Clerk shall further establish and maintain an up to date index of all instruments recorded by reference to the identification of the assignment to which it relates, both by survey designation and by street address.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>The index, the log, and the instruments or copies of the instruments duly recorded shall be made available for public inspection during regular Tribal business hours and pursuant to such reasonable rules as the Tribal Council may from time to time adopt. Subject to subsection <span codify:value="(a)(9)">(i)</span> of <code-cite path="|attachments|law|VI|D" doc="Saint Regis Mohawk Tribe Res. No. 2008-30">this section</code-cite>, the Tribal Clerk shall provide the public copies of the same and upon request, shall certify a copy as true and accurate.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>The Tribal Council may from time to time establish reasonable recording fees, copying fees and fees for the certification of any instrument recorded under the recording system established under this Land Assignment Ordinance.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <codify:insert path="6" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.170"/>
+        <num codify:value="7.07.170">E</num>
+        <heading>Certificate of Compliance</heading>
+        <text>Each instrument submitted for recording shall be accompanied by a certificate of compliance issued by the Tribe's office of General Counsel or such other instrumentality of the Tribe as the Tribal Council may from time to time direct. The issuing party shall issue said certificate upon an investigation and determination that the form and content of the instrument to be recorded complies with the requirements of this Land Assignment Ordinance. No instrument may be recorded by the Tribal Clerk unless the instrument is accompanied by a valid certificate of compliance.</text>
+      </section>
+      <section>
+        <codify:insert path="6" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.180"/>
+        <num codify:value="7.07.180">F</num>
+        <heading>Authority of Tribal Council to Amend Survey</heading>
+        <text>The Tribal Council is hereby granted the authority to have recorded an amended survey, to make minor adjustments to a survey, and therefore the assignments thereby evidenced, for the limited purpose of correcting errors, mistakes, inconsistencies or omissions provided that such adjustments do not materially change the benefits conferred by a certificate of assignment then of record. Prior to the approval of any amended survey, 30 days notice shall be given to any assignee or loan program lender affected thereby, as well as an opportunity to a hearing to object to the proposed amendment of the survey.</text>
+      </section>
+      <section>
+        <codify:insert path="6" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.190"/>
+        <num codify:value="7.07.190">G</num>
+        <heading>Conversion of Rights Held Under a Right to Use and Occupancy Deed</heading>
+        <para>
+          <num>(1)</num>
+          <text>All rights arising under a right to use and occupancy deed duly entered into shall be convertible by the Tribal Clerk into an assignment upon declaration by the Tribal Council provided that, at the time of such conversion, all obligations then outstanding to the Tribe arising under the right to use and occupancy deed are satisfied in full.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Upon such satisfaction and the mutual release of the right to use and occupancy deed by the tribal member and the Tribe, all rights arising under the same, pursuant to applicable tribal laws, regulations, or custom shall be deemed extinguished upon the recording of a certificate of assignment by the Tribal Clerk to the benefit of the tribal member who is a party to the same and thenceforth the provisions of this Land Assignment Ordinance shall exclusively control and determine the rights of the tribal member in and to that tract or parcel as described in both the superceded right to use and occupancy deed and in such superceding certificate of assignment.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>CHAPTER</prefix>
+      <num>VII</num>
+      <heading>SEVERABILITY</heading>
+      <text>If any part of this Land Assignment Ordinance is held to be invalid the remainder shall remain to be in full force and effect to the maximum extent possible.</text>
+    </container>
+    <codify:insert path="7" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.07.200">
+      <section>
+        <num>7.07.200</num>
+        <heading>Severability</heading>
+        <text>If any part of this Land Assignment Ordinance is held to be invalid the remainder shall remain to be in full force and effect to the maximum extent possible.</text>
+      </section>
+    </codify:insert>
+  </attachment>
 </document>

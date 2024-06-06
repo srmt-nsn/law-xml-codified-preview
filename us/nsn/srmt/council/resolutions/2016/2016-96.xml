@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2016-96">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2016-96" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2016-96</num>
   <heading>Resolution of the Saint Regis Mohawk Tribe to Amend the Tribal Secured Transactions Ordinance</heading>
   <meta>
@@ -12,4 +12,217 @@
       <citation type="res" url="./adopted/2016-96.pdf">Res. No. 2016-96</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Saint Regis Mohawk Tribal Council (the "Tribal Council") is the duly recognized governing body of the Saint Regis Mohawk Tribe (the "Tribe") and is responsible for the health, safety, education and welfare of all community members; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Council has formed a corporation, pursuant to Section 17 of the Indian Reorganization Act of 1934, as amended, 25 U.S.C. § 477, called the Te wá tha hón:ni Corporation (the "Corporation"), wholly owned by the Tribe and managed by its own Board of Directors for the purpose of engaging in the economic development activities specified in the Corporation's Federal Charter of Incorporation, as the same may be amended from time to time; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Mohawk Gaming Enterprises, LLC (the "Company") is a limited liability company chartered pursuant to the Limited Liability Company Ordinance, is wholly owned by the Corporation, and is managed by its own Board of Managers for the purpose of engaging in the economic development activities specified in the Company's Agreement of Limited Liability Company, as the same may be amended from time to time; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Corporation and the Company wish to borrow [Fifty Four million, five hundred fifty-two thousand, eight hundred eighty-two and 12/100 United States Dollars ($54,552,882.12)] for the purpose of refinancing existing debt and to establish a Ten Million and 00/100 United States Dollars ($10,000,000.00) revolving credit facility to provide working capital for the Company, according to the terms of a Credit Agreement dated as of December 28, 2016 (the "Credit Agreement") among the Company and the Corporation, both as co-borrowers, and KeyBank National Association ("KeyBank") as the lender; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribe adopted the Tribal Secured Transactions Ordinance (the "Ordinance") in Tribal Council Resolution 2008-59, provided for further clarifications of the Ordinance in Tribal Council Resolution 2008-62, and amended the Ordinance pursuant to Tribal Council Resolution 2012-03; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in accordance with the terms described in <cite doc="Saint Regis Mohawk Tribe Res. No. 2016-96" path="|attachments|law|V">Section V</cite> of the Ordinance, the Tribe wishes to further amend the Ordinance as described below; now, therefore be it,</text>
+    </recital>
+    <recital>
+      <conjunction>RESOLVED,</conjunction>
+      <text>that the Saint Regis Mohawk Tribal Council hereby finds that Ordinance should be and is hereby further amended as follows:</text>
+      <para>
+        <num>(a)</num>
+        <text>The definition of "Credit Agreement" for purposes of the Ordinance shall include both the "Credit Agreement" as currently defined therein and the "Credit Agreement" as defined in this Resolution, as each such agreement may be amended, restated, supplemented or replaced from time to time; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The definition of "Obligations" for purposes of the Ordinance shall include all "Obligations" as defined in Section 1.1 of each agreement that is a "Credit Agreement" as defined in the Ordinance, as amended by paragraph (a), above, as each such agreement may be amended, restated, supplemented or replaced from time to time; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><cite doc="Saint Regis Mohawk Tribe Res. No. 2016-96" path="|attachments|law|II|E.">Section II(E)</cite> is amended to read as follows:</text>
+        <text>"Tribal Party" means the Te wá tha hón:ni Corporation, Mohawk Gaming Enterprises, LLC, and any other enterprise, corporation, limited liability company, or other entity that becomes a Guarantor of the Obligations under the Credit Agreement.</text>
+      </para>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>THE SAINT REGIS MOHAWK TRIBAL COUNCIL</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+          </tr>
+          <tr>
+            <td>Ron LaFrance Jr.</td>
+            <td class="text-indent-2">Eric Thompson</td>
+            <td class="text-indent-2">Beverly Cook</td>
+          </tr>
+          <tr>
+            <td>Tribal Chief</td>
+            <td class="text-indent-2">Tribal Chief</td>
+            <td class="text-indent-2">Tribal Chief</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text><strong>CERTIFICATION:</strong> This is to certify that the Saint Regis Mohawk Tribal Council pursuant to the authority vested therein duly passed the above resolution.</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>___________________________________</td>
+            <td class="text-indent-4">December 28, 2016</td>
+          </tr>
+          <tr>
+            <td>Summer Bero, Tribal Clerk</td>
+            <td class="text-indent-4">Date</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </procedural-data>
+  <attachment id="law">
+    <codified:at path="7.02"/>
+    <heading>Secured Transactions Ordinance</heading>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.02.010"/>
+      <num codify:value="7.02.010">I</num>
+      <heading>Title, Purpose and Applicability</heading>
+      <para>
+        <num>A.</num>
+        <text><u>Title</u>. <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">This Ordinance</code-cite> shall be known as the "Saint Regis Mohawk Secured Transactions Ordinance" (the "Ordinance").</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text><u>Purpose</u>. The purpose of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite> is to recognize that, under the law of the Saint Regis Mohawk Tribe (the "Tribe"), a federally recognized Indian tribe, except as otherwise provided in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite>, secured parties under a certain Construction and Term Credit Agreement entered into as of August _____, 2008 between the Te Wà Tha Hón:Ni Corporation, Akwesasne Mohawk Casino, LLC, Mohawk Bingo Palace, LLC, KeyBank National Association, as joint lead arranger and administrative agent, Jefferies Finance LLC, as joint lead arranger, RBS Citizens, N.A., as documentation agent, and the several banks and other financial institutions from time to time a party thereto (the "Credit Agreement") shall have the same rights with respect to collateral securing the Obligations described in the Credit Agreement that is subject to the sovereign authority of Tribe as would exist if all aspects of the security interest (including but not limited to its creation, attachment, perfection, and priority) had been governed by the New York UCC, without regard to the choice of law principles set forth therein.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text><u>Applicability</u>. <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">This Ordinance</code-cite> shall apply only to security interests and collateral securing the Obligations described in the Credit Agreement.</text>
+      </para>
+    </section>
+    <section>
+      <num>II</num>
+      <heading>Definitions</heading>
+      <text>In <code-cite path="|attachments|law">this Ordinance</code-cite>, the terms listed below have the following meanings:</text>
+      <para>
+        <num>A.</num>
+        <text>"New York UCC" means Articles 1, 9 and the applicable provisions of Article 8 referenced by Article 9 of the Uniform Commercial Code as enacted in the Consolidated Laws of the State of New York, as amended from time to time in accordance with the laws of the State of New York.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>"Obligations" has the meaning set forth in Section 1.1 of the Credit Agreement.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>"Pledged Revenues" means all of a Tribal Party's money, earnings, income, and revenues (and any proceeds thereof), and all of the Tribal Party's rights to, and interest with respect to, receiving the foregoing before actual possession, whether in the form of money, deposit accounts, investments, accounts, instruments or other assets, and the proceeds thereof, in which a Tribal Party has granted a security interest to a secured party to secure the Obligations described in the Credit Agreement in a writing signed by the Tribal Party.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>"Tribal Lands" means all lands within the Tribe's reservation and all lands held by the United States in trust for the benefit of the Tribe.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>"Tribal Party" means the Te Wà Tha Hón:Ni Corporation, Akwesasne Mohawk Casino, LLC, Mohawk Bingo Palace, LLC, and any other enterprise, corporation, limited liability company, or other entity that becomes a Guarantor of the Obligations under the Credit Agreement.</text>
+      </para>
+      <text>Any undefined terms that are defined in the New York UCC are used in <code-cite path="|attachments|law">this Ordinance</code-cite> with the meanings that apply in the New York UCC.</text>
+    </section>
+    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.02.020">
+      <section>
+        <num>7.02.020</num>
+        <heading>Definitions</heading>
+        <text>In <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite>, the terms listed below have the following meanings:</text>
+        <para>
+          <num>(a)</num>
+          <text>"New York UCC" means Articles 1, 9 and the applicable provisions of Article 8 referenced by Article 9 of the Uniform Commercial Code as enacted in the Consolidated Laws of the State of New York, as amended from time to time in accordance with the laws of the State of New York.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Obligations" has the meaning set forth in Section 1.1 of the Credit Agreement.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Pledged Revenues" means all of a Tribal Party's money, earnings, income, and revenues (and any proceeds thereof), and all of the Tribal Party's rights to, and interest with respect to, receiving the foregoing before actual possession, whether in the form of money, deposit accounts, investments, accounts, instruments or other assets, and the proceeds thereof, in which a Tribal Party has granted a security interest to a secured party to secure the Obligations described in the Credit Agreement in a writing signed by the Tribal Party.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Tribal Lands" means all lands within the Tribe's reservation and all lands held by the United States in trust for the benefit of the Tribe.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Tribal Party" means the Te wá tha hón:ni Corporation, Mohawk Gaming Enterprises, LLC, and any other enterprise, corporation, limited liability company, or other entity that becomes a Guarantor of the Obligations under the Credit Agreement.</text>
+        </para>
+        <text>Any undefined terms that are defined in the New York UCC are used in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite> with the meanings that apply in the New York UCC.</text>
+      </section>
+    </codify:insert>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.02.030"/>
+      <num codify:value="7.02.030">III</num>
+      <heading>Scope</heading>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">This Ordinance</code-cite> shall apply only to security interests and collateral subject to the sovereign authority of the Tribe securing the Obligations described in the Credit Agreement, to the same extent provided in Section 9-109 of the New York UCC, except that provisions of Sections 9-109(c)(2) and (c)(3) of the New York UCC shall be ineffective to limit the application of the New York UCC to Tribal Parties in accordance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite>. <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">This Ordinance</code-cite> shall not apply to security interests or collateral securing any obligations other than the Obligations described in the Credit Agreement.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.02.040"/>
+      <num codify:value="7.02.040">IV</num>
+      <heading>Laws Applicable to Security Interests</heading>
+      <para>
+        <num>A.</num>
+        <text>With respect to any security interest to which <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite> applies, except as provided elsewhere in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite>, the rights and obligations of any person shall be governed by the New York UCC, including those rights and obligations related to enforcement of a security interest or arising after a default, including all filing requirements.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Except as provided elsewhere in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite>, the perfection, effect of perfection or non-perfection, and priority of any security interest to which <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite> applies shall be determined in accordance with the New York UCC as if each debtor were (for purposes of Sections 9-301 through 9-307 of the New York UCC) located in the State of New York and as if the Tribal Lands were subject to the laws of the State of New York.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Notwithstanding any provision of the New York UCC to the contrary, a security interest granted by a Tribal Party in Pledged Revenues shall be created and attach upon the giving of value and the granting of such security interest in a writing executed by that Tribal Party. Such security interest may be perfected only by the filing of an initial financing statement in the same manner and in the same location as if all of such Pledged Revenues were accounts.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>No UCC financing statement shall be required to be filed with the Tribe, nor shall any such filing be effective to perfect any security interest governed by <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite>.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Notwithstanding the incorporation by reference of the New York UCC as a law of the Tribe as provided in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite>, nothing herein shall be construed to subject the Tribal Lands, Tribal Parties, or the Tribe to the general laws and jurisdiction of the State of New York.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.02.050"/>
+      <num codify:value="7.02.050">V</num>
+      <heading>Amendment</heading>
+      <text>Once applicable to any security interest, <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite> shall remain in effect with respect to that security interest until all obligations secured thereby have been fully and finally discharged or otherwise fully satisfied, except that <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite> may be amended, with prior notice to each secured party, only to the extent such amendment is not adverse in any way to any secured party with respect to any security interest.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.02.060"/>
+      <num codify:value="7.02.060">VI</num>
+      <heading>Repealer and Effective Date</heading>
+      <para>
+        <num>A.</num>
+        <text>To the extent any provision of any law, ordinance, resolution, motion, or any other action of the Tribe or any Tribal Party heretofore taken is in conflict with any provision of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite>, the provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite> shall control.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">This Ordinance</code-cite> will be effective on the date a security interest to which <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite> applies is granted in a writing signed by a Tribal Party to a secure the Obligations described in the Credit Agreement. Once effective, <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite> will be automatically repealed without further action by the Tribal Council at the time the Obligations described in the Credit Agreement are fully and finally discharged or otherwise fully satisfied.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.02.070"/>
+      <num codify:value="7.02.070">VII</num>
+      <heading>No Waiver of Immunity</heading>
+      <text>Nothing in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite> shall waive or impair the Tribe's sovereign immunity or the sovereign immunity of any other Tribal Party.</text>
+    </section>
+  </attachment>
 </document>

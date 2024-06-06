@@ -14,11 +14,11 @@
     </canonical-urls>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="srmt-nsn/law-xml" commit="bc85f0ebeb9d0bb3fe4efcec3728b92b0b508d7c"/>
+        <repository name="srmt-nsn/law-xml" commit="c55ce87e4734e50bfa61856d2559a0110c26533e"/>
       </repositories>
       <platform version="2.14.0" reproducible="false"/>
-      <build-date>2024-05-28</build-date>
-      <codified-date>2023-09-13</codified-date>
+      <build-date>2024-06-06</build-date>
+      <codified-date>2023-11-30</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/srmt/council/code/index.xml"/>

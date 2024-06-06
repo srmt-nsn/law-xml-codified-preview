@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2013-32">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2013-32" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2013-32</num>
   <heading>Resolution of the Saint Regis Mohawk Tribe to Adopt the Tribal Procedures Act</heading>
   <meta>
@@ -12,4 +12,894 @@
       <citation type="res" url="./adopted/2013-32.pdf">Res. No. 2013-32</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Saint Regis Mohawk Tribal Council (the "Tribal Council") is the duly recognized governing body of the Saint Regis Mohawk Tribe (the "Tribe") and is responsible for the health, safety, education and welfare of all community members; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>In Tribal Council Act 94-D, the Tribal Council adopted the Act Relating to Tribal Council Powers, Procedures, Initiative Referendum, Recall and Removal from Office, commonly referred to as the 1994 Procedures Act, on August 23, 1994, to enact provisions of law that establish the general powers of the Tribal Council, define Tribal Council procedure and provide for initiative, referendum, and removal of appointed or elected officials from office under certain circumstances; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Governance Committee, in conjunction with Tribal Council and its Legal Department, recommended that amendments be made to the 1994 Procedures Act to give enrolled Tribal Members a greater voice in Tribal Government and making the Tribal Government more transparent and accountable to Tribal Members; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The amended document would significantly change the governance of the Saint Regis Mohawk Tribe such that Tribal Council deemed it necessary to seek the community's advice and consent through a referendum prior to any amendments being adopted; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on June 1, 2013, the Saint Regis Mohawk Tribal Council held a referendum which asked the following question: "Do You Support the St. Regis Mohawk Tribal Council Adopting the Tribal Procedures Act?" and Tribal Members voted overwhelmingly in favor of adopting the Tribal Procedures Act with 648 in favor and 274 votes opposed; now, therefore, be it</text>
+    </recital>
+    <recital>
+      <conjunction>RESOLVED,</conjunction>
+      <text>That the Saint Regis Mohawk Tribal Council hereby adopts the Tribal Procedures Act, as attached hereto, which will supersede and replace the Tribal Council Act 94-D: Act Relating to Tribal Council Powers, Procedures, Initiative Referendum, Recall and Removal from Office, commonly referred to as the 1994 Procedures Act, and directs that all administrative steps necessary to implement the provisions of the Tribal Procedures Act be taken in accordance with its terms.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>THE SAINT REGIS MOHAWK TRIBAL COUNCIL</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+          </tr>
+          <tr>
+            <td>Randy Hart</td>
+            <td class="text-indent-2">Ron LaFrance Jr.</td>
+            <td class="text-indent-2">Paul O. Thompson</td>
+          </tr>
+          <tr>
+            <td>Tribal Chief</td>
+            <td class="text-indent-2">Tribal Chief</td>
+            <td class="text-indent-2">Tribal Chief</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text><strong>CERTIFICATION:</strong> This is to certify that the Saint Regis Mohawk Tribal Council pursuant to the authority vested therein duly passed the above resolution.</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>___________________________________</td>
+            <td class="text-indent-4">June 11, 2013</td>
+          </tr>
+          <tr>
+            <td>Corleen Jacco, Tribal Clerk</td>
+            <td class="text-indent-4">Date</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </procedural-data>
+  <attachment id="law">
+    <codified:at path="1.01"/>
+    <heading>Tribal Council Procedures Act of 1994 (Amended April, 2013)</heading>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.01.010"/>
+      <num codify:value="1.01.010">I</num>
+      <heading>Title - Tribal Procedures Act</heading>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">This Ordinance</code-cite> shall pertain to the government of the Saint Regis Mohawk Tribe (hereafter referred to as "Tribe") and shall be known as the Saint Regis Mohawk "Tribal Procedures Act".</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.01.020"/>
+      <num codify:value="1.01.020">II</num>
+      <heading>Purpose</heading>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">This Ordinance</code-cite> will replace the "Act relating to Tribal Council Powers, Procedures, Initiative Referendum, Recall and Removal from Office" commonly referred to as the 1994 Procedures Act. <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">This Ordinance</code-cite> significantly revises the 1994 Procedures Act by giving enrolled Tribal Members (hereafter referred to as Members) a greater voice in Tribal Government and making the Tribal Government more transparent and accountable to Members. The Ordinance allows more Member participation in the Tribal Government, makes it much less burdensome for Members to initiate petitions to enact laws, reject laws and place questions before the membership in a referendum process. The Ordinance also makes the Tribal Council's (hereafter referred to as Council) actions more transparent and open by requiring the Council to conduct its business through regular meetings open to the membership. In addition, the Ordinance establishes rules or conduct and procedures for Tribal Monthly Meetings, provides for a process allowing Members to review Tribal budgets and also allows Members access to public Tribal records.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.01.030"/>
+      <num codify:value="1.01.030">III</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>1.</num>
+        <text>"Eligible Voters" shall have the same meaning as the term is defined in the "Tribe's Election and Referendum Ordinance," as amended.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Member" means a person who is duly enrolled as a member of the Tribe.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Serious Crime" shall have the same meaning as the term is defined in the Tribal Ethics Ordinance, as amended, which states, "a felony or misdemeanor not involving an act of civil disobedience but that which involves an act of moral turpitude. Crimes of moral turpitude are crimes involving dishonesty such as larceny, fraud and murder."</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Staggered Term" shall mean the system approved by tribal referendum in April 2004 whereby elections are held each year in June to fill two (2) of the six (6) elected officer positions - one Chief and one Sub-Chief.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Tribal Clerk" is an elected position for a term of three (3) years.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Tribal Laws, Acts and Ordinances" are forms of legislation intended to reflect the policies aimed at protecting the health, safety, well-being and sovereignty of the Tribal government and of tribal members. They are also intended to provide a lawful basis for the regulation and governance of the territory under the jurisdiction of the Saint Regis Mohawk Tribe.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Sovereign Authority of the Tribe" is the governmental authority to take any and all actions necessary to promote the health, safety, education and general welfare of the Saint Regis Mohawk Tribe and its members.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Tribal Council Resolutions" are the recorded decisions of Tribal Council on matters requiring a formal expression of such decisions. Some examples include, but are not limited to, adoption and amendment of Tribal Ordinances or laws that do not require Referendum vote, approval of grant applications, appointment of Administrators of estates and conduct of day-to-day Tribal business operations requiring a written record of Tribal Council approval.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.01.040"/>
+      <num codify:value="1.01.040">IV</num>
+      <heading>Council</heading>
+      <para>
+        <num>A.</num>
+        <text>Composition</text>
+        <para>
+          <num>1.</num>
+          <text>The Council shall consist of three (3) Chiefs, three (3) Sub-Chiefs and one (1) Tribal Clerk elected by Members.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Each year one (1) Chief and one (1) Sub-Chief will be elected to the Council on a staggered term basis.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Term of Office and Eligibility</text>
+        <para>
+          <num>1.</num>
+          <text>Chiefs and Sub-Chiefs will be elected to three (3) year terms of office.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Tribal Clerk will be elected to a three (3) year term of office.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Eligibility to run for Council shall be determined by the Tribal Election Ordinance, as amended from time to time.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Powers and Duties of the Council</text>
+        <text>The three (3) Chiefs shall exercise all legislative and executive powers of the Tribe including, but not limited to the following; subject to the restrictions set forth in <code-cite path="§V" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section V</code-cite>: (Removal) and <code-cite path="§VI" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section VI</code-cite>: (Referendum Powers):</text>
+        <para>
+          <num>1.</num>
+          <text>To promote and protect the health, safety, education and general welfare of the Tribe.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>To enact ordinances and adopt resolutions as the Tribe, and to enforce the same.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>To negotiate with Tribes, Federal, State and other national Governments.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>To charter subordinate organizations, including housing, financial, economic development, health and other community boards and commissions, and to delegate to such organizations or to any subordinate boards or official of the organizations the power to manage the economic affairs and enterprises of the Tribe, reserving the right to review any action taken by virtue of such delegated power.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>To establish a Tribal Education System exclusively for the benefit of its members and residents.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>To employ legal counsel and fix compensation and fees.</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>To regulate its own procedures for the management of Council business through the adoption of ordinances and resolutions.</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>To regulate the use and disposition of all land within the jurisdiction of the Tribe, including but not limited to, the enactment of ordinances providing for the manner of making, holding and revoking assignments of tribal lands or interest therein.</text>
+        </para>
+        <para>
+          <num>9.</num>
+          <text>To enact ordinances providing for the removal or exclusion of any non-members who may remain within the jurisdiction of the Tribe.</text>
+        </para>
+        <para>
+          <num>10.</num>
+          <text>To provide by ordinance for the establishment and regulation of organizations or entities including public and private corporations and for any lawful purpose which may be profit or non-profit making.</text>
+        </para>
+        <para>
+          <num>11.</num>
+          <text>To borrow money and issue bonds and other evidences of indebtedness for the public purposes of the Tribe.</text>
+        </para>
+        <para>
+          <num>12.</num>
+          <text>To negotiate and contract with the Federal, State, Local and other governments, and with the Council and governing authorities of other Indian Tribes or Indian organizations, and private organizations, corporations and other entities.</text>
+        </para>
+        <para>
+          <num>13.</num>
+          <text>To levy and collect fees general and special assessments from any members or other person, firm or entity residing on or engaged in revenue generating activity on the land of the Tribe in order to raise revenue for the needs of the Tribe.</text>
+        </para>
+        <para>
+          <num>14.</num>
+          <text>To request the Secretary of Interior to confer trust or reservation status on lands reserved for, granted to or purchased by the Tribe.</text>
+        </para>
+        <para>
+          <num>15.</num>
+          <text>To advise the Tribe and members on all appropriation estimates and Federal and State projects for the benefit of the Tribe.</text>
+        </para>
+        <para>
+          <num>16.</num>
+          <text>To provide by ordinance for the jurisdiction of the Tribe over Indian Child Welfare matters and all other domestic relations matters.</text>
+        </para>
+        <para>
+          <num>17.</num>
+          <text>To administer the tribal government and conduct inquiries and hearing on the activities and performance of the administrative operations of the Tribal government.</text>
+        </para>
+        <para>
+          <num>18.</num>
+          <text>To apply for or accept grants, cooperative agreements, and donations from any person, firm, corporation, foundation, foreign country, organization, state, local, government, or the United States of America and any subdivision or component thereof.</text>
+        </para>
+        <para>
+          <num>19.</num>
+          <text>To take any action that may be necessary to defend the rights of Tribal members and the rights and powers of the Tribe.</text>
+        </para>
+        <para>
+          <num>20.</num>
+          <text>To take any action that may be necessary to carry out the initiatives of the Tribe.</text>
+        </para>
+        <para>
+          <num>21.</num>
+          <text>To take any action that may be necessary to carry out the sovereign authority of the Tribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Powers and Duties of the Sub-Chiefs</text>
+        <para>
+          <num>1.</num>
+          <text>The Sub-Chief shall have all the power and shall perform all the duties of the Chief with whom s/he is elected for the remainder of the Chief's term of office, in the case of such Chiefs' inability to act due to the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>Chief dies during term of office.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Chief deemed mentally incompetent by a licensed physician, with authentication by the Tribal Clerk.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Chief is removed, (see Section V).</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Chief resigns.</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The Chief may give authority to his or her Sub Chief to act upon his or her absence, or temporary inability to act, in writing, such writing to be delivered to the Tribal Clerk and shall indicate the duration and extent of authority designated.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The duties of the Sub-Chief are determined by their respective Chief.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Powers and Authority of the Tribal Court</text>
+        <para>
+          <num>1.</num>
+          <text>As defined in the Tribe's Judiciary Act, as amended from time to time.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Powers and Authority of the Tribal Clerk</text>
+        <para>
+          <num>1.</num>
+          <text>As defined in the Tribal Clerk Act, as amended from time to time.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.01.050"/>
+      <num codify:value="1.01.050">V</num>
+      <heading>Removal</heading>
+      <para>
+        <num>A.</num>
+        <text>Recall of Tribal Council</text>
+        <para>
+          <num>1.</num>
+          <text>Members of the Tribe shall have the right to recall a Council member by filing a petition signed with a minimum of ten percent (10%) of eligible voters with the Election Board.</text>
+          <para>
+            <num>(a)</num>
+            <text>The Recall Election shall be held when a petition containing 10% of eligible voters required above is verified by the Tribal Clerk.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Member must register the petition with the Tribal Clerk, who shall determine the number of signatures required, as of the date upon registration of the petition. Such number to be valid for a period of one (1) year from the date of registration.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Recall elections shall be managed according to the Tribal Election and Referendum Ordinance.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>To Recall a Council Member, a majority of those voting must vote in favor of his/her Recall.</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Council members may also be recalled pursuant to the provisions of the "Tribal Ethics Ordinance", as amended from time to time.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.01.060"/>
+      <num codify:value="1.01.060">VI</num>
+      <heading>Referendums</heading>
+      <para>
+        <num>A.</num>
+        <text>Authority of Members to Initiate Referendums</text>
+        <text>Members shall have power to initiate referendums subject to the provisions set forth in <code-cite path="§VI" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">this Section</code-cite> and in any regulations that are issued pursuant to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">this Ordinance</code-cite> ("Initiative").</text>
+        <para>
+          <num>1.</num>
+          <text>A referendum may be called to adopt new laws, reject or amend existing laws, or to pose questions on issues that affect the community.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>In order for a referendum to be placed on the ballot for a vote, the Member must obtain the valid signatures of five percent (5%) of eligible voters.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The Member must register the petition with the Tribal Clerk, who shall determine the number of signatures required, as of the date upon registration of the petition. Such number to be valid for a period of one (1) year from the date of registration.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>In order for the referendum to be validly approved it must pass by a majority of votes cast.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>The Election Board shall conduct a Tribal Referendum within ninety (90) days of receipt of a valid petition.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Authority of the Council to Initiate Referendums</text>
+        <para>
+          <num>1.</num>
+          <text>The Council <strong>may</strong> place any proposed or existing law or question to the membership for a referendum vote by a majority vote of the Chiefs.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The Council <strong>must</strong> place the following issues to the membership through the referendum process:</text>
+          <para>
+            <num>(a)</num>
+            <text>Fundamental changes to the membership qualifications of the Tribe;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Fundamental changes to the rights of membership of the Tribe;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Fundamental changes in the residency rules and requirements of the Tribe;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Fundamental changes in the voting requirements of the Tribe;</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Fundamental changes in the basic government structure of the Tribe; and</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Non-budgeted, non-emergency expenditures by the Tribe, of Tribal General Funds, that are in excess of $2,500,001.00.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Rules and Regulations Governing Referendum Elections or Initiative Referendums</text>
+        <para>
+          <num>1.</num>
+          <text>The Tribal Election Board shall be responsible for administrating the Tribal Election and Referendum Ordinance.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.01.070"/>
+      <num codify:value="1.01.070">VII</num>
+      <heading>Monthly Tribal Meetings</heading>
+      <para>
+        <num>A.</num>
+        <text>General Provisions</text>
+        <para>
+          <num>1.</num>
+          <text>The Council shall schedule regular meetings on the first Saturday of each month to conduct business and meet with Members. In rare instances, the Council shall have the ability to change the meeting date, but only upon adequate public notice.</text>
+          <para>
+            <num>(a)</num>
+            <text>The May Tribal meeting will be held on the second Saturday.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The June Tribal meeting will be held on the second Saturday.</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The meetings shall be held at the Tribal Community Building or such place as shall be established by the Council upon giving advanced notice to the community.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The meetings shall be chaired by one of the Chiefs.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The meetings shall be open to all Members.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>If a Member wants to have an item on the Agenda s/he must call the Council's office no later than close of business on the Monday before the scheduled meeting.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>The Chief who is chairing the meeting shall decide upon the final agenda for the meeting.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Rules of Procedure for Meetings</text>
+        <text>The Chair shall preside over the Meeting and shall use the rules contained in the current edition of <strong><em>Robert's Rules of Order Newly Revised</em></strong> to govern the assembly in all cases to which they are applicable and in which they are not inconsistent with this Tribal Procedures Act and any special rules of order, practice and/or custom of the Saint Regis Mohawk Tribe, existing or that may be adopted.</text>
+        <para>
+          <num>1.</num>
+          <text>Meetings will begin promptly at 10:00 a.m. and will adjourn no later than 1:00 p.m.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The Tribal Clerk shall take a count to determine if a quorum (twenty-five (25) enrolled members and 2 of 3 Chiefs) is present, the chair shall then call the meeting to order. The count shall include elected officials.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>If there is no quorum by 10:15 a.m., there is no meeting.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>If a quorum is present, the Chair shall call the meeting to order.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Rules of Personal Conduct for Meetings</text>
+        <para>
+          <num>1.</num>
+          <text>Conduct should be respectful in the Meetings.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Members should not interrupt while another is speaking.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Comments should be constructive and directed to the topic that is being discussed.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>There shall be a time limit of five (5) minutes for any one member to discuss an issue.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>There will be no discussions of a personal nature.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>There will be no discussions related to personnel issues.</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>Photographs and videos of the meetings are not permitted unless prior approval from the assembly is obtained.</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>Violation of any of the above rules may result in a tribal member being removed from the meeting; or any other action being taken by the Chair of the meeting, including suspension of the meeting.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Motions from the Floor</text>
+        <para>
+          <num>1.</num>
+          <text>With the exception of personal and/or personnel matters, Members may make motions at a Monthly meeting to request the Council to take any action that is within the Council's authority provided that there is a quorum present and the motion is seconded by a Member.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The motion must be presented in a form that clearly states the action being motion must be pre requested of Council.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The motion will pass upon a majority vote of Members, at the meeting.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>If the motion passes, the Council will place that issue on its Agenda for the next scheduled Work Session and report back to the Community at the next Monthly Meeting on what, if any action was taken.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>In response to such motions, it is the responsibility of Council to consider each motion and make an independent decision whether acting upon the motion is in the best interests of the Saint Regis Mohawk Tribe, as a whole, and, if so, to take official action upon the motion.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>In the event that the Council determines not to take action upon a motion from the floor, the Member has the option of utilizing the Petition/Initiative process to require a referendum on the matter.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Meeting Minutes</text>
+        <text>The purpose is to have an accurate record of what is discussed.</text>
+        <para>
+          <num>1.</num>
+          <text>The Tribal Monthly Meeting shall be electronically recorded by the Office of the Tribal Clerk.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Should a Member wish to listen to the recording, the Tribal Clerk shall set forth a time and location for the recording to be available for review.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The minutes of the Tribal Monthly Meeting shall consist of a summary of the actions taken, or requested to be taken, as well as a summary of Tribal Council Resolutions passed by Tribal Council for the month immediately prior.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.01.080"/>
+      <num codify:value="1.01.080">VIII</num>
+      <heading>Work Sessions</heading>
+      <para>
+        <num>1.</num>
+        <text>The Council shall designate a period of time to hold Work Session to act upon resolutions, ordinances and conduct other official business of the Tribe. These meetings will be held at least two times a month (bi-monthly) or more frequently at the Council's discretion when the need arises and such meetings shall be recorded by the Tribal Clerk's Office.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Work Session shall be held in the Tribal Council Boardroom or any other location Tribal Council deems appropriate, and is open to all Members, except for executive session.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The Council may take official action on pressing matters outside of Work Session; however, any such actions taken must be presented at the next Work Session and must be recorded.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.01.090"/>
+      <num codify:value="1.01.090">IX</num>
+      <heading>Tribal Council Resolutions</heading>
+      <para>
+        <num>1.</num>
+        <text>All decisions of the Council on matters where a formal expression of approval is needed shall be written in a Resolution.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A Resolution may be proposed by any member of the Council, any Tribal member, or any Tribal program or department.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A resolution shall be submitted as outlined by TCR 2011-50, as amended from time to time, and presented to Council for action in a Work Session and shall be adopted when at least two out of three Chiefs vote to accept it.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Tribal Council Resolutions enacting Laws, Acts or Ordinances shall meet the additional requirements set forth below.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.01.100"/>
+      <num codify:value="1.01.100">X</num>
+      <heading>Tribal Laws, Acts and Ordinances</heading>
+      <text>As summarized below, the procedure for enactment of Tribal Ordinances is as follows:</text>
+      <para>
+        <num>1.</num>
+        <text>Formal enactment of Tribal Laws, Acts or Ordinances (together "Ordinances") shall be evidenced by the adoption of a Tribal Council Resolution.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>An Ordinance may be proposed by the Council, any Tribal Member or any Department or Program of the Tribe. (A member may also propose an ordinance via the referendum process, refer herein to <code-cite path="§VI|A." doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section VI A</code-cite>).</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The proposed ordinance and the review process, including provisions for review and comments by Members, is set forth in the following procedure:</text>
+        <para>
+          <num>(a)</num>
+          <text>Initial review by the Council shall be conducted within thirty (30) days.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Tribal Clerk shall issue a notice to the Tribal Membership that such legislation is being presented for comment. The date of this notice shall commence the thirty (30) day comment period. Comments may be presented at public meetings, or in writing to the Tribal Clerk's Office.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Following the draft comment period, Tribal Council shall have at least thirty (30) calendar days to consider the comments received and create a final draft of the proposed legislation and shall provide responses to the comments made in the form of a response summary.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Once a final draft is complete, it shall be submitted to the Tribal Clerk, who shall issue a notice to Tribal Membership that such legislation is being presented for final action.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Upon the conclusion of the final thirty (30) day notice period, Tribal Council may take action to enact the Ordinance when at least two of three Chiefs vote to adopt the proposed legislation.</text>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>In the event that Tribal Council elects to put the pending Ordinance to a referendum vote or adoption of the Ordinance requires a referendum vote pursuant to <code-cite path="§VI|B.|2." doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section VI, B. 2</code-cite>, or the Ordinance has been put forward through the Referendum process, the Referendum Election process shall be followed.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>If the Referendum results in a vote to accept the Pending Ordinance:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Election Board will ensure the Appeal Process of the Referendum Election process, is adhered to.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Election Board will certify the Referendum Election Vote and present the certified vote to Council.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Pending Ordinance is enacted and Tribal Council shall take all steps necessary to implement the Ordinance.</text>
+        </para>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>If the Referendum results in a vote to not accept the Pending Ordinance:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Election Board will conduct the Appeal Process of the Referendum Election process.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Election Board will certify the Referendum Election Vote and present the certified vote to Council.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The process is terminated and the Pending Ordinance and a copy of the certified vote is presented to the drafters of the Pending Ordinance.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.01.110"/>
+      <num codify:value="1.01.110">XI</num>
+      <heading>Open Records</heading>
+      <para>
+        <num>1.</num>
+        <text>Open Records: The following categories of information are "open" and available to Tribal members:</text>
+        <para>
+          <num>(a)</num>
+          <text>The names and titles of employees of the Tribe;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Job postings;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Census data regarding population (not membership);</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Salary, bonuses and benefits received by elected or appointed officials of the Tribe:</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Human resource policy manuals;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Tribal Court opinions or court decisions (subject to redaction of confidential or minor information);</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Tribal ordinances, policies and resolutions and amendments thereto;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Publicly filed organizing documents of any Saint Regis Mohawk Tribal entity (i.e. charters);</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Annual financial audits, all financial disclosures that have been deemed open to Tribal Members;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Minutes of Tribal Council open meetings, as per TCR 2011-55;</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>List of eligible voters (can only be viewed in the clerk's office from Caucus to election and only for purposes of verifying voter eligibility);</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Statistical data of Tribal members (numbers only); and</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Election candidate lists, voting results.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Public Records: The following information is deemed "Public" and is available to the general public.</text>
+        <para>
+          <num>(a)</num>
+          <text>Laws and Policies</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Company and/or business names</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Newsletters</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Policies and procedures such as personnel policy and court procedures.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Sex offender registry</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Media Releases and publications</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Exceptions and Limitations</text>
+        <text>Tribal government business often includes matters relating to Tribal business enterprises. The purpose of these exceptions is to address the non-disclosure of certain business records, records of a sensitive nature, or situations where the Tribal members' right to access is outweighed by the Tribe's interest in keeping such records confidential.</text>
+        <text>The following shall be exempt from disclosure and inspection shall not be granted:</text>
+        <para>
+          <num>(a)</num>
+          <text>Proposals and bids for any contract or agreement, including information which if it were disclosed would frustrate procurement or give an advantage to any person proposing to enter into a contract or agreement with the Tribe, until an award or final selection is made and after deletion of the portions which are exempt from disclosure under this law. Information prepared by or for the body in preparation of a bid solicitation shall be exempt until an award or final selection is made;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Contracts or other agreements which specifically prohibit disclosure of the content of the contract or agreement to third parties;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any and all records related to: contracts containing a confidentiality or nondisclosure provision; any proposed contracts or employment related contracts;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Any personally identifiable information including medical, financial, personnel records or similar files or information, including but not limited to Tribal enrollment numbers, social security numbers.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Privileged attorney-client information or attorney work product and all related records.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Records of law enforcement agencies, prosecution, or regulatory agencies that deal with detection and investigation of crimes.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Matters specifically exempted from disclosure by applicable federal, state, or tribal statute or law.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Any records containing proprietary information, trade secrets or information that would be deemed privileged in litigation;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Drafts, notes, recommendations, memoranda and other records in which opinions are expressed, or policies or actions are formulated;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Inter-office communications relating to proposals or matters which have not been introduced for consideration in an open meeting. This includes: Inter-office memorandums, personal notes, drafts, communications with staff and other records which relate to ongoing matters or works in progress currently being performed;</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Records that would reveal the exact location of archaeological sites;</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Records related to security and community safety;</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Any court records that would otherwise not be disclosed by the court, any records that have been sealed, any documents or records protected by attorney client privilege;</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Records or information for which disclosure would jeopardize the functioning of the Tribal government or an entity partly or wholly owned by the Tribe;</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Geological and geophysical information and data, including maps, concerning wells;</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>Any information related to higher education and student records; and</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>Value of rare books or collections</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.01.120"/>
+      <num codify:value="1.01.120">XII</num>
+      <heading>Financial Accountability</heading>
+      <para>
+        <num>A.</num>
+        <text>Public Meetings Required</text>
+        <para>
+          <num>1.</num>
+          <text>The Council shall hold at least three (3) Public meetings each year for the purpose of presenting and explaining to the Membership the Annual Tribal Budget.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Notice of the Public Meeting and a summary of the Annual Tribal Budget shall be provided to the membership at least fifteen (15) days prior to the first Public meeting. At this Public meeting, which shall be held no later than November 15<sup>th</sup> of each year, the Council and their Staff shall present the Annual Tribal Budget and respond to any questions or concerns presented by Members.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Members will have a fifteen (15) day period to provide their comments and concerns about the Annual Tribal Budget to the Council.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>A second Public meeting shall then be held, at which the Tribal Council will respond to any public comments received.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>A third Public meeting shall be held no later than August 15th each year and at this Public meeting the Council shall present a mid-year report on the Approved Annual Tribal Budget providing revenues and expenditures to that date.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Budget Modifications</text>
+        <para>
+          <num>1.</num>
+          <text>The Tribe's expenditures for the upcoming fiscal year shall be limited to the approved Tribal Annual Budget subject to the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>Budget modifications by Tribal Departments will be permitted with limits established by the Tribe's Finance Department and material modifications will be reported at the August Public meeting.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Any proposed modification, involving the Tribal General Fund Supplement to the Annual Tribal Budget, that exceeds $1,000,000.00, must be presented in a Public meeting, scheduled for that purpose, for approval by Tribal Council.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Tribal Council may, in the event of a community infrastructure emergency or natural disaster, take any measures necessary to protect the health, safety and welfare of the community and community members.</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>In the event that the Council determines that an expenditure, not included in the Annual Budget is necessary, and is over $2,500,001.00, approval must be obtained through a Referendum.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.01.130"/>
+      <num codify:value="1.01.130">XIII</num>
+      <heading>Amendment Provision</heading>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">This Ordinance</code-cite> may be amended (see <code-cite path="§VI" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section VI</code-cite>) by a duly conducted Referendum.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.01.140"/>
+      <num codify:value="1.01.140">XIV</num>
+      <heading>Severability Clause</heading>
+      <text>The provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">this Ordinance</code-cite> are severable and if any part or provision shall be held void by Tribal court the decision of the Tribal court shall not affect or impair any of the remaining parts or provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">this Ordinance</code-cite>.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.01.150"/>
+      <num codify:value="1.01.150">XV</num>
+      <heading>Repeal of Prior Laws</heading>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">This Ordinance</code-cite> repeals and supersedes all of the "Act relating to Council Powers, Procedures, Initiative Referendum, Recall and Removal from Office" commonly referred to as the 1994 Procedures Act, including amendments, and any other Ordinances, Acts or Laws that are inconsistent herewith.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.01.160"/>
+      <num codify:value="1.01.160">XVI</num>
+      <heading>Rules of Compliance</heading>
+      <text>Failure to administer or comply with this Tribal Governance Ordinance may result in the implementation of <code-cite path="§V" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section V</code-cite>.</text>
+    </section>
+  </attachment>
 </document>

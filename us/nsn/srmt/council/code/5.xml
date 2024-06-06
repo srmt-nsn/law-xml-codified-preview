@@ -984,4 +984,475 @@
       </annotations>
     </section>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5.04</num>
+    <heading>Pesticide Regulation</heading>
+    <section>
+      <num>5.04.010</num>
+      <heading>Purpose</heading>
+      <text>The Saint Regis Mohawk Tribe (The "Tribe"), is responsible for the health, safety, education and welfare of all community members. With respect to pesticide usage it has the authority, responsibility and jurisdiction to exercise sovereign rights in governing pesticide usage on the Saint Regis Mohawk Reservation (Reservation). Through its Environment Division, the Tribe has determined that the management of pesticides through Tribal regulation will ensure the protection of Tribal member health by reducing unnecessary health risk exposures to pesticides.</text>
+      <text>Further, the EPA's regulations under Environmental Protection Acts, Title 40 of the Code of Federal Regulations (CFR) Part 171 provide that:</text>
+      <para>
+        <num>(a)</num>
+        <text>An Indian tribe may develop its own plan for certifying private and commercial applicators to use or supervise the use of Restricted Use Pesticides (RUPS), subject to the approval of EPA;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If a tribe does not develop its own certification plan, the tribe may choose to utilize a state's certification program, with the concurrence of that state, subject to the approval of EPA; or</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>EPA can implement a federal plan for the certification of applicators of RUPS where no other EPA-approved state or tribal applicator certification plan is in effect.</text>
+      </para>
+      <text>The Tribe's strategy for regulating pesticide usage within its jurisdiction is to exercise option 3, relying upon EPA to certify RUP applicators. Additionally, the Tribe will exercise its sovereign right to regulate the use of General Use Pesticides (GUPS) within its jurisdiction through this regulation.</text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|1.0" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.020</num>
+      <heading>Authority</heading>
+      <text>The authority of the Tribe to enact the Pesticide Regulation lies in the inherent sovereign authority of the Saint Regis Mohawk Tribe the Tribal Procedures Act section IV (C) (1), (2), (10) and (13) (TCR 2013-32); and the Tribal Court and Judiciary Code Section V and VI (TCR 2008- 22).</text>
+      <text>Tribes cannot be granted primacy status under FIFRA. The EPA, however, does permit cooperative agreements to tribes who cooperate with EPA for the enforcement of FIFRA and who have developed their own Tribal Codes for pesticide use on tribal lands. If a tribal inspector uses tribal credentials for an inspection, enforcement can be pursued by the Tribal Council. If EPA credentials are used for an inspection, the Tribe shall send the inspection file and all information to the EPA's regional office.</text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|2.0" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.030</num>
+      <heading>Federal Certification Rule</heading>
+      <text>Under the authority of Section 11(a)(1) of the Federal Insecticide, Fungicide, Rodenticide, Act (FIFRA), and in accordance with the regulations found at Title 40 of the Code of Federal Regulations (CFR) Section 171.11, the EPA is implementing a federal pesticide applicator certification plan (EPA plan) for those areas of Indian country where no other EPA-approved or EPA-implemented plan applies. This EPA plan describes a program for the certification of applicators of restricted use pesticides (RUPS) in Indian country based on the certification requirements enumerated at 40 CFR Part 171.</text>
+      <annotations>
+        <annotation type="Editor's Notes">Consistent with the statutory definition of Indian country, as well as federal case law interpreting this statutory language, EPA treats lands held by the federal government in trust for Indian tribes that exist outside of formal reservations as informal reservations, and thus as Indian country.</annotation>
+        <annotation type="Editor's Notes"><em>Indian country</em>: As defined at 18 USC § 1151: "(a) all land within the limits of any Indian reservation under the jurisdiction of the United States Government, notwithstanding the issuance of any patent, and, including rights-of-way running through the reservation; (b) all dependent Indian communities within the borders of the United States whether within the original or subsequently acquired territory thereof, and whether within or without the limits of a state; and (c) all Indian allotments, the Indian titles to which have not been extinguished, including rights-of-way running through the same."</annotation>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|2.1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.040</num>
+      <heading>Terms and Definitions</heading>
+      <text><strong>Applicator</strong> - A person who uses a pesticide for the purpose of preventing, repelling or mitigating any pest as defined under this regulation.</text>
+      <text><strong>Pesticide</strong> - A substance or mixture of substances intended for preventing, destroying, repelling or mitigating any pest as defined under the FIFRA (7 USC 136-136y).</text>
+      <text><strong>Certification</strong> - The processes that are administered by the Tribe, EPA or a State which confirms that the qualifications and credentials of a pesticide applicator meet applicable, Tribal, Federal or State requirements in order to be accredited.</text>
+      <text><strong>Certified Applicator</strong> - The term "certified applicator" means any individual who is certified under FIFRA section 11 as authorized to use or supervise the use of any pesticide which is classified for restricted use. Any applicator who holds or applies registered pesticides, or uses dilutions of registered pesticides consistent with subsection (ee), only to provide a service of controlling pests without delivering any unapplied pesticide to any person so served is not deemed to be a seller or distributor of pesticides under FIFRA.</text>
+      <text><strong>Commercial Applicator</strong> - The term "commercial applicator" means an applicator who uses or supervises the use of any pesticide which is classified for restricted use for any purpose or on any property other than as provided by the definition of Private Applicator.</text>
+      <text><strong>EPA Plan</strong> - The US EPA federal certification requirements for applicators or restricted use pesticides (RUPs) in Indian Country under the authority of Section 11(a) (1) of the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA), and in accordance with the regulations found at Title 40 of the Code of Federal Regulations (CFR) Section 171.11</text>
+      <text><strong>General Use Pesticide (GUP)</strong> - Any pesticide which has not been classified as Restricted Use. A pesticide that that will not ordinarily cause unreasonable adverse effects on the user or on the environment when used in accordance with their label instructions. These are available to the public.</text>
+      <text><strong>Indian Country</strong> - All land within the limits of an Indian reservation as defined by 18 USC § 1151.</text>
+      <text><strong>Labeling</strong> - All labels and all other written, printed, or graphic matter: (a) accompanying the pesticide or device at any time; or (b) to which reference is made on the label or in literature accompanying the pesticide or device, except to current official publications of the Environmental Protection Agency, the United States Departments of Agriculture and Interior, and the Department of Health and Human Services, State experiment stations, State agricultural colleges, and other similar Federal or State institutions or agencies authorized by law to conduct research in the field of pesticides.</text>
+      <text><strong>Label(s)</strong> - The written, printed, or graphic matter on, or attached to, the pesticide or device or any of its containers or wrappers.</text>
+      <text><strong>Pesticide Incident</strong> - Any exposure or effect from a pesticide's use that is not expected or intended. Pesticide incidents may involve humans, wildlife, plants, domestic animals (e.g. pets) and bees.</text>
+      <text><strong>Pesticide Registry Number</strong> - The EPA issued number that corresponds to an EPA registered pesticide. The EPA Registered Number of a product for primary registrants consists of two sets of numbers separated by a hyphen. The first set of numbers refers to the registrant's company identification number, and the second set of numbers represents the product number.</text>
+      <text><strong>Private Applicator</strong> - The term "private applicator" means a certified applicator who uses or supervises the use of any pesticide which is classified for restricted use for purposes of producing any agricultural commodity on property owned or rented by the applicator or the applicator's employer or (if applied without compensation other than trading of personal services between producers of agricultural commodities) on the property of another person as defined by FIFRA.</text>
+      <text>A private applicator is a farmer, rancher, orchardist, nursery producer, greenhouse operator, etc. who uses or supervises the use of restricted use pesticides to produce an agricultural commodity on property owned or rented by the applicator or his/her employer or (if applied without compensation other than trading of personal services between producers or agricultural commodities) on the property of another person.</text>
+      <text><strong>Restricted Use Pesticide (RUP)</strong> - Under FIFRA, pesticides (or the particular use or uses of a pesticide) that may generally cause, without additional regulatory restrictions, unreasonable adverse effects on the environment, including injury to the applicator. A pesticide that only certified pesticide applicators or those under the supervision of a certified applicator may use.</text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|3.0" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.050</num>
+      <heading>Registration Requirements</heading>
+      <text>All Applicators shall be registered through the Saint Regis Mohawk Tribe's Compliance Department in order to be able to apply pesticides within the jurisdiction of the Tribe before operating on the territory. Pesticide applicators shall also meet any and all other provisions of Tribal regulatory requirements, including but not limited, to business licenses or permits, Tribal good standing policy requirements, etc.</text>
+      <text>Any person who applies restricted use pesticides in an area the Saint Regis Mohawk Tribe covered by the EPA plan will need a federal certificate from EPA.</text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|4.0" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.060</num>
+      <heading>Permits</heading>
+      <text>Applicators shall be issued a Tribal permit that is valid for one (1) year. Each permit is effective Tsiothohrkó:wa/January 1 to Tsiothóhrha/December 31, each year.</text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|4.1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.070</num>
+      <heading>RUP/GUP</heading>
+      <text>All Applicators that hold certifications in other jurisdictions outside of the Reservation shall also be currently registered with its respective jurisdiction and the EPA, and currently be in compliance with the pesticide regulations of those jurisdictions and Applicators shall verify its standing by presenting copies of certifications and licenses held in their pertinent state and by the EPA.</text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|4.2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.080</num>
+      <heading>GUP</heading>
+      <text>Applicators may obtain permits to apply GUP within the jurisdiction of the Tribe. The GUP Permit is only issued to on-territory Applicators and restricts the use of pesticides to GUPS only. This type of permit is only valid for the Reservation.</text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|4.3" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.090</num>
+      <heading>Applications</heading>
+      <text>All Applicators shall complete and submit a Tribal Applicator Permit Application for Pesticide Applicator Certification.</text>
+      <text>The permit shall be submitted to the Saint Regis Mohawk Tribe, Attention: Tribal Compliance Office, 71 Margaret Terrance Memorial Way, Akwesasne, NY 13655.</text>
+      <text>Once approved a Tribal Applicator Photo-ID permit card that will be issued. The Applicator shall be required to remit payment of $120.00 to the Tribe's Accounting Department.</text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|4.4" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.100</num>
+      <heading>Permit Fees</heading>
+      <text>The fee for an annual permit shall be no less than $120 for a permit. The Tribe reserves the right to increase permit fees to meet administrative costs but shall notify applicators in writing in advance of fee rate increases. The fee includes the cost of a Tribal Photo-ID Permit.</text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|4.5" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.110</num>
+      <heading>Reporting Requirements</heading>
+      <text>As a condition of either permit the Tribally certified Applicators shall be required to submit annual reports no later than thirty (30) days from Tsiothóhrha/December 31 of each year (Applicators may submit reports more frequently). Failure to submit an annual report will result in suspension of a Tribal certification.</text>
+      <text>The content of the annual report shall include:</text>
+      <text>
+        <ul proof="needed">
+          <li>Applicator Name (First, Last, M.I.)</li>
+          <li>Applicator physical address</li>
+          <li>Applicator mailing address</li>
+          <li>Applicator phone number(s)</li>
+          <li>Tribal Permit Number, Federal Certification Number, State Certification Number</li>
+          <li>Sales and Usage Report</li>
+          <li>List names of all pesticides used within the jurisdiction of the Saint Regis Mohawk Tribe</li>
+          <li>List the quantities (U.S. liquid measures for liquid materials and U.S. dry weight measures for all dry materials) of all pesticides used within the jurisdiction of the Saint Regis Mohawk Tribe</li>
+        </ul>
+      </text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|5.0" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.120</num>
+      <heading>Accidental Releases</heading>
+      <text>In the event of an accidental release of a pesticide, where there is an imminent threat to human health and the environment, Applicators are required to immediately contact the Tribe's Environmental Response Team, 518-358-5937 during regular business hours or the Tribe's Police Department, 518-358-9200, after regular business hours.</text>
+      <text>Any accidental pesticide release is reportable if:</text>
+      <text>
+        <ul proof="needed">
+          <li>There is an impact to human health</li>
+          <li>There is an impact to the environment, including a threat or spill into a sanitary sewer, storm sewer and/or surface water or ground water</li>
+          <li>There is a fire, explosion or safety hazard</li>
+          <li>The spill has not immediately been cleaned up</li>
+          <li>The spill was more than the reportable quantity under Federal Law</li>
+          <li>A spill involving the commercial transport of a pesticide as governed by the US Department of Transportation</li>
+        </ul>
+      </text>
+      <text>Applicators may be subject to reportable quantities under additional regulatory requirements including but not limited to the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA), 42 USC 9601, the Federal Water Pollution Control Act, 33 USC 1321(b)(2)(A) and 1317 (a), section 3001 of the Solid Waste Disposal Act, 42 USC 6921, Section 112 of the Clean Air Act, 42 U.S.C 7412. It is the responsibility of Applicators to know and understand the regulations to which they are subject.</text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|6.0" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.130</num>
+      <heading>Pesticide Incidents</heading>
+      <text>Applicators are required to report any pesticide incidents to the Tribe's Compliance and Environmental Office, providing the Applicators name, address, phone number, e-mail, date, location, time of day, pesticide name and EPA registry number and nature of incident (human exposure or illness, animal exposure or illness (pets or livestock), pesticide drift, wildlife incident (wildlife, bees, soil or water), problems with a pesticide container or label. A Pesticide Incident Report will consist of:</text>
+      <para>
+        <num>(a)</num>
+        <text>A verbal report, made in person or by phone to the Tribe's Compliance and Environmental Office at the time of the incident or as soon as possible upon discovery an incident and,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Filing of a written report immediately after, but no later than 24-hours, after filing a verbal report</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If the incident occurs on a weekend or holiday the applicator is required to file a report by the next business day of operation.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|6.1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.140</num>
+      <heading>Enforcement</heading>
+      <text>Any violation of the Tribal Pesticide regulation may result in the revocation of an Applicator's permit, institution of fines and penalties as determined by a Tribal Compliance Office official, seizure of materials for evidence, and restitution for damages or losses that may have resulted from violations of this Ordinance. Additionally, the Tribe will advise EPA of any violations.</text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|7.0" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.150</num>
+      <heading>Enforcement Actions</heading>
+      <text>Enforcement Policy: It is the policy of the Tribe to encourage informal, practical, result- oriented resolution of alleged violations and actions needed to prevent damage to Saint Regis Mohawk Indian Reservation resources or harm to the health, safety or welfare of the Reservation population. It is also the policy of the Tribe, consistent with the principles of due process, to provide effective procedures for enforcement.</text>
+      <text>Enforcement Agency: The Tribe's Environment Compliance Officer ("Officer") shall be responsible for enforcing the provisions of this Code. Specifically, the Officer shall conduct investigations when a complaint is received by the Tribal Compliance Office, Environment Division or other Tribal agency believes that a violation of this Ordinance has occurred.</text>
+      <text>Enforcement Activities: Where a verified complaint shall be filed with the Tribe and reviewed by the Environmental Compliance Officer alleging that, or where the Tribe itself shall have cause to believe that, any person is violating any pesticide regulation or permit condition, the Environmental Compliance Officer shall cause a prompt investigation to be made.</text>
+      <text>Notice of Violation: Cease and Desist Order: If the Officer finds after an investigation pursuant to this Code that a violation of any regulation or permit condition exists, the Officer shall promptly notify both the alleged violator and the Tribal Council in writing. In the case of an apparent violation of this Ordinance, the Officer is authorized to issue a Notice of Violation to the person(s) apparently responsible for the violation, and, if the apparent violation occurred on property owned by a person other than the alleged violator, a Notice of Violation shall also be issued to the landowner.</text>
+      <text>In the case of a continuing violation or a threatened violation, the Tribal Council shall issue a Cease and Desist Order to prevent the violation from continuing or occurring.</text>
+      <text>Failure to comply with a Cease and Desist Order shall constitute a Second violation of this Ordinance. Both a Notice of Violation and a Cease and Desist Order may be issued for a single incident. A Notice of Violation will include a request to appear before the Officer at an enforcement hearing at a specified time and date, and shall advise the alleged violator that failure to appear may result in the imposition of civil penalties.</text>
+      <text>If an Immediate Cease and Desist Order is issued without an accompanying Notice of Violation, the Order will inform the recipient that failure to comply with the Order will constitute a violation of this Ordinance, which will result in the issuance of a Notice of Violation that will indicate the alleged violations of this ordinance and may result in the imposition of civil penalties.</text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|7.1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.160</num>
+      <heading>Hearings on Violations</heading>
+      <text>Informal/Formal Hearings: The Officer shall afford the landowner or his or her representative reasonable opportunities to discuss proposed enforcement actions at an informal or formal hearing prior to taking further enforcement action, unless the Officer determines that there may be either imminent environmental damage to a Reservation resource or adverse impact upon the health, safety and welfare of the Reservation population. Informal or formal hearings may be used at any stage in the enforcement proceedings, except that the Officer may refuse to conduct informal or formal hearings with respect to any matter then pending before the Officer.</text>
+      <text>Reports Required: The Officer shall keep written notes of the date and place of the hearing, the persons in attendance, the subject matter discussed and any decisions reached with respect to further enforcement action.</text>
+      <text>Enforcement Hearings: If the landowner and the Officer are unable to resolve the matter via an informal or formal hearing, the Officer is authorized to conduct adjudicatory hearings to determine if a violation of this Code has occurred. In such a hearing the person so charged shall be entitled, at his or her own expense, to be represented by an attorney or other representative. The Officer shall rule that a violation of this Ordinance has occurred if it finds that the charges are supported by a preponderance of the credible evidence, which supports a finding that a violation occurred.</text>
+      <text>Within thirty (30) days after the date of any enforcement hearing, the Officer shall issue a written decision. If the Officer determines that a violation has occurred and that the person(s) charged was (were) responsible for the violation, the Officer's decision shall include an Enforcement Order.</text>
+      <text>Civil Penalties and Corrective Action: An Enforcement Order shall direct any person(s) found to have committed a violation of this Ordinance to take whatever corrective action the Officer deems appropriate under the circumstances. An Enforcement Order may impose civil penalties in accordance with a schedule of civil penalties prescribed under these rules. Alternatively, an Enforcement Order may impose civil penalties in the event that a person found to have committed a violation of this Code does not take corrective action in accordance with the Order within a prescribed time frame. If a person who has been found to have committed a violation does not take corrective action within the prescribed time frame, an appropriate department or agency of the Tribal government may take the necessary corrective action, in which case the amount of any civil penalty shall be increased by twice the amount of the cost incurred by the Tribal department or agency in taking the corrective action.</text>
+      <text>Notwithstanding any other provision of this Ordinance, if the Officer determines that noncompliance with this Ordinance is presenting an imminent and substantial threat to the public health, welfare or environment and determines, in consultation with the Tribe's attorneys, that it is not practicable to assure prompt protection of the public health, welfare or environment of an administrative or judicial enforcement action under this part, the Officer may issue such orders as may be necessary to protect the public health, welfare or environment. Any such order shall be effective immediately upon issuance and shall remain in effect for a period not to exceed sixty (60) days. Revocation of Permit. Failure of any person to comply with any Enforcement Orders shall result in an immediate revocation of his or her permit. In order to obtain a reinstatement of such permit, the person(s) against whom the Enforcement Order was issued must first demonstrate compliance with the Order and pay all outstanding penalties and then petition for reinstatement of the permit with the name of the particular Tribal Agency].</text>
+      <text>Special Provisions for Tribal Departments and Agencies: In any case in which any Tribal agency or department is alleged to have violated the terms and conditions of a pesticide permit, or to have conducted activities without a permit, the Compliance Department shall bring the matter to the attention of the Saint Regis Mohawk Tribe, Tribal Council who shall consider taking action to ensure compliance with this Ordinance. If the matter cannot be resolved informally, the particular Tribal Agency shall conduct an enforcement hearing for the purpose of making factual determinations and issuing a decision recommending a course of corrective action if necessary.</text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|7.2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.170</num>
+      <heading>Appeals</heading>
+      <text>Once the Compliance Officer has issued a decision any person who is aggrieved by the decision has the right to appeal through the Tribal Appellate Court. This appeal must be filed in writing as a notice of appeal to the Tribal Appellate Court.</text>
+      <text>Any person who is aggrieved by the issuance or denial of an applicator permit without respect to whether that person, corporation or other entity is a party to such permit application, or who is the subject of an Enforcement Order, may file an appeal with the Tribal Appellate Court. The Tribal Appellate Court is authorized to hear such appeals.</text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|8.0" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.180</num>
+      <heading>Certification</heading>
+      <text>A person becomes a certified applicator through meeting the requirements of the Tribe and, the EPA and by his/her pertinent state.</text>
+      <text>
+        <ul proof="needed">
+          <li>Persons applying GUP commercially as defined under this ordinance, are required to be certified by the Saint Regis Mohawk Tribe, and</li>
+          <li>Persons are required to be Federally Certified by EPA to be able to apply RUP on Tribal lands and must also obtain a Tribal permit, and</li>
+          <li>Persons are required to be certified by their pertinent state to be able to apply pesticides on Tribal lands</li>
+        </ul>
+      </text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|9.0" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.190</num>
+      <heading>Training Requirements for Gup Permits</heading>
+      <text>Applicators who apply GUPS only must have successfully completed a basic pesticide core training program that includes the following material:</text>
+      <text>
+        <ul proof="needed">
+          <li>Pests</li>
+          <li>Pesticides</li>
+          <li>Formulations</li>
+          <li>Pesticide Exposure and Risks</li>
+          <li>The Toxicity of Pesticides</li>
+          <li>Protecting Yourself</li>
+          <li>Responding to a Pesticide Exposure</li>
+          <li>Ecology and Environmental Considerations</li>
+          <li>Proper Pesticide Disposal</li>
+          <li>Pesticide Storage</li>
+          <li>Safety Precautions with Pesticides</li>
+          <li>Personal Protection for the Applicator and Worker</li>
+          <li>Protecting Water from Pesticide Pollution</li>
+        </ul>
+      </text>
+      <text>Applicators must maintain their competencies by completing a minimum of three (3) Continuing Education Units (CEU's) a year in a pesticide related training course. Certificates of completion must be submitted with permit applications/renewals to verify course work.</text>
+      <text>Applicators who apply RUPs must meet the training requirements of their respective state certification program. A current applicator's state certification upon application or renewal must be present with a permit application/renewal.</text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|10.0" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.200</num>
+      <heading>Right to Know</heading>
+      <text>Employers within the jurisdiction of the Tribe will be required to inform employees about the use of pesticides used in the workplace. The process for providing information consists of:</text>
+      <text>
+        <ul proof="needed">
+          <li>Providing a list of all pesticides used in the workplace</li>
+          <li>Access to Safety Data Sheets and container labels</li>
+          <li>Making proper notification of the planned use of pesticides in workplace with 48-hours advanced notice</li>
+        </ul>
+      </text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|11.0" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.210</num>
+      <heading>Notification</heading>
+      <text>Pesticide Applicators are required to provide notice of all pesticide use including all indoor and outdoor applications made in public and commercial buildings and for agricultural applications. Notification shall consist of posting signs on the property to be treated a minimum of 48-hours before application treatment and remain posted on the property a minimum of 24-hours after application. However, certain products may have labels with stricter notification requirements. In these particular instances the label directions must be followed.</text>
+      <text>Notification signage shall display the following information:</text>
+      <para>
+        <num>(a)</num>
+        <text>Indication that pesticides will be applied.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The date of application.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Date the notice is given.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Date the notice expires, maximum of seven days.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Name and telephone number of a person who can give information about what was applied.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>EPA Registration number and full name of pesticide (product common name).</text>
+      </para>
+      <text>Signage specifications are:</text>
+      <para>
+        <num>(g)</num>
+        <text><strong>Size</strong> - A minimum of one-foot by one-foot in dimension.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text><strong>Color</strong> - Dark lettering on a yellow background.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text><strong>Location</strong> - Posted in a conspicuous place along the principal street frontage of the property to be sprayed.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text><strong>Posted</strong> - At common access points of commercial buildings or apartment complexes.</text>
+      </para>
+      <text>Private homeowners using pesticides in their own home and on their own property are not required to comply with notification requirements.</text>
+      <text>In addition to public posting, the applicator shall make written notification to the Saint Regis Mohawk Tribe, Environment Division of plans to apply pesticides. The Applicator is required to notify the Tribe a minimum of 48-hours in advance of an application. However, certain products may have labels with stricter notification requirements. In these particular instances the label directions must be followed.</text>
+      <text>Information to be provided to the Environment Division in the written notification shall consist of:</text>
+      <text>
+        <ul proof="needed">
+          <li>Date or dates of pesticide use</li>
+          <li>Full name of pesticide(s) product(s)</li>
+          <li>The pest(s) to be treated</li>
+          <li>Where the pesticide(s) will be applied</li>
+          <li>Re-entry period restrictions (if any)</li>
+          <li>The name of the pesticide Applicator (individual) and Company Name</li>
+          <li>Applicator registration number</li>
+          <li>Pest controller contact number(s)</li>
+          <li>EPA Registration number and full name of pesticide (product common name)</li>
+          <li>Where pesticide will be applied within a building or site</li>
+          <li>E-mail address of applicator</li>
+          <li>Applicator certification number</li>
+        </ul>
+      </text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|11.1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.220</num>
+      <heading>Exemptions</heading>
+      <text>The Tribe exempts Minimum risk pesticides and Low Impact Pesticides from the notification requirements. Refer to https://www.epa.gov/minimum-risk-pesticide for guidelines on minimum risk pesticides. Low impact pesticides in general are antimicrobial products and disinfectants, see <cite path="5.04|A">Appendix A</cite>.</text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|12.0" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.230</num>
+      <heading>Amendments</heading>
+      <text>Amendments to this this Ordinance must be initiated in accordance with provisions of Tribal procedures for adopting Tribal laws and ordinances. The amendment and supporting documentation must be submitted in writing.</text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|13.0" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.240</num>
+      <heading>Repeal</heading>
+      <text>Repeal to this Ordinance must be initiated in accordance with provisions of Tribal procedures for adopting Tribal laws and ordinances. The repeal and supporting documentation must be submitted in writing.</text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|14.0" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.04.250</num>
+      <heading>Severability</heading>
+      <text>In the event that any provision of this Ordinance shall be found or declared to be invalid, the remaining provisions of this ordinance shall be unaffected thereby, and shall remain in full force and effect.</text>
+      <annotations>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|15.0" type="History"/>
+      </annotations>
+    </section>
+    <container>
+      <prefix>APPENDIX</prefix>
+      <num>A</num>
+      <heading>LOW IMPACT PESTICIDES</heading>
+      <text>The following ingredients or types of pesticides are also considered low impact.</text>
+      <para>
+        <num>a.</num>
+        <text>Formulation Types - gels, pastes, or baits. Ant traps and insecticide gels are good examples of this class of low impact pesticides. Rodent baits also fit into this designation, although rodent baits should be rare.</text>
+      </para>
+      <para>
+        <num>b.</num>
+        <text>Antimicrobial products - pesticides used to kill microorganisms such as bacteria and fungus. Disinfectants, cleaners, mold and mildew removers all fall into this classification.</text>
+        <text>"Antimicrobial agents" means:</text>
+        <para>
+          <num>1.</num>
+          <text>Disinfectants intended to destroy or irreversibly inactivate infectious or other undesirable bacteria, pathogenic fungi, or viruses on surfaces or inanimate objects;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Sanitizers intended to reduce the number of living bacteria or viable virus particles on inanimate surfaces, in water, or in air;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Bacteriostats intended to inhibit the growth of bacteria in the presence of moisture;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Sterilizers intended to destroy viruses and all living bacteria, fungi, and their spores, on inanimate surfaces; or</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Fungicides and fungistats intended to inhibit the growth of, or destroy fungi (including yeasts) pathogenic to man or other animals on inanimate surfaces;</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>Commodity preservatives and protectants intended to inhibit the growth of, or destroy bacteria in or on raw materials (such as adhesives or plastics) used in manufacturing, or manufactured products (such as fuel, textiles, lubricants, and paints); or</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>General use algaecides labeled for use in:</text>
+          <para>
+            <num>i.</num>
+            <text>Swimming pools, hot tubs, whirlpools, spas, ornamental ponds, fountains, fish tanks, and waterbeds;</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>Water, wastewater and sewerage treatment plants, but only where there is a controlled inlet and outlet; and</text>
+          </para>
+          <para>
+            <num>iii.</num>
+            <text>Industrial, commercial, and manufacturing processes.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>c.</num>
+        <text>Specific Active Ingredients - Specific pesticide ingredients added to the low impact designation are:</text>
+        <para>
+          <num>1.</num>
+          <text>boric acid</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>disodium octoborate tetrahydrate</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>silica gel</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>diatomaceous earth</text>
+        </para>
+      </para>
+      <para>
+        <num>d.</num>
+        <text>Microbe based insecticides - the most common example of this would be bacillus thuringiensis or "Bt", a widely used microbe that is the ingredient in many home and garden products, mosquito larvicides, and gypsy moth control products.</text>
+      </para>
+      <para>
+        <num>e.</num>
+        <text>Botanical insecticides (not synthetic) - a common example of this would be pyrethrins, extracted from the chrysanthemum plant, or neem oil that is extracted from kernels of the neem plant. Synthetic versions of botanicals or those that contain chemical synergists to enhance the potency do not qualify as low impact.</text>
+      </para>
+      <para>
+        <num>f.</num>
+        <text>Biological, living control agents- a common example of this would be a pesticide that uses parasitic nematodes (a small worm-like organism) as its active ingredient. These nematodes are used to control a wide variety of insects. Beneficial insects would be another type of control agent that would fit into this category.</text>
+      </para>
+      <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|A" type="History"/>
+    </container>
+  </container>
 </container>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2014-02">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2014-02" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2014-02</num>
   <heading>Resolution of the Saint Regis Mohawk Tribe to Adopt the Code of Judicial Conduct</heading>
   <meta>
@@ -12,4 +12,296 @@
       <citation type="res" url="./adopted/2014-02.pdf">Res. No. 2014-02</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Saint Regis Mohawk Tribal Council (the "Tribal Council") is the duly recognized governing body of the Saint Regis Mohawk Tribe (the "Tribe") and is responsible for the health, safety, education and welfare of all community members; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council, on behalf of the Tribe, possesses inherent legislative authority to adopt policies, ordinances or regulations in the best interest of the Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>In TCR 2011-44, the Tribal Council adopted the Judicial Oversight Commission Ordinance and acknowledged that the adoption of a Code of Judicial Conduct was necessary for the effective functioning of the Judicial Oversight Commission; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Pursuant to Section X.3. of the Tribal Procedures Act, all the requirements necessary have been met for public review and comments by Tribal Members on the proposed legislation and Tribal Council now wishes to adopt the Code of Judicial Conduct; now, therefore, be it</text>
+    </recital>
+    <recital>
+      <conjunction>RESOLVED,</conjunction>
+      <text>That the Saint Regis Mohawk Tribal Council hereby adopts the Code of Judicial Conduct, as attached, to be implemented effective the date of this resolution.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>THE SAINT REGIS MOHAWK TRIBAL COUNCIL</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+          </tr>
+          <tr>
+            <td>Ron LaFrance Jr.</td>
+            <td class="text-indent-2">Paul O. Thompson</td>
+            <td class="text-indent-2">Beverly Cook</td>
+          </tr>
+          <tr>
+            <td>Tribal Chief</td>
+            <td class="text-indent-2">Tribal Chief</td>
+            <td class="text-indent-2">Tribal Chief</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text><strong>CERTIFICATION:</strong> This is to certify that the Saint Regis Mohawk Tribal Council pursuant to the authority vested therein duly passed the above resolution.</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>___________________________________</td>
+            <td class="text-indent-4">January 21, 2014</td>
+          </tr>
+          <tr>
+            <td>Corleen Jacco, Tribal Clerk</td>
+            <td class="text-indent-4">Date</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </procedural-data>
+  <attachment id="law">
+    <codified:at path="2.06"/>
+    <heading>Code of Judicial Conduct</heading>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.06.010"/>
+      <num codify:value="2.06.010">1</num>
+      <heading>Purpose</heading>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2014-02">The Code</code-cite> contains rules of high standards of conduct binding on the judges of the Saint Regis Mohawk Tribal Court so that the integrity and independence of the judiciary is preserved. <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2014-02">The Code</code-cite> is interpreted in accordance with applicable law and procedures and with consideration of relevant facts and circumstances.</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2014-02">The Code</code-cite> is enforced by the Judicial Oversight Commission of the Saint Regis Mohawk Tribe by appropriate disciplinary measures, if determined necessary by them, while safeguarding the right of judges to decide cases independently and promoting public confidence in the integrity and honor of the Saint Regis Mohawk Tribal Court system.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.06.020"/>
+      <num codify:value="2.06.020">2</num>
+      <heading>Definitions</heading>
+      <text>The following terms used as follows:</text>
+      <para>
+        <num>A.</num>
+        <text><u>"Economic Interest"</u> denotes ownership of more than a de minimis legal or equitable interest, or a relationship as officer, director, advisor or other active participant in the affairs of a party.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text><u>"Close Relationship"</u> denotes the children, parents, grandparents, aunts or uncles, siblings, nieces or nephews of the judge and their spouse, any other individual living in the home of the judge, and any other person which could be perceived as causing bias or prejudice against a party in a proceeding before the judge.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text><u>"De Minimis"</u> denotes an insignificant interest that could not raise reasonable questions as to a judge's impartiality.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text><u>"Judge"</u> is any judge of the Saint Regis Mohawk Tribe Court System, whether elected or appointed, full-time or per diem.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.06.030"/>
+      <num codify:value="2.06.030">3</num>
+      <heading>A Judge Shall Uphold the Integrity and Independence of the Judiciary</heading>
+      <text>A judge shall participate in establishing, maintaining and enforcing high standards of conduct, and shall observe those standards for the preservation of the integrity and independence of the judiciary.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.06.040"/>
+      <num codify:value="2.06.040">4</num>
+      <heading>A Judge Shall Avoid Impropriety and the Appearance of Impropriety in All of the Judge's Activities</heading>
+      <para>
+        <num>A.</num>
+        <text>A judge shall respect and comply with the law and shall act at all times in a manner that promotes public confidence in the integrity and impartiality of the judiciary.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A judge shall not allow family, social, political or other relationships to influence judicial conduct or judgment.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A judge shall not lend the prestige of judicial office to advance the private interests of the judge or others; nor shall a judge convey or permit others to convey the impression that they are in a special position to influence the judge. A judge shall not testify voluntarily as a character witness.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A judge shall not hold membership in any organization that practices invidious discrimination on the basis of age, race, creed, color, sex, sexual orientation, religion, national origin, disability or marital status. This provision does not prohibit a judge from holding membership in an organization that is dedicated to the preservation of religious, ethnic, cultural or other values of legitimate common interest to its members especially the Mohawk people.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>A judge shall not practice law in the court on which the judge serves.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>A judge full-time or part- time shall not hold a position as police officer.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>A judge either full-time or part-time may not act as mediator or arbitrator in any legal proceedings unless both parties consent.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>A judge shall not directly or indirectly solicit, accept or demand from any person or pay or offer to pay or agree to offer a gift, a reward, a commission, a kickback, a discount, a loan, repayment of a debt, a favor or any other advantage or consideration liable to compromise his impartiality, judgment or fairness.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.06.050"/>
+      <num codify:value="2.06.050">5</num>
+      <heading>A Judge Shall Perform the Duties of Judicial Office Impartially and Diligently</heading>
+      <para>
+        <num>A.</num>
+        <text>Judicial and adjudicative duties and responsibilities shall take precedence over all the judge's other activities.</text>
+        <para>
+          <num>1.</num>
+          <text>A judge shall uphold the law without influence by partisan interests, public clamor or fear of criticism and shall not manifest, by words or conduct, bias or prejudice based on age, race, creed, color, sex, sexual orientation, religion, national origin, disability, marital status or socioeconomic status.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>A judge shall require all litigants, jurors, witnesses, lawyers, court staff and officials to refrain from any bias or prejudice, by words or conduct, as described in the previous sub clause unless it is an issue in the proceedings.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>A judge shall require order and decorum in proceedings and shall be patient, dignified and courteous to litigants, jurors, witnesses, lawyers, court staff and officials.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>A judge shall promote development of judicial competence by exchange of knowledge and participation in courses and conferences.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>A judge shall accord to every person who has a legal interest in a proceeding, or that person's lawyer, the right to be heard according to law and shall not initiate, permit, or consider ex parte communications concerning a pending or impending proceeding, except:</text>
+          <para>
+            <num>(a)</num>
+            <text>For scheduling or administrative purposes which does not affect any rights of the litigants.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>For advice of a disinterested expert on the law applicable to a proceeding with notice to the parties and providing opportunity to respond to the advice.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>For direction to court personnel assisting the judge in the proceedings.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>With the consent of the parties, the judge may confer separately with the parties and their lawyers on certain matters.</text>
+          </para>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>A judge shall dispose of all judicial matters promptly, efficiently and fairly. As an example, this requires a judge to devote adequate time to judicial duties, to be punctual in attending court and expeditious in determining matters under submission, and to take reasonable measures to ensure that court officials, litigants and their lawyers cooperate with the judge to that end. Further, a judge should monitor and supervise eases in ways that reduce or eliminate dilatory practices, avoiding delays and unnecessary costs to the parties.</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>A judge shall not make any public comment or any commitments about a pending proceeding in the Saint Regis Mohawk Tribe's courts unless the judge is a litigant in a personal capacity or providing public information on their duties and procedures of the court and shall direct the court personnel to do same.</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>A judge shall not disclose or use, for any purpose unrelated to judicial duties, confidential information acquired in a judicial capacity.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Administrative Responsibilities:</text>
+        <para>
+          <num>1.</num>
+          <text>A judge shall diligently discharge the judge's administrative responsibilities without bias or prejudice and maintain professional competence in judicial administration, and should cooperate with other judges and court officials in the administration of court business.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>A judge shall direct court personnel to conduct themselves in a manner that promotes public confidence in the integrity and honor of the Saint Regis Mohawk Tribal Court system.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Disciplinary Responsibilities:</text>
+        <para>
+          <num>1.</num>
+          <text>A judge who receives information indicating a substantial likelihood that another judge has committed a substantial violation of tribal law shall take appropriate action.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>A judge who receives information indicating a substantial likelihood that a lawyer has committed a substantial violation of tribal law or the lawyer's applicable Code of Professional Responsibility shall take appropriate action.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Disqualification:</text>
+        <para>
+          <num>1.</num>
+          <text>A judge shall disqualify himself or herself in a proceeding in which the judge's impartiality might reasonably be questioned, including but not limited to instances where the judge has a personal bias or prejudice concerning a party or their lawyer or the judge has personal knowledge of disputed evidentiary facts or made public statements or comments or has an economic interest which could give rise to a personal bias or prejudice.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>A judge shall keep informed about the economic interests of anyone in the household of the judge which could give rise to a personal bias or prejudice or the appearance of impropriety.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>If there exists facts that may give rise to a personal bias or prejudice, or the appearance of impropriety, the judge must remove himself, and this shall be part of the court record.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.06.060"/>
+      <num codify:value="2.06.060">6</num>
+      <heading>A Judge's Extra-Judicial Activities Shall Not Conflict with Judicial Obligations</heading>
+      <para>
+        <num>A.</num>
+        <text>A judge shall conduct all extra-judicial activities including speaking, writing, lecturing and teaching to avoid: (i) casting reasonable doubt on the judge's capacity to act impartially (ii) detracting from the dignity of judicial office (iii) interference with judicial duties and (iv) incompatibility with judicial office.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A judge shall not serve in an organization as an officer, director, trustee or non-legal advisor or engage in financial and business dealings if it is likely that the organization or business will be engaged in proceedings that ordinarily would come before the judge.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A judge and any member of the household of the judge shall not accept a gift, bequest, favor or loan from anyone over $150 value and if the value exceeds $50 then it must be reported to the Judicial Oversight Commission who may direct that it be returned or donated to another worthy organization if it could be perceived as influencing the judge and in the interests of preserving of public confidence in the integrity and honor of the Saint Regis Mohawk Tribal Court system.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A judge may receive compensation and reimbursement of actual expenses for the extra-judicial activities if a reasonable amount for the activity and the experience of the judge.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>A judge shall report any compensation and reimbursement of expenses in excess of $150, and the name of the payor for the annual public report of the Saint Regis Mohawk Tribal Court.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Financial disclosure of a judge's income, debts, investments or other assets is required only to the extent provided in this Ordinance and as otherwise required by tribal law.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.06.070"/>
+      <num codify:value="2.06.070">7</num>
+      <heading>A Judge Shall Refrain from Inappropriate Political Activity</heading>
+      <para>
+        <num>A.</num>
+        <text>Judges shall not directly or indirectly engage in any Saint Regis Mohawk Tribe political activity except (i) as otherwise authorized by tribal law, (ii) to vote and to identify as a member of a political party, and (iii) on behalf of measures to improve the law, the legal system or the administration of justice.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Judges cannot hold an elective position on the Council of the Saint Regis Mohawk Tribe.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Judges, except for their own political campaign for judicial office, cannot contribute to any other political campaign in excess of $500 including the purchase of tickets for campaign functions and cannot solicit funds or sell or promote tickets to campaign functions.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.06.080"/>
+      <num codify:value="2.06.080">8</num>
+      <heading>Amendment</heading>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2014-02">This Act</code-cite> may be amended by the Tribal Council.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.06.090"/>
+      <num codify:value="2.06.090">9</num>
+      <heading>Severability</heading>
+      <text>If any word, clause, phrase, sentence, subsection, section, or other provision of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2014-02">this Code</code-cite> is held invalid by a court of competent jurisdiction, the invalidity shall not affect any other provisions or applications of this law that can be given effect without the invalid provision.</text>
+    </section>
+  </attachment>
 </document>

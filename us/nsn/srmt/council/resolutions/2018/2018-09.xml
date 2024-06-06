@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2018-09">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2018-09" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2018-09</num>
   <heading>To Amend the Saint Regis Mohawk Tribal Traffic Law</heading>
   <meta>
@@ -12,4 +12,521 @@
       <citation type="res" url="./adopted/2018-09.pdf">Res. No. 2018-09</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Saint Regis Mohawk Tribal Council (the "Tribal" Council") is the duly recognized governing body of the Saint Regis Mohawk Tribe (the "Tribe") and is responsible for the health, safety, education and welfare of all community members; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in TCR 2000-109, the Tribal Council adopted the Saint Mohawk Tribal Traffic Law of 2000 (the "Traffic Law") for the purpose of regulating vehicle traffic on and through the Saint Regis Mohawk Indian Reservation to protect the health, safety, and welfare of both the members of the Tribe and the general public passing through the territory of the Saint Regis Mohawk Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in TCR 2001-25, TCR 2004-81, TCR 2010-40 and TCR 2012-15 the Tribal Council made various amendments to the Traffic Law; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in TCR 2002-188 Tribal Council enacted an ATV Ordinance; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Council now wishes to further amend the Saint Regis Mohawk Tribal Traffic Law, as annexed hereto and rescind its ATV Ordinance since the regulation of off-road vehicles is now encompassed in the Traffic Law.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE, BE IT RESOLVED:</conjunction>
+      <text/>
+      <para>
+        <num>1.</num>
+        <text>The Saint Regis Mohawk Tribal Council hereby adopts the amended Saint Regis Mohawk Tribal Traffic Law, as attached hereto, and rescinds its ATV Ordinance; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Tribal Traffic Law, as amended, is effective upon the date of this resolution.</text>
+      </para>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>THE SAINT REGIS MOHAWK TRIBAL COUNCIL</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+          </tr>
+          <tr>
+            <td>Eric Thompson</td>
+            <td class="text-indent-2">Beverly Cook</td>
+            <td class="text-indent-2">Michael Conners</td>
+          </tr>
+          <tr>
+            <td>Tribal Chief</td>
+            <td class="text-indent-2">Tribal Chief</td>
+            <td class="text-indent-2">Tribal Chief</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text><strong>CERTIFICATION:</strong> This is to certify that the Saint Regis Mohawk Tribal Council pursuant to the authority vested therein duly passed the above resolution.</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>___________________________________</td>
+            <td class="text-indent-4">March 9, 2018</td>
+          </tr>
+          <tr>
+            <td>Betty Roundpoint, Tribal Clerk</td>
+            <td class="text-indent-4">Date</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </procedural-data>
+  <attachment id="law">
+    <codified:at path="3.01"/>
+    <heading>AN ACT RELATING TO THE REGULATION OF VEHICLE AND TRAFFIC ON AND THROUGH THE SAINT REGIS MOHAWK INDIAN RESERVATION</heading>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.01.010"/>
+      <num codify:value="3.01.010">I</num>
+      <heading>Purpose</heading>
+      <text>The purpose of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite> is to regulate vehicle traffic on and through the Saint Regis Mohawk Indian Reservation to protect the health, safety, and welfare of both the members of the Saint Regis Mohawk Tribe ("Tribe") and the general public passing through the territory of the Saint Regis Mohawk Tribe.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.01.020"/>
+      <num codify:value="3.01.020">II</num>
+      <heading>Definitions</heading>
+      <text>There are no words or phrases in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite> that require further elaboration except for the following:</text>
+      <para>
+        <num>1.</num>
+        <text>Abandoned Vehicle: A vehicle left unattended, on private or public property, for an unreasonable length of time, and which, after being reported to the Saint Regis Mohawk Tribal Police ("SRMTP") and after diligent inquiry it is determined the vehicle:</text>
+        <para>
+          <num>(a)</num>
+          <text>is not stolen; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>is not registered.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Motor Vehicle: any vehicle propelled by the use of an internal combustible engine, electricity or motor vehicle fuel.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Official Traffic-Control Devices: all signs, signals, markings and devices placed or erected by authority of a public body or official with the responsibility to regulate, warn or guide traffic.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Off-road vehicle or ORV: any motor vehicle designed for or capable of travel off of paved roads and/or over natural terrain, including dirt roads and trails, water, sand, snow, ice, marsh and swampland, and includes but is not limited to dirt motorcycles, motocross motorcycles, dual sport motorcycles, snowmobiles and all-terrain vehicles including utility task vehicles (UTVs) or also known as side-by-side vehicles (regardless of number of wheels).</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Saint Regis Mohawk Indian Reservation: includes both the Saint Regis Mohawk Reservation ("Reservation") as established by the 1796 Treaty with the Seven Nations of Canada, 7 Stat. 55 and any other lands over which the Tribe exercises jurisdiction now or in the future.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.01.030"/>
+      <num codify:value="3.01.030">III</num>
+      <heading>Offenses</heading>
+      <text>The following acts engaged in by an operator of a motor vehicle shall constitute a violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite>:</text>
+      <para>
+        <num>1.</num>
+        <text>
+          <u>FAILURE TO OBEY A TRAFFIC CONTROL DEVICE</u>
+        </text>
+        <text>It shall be a violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite> for the operator of a motor vehicle to fail to operate his/her vehicle in accordance with a traffic control device, a posted traffic control sign, within designated and discernable highway markings, or any other traffic control mechanism.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>
+          <u>FAILURE TO USE OR WEAR SEATBELT OR APPROVED CHILD RESTRAINT DEVICE</u>
+        </text>
+        <text>It shall be a violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite> for the operator of a motor vehicle to operate the vehicle without himself or herself and all passengers in the vehicle being secured by appropriate seatbelts, shoulder harnesses or approved child safety restraint systems for children until they reach the age of four (4). No person shall operate a motor vehicle unless all children between the ages of (4) and eight (8) years of age or measuring four feet nine inches (4'9") or less and weighing less than eighty (80) pounds are restrained in a booster seat or other appropriate child safety device that meets applicable Federal Motor Vehicle Safety Standards. Booster seats must be used appropriately with either the latch system or combination lap and shoulder safety belt.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>
+          <u>DISTRACTED DRIVING</u>
+        </text>
+        <text>It shall be a violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite> for the operator of a motor vehicle to operate his/her vehicle while talking on a mobile device including a cellular phone except he/she can talk using a hands-free device. It shall also be a violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite> for an operator of a motor vehicle to text while driving.</text>
+        <text>Upon a finding by the Saint Regis Mohawk Tribal Court, Traffic Court Division, that an operator violated either <code-cite path="§III|1." doc="Saint Regis Mohawk Tribe Res. No. 2018-09">Section III (1)</code-cite>, <code-cite path="§III|2." doc="Saint Regis Mohawk Tribe Res. No. 2018-09">Section III (2)</code-cite> or <code-cite path="§III|3." doc="Saint Regis Mohawk Tribe Res. No. 2018-09">Section III (3)</code-cite> herein, the operator of the motor vehicle shall pay a judgment of at least fifty dollars ($50.00) but shall not be subject to judgment in excess of two hundred fifty dollars ($250.00).</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>
+          <u>PARKING</u>
+        </text>
+        <para>
+          <num>(a)</num>
+          <text>It shall be a violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite> for the operator of a motor vehicle to remain stationary in a manner which obstructs, hinders, impedes or blocks the following:</text>
+          <para>
+            <num>i.</num>
+            <text>Within ten (10) feet of any fire hydrant;</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>Within the travel portion of any highway, roadway, alleyway or parking garage/area which creates a hazard or obstructs free movement of traffic thereon (unless a vehicle has become disabled to such an extent that it is impossible or impracticable to remove without assistance, therefore allowing a reasonable time for arrangements);</text>
+          </para>
+          <para>
+            <num>iii.</num>
+            <text>In a location designated and posted as no parking or no standing;</text>
+          </para>
+          <para>
+            <num>iv.</num>
+            <text>In a location designated for handicap parking only, in which a permit is required and visible upon said vehicle; and</text>
+          </para>
+          <para>
+            <num>v.</num>
+            <text>In a location designated as parking for elders, expecting mothers, medical doctors or as otherwise designated.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Nothing in <code-cite path="§III" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Section</code-cite> will be construed to apply to emergency vehicles and to maintenance vehicles displaying flashing lights or to prohibit a vehicle from stopping or being held stationary by any officer in an emergency to avoid accidents or to give a right-of-way to any vehicle or pedestrian.</text>
+        </para>
+        <text>Upon a finding by the Saint Regis Mohawk Tribal Court, Traffic Court Division, that an operator violated either of the above provisions, the operator of the vehicle shall pay a judgment of at least twenty-five dollars ($25.00) but shall not be subject to judgment in excess of two hundred fifty dollars ($250.00).</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>
+          <u>OPERATIONAL OFFENSE</u>
+        </text>
+        <para>
+          <num>(a)</num>
+          <text><u>Careless/Reckless/Negligent Driving</u>. It shall be a violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite> for any operator of a motor vehicle to (i) operate his/her vehicle in a careless, reckless, or negligent manner such that the operation poses a risk to other operators of a motor vehicle, or to pedestrian(s) or to passenger(s) in a motor vehicle; (ii) or that the operator's operation of a motor vehicle in any way causes an accident; (iii) or that the operator's operation of a motor vehicle impedes traffic; or (iv) the operator's operation of a motor vehicle in any way impeded the enforcement of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><u>Valid License</u>. Any operator of a motor vehicle within the external boundaries of the Reservation shall have a valid driver's license from a sovereign entity that the Tribe recognizes.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><u>Driving within class</u>. Whenever a license is required to operate a motor vehicle, no person shall operate a motor vehicle unless he/she is the holder of a class of license from a sovereign entity that the Tribe recognizes which is (i) valid for the operation of such vehicle; or (ii) the operation of the motor vehicle does not violate any restriction contained on, or applicable to, the applicable permit or license; or (iii) no person shall knowingly authorize or permit a motor vehicle owned by him/her to be operated in violation of the conditions therein.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text><u>Valid Insurance</u>. Any owner of a motor vehicle that is being operated shall have valid insurance on such vehicle during its operation and any operator of a motor vehicle should ensure that a motor vehicle has valid insurance while he/she is operating it.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text><u>Signals</u>. Any operator of a motor vehicle within the external boundaries of the Reservation shall not turn a vehicle or turn a motor vehicle to enter a private road or driveway, or otherwise turn a vehicle from a direct course or move right or left upon a roadway unless and until such movement can be made with reasonable safety. No person shall turn any motor vehicle without giving an appropriate signal of intention to turn right or left during not less than the last one hundred feet traveled by the motor vehicle before turning.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text><u>Littering</u>. No operator of a motor vehicle shall throw, dump, deposit or place, or cause to be thrown, dumped, deposited or placed upon any public roadway, or within the limits of the right of way of such roadway, or upon private lands adjacent thereto, any refuse, trash, garbage, rubbish, litter or any nauseous or offensive matter nor shall the operator of a motor vehicle permit anyone within his/her vehicle to do the same.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text><u>No driving on shoulder</u>. Except for bicycles and those classes of vehicles required to travel on shoulders, no motor vehicle shall be driven over, across, along, or within any shoulder of any state controlled-access highway except at a location specifically authorized and posted by the Tribe. The foregoing limitation shall not prevent motor vehicles from using shoulders when directed by police officers, flag persons or other emergency responders.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text><u>Passing on Right</u>. The driver of a vehicle may overtake and pass upon the right of another vehicle only under the following conditions: (i) When the vehicle overtaken is making or about to make a left turn; or (ii) Upon a street or highway with unobstructed pavement not occupied by parked vehicles of sufficient width for two or more lines of moving vehicles in each direction. The passing on the right shall not be made by driving off the pavement or main-traveled portion of the roadway, except as permitted in III (5) (g) above.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text><u>Uninspected motor vehicle</u>. No motor vehicle shall be operated or parked on the public highways of the Reservation unless a current certificate of inspection as required from the foreign jurisdiction in which the motor vehicle is registered is displayed upon the vehicle or affixed to the registration certificate for the vehicle.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text><u>Failure to yield right of way</u>. (i) The driver of a vehicle approaching an intersection shall yield the right of way to a vehicle which has entered the intersection from a different highway; (ii) When two vehicles enter an intersection from different highways at approximately the same time the driver of the vehicle on the left shall yield the right of way to the vehicle on the right; (iii) The driver of a vehicle intending to turn to the left within an intersection or into an alley, private road, or driveway shall yield the right of way to any vehicle approaching from the opposite direction which is within the intersection or so close as to constitute an immediate hazard; and (iv) The driver of a vehicle about to enter or cross a roadway from any place other than another roadway shall yield the right of way to all vehicles approaching on the roadway to be entered or crossed.</text>
+        </para>
+        <text>Upon a finding by the Saint Regis Mohawk Tribal Court, Traffic Court Division, that an operator of a motor vehicle violated any of the above provisions, the operator or owner, as applicable, of the motor vehicle shall pay a judgment of at least fifty dollars ($50.00) but shall not be subject to a judgment in excess of one thousand dollars ($1,000.00).</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>
+          <u>FAILURE TO PROPERLY EQUIP A MOTOR VEHICLE</u>
+        </text>
+        <text>It shall be a violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite> for an operator of a motor vehicle to operate a vehicle that is unsafe or improperly equipped. A vehicle is unsafe or improperly equipped when its operation poses any risk to the health, safety, and welfare of the members of the Tribe residing on the Reservation, or to members of the general public operating vehicles within the external boundaries of the Reservation.</text>
+        <text>At a minimum a motor vehicle must have working headlights, tail lamps, wipers, muffler, exhaust system, driver side mirror, windshield, and horn.</text>
+        <text>Upon a finding by the Saint Regis Mohawk Tribal Court, Traffic Court Division, that an operator violated this provision, the operator of the vehicle shall pay a judgment of at least twenty-five dollars ($25.00) but shall not be subject to judgment in excess of one hundred dollars ($100.00).</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>
+          <u>BUSES AND EMERGENCY VEHICLES</u>
+        </text>
+        <para>
+          <num>(a)</num>
+          <text><u>School bus safety</u>. The driver of a vehicle upon a public highway, street or private road upon meeting or overtaking from either direction any school bus marked and equipped with flashing lights which has stopped on the public highway, street or private road for the purpose of receiving or discharging any passengers, or which has stopped because a school bus in front of it has stopped to receive or discharge any passengers, shall stop the vehicle before reaching such school bus when there is in operation on said school bus a red visual signal and said driver shall not proceed until such school bus resumes motion, or until signaled by the driver or a Tribal police officer to proceed. For the purposes of <code-cite path="§IV" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this section</code-cite> the term "public highway" shall mean any area used for the parking of motor vehicles or used as a driveway located on the grounds of any area used as a means of access to and egress from such school or facility.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><u>Emergency Vehicles</u>. Upon the immediate approach of an authorized emergency vehicle equipped with at least one lighted flashing red light visible under normal conditions from a distance of five hundred (500') feet to the front of such vehicle and when audible signals are sounded from any said vehicle by siren, exhaust, whistle, bell, air-horn or electronic equivalent; the driver of every other vehicle shall yield the right of way and shall immediately drive to a position parallel to, and as close as possible to the right-hand edge or curb of the roadway or clear of any intersection, and shall stop and remain in such position until the authorized emergency vehicle has passed, unless otherwise directed by a police officer. <code-cite path="§IV" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">This section</code-cite> shall not relieve the driver of an authorized emergency vehicle from the duty to drive with reasonable care for all persons using the highway.</text>
+        </para>
+        <text>Upon a finding by the Saint Regis Mohawk Tribal Court, Traffic Court Division, that an operator violated this provision, the operator of the motor vehicle shall pay a judgment of at least fifty dollars ($50.00) but shall not be subject to judgment in excess of one thousand dollars ($1,000.00).</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>
+          <u>LIABILITY OF OWNER, OPERATOR, OR LESSEE</u>
+        </text>
+        <para>
+          <num>(a)</num>
+          <text>The owner, operator or lessee of any motor vehicle may be prosecuted jointly or individually for violating any provision of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Whenever a violation occurs or is observed, proof of the registration number of any motor vehicle therein concerned shall be prima facie evidence in any action or in any action based on an infraction that the owner was the operator thereof, except in the case of a leased or rented motor vehicle. For leased vehicles proof of registration shall be prima facie evidence in any action that the lessee was the operator thereof.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><u>Rights of other drivers</u>. Furthermore, nothing contained within <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite> shall be so construed as to prevent any person or entity from petitioning the Saint Regis Mohawk Tribal Court, Traffic Court Division or Tribal Court against an operator, owner, or lessee of a motor vehicle or ORV for damages caused by the negligent or illegal operation of a motor vehicle.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.01.040"/>
+      <num codify:value="3.01.040">IV</num>
+      <heading>Off-Road Vehicles</heading>
+      <para>
+        <num>1.</num>
+        <text><u>Usage</u>. The operation and operator of an ORV shall be based upon the manufacturer's recommendation.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text><u>Who must register</u>. ORVs, regardless of purpose, may be operated on the Saint Regis Mohawk Reservation only if the ORV has been registered with the Saint Regis Mohawk Tribe's Compliance Department as outlined herein or if it has been registered and insured with a recognized sovereign government that the Tribe recognizes.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>
+          <u>Registration</u>
+        </text>
+        <para>
+          <num>(a)</num>
+          <text>Every ORV operated on the Saint Regis Mohawk Reservation except as stated in <code-cite path="§IV|2." doc="Saint Regis Mohawk Tribe Res. No. 2018-09">Section IV(2)</code-cite> shall have affixed to it a valid, unexpired ORV sticker obtained from the Tribe's Compliance Department. The sticker indicates the ORV has been registered with the Tribe.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>ORV stickers are effective for an initial period of three (3) years and must be renewed at the end of every three-year period. Each registration shall cost sixty ($60.00) dollars for a three-year period. This fee may be amended from time to time.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Applications for registration shall contain the following:</text>
+          <para>
+            <num>i.</num>
+            <text>Applicant's name, age, mailing address and phone number.</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>Applicant's driver's license number, if applicable.</text>
+          </para>
+          <para>
+            <num>iii.</num>
+            <text>Type, size and model of the vehicle to which sticker will be affixed.</text>
+          </para>
+          <para>
+            <num>iv.</num>
+            <text>Proof of insurance including liability insurance.</text>
+          </para>
+          <para>
+            <num>v.</num>
+            <text>A statement the applicant will operate the vehicle in a safe and responsible manner and according to Tribal law.</text>
+          </para>
+          <para>
+            <num>vi.</num>
+            <text>Proof of attending a safety course at a Tribally-approved safety course.</text>
+          </para>
+          <para>
+            <num>vii.</num>
+            <text>A statement the applicant consents to the jurisdiction of the Saint Regis Mohawk Tribal Court including the Saint Regis Mohawk Tribal Court, Traffic Court Division for controversies arising from or related to the use of the ORV on the Saint Regis Mohawk Reservation.</text>
+          </para>
+          <para>
+            <num>viii.</num>
+            <text>Applicant's signature.</text>
+          </para>
+          <para>
+            <num>ix.</num>
+            <text>Sticker/Registration number, which Compliance shall issue.</text>
+          </para>
+          <para>
+            <num>x.</num>
+            <text>Name of Applicant's spouse and/or children, but only if they will operate the ORV and only for children who are above the manufacturer's recommended age for operating the ORV.</text>
+          </para>
+          <para>
+            <num>xi.</num>
+            <text>The Compliance Department shall keep a record of all registration applications and of the stickers it issues.</text>
+          </para>
+          <para>
+            <num>xii.</num>
+            <text>ORV stickers are not transferable between vehicles or persons.</text>
+          </para>
+          <para>
+            <num>xiii.</num>
+            <text>The Compliance Department has discretion to refuse to issue a sticker if the applicant fails to pay the required fee or has an outstanding fine/judgment payable to the Saint Regis Tribal Court or ineligible to operate the ORV on the Reservation.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>4.</num>
+        <text><u>Where use is permitted</u>.</text>
+        <para>
+          <num>(a)</num>
+          <text>ORVs are not to be operated on a state highway including any shoulder except that a state highway may be crossed or an operator may travel up to one thousand (1000') feet on it; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>ORVS can be utilized on private property with the permission of the property owner; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>ORVS can be utilized on Tribal property unless marked otherwise.</text>
+        </para>
+      </para>
+      <para>
+        <num>5.</num>
+        <text><u>Limit on Liability</u>. Operating an ORV is a dangerous activity that may result in personal injury and damage to personal property. Use of an ORV on Tribal property is performed at the user's own personal risk. The SRMT is not obligated to make Tribal property safe or to warn users of potential hazards. The Tribe is not liable for damages to persons or property that are caused by or which arise out of the operation of ORVs on Tribal property.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text><u>Enforcement</u>. An operator of an ORV shall stop upon the signal of the SRMT Police or when operating on private property upon the signal of the property owner or occupier.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text><u>Equipment and Use</u>.</text>
+        <para>
+          <num>(a)</num>
+          <text>ORVS shall have brakes, mufflers and spark arrestors; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Operators and passengers of ORVS shall each wear helmets; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>ORVs shall be operated in a manner that is reasonable and prudent in light of existing conditions; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>No person shall operate an ORV while under the influence of alcohol or drugs.</text>
+        </para>
+      </para>
+      <para>
+        <num>8.</num>
+        <text><u>Violations</u>.</text>
+        <para>
+          <num>(a)</num>
+          <text>Upon a finding by the Saint Regis Mohawk Tribal Court, Traffic Court Division that an operator violated any provision contained herein in <code-cite path="§IV" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">Section IV</code-cite>, he/she shall pay a judgment of at least fifty dollars ($50.00) but shall not be subject to judgment in excess of five hundred dollars ($500.00).</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any owner or operator who receives three (3) or more infractions within a two-year period for violating any provision contained in <code-cite path="§IV" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">Section IV</code-cite> shall have his/her ORV registration revoked and shall not be eligible to operate any ORV on the Reservation including any permitted roadways, Tribal property or private property for two years from the date of revocation.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.01.050"/>
+      <num codify:value="3.01.050">V</num>
+      <heading>Procedure</heading>
+      <para>
+        <num>1.</num>
+        <text><u>Authorized Enforcement Agency</u>. The SRMTP is the only entity authorized to stop a motor vehicle or an ORV for a violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite>.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text><u>Procedure upon stoppage of any vehicle including an ORV</u>. Any operator of a motor vehicle or ORV stopped for violating <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite> must first be advised of the grounds for which he/she was stopped, and after being so advised the operator of the vehicle will be served a Civil Traffic Summons. The summons shall be in the form prescribed by the Saint Regis Mohawk Tribal Police Commission. The summons must contain at a minimum, sufficient detail to advise the operator of the motor vehicle including an ORV the exact provision of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite> which was violated, the date of the offense, the location of the offense, and an exact time and date in which the person may appear at the Saint Regis Mohawk Tribal Court, Traffic Court Division.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>
+          <u>REPEALED</u>
+        </text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text><u>Hearing upon the filing of a summons</u>. The Saint Regis Mohawk Tribal Court, Traffic Court Division shall be the sole arbiter of each summons and complaint filed or issued under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite>.</text>
+        <text>Nothing in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite>, however, should be construed as preventing an operator of a motor vehicle or ORV, upon whom a summons has been issued, from advising the Saint Regis Mohawk Tribal Court, Traffic Court Division of his/her intent to waive the opportunity to make a presentation to the Traffic Court Judge, and consent to the Traffic Court Judge to set the amount of judgment to be paid by the operator of a motor vehicle or ORV. If an operator fails to appear on the return date in the summons or submit a guilty plea then the Court shall send a reminder notice to the operator of another scheduled appearance to answer the summons. If such operator still fails to contact the Court then the Court shall set a judgment and the operator shall be notified by mail of the imposed fine.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.01.060"/>
+      <num codify:value="3.01.060">VI</num>
+      <heading>Saint Regis Mohawk Tribal Court, Traffic Court Division</heading>
+      <text>The Saint Regis Mohawk Tribal Court, Traffic Court Division shall be comprised of two (2) members of the Saint Regis Mohawk Tribe who shall sit as Traffic Court Judge.</text>
+      <para>
+        <num>1.</num>
+        <text><u>Initial composition (effective 2000 to July 2003)</u>. The initial arbiters on the Saint Regis Mohawk Tribal Court, Traffic Court Division shall be appointed to the position upon majority vote of the Saint Regis Mohawk Tribal Council. Said arbiters shall serve until July 2003, at which time the positions shall be posted for election at the annual June election of the Tribe, and said positions shall be voted upon by members of the Saint Regis Mohawk Tribe. Removal of either of the appointed Traffic Court Judges of the Saint Regis Mohawk Tribal Court, Traffic Court Division can only be done by unanimous consent of the elected Tribal Chiefs and Sub-Chiefs of the Saint Regis Mohawk Tribal Council.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text><u>Composition (effective July 2003)</u>. There shall be elected from the membership of the Saint Regis Mohawk Tribe two persons to serve as Traffic Court Judges of the Saint Regis Mohawk Tribal Court, Traffic Court Division. Each shall serve a term of three years. Eligibility to hold this position, and removal from office, shall be made pursuant to the established rules, ordinances, resolutions, and customs of the Saint Regis Mohawk Tribe for the election of Tribal officials.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text><u>Compensation</u>. Persons elected to this position shall be entitled to monetary compensation set by the Saint Regis Mohawk Tribal Council or its designee.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text><u>Hearings</u>:</text>
+        <para>
+          <num>(a)</num>
+          <text><u>Order of presentation</u>. After the Traffic Court Judge administers an oath, the SRMT Police and/or complainant shall be the first to address the Saint Regis Mohawk Tribal Court, Traffic Court Division. SRMT Police and/or complainant shall describe and/or provide documentary proof to the Traffic Court Judge of the alleged violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite> engaged in by the operator of a motor vehicle or ORV. Upon finishing this presentation, the operator of a motor vehicle or ORV shall then be given the opportunity to rebut the proof presented or the conduct alleged to have been engaged in the summons, and the presentation made by the complainant.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><u>Burden of Proof</u>. After the SRMT Police has made its presentation based upon the summons and met its burden of proof based upon clear and convincing evidence, the burden shall shift to the operator of the motor vehicle or ORV to rebut the presentation.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><u>Evidentiary issues</u>. The Traffic Court Judge is free to accept or deny the presentation of any material or testimony presented to the Saint Regis Mohawk Tribal Court, Traffic Court Division.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text><u>Decision Making</u>. The Traffic Court Judge shall make a finding after an adequate period of time to review all the material before him or her and based upon testimony given to him or her. The Traffic Court Judge shall then make a determination either written or orally to the parties.</text>
+          <para>
+            <num>i.</num>
+            <text>Determination in favor of Complainant and/or SRMT Police</text>
+            <text>After making a finding in favor of the Complainant and/or the SRMT Police, the Saint Regis Mohawk Tribal Court, Traffic Court Division shall assess a monetary judgment against the operator of the motor vehicle or ORV within the parameters provided for in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite>. The operator of a motor vehicle or ORV shall then have the opportunity to appeal the decision to the Saint Regis Mohawk Tribal Court of Appeals pursuant to the Tribal Rules of Appellate Civil Procedure.</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>Determination in favor of the operator</text>
+            <text>After making a finding in favor of the operator of the motor vehicle or ORV, the Traffic Court Judge shall so advise the operator and thank the operator for appearing before the Saint Regis Mohawk Tribal Court, Traffic Court Division. The SRMT Police and/or complainant has no right to appeal this decision.</text>
+          </para>
+          <para>
+            <num>iii.</num>
+            <text>Dismissal determination</text>
+            <text>The Traffic Court Judge, upon grounds which he or she must include in written form and make part of the record, may dismiss a summons and complaint. Either party may appeal this determination.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text><u>Issuance of Determination of Judgment</u>. The Traffic Court Judge after making his/her determination, shall cause to be provided to the operator of the motor vehicle or ORV and complainant a written copy, or if done orally, a spoken directive, of the Court's finding. If the finding is against the operator, and requires the payment of a fine to satisfy the judgment, the Saint Regis Mohawk Tribal Court, Traffic Court Division shall advise the operator of the motor vehicle or ORV of the fine and associated court fee as amended from time to time and the means upon which to satisfy the judgment.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text><u>Satisfaction of Judgment</u>. When a fine is issued against the operator of a motor vehicle or ORV, he or she shall pay that judgment amount to the Saint Regis Mohawk Tribal Court, Traffic Court Division.</text>
+          <para>
+            <num>i.</num>
+            <text>Upon receiving monies, the Saint Regis Mohawk Tribal Court, Traffic Court Division shall cause to be delivered to the operator a receipt acknowledging receipt of the monies. It also shall clearly indicate if any balance is due and owing. Upon full payment of the judgment, the Saint Regis Mohawk Tribal Court, Traffic Court Division shall issue a Satisfaction of Judgment Statement signed by a Traffic Court Judge.</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>When the Saint Regis Mohawk Tribal Court, Traffic Court Division receives a monetary payment that is not cash, such payment shall be subject to the Tribe's General Finance Policy <code-cite path="§II|3." doc="Saint Regis Mohawk Tribe Res. No. 2018-09">Section II.3.</code-cite> Check (Deposited) Returned for Non-Sufficient- Funds as amended from time to time.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text><u>Failure to satisfy judgments</u>. Should an operator of a motor vehicle or ORV fail to satisfy in a timely manner a judgment from the Saint Regis Mohawk Tribal Court, Traffic Court Division, Tribal Court shall by written notice notify the operator of the motor vehicle or ORV of the outstanding judgment and the consequences of not paying it.</text>
+          <para>
+            <num>i.</num>
+            <text>The SRMT Court shall promulgate its own rules and procedures that the SRMT Tribal Council shall approve when a judgment debtor fails to remit payment in a timely manner. Tribal Court may establish an Amnesty Day for judgment debtors to pay outstanding judgments. Any such procedure shall be approved by Tribal Council.</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>After the Court has exhausted all of its remedies and more than six (6) months has passed since a payment was received, the Court for any tickets issued on or after January 1, 2017, may transfer that judgment debtor's name to the SRMT Tribal Council or its designee who may issue a reminder notice to the judgment debtor and follow the Tribe's procedures regarding the Tribe's Good Standing Policy.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text><u>Alternative Civil Judgment and/or Sentencing</u>. After the Saint Regis Mohawk Tribal Court, Traffic Court Division has made a finding against an operator of a motor vehicle, the complainant and/or the SRMT Police or the operator may make a request for an alternative sentence of Community Service. When such request is made the Saint Regis Mohawk Tribal Court, Traffic Court Division shall make a factual determination on the record whether such alternative is appropriate. If such alternative is found appropriate, then any fine imposed shall be suspended and an appropriate alternative sentence of Community Service may be imposed and monitored by the Court. Such Community Service cannot be ordered or served for any Tribal program/department where a background check or fingerprinting is required. Written evidence of successful completion of an alternative sentence shall be required and upon receipt, the judgment of the Saint Regis Mohawk Tribal Court, Traffic Court Division shall be deemed satisfied.</text>
+        </para>
+      </para>
+    </section>
+  </attachment>
 </document>

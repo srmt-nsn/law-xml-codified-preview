@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2016-88">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2016-88" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2016-88</num>
   <heading>Resolution of the Saint Regis Mohawk Tribe to Amend the Room Occupancy Fee Ordinance</heading>
   <meta>
     <stub/>
-    <effective>2016-11-30</effective>
+    <effective>2017-01-01</effective>
     <history>
       <adopted>2016-11-30</adopted>
     </history>
@@ -12,4 +12,377 @@
       <citation type="res" url="./adopted/2016-88.pdf">Res. No. 2016-88</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Saint Regis Mohawk Tribal Council (the "Tribal Council") is the duly recognized governing body of the Saint Regis Mohawk Tribe (the "Tribe") and is responsible for the health, safety, education and welfare of all community members; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Council, on behalf of the Tribe, possesses inherent legislative authority to adopt policies, ordinances or regulations in the best interest of the Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on August 7, 2013, the Saint Regis Mohawk Tribal Council enacted the Room Occupancy Fee Ordinance (TCR 2013-41) imposing a Room Occupancy Fee for facilities that offer accommodations within the jurisdiction of the Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Council desires to amend the Ordinance to further clarify the use of the Occupancy Fee in the Ordinance and the Tribe's allocation of revenue from said Ordinance; now, therefore be it</text>
+    </recital>
+    <recital>
+      <conjunction>RESOLVED,</conjunction>
+      <text>that the Saint Regis Mohawk Tribal Council hereby amends the Room Occupancy Fee Ordinance, as attached, to change the section titled "Use of Occupancy Fees" section in the Ordinance to read as follows: "The Occupancy Fees will be utilized to assist in the education and recreation of the membership of the Tribe and in tourism", and except as herein modified, TCR 2013-41 remains intact; and be it finally</text>
+    </recital>
+    <recital>
+      <conjunction>RESOLVED,</conjunction>
+      <text>that the Amendment will be implemented effective January 1, 2017.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>THE SAINT REGIS MOHAWK TRIBAL COUNCIL</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+          </tr>
+          <tr>
+            <td>Ron LaFrance Jr.</td>
+            <td class="text-indent-2">Eric Thompson</td>
+            <td class="text-indent-2">Beverly Cook</td>
+          </tr>
+          <tr>
+            <td>Tribal Chief</td>
+            <td class="text-indent-2">Tribal Chief</td>
+            <td class="text-indent-2">Tribal Chief</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text><strong>CERTIFICATION:</strong> This is to certify that the Saint Regis Mohawk Tribal Council pursuant to the authority vested therein duly passed the above resolution.</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>___________________________________</td>
+            <td class="text-indent-4">November 30, 2016</td>
+          </tr>
+          <tr>
+            <td>Betty Roundpoint, Tribal Clerk</td>
+            <td class="text-indent-4">Date</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </procedural-data>
+  <attachment id="law">
+    <codified:at path="7.03"/>
+    <heading>Saint Regis Mohawk Tribe Room Occupancy Fee Ordinance</heading>
+    <container>
+      <heading>Forward</heading>
+      <text>The requirements for occupancy permits, the distribution of permits, reporting requirements, remittance of occupancy fees and other obligations is set forth below.</text>
+      <text>Facilities that offer accommodations within the jurisdiction of the Saint Regis Mohawk Tribe (SRMT) must comply with all SRMT adopted Fire Safety and Building Codes regulations and apply a room occupancy fee for each occupied room per day.</text>
+      <text>The rules and regulations set forth below applies to the occupancy of any room at any Hotel or Motel located within the jurisdiction of the SRMT.</text>
+    </container>
+    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.03.010">
+      <section>
+        <num>7.03.010</num>
+        <heading>Forward</heading>
+        <text>The requirements for occupancy permits, the distribution of permits, reporting requirements, remittance of occupancy fees and other obligations is set forth below.</text>
+        <text>Facilities that offer accommodations within the jurisdiction of the Saint Regis Mohawk Tribe (SRMT) must comply with all SRMT adopted Fire Safety and Building Codes regulations and apply a room occupancy fee for each occupied room per day.</text>
+        <text>The rules and regulations set forth below applies to the occupancy of any room at any Hotel or Motel located within the jurisdiction of the SRMT.</text>
+      </section>
+    </codify:insert>
+    <container>
+      <heading>Purpose</heading>
+      <text>The imposition of an Occupancy Fee has been determined to be in the best interest of the Tribe to help provide revenue for services that ensure the health, safety and welfare of Tribal Members.</text>
+    </container>
+    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.03.020">
+      <section>
+        <num>7.03.020</num>
+        <heading>Purpose</heading>
+        <text>The imposition of an Occupancy Fee has been determined to be in the best interest of the Tribe to help provide revenue for services that ensure the health, safety and welfare of Tribal Members.</text>
+      </section>
+    </codify:insert>
+    <container>
+      <heading>Definitions</heading>
+      <text>"Hotel" means a commercial establishment offering lodging to travelers and sometimes to permanent residents, and often having restaurants, meeting rooms, stores, etc., that are available to the general public.</text>
+      <text>"Motel" means a hotel providing travelers with lodging and free parking facilities, typically a roadside hotel having rooms adjacent to an outside parking area.</text>
+      <text>"Occupancy" means the use or possession, or the right to the use or possession, of any room or rooms in a hotel or motel for any purpose.</text>
+      <text>"Room" means any room in a hotel or motel for the use of which the hotel or motel receives a sum of currency for the use and occupancy of the room.</text>
+      <text>"Fee" means the Occupancy Fee.</text>
+      <text>"Person" means any organization, whether it be a sole proprietorship, partnership, joint venture, trust, estate, unincorporated association, corporation, or government or any part, division, or agency of any of the foregoing, and an individual or group of individuals.</text>
+    </container>
+    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.03.030">
+      <section>
+        <num>7.03.030</num>
+        <heading>Definitions</heading>
+        <text>"Hotel" means a commercial establishment offering lodging to travelers and sometimes to permanent residents, and often having restaurants, meeting rooms, stores, etc., that are available to the general public.</text>
+        <text>"Motel" means a hotel providing travelers with lodging and free parking facilities, typically a roadside hotel having rooms adjacent to an outside parking area.</text>
+        <text>"Occupancy" means the use or possession, or the right to the use or possession, of any room or rooms in a hotel or motel for any purpose.</text>
+        <text>"Room" means any room in a hotel or motel for the use of which the hotel or motel receives a sum of currency for the use and occupancy of the room.</text>
+        <text>"Fee" means the Occupancy Fee.</text>
+        <text>"Person" means any organization, whether it be a sole proprietorship, partnership, joint venture, trust, estate, unincorporated association, corporation, or government or any part, division, or agency of any of the foregoing, and an individual or group of individuals.</text>
+      </section>
+    </codify:insert>
+    <container>
+      <heading>Occupancy Permit Requirements</heading>
+      <text>There shall be a requirement to obtain a Saint Regis Mohawk Tribe permit to offer any rooms for rent for any duration.</text>
+    </container>
+    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.03.040">
+      <section>
+        <num>7.03.040</num>
+        <heading>Occupancy Permit Requirements</heading>
+        <text>There shall be a requirement to obtain a Saint Regis Mohawk Tribe permit to offer any rooms for rent for any duration.</text>
+      </section>
+    </codify:insert>
+    <container>
+      <heading>Permit Application Requirements</heading>
+      <text>Shall include the Following:</text>
+      <text>
+        <ul>
+          <li>Applicants Full Name</li>
+          <li>Tribal Enrollment Number</li>
+          <li>Business name (d/b/a)</li>
+          <li>Business Address</li>
+          <li>Business Phone and Fax numbers</li>
+          <li>Business e-mail</li>
+          <li>Investors full name</li>
+          <li>Total number of rooms available for occupancy</li>
+        </ul>
+      </text>
+    </container>
+    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.03.050">
+      <section>
+        <num>7.03.050</num>
+        <heading>Permit Application Requirements</heading>
+        <text>Shall include the Following:</text>
+        <text>
+          <ul>
+            <li>Applicants Full Name</li>
+            <li>Tribal Enrollment Number</li>
+            <li>Business name (d/b/a)</li>
+            <li>Business Address</li>
+            <li>Business Phone and Fax numbers</li>
+            <li>Business e-mail</li>
+            <li>Investors full name</li>
+            <li>Total number of rooms available for occupancy</li>
+          </ul>
+        </text>
+      </section>
+    </codify:insert>
+    <container>
+      <heading>Permit Process and Distribution</heading>
+      <text>The applicant must complete the application with the Compliance Department.</text>
+      <text>
+        <ul>
+          <li>Upon completion of an application the business shall be inspected for compliance of applicable codes.</li>
+          <li>Upon completion of the inspection a report shall be issued to the applicant and any violations shall have an order of satisfactory completion date.</li>
+          <li>Annual code inspections shall be conducted thereafter at each hotel/motel.</li>
+        </ul>
+      </text>
+    </container>
+    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.03.060">
+      <section>
+        <num>7.03.060</num>
+        <heading>Permit Process and Distribution</heading>
+        <text>The applicant must complete the application with the Compliance Department.</text>
+        <text>
+          <ul>
+            <li>Upon completion of an application the business shall be inspected for compliance of applicable codes.</li>
+            <li>Upon completion of the inspection a report shall be issued to the applicant and any violations shall have an order of satisfactory completion date.</li>
+            <li>Annual code inspections shall be conducted thereafter at each hotel/motel.</li>
+          </ul>
+        </text>
+      </section>
+    </codify:insert>
+    <container>
+      <heading>Permit Fee</heading>
+      <text>The applicant for an occupancy permit for a hotel and/or motel shall remit an initial application fee of fifty dollars ($50.00) for an application.</text>
+    </container>
+    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.03.070">
+      <section>
+        <num>7.03.070</num>
+        <heading>Permit Fee</heading>
+        <text>The applicant for an occupancy permit for a hotel and/or motel shall remit an initial application fee of fifty dollars ($50.00) for an application.</text>
+      </section>
+    </codify:insert>
+    <container>
+      <heading>Permit Denial</heading>
+      <text>Should it be determined that an applicant's location not be in compliance with applicable codes, the applicant shall be notified of the specific deficiencies and a permit shall not be issued for the occupancy until non-compliance is rectified.</text>
+    </container>
+    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.03.080">
+      <section>
+        <num>7.03.080</num>
+        <heading>Permit Denial</heading>
+        <text>Should it be determined that an applicant's location not be in compliance with applicable codes, the applicant shall be notified of the specific deficiencies and a permit shall not be issued for the occupancy until non-compliance is rectified.</text>
+      </section>
+    </codify:insert>
+    <container>
+      <heading>Occupancy Rate</heading>
+      <text>The SRMT Room Occupancy Fee rate shall be assessed at ten dollars ($10.00) per room for each day of occupancy.</text>
+    </container>
+    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.03.090">
+      <section>
+        <num>7.03.090</num>
+        <heading>Occupancy Rate</heading>
+        <text>The SRMT Room Occupancy Fee rate shall be assessed at ten dollars ($10.00) per room for each day of occupancy.</text>
+      </section>
+    </codify:insert>
+    <container>
+      <heading>Exemptions</heading>
+      <para>
+        <num>1.</num>
+        <text>No Occupancy Fee shall be imposed on any Onkwehonwe (Tribal member, First Nations member or Band members) who provide their membership card as proof of being Onkwehonwe.</text>
+        <para>
+          <num>a.</num>
+          <text>An invoice must be kept for monthly reports along with a photo copy of the Onkwehonwe membership card.</text>
+        </para>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>No Occupancy Fee shall be imposed upon any person who receives a complimentary room and does not pay for the use of the room personally. It shall be the responsibility of the entity or payee offering the complimentary occupancy to remit the fees to the hotel/motel or complete the authorization form prior to the date of occupancy.</text>
+      </para>
+    </container>
+    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.03.100">
+      <section>
+        <num>7.03.100</num>
+        <heading>Exemptions</heading>
+        <para>
+          <num>(a)</num>
+          <text>No Occupancy Fee shall be imposed on any Onkwehonwe (Tribal member, First Nations member or Band members) who provide their membership card as proof of being Onkwehonwe.</text>
+          <para>
+            <num>(1)</num>
+            <text>An invoice must be kept for monthly reports along with a photo copy of the Onkwehonwe membership card.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>No Occupancy Fee shall be imposed upon any person who receives a complimentary room and does not pay for the use of the room personally. It shall be the responsibility of the entity or payee offering the complimentary occupancy to remit the fees to the hotel/motel or complete the authorization form prior to the date of occupancy.</text>
+        </para>
+      </section>
+    </codify:insert>
+    <container>
+      <heading>Reporting Requirements</heading>
+      <text>Shall be outlined below and required to be remitted and adhered to at all times.</text>
+      <para>
+        <num>1.</num>
+        <text>A daily log sheet (Appendix A) or a pre-approved version with comparable information shall be completed for each day of operation. (<em>This record must be available for inspection by the Compliance Inspectors.</em>)</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A monthly report will begin on the 1<sup>st</sup> day of a month and end on the last day of each month. (Appendix B) or an approved version with comparable information must be completed</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The assessed occupancy fees shall be remitted to the SRMT Accounting Department by the 15<sup>th</sup> of each month for the preceding month.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The Monthly Report must be remitted to the SRMT Compliance Department no later than the 15<sup>th</sup> of each month for the preceding month.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>When No Occupancy Fee is imposed on any Onkwehonwe:</text>
+        <para>
+          <num>a.</num>
+          <text>
+            <u>An invoice must be kept and remitted with the monthly reports and must also provide a photo copy of the Onkwehonwe membership card.</u>
+          </text>
+        </para>
+      </para>
+    </container>
+    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.03.110">
+      <section>
+        <num>7.03.110</num>
+        <heading>Reporting Requirements</heading>
+        <text>Shall be outlined below and required to be remitted and adhered to at all times.</text>
+        <para>
+          <num>(a)</num>
+          <text>A daily log sheet (Appendix A) or a pre-approved version with comparable information shall be completed for each day of operation. (<em>This record must be available for inspection by the Compliance Inspectors.</em>)</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A monthly report will begin on the 1<sup>st</sup> day of a month and end on the last day of each month. (Appendix B) or an approved version with comparable information must be completed</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The assessed occupancy fees shall be remitted to the SRMT Accounting Department by the 15<sup>th</sup> of each month for the preceding month.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Monthly Report must be remitted to the SRMT Compliance Department no later than the 15<sup>th</sup> of each month for the preceding month.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>When No Occupancy Fee is imposed on any Onkwehonwe:</text>
+          <para>
+            <num>(1)</num>
+            <text>
+              <u>An invoice must be kept and remitted with the monthly reports and must also provide a photo copy of the Onkwehonwe membership card.</u>
+            </text>
+          </para>
+        </para>
+      </section>
+    </codify:insert>
+    <container>
+      <heading>Use of Occupancy Fees</heading>
+      <text>The Occupancy Fees will be utilized to assist in the education and recreation of the membership of the Tribe and in tourism.</text>
+    </container>
+    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.03.120">
+      <section>
+        <num>7.03.120</num>
+        <heading>Use of Occupancy Fees</heading>
+        <text>The Occupancy Fees will be utilized to assist in the education and recreation of the membership of the Tribe and in tourism.</text>
+      </section>
+    </codify:insert>
+    <container>
+      <heading>Violations</heading>
+      <text>Violations may include, however are not limited to:</text>
+      <text>
+        <ul>
+          <li>Failure to remit collected occupancy fees on or prior to 15<sup>th</sup> of each month.</li>
+          <li>Remitting false reports.</li>
+        </ul>
+      </text>
+    </container>
+    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.03.130">
+      <section>
+        <num>7.03.130</num>
+        <heading>Violations</heading>
+        <text>Violations may include, however are not limited to:</text>
+        <text>
+          <ul>
+            <li>Failure to remit collected occupancy fees on or prior to 15<sup>th</sup> of each month.</li>
+            <li>Remitting false reports.</li>
+          </ul>
+        </text>
+      </section>
+    </codify:insert>
+    <container>
+      <heading>Amendments</heading>
+      <text>This document may be amended from time to time should it be determined by Tribal Council, The amendment process shall be as follows:</text>
+      <text>
+        <ul>
+          <li>Each Hotel/Motel Occupancy Permit holder shall be provided notice that there will be three (3) public meetings scheduled to discuss any proposed amendments. All comments received shall be given consideration, prior to final approvals.</li>
+          <li>Final drafted amendments shall then be presented to Tribal Council who may by Tribal Council Resolution, enact the proposed amendments into the law or regulations; this shall be done during a regularly scheduled Work Session.</li>
+        </ul>
+      </text>
+    </container>
+    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.03.140">
+      <section>
+        <num>7.03.140</num>
+        <heading>Amendments</heading>
+        <text>This document may be amended from time to time should it be determined by Tribal Council, The amendment process shall be as follows:</text>
+        <text>
+          <ul>
+            <li>Each Hotel/Motel Occupancy Permit holder shall be provided notice that there will be three (3) public meetings scheduled to discuss any proposed amendments. All comments received shall be given consideration, prior to final approvals.</li>
+            <li>Final drafted amendments shall then be presented to Tribal Council who may by Tribal Council Resolution, enact the proposed amendments into the law or regulations; this shall be done during a regularly scheduled Work Session.</li>
+          </ul>
+        </text>
+      </section>
+    </codify:insert>
+  </attachment>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2007-61">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2007-61" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2007-61</num>
   <heading>Adoption of the Tribal Ethics Ordinance</heading>
   <meta>
@@ -12,4 +12,759 @@
       <citation type="res" url="./adopted/2007-61.pdf">Res. No. 2007-61</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the St. Regis Mohawk Tribal Council is the duly recognized governing body of the St. Regis Mohawk Tribe and is responsible for the health, safety, education and welfare of all members of the tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>there has been an ongoing need to-guide the actions of the Tribe's elected officials and provide guidance for the conduct of tribal business, to protect the interests of the Tribal membership and to protect the reputation and integrity of the Tribal government; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>at the request of Tribal Council, the Governance Committee and the Tribe's Legal Department drafted a Tribal Ethics Ordinance to require elected officials to be accountable to the Tribal membership and to act with integrity and honesty and to maintain high standards of honesty, integrity, fairness and impartiality in their conduct; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>its adoption was of paramount importance such that Tribal Council deemed it necessary to seek the community's advice and consent through a referendum prior to the Ordinance being adopted; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on June 2, 2007, the Saint Regis Mohawk Tribal Council held a referendum which asked the following question: "Do You Support The St. Regis Mohawk Tribal Council Adopting The Tribal Ethics Ordinance?" and Tribal members voted overwhelmingly in favor of adopting the Ethics Ordinance with 644 votes in favor and 262 votes opposed; now</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED THAT,</conjunction>
+      <text>the St. Regis Mohawk Tribal Council hereby adopts the Tribal Ethics Ordinance; and</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text>that the St. Regis Mohawk Tribal Council hereby directs that all administrative steps necessary to implement the provisions of the law be taken in accordance with its terms.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>THE SAINT REGIS MOHAWK TRIBAL COUNCIL</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+          </tr>
+          <tr>
+            <td>Chief Lorraine M. White</td>
+            <td class="text-indent-2">Chief Barbara A. Lazore</td>
+            <td class="text-indent-2">Chief James W. Ransom</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text><strong>CERTIFICATION:</strong> This is to certify that the St. Regis Mohawk Tribal Council pursuant to the authority vested therein duly passed the above resolution.</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>___________________________________</td>
+            <td class="text-indent-4">July 18, 2007</td>
+          </tr>
+          <tr>
+            <td>Patricia Thomas, Tribal Clerk</td>
+            <td class="text-indent-4">Date</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </procedural-data>
+  <attachment id="law">
+    <codified:at path="1.06"/>
+    <heading>Saint Regis Mohawk Tribe Ethics Ordinance</heading>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.010"/>
+      <num codify:value="1.06.010">I</num>
+      <heading>Title</heading>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">This Ordinance</code-cite> shall be known as the Saint Regis Mohawk Tribal Ethics Ordinance.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.020"/>
+      <num codify:value="1.06.020">II</num>
+      <heading>Authority</heading>
+      <text>The Saint Regis Mohawk Tribal Council is vested with the authority to represent and act on behalf of the tribal membership and the Saint Regis Mohawk Tribe. The Tribal Council exercises broad executive, legislative and judicial authority.</text>
+      <text>The Tribal Clerk exercises those powers set forth in TCR 2003-115.</text>
+      <text>As such, the Tribal Council and the Tribal Clerk are vested with the trust of the tribal membership.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.030"/>
+      <num codify:value="1.06.030">III</num>
+      <heading>Purpose and Policy</heading>
+      <text>The purpose of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite> is to require elected officials to be accountable to the tribal membership and to act with integrity and honesty and to maintain high standards of honesty, integrity, fairness and impartiality in their conduct.</text>
+      <text>The Tribal Council and the Tribal Clerk shall act in the best interest of the Saint Regis Mohawk Tribe and the tribal membership. <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">This Ordinance</code-cite> is intended to guide the actions of elected officials and provide guidance for the conduct of tribal business, to protect the interests of the tribal membership, and to protect the reputation and integrity of the Tribal Government.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.040"/>
+      <num codify:value="1.06.040">IV</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>1.</num>
+        <text>"Act of Civil Disobedience" means a deliberate, but nonviolent act of law breaking to call attention to a particular law or set of laws believed by the lawbreaker to be of questionable legitimacy or morality.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>"Actual Conflict of Interest" occurs when an elected official takes official action that would financially impact the official, the official's immediate family, or a business with which the elected official or an immediate family member is associated.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>"Ceremonial and customary Gift" means a gift that is given to an Elected Official as a symbol of appreciation to the Tribe and not as a personal gift to the Elected Official.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>"Elected Official" means the three Tribal Chiefs, the three Tribal Sub-Chiefs, and the Tribal Clerk. It does not include elected Tribal Court judges who are subject to the ethical standards of the Tribe's Judicial Conduct Code.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>"Employment" includes professional services and other services rendered by an elected official, whether rendered as an employee, consultant or other independent contractor.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>"Ethics Commission" is a panel of five members and three alternates, entrusted to hear and impose sanctions on all matters relating to ethics in government.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>"Ethics Officer" is the person selected by the Tribe under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite> to oversee and coordinate ethics violations. The position is a part-time, as needed basis position, not a full time position.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>"Executive Session" means a session of the Tribal Council that is closed to all persons except Tribal Council members and the Tribal Clerk, necessary staff as designated by the Tribal Council and the Tribal Clerk, and invitees. Tribal Council may meet in executive session to discuss matters involving personnel, litigation, negotiations, or confidentiality as deemed essential to a free and open discussion.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>"Favorable action" means the approval of a contract or agreement, award or a bid, granting of a business opportunity, negotiation on behalf of pursuant to government-to-government relations with federal, State, or local governments or agencies, or the extension of any economic benefit.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>"Fraud" means a knowing misrepresentation of the truth or concealment of a material fact to induce another to act.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>"Frivolous" shall mean a complaint that is filed that is not supported by any credible evidence. For example, a complaint is frivolous if it is based upon hear say, a statement not corroborated by another credible witness, and/or is not supported by any written documents.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>"Gift" means anything of value based upon an understanding that one's official action may be influenced thereby. Gift does not include food and drink totaling less than $50 and ceremonial awards costing less than $100.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>"Immediate Family" means father, mother, son, daughter, husband, wife, brother, sister, grandparents, grandchildren, and any other person in a similar relationship, and any person living in the Tribal Council member's or Tribal Clerk's household.</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>"Laws" means statutes, codes, ordinances, resolutions, directives, rules, policies and procedures that are now in effect and those that may be issued and in effect in the future.</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>"Perjury" means the voluntary violation of an oath to tell the truth by swearing to what is untrue or by omission to do what has been promised under oath.</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>"Personal Interest" for the purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite> means an action taken by a Tribal Council member or the Tribal Clerk which is intended to benefit the Tribal Council member or the Tribal Clerk and/or his or her immediate family rather than the Saint Regis Mohawk Tribe or tribal membership as a whole.</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <text>"Potential Conflict of Interest" occurs when an elected official takes official action that could financially impact the elected official, the official's immediate family or a business with which the elected official or an immediate family member is associated.</text>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>"Serious Crime" means a felony or misdemeanor, not involving an act of civil disobedience, which involves an act of moral turpitude. Crimes of moral turpitude are crimes involving dishonesty such as larceny, fraud, murder for example.</text>
+      </para>
+      <para>
+        <num>19.</num>
+        <text>"Saint Regis Mohawk Tribe" means the federally recognized American Indian Tribe known as the Saint Regis Mohawk Tribe with government offices at the Community Building, Akwesasne, New York.</text>
+      </para>
+      <para>
+        <num>20.</num>
+        <text>"Tribal Clerk" for the purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite> shall mean the duly elected Tribal Clerk in his/her official capacity.</text>
+      </para>
+      <para>
+        <num>21.</num>
+        <text>"Tribal Council" for the purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite> shall mean the duly elected Chiefs and Sub-Chiefs together in their official capacity.</text>
+      </para>
+      <para>
+        <num>22.</num>
+        <text>"Tribal Meeting" shall mean a regular scheduled monthly meeting of the Saint Regis Mohawk Tribal Council, the Tribal Clerk and with the tribal membership.</text>
+      </para>
+      <para>
+        <num>23.</num>
+        <text>"Valuables" mean items in excess of $20.00.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.050"/>
+      <num codify:value="1.06.050">V</num>
+      <heading>Ethical Obligations and Standards of Conduct</heading>
+      <para>
+        <num>A.</num>
+        <text>Conformity with Applicable Laws</text>
+        <text>All elected officials shall comply with all laws which apply to elected officials that are applicable within the jurisdiction of the Tribe. Compliance is required whether or not the laws apply to the Official in his or her individual or official capacity.</text>
+        <text>An elected official who is convicted of a serious crime shall be guilty of violating <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>; except that a conviction related to an act of civil disobedience shall subject the official only to investigation under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite> which may or may not result in a sanction able violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>. A plea of no contest, a plea to a lesser charge or a conviction of a lesser charge may constitute a conviction for purposes of this subsection if the plea or conviction would be sufficient, in a civil context, to support a judgment of said official with regard to the original charge.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Actual or Apparent Impropriety</text>
+        <text>Elected officials shall not engage in acts which are illegal, involve an abuse of power, or involve actions and activities that bring discredit or disrespect on the Tribe. These acts may include:</text>
+        <para>
+          <num>1.</num>
+          <text>Functioning as an official of the Tribe under the influence of illegal substances.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Misappropriation or misuse of Tribal funds.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Concealing, removing, mutilating or destroying Tribal records or documents.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Committing perjury or a fraud.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Intentionally and knowingly providing false information or misrepresenting a tribal position that causes harm to Tribal members.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>Intentionally misrepresenting oneself as acting on behalf of the Tribe without authorization.</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>Knowingly misrepresenting the Tribe or a position the Tribe has taken.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Conflicts of Interest</text>
+        <para>
+          <num>1.</num>
+          <text>Elected officials shall not take any official action, whether in a Tribal meeting, committee meeting, or otherwise, in which the official or the official's immediate family has a potential or an actual financial or personal interest that is or could be affected by such an action.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>No elected official shall use, or attempt to use, any official capacity of their office for the economic gain of any business interests with which they or their immediate family is associated.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Elected officials shall refrain from all acts or activities that may be construed as a conflict of interest.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>When a potential or actual conflict of interest exists for an official with regard to a particular issue, that official shall disclose the conflict of interest which shall be duly noted in official meeting minutes, shall recuse him or her self.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>If an elected official fails to disclose a potential or actual conflict of interest prior to taking any official actions, two out of three Chiefs of the Tribal Council, upon a reasonable and good faith belief, may request that the Ethics Officer conduct an investigation into the official's conduct, thereupon, the Ethics Officer may require the official to disclose on the record any potential or actual conflict of interest.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>If one or more Chiefs of the Tribal Council has an actual conflict of interest with a particular issue, his or her Sub-Chiefs may be appointed to take official action on the issue.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Use of Public Office for Private Gain, Restrictions against Loans or Gifts</text>
+        <para>
+          <num>1.</num>
+          <text>Elected officials shall not solicit money, economic opportunity, favors, service, loans or gifts for their own personal benefit or gain while presently serving in office.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Elected officials shall not use his or her office in a way that produces or assists in the production of a substantial benefit, direct or indirect, for the official, any members of their immediate families or for an organization or business with which the official is associated.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Elected officials shall not engage in, whether directly or indirectly, financial or other economic transactions as a result of, or primarily depending upon information obtained through their elected office.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Elected officials shall not use Tribal resources or power of office to advance personal or individual political interests.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Elected officials shall not accept gifts valued at over $100. All gifts whether or not valued at $100 or more shall be reported to the Ethics Officer and all prohibited gifts shall either be returned to the donor or shall become the property of the Tribe.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>Elected officials may accept ceremonial and customary gifts on behalf of the Tribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Use of Confidential Information</text>
+        <para>
+          <num>1.</num>
+          <text>Elected officials shall not disclose confidential materials presented, considered or discussed in executive or closed session without the approval of all parties involved and except where authorized under a tribal open records law.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>No elected official shall use or disclose confidential information gained in the course or by reason of their official position or activities, to further their own economic and personal interest or that of anyone else.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Restrictions Against Incompatible Interests or Employment</text>
+        <para>
+          <num>1.</num>
+          <text>Elected officials shall NOT:</text>
+          <para>
+            <num>a.</num>
+            <text>Have direct or indirect financial or other economic interests other than his or her Tribal duties which necessarily involve inherent substantial conflict with their duties as elected officials.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Acquire any economic or other financial property during his or her term as an elected official when he or she believes or has reason to believe that that it may directly or substantially affect or be so affected by his official actions or duties.</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Subject to the restrictions in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>, elected officials are free to engage in lawful financial transactions to the same extent as any tribal member.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Elected Officials shall not become or remain employed in either the public or private sector during their term of office.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Elected Officials shall immediately resign from all appointments obtained during office upon completion of his or her term.</text>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Tribal Government Contracts; Restrictions and Bid Requirements</text>
+        <para>
+          <num>1.</num>
+          <text>No elected official or any member of that person's immediate family shall be a party to, nor have an interest in the profits or benefits of any governmental contract of the Tribe or of any investment of funds of the Tribe, unless the contract or investment meets all of the following requirements:</text>
+          <para>
+            <num>a.</num>
+            <text>the contract is let by the applicable procurement policy; and</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>is pursuant to the continuous course of a business commenced before the elected official assumed his or her current term of office; and</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>the entire transaction is conducted at arm's length, with the Tribe's full knowledge of the interest of the elected official or member of his or her immediate family; and</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>the elected official has taken no part in the determination of the specifications, deliberations, or decisions with respect to the contract or investment.</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>A elected official or a member of his or her immediate family shall not be considered as having an interest in a contract or investment if they have a limited investment interest of less, or creditor interest of less than ten percent (10%) of the ownership of net assets or the total indebtedness of any business or other entity which is the contractor, sub-contractor of supplier on the contract or in which the funds are invested, or which issues any security therefore.</text>
+        </para>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Restrictions on Assisting or Representing other Interests after Termination of Public Office</text>
+        <para>
+          <num>1.</num>
+          <text>After an elected official has left office he or she shall not act as an agent, attorney or representative for any person or entity for the purpose of influencing any employee, official or governmental body of the Tribe in connection with any proceeding, contract, claim, controversy, investigation, charge or accusation, in which the elected official <em>personally</em> and <em>substantially</em> participated.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>If a matter was pending within the scope of an elected official's responsibilities, but the individual did not participate as set forth in paragraph <span codify:value="(h)"/>(1) above, the prohibitions hereunder shall apply only for a period of one (1) year immediately following the termination of public office.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The Tribal Council shall not take any action favorable to any personal business, governmental or other entity, which is assisted or represented personally in the matter by a former elected official whose official act, while an elected official, directly contributed to the taking of such favorable action.</text>
+        </para>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Restrictions on Official Action Involving Former Interests; Conflict of Interest</text>
+        <para>
+          <num>1.</num>
+          <text>An elected official shall not take action on any issue, matter or decision where the elected official, within one year immediately prior to taking office, acted as an agent, attorney or representative for any person, organization, business or other entity in connection with any proceeding, contract, claim, controversy, investigation, charge or accusation, or in which the elected official <em>personally</em> and <em>substantially</em> participated prior to assuming public office.</text>
+        </para>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Unauthorized Use of Property or Funds of the Tribe</text>
+        <para>
+          <num>1.</num>
+          <text>A Tribal Council member and the Tribal Clerk shall return all tribal equipment, supplies, and any other tribal property to the Tribe within five (5) days of completing her or her term of office.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Tribal Council members or the Tribal Clerk shall refrain from using Tribal facilities, resources or personnel to perform personal business.</text>
+        </para>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Misuse of Staff</text>
+        <para>
+          <num>1.</num>
+          <text>No elected official shall employ, with the Tribe's funds, any unauthorized person(s) who do(es) not perform duties commensurate with such compensation, and shall utilize authorized employees and staff only for the official purposes for which they are employed or otherwise retained.</text>
+        </para>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>Restrictions Against Gifts or Loans to Influence Official Acts</text>
+        <text>Tribal Council members or the Tribal Clerk should not provide, offer or exercise official influences in exchange for money or valuables.</text>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>Official Statements and Representations</text>
+        <text>Elected Officials shall not make official statements to the media that misrepresent the Tribe or the position of the Tribe. This provision shall not prohibit a Tribal Council member from defending him or herself from a criminal charge or civil claim or testifying as a witness in a legal proceeding, or from responding to allegations concerning conduct made pursuant to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>.</text>
+      </para>
+      <para>
+        <num>N.</num>
+        <text>Attendance at Meetings</text>
+        <text>A Tribal Council member, and when applicable, the Tribal Clerk, shall attend all regular and special Tribal Council meetings, and all Tribal monthly meetings. A Council member or the Tribal Clerk shall notify the Tribal Council prior to any meeting they will not attend, with a valid excuse. Three (3) unexcused absences during a Tribal Council member's or Tribal Clerk's term shall constitute a violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.060"/>
+      <num codify:value="1.06.060">VI</num>
+      <heading>Disclosure Statement, Filing Requirements</heading>
+      <para>
+        <num>A.</num>
+        <text>Persons required to File Annual Disclosure Statements</text>
+        <para>
+          <num>1.</num>
+          <text>The following persons shall be required to file a Disclosure Statement in accordance with the provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>.</text>
+          <para>
+            <num>a.</num>
+            <text>Three Chiefs</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Three Sub-Chiefs</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>Tribal Clerk</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Elected officials shall complete and file their disclosure forms once a year at the deadline established by the Ethics Officer and shall include all information required to be disclosed for the entire twelve month period of the previous calendar year.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Confidentiality of Disclosure Statements</text>
+        <para>
+          <num>1.</num>
+          <text>Disclosure Statements filed by elected officials shall be kept on record with the Ethics Officer during the term of the elected official. They shall be maintained in the same manner and the same extent as confidential personnel records of the Tribe and shall not be deemed, maintained, nor used for any purpose or in any manner as a public record, nor shall the contents of any Disclosure Statement be made available for inspection or copying by any person in any manner except as required for the determination of relevant information pertaining to examinations, investigations or hearing conducted in accordance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Violations of any provisions of <code-cite path="§VI" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this section</code-cite> shall be punishable in the same manner and to the same extent as provided by any provision of law applicable to unauthorized disclosure of confidential information of any privileged official information or records of the Tribe.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Except that information disclosed regarding business affiliations and economic interests shall be separately disclosed to the other members of Tribal Council.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>At the end of the elected official's term all records shall be transferred to the office of the Tribal Clerk.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.070"/>
+      <num codify:value="1.06.070">VII</num>
+      <heading>Appointment of Ethics Officer</heading>
+      <para>
+        <num>A.</num>
+        <text>An Ethics Officer shall be appointed by the Tribal Council within thirty (30) days of the enactment of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this ordinance</code-cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Ethics Officer shall meet the following requirements:</text>
+        <para>
+          <num>1.</num>
+          <text>Be an enrolled member of the Saint Regis Mohawk Tribe.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Be 30 years of age or older.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Have not been convicted of any serious crime, i.e., fraud, moral turpitude or the like.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Does not hold elective or appointed office at the time of the appointment.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Possess a Bachelor's degree, or demonstrate equivalent life experience or competency, in an area of study that would qualify the person to act in the position of Ethics Officer, such as law, government affairs, accounting, ethics or human resources.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>Possess knowledge and understanding of Mohawk political history and have lived in Akwesasne for a substantial portion of his or her life.</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>Not have any actual or perceived conflicts of interest or personal interests with any one particular special interest group.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Appointment procedure</text>
+        <text>The successful candidate shall be presented at the next regularly scheduled Tribal meeting for final consent and approval by the majority vote of those Tribal members present and eligible to vote.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Establishment of Rules and Regulations</text>
+        <text>The Ethics Officer shall, within sixty (60) days of his or her appointment, establish rules and regulations to govern the procedural aspects of the Ethics Ordinance.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.080"/>
+      <num codify:value="1.06.080">XIII</num>
+      <heading>Ethics Commission</heading>
+      <para>
+        <num>A.</num>
+        <text>There is hereby established an Ethics Commission for the purposes of administration and enforcement of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The Ethics Commission is entrusted to hear and impose sanctions on all matters relating to ethics of elected officials.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The Commission shall be comprised of five (5) members three (3) alternates and an Ethics Officer. Each member shall meet the following requirements.</text>
+        <para>
+          <num>1.</num>
+          <text>Be an enrolled member of the Saint Regis Mohawk Tribe.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Be 25 years of age or older.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Have not been convicted of any serious crime or any other crime involving: i.e., fraud, moral turpitude or the like.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Does not hold elective or appointed office at the time of the appointment.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Can not have an actual or potential conflict of interest.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>When a complaint is received, the Ethics Officer shall oversee the following process for purposes of selection of the Ethics Commission members:</text>
+        <para>
+          <num>1.</num>
+          <text>A list of all Tribal members who have voted in at least five (5) Tribal elections shall be used to randomly select a pool of forty-five (45) adult Tribal members who may potentially serve on the Ethics Commission to hear the pending complaint.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The Ethics Officer shall notify those remaining, in writing, of the opportunity to serve on the Ethics Commission. Each of these candidates will be requested to respond directly to the Ethics Officer within ten (10) business days by filling out a reply form that shall be included in the initial notification. They will indicate their willingness, unwillingness or inability to serve on the form. No disclosure shall be made of the elected official who is the subject of the complaint at this point in the Commission selection process.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>If there is an insufficient number of candidates from which to draw a Commission, the Ethics Officer may use the enrollment list to again randomly select, screen and notify Tribal members eligible to serve.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>From the list of those candidates who respond, the Ethics Officer shall randomly select a final group of five (5) members and three (3) alternates.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Once this final group of five (5) is selected, the name of the elected official who is the subject of the complaint shall be disclosed to the Commission through the Ethics Officer.</text>
+          <para>
+            <num>a.</num>
+            <text>If any member of the Commission has a connection to the subject of the complaint, which would constitute a conflict of interest or otherwise render them unable to objectively serve, they may recuse themselves.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>If the elected official who is the subject of the complaint is a member of the immediate family of a member of the Commission, that Commissioner is prohibited from serving.</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>The elected official may exercise their option to remove only one member of the Commission.</text>
+          </para>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>The Ethics Officer shall then randomly select one or more of the alternates as necessary, to serve on the Commission to hear the pending complaint.</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>The Ethics Commissioners shall be sworn in by the Ethics Officer.</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>Any further rules or regulations necessary for the selection of the Ethics Commission may be established by the Ethics Officer.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Terms, Officers, Duties, Removal</text>
+        <para>
+          <num>1.</num>
+          <text>Members of an Ethics Commission shall serve for one complaint and upon the conclusion of the matter, they shall be immediately relieved of their duties.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The Ethics Commission shall select a Chair who shall hold office for the duration of the matter and shall communicate to others on behalf of the Commission.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The Ethics Officer may remove any member of the Commission for neglect of duty, malfeasance, or furthering a merit less complaint with bias or prejudice.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Powers of Ethics Commission</text>
+        <para>
+          <num>1.</num>
+          <text>The Ethics Commission has the power to make amendments to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite> pursuant to <code-cite path="§XI" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">Section XI</code-cite>.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The Ethics Commission shall hear each particular complaint and provide a determination as to the conduct of the elected official who is the subject of the complaint provided that the Ethics Officer has determined that the complaint requires further investigation.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The Ethics Commission may administer oaths and issue subpoenas to compel attendance and testimony of witnesses, or to produce any documents relevant to any matter before the Commission.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The Ethics Commission may hold any subpoenaed witness in contempt upon a finding that the person has disobeyed any lawful order, process, writ, finding or direction of the Commission.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>The Ethics Commission may appoint a Tribal investigator to conduct investigations on behalf of the Commission.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>The Ethics Commission shall maintain a complete record of all hearings including all testimony, results submitted by the Tribal investigator, and documents presented as evidence. These records shall be maintained pursuant to rules and regulations established by the Ethics Officer.</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>The Ethics Commission shall not be bound by formal rules of evidence as normally referred to in a Tribal court.</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>The Ethics Commission shall conduct any meeting or hearing in open session. All minutes of open meetings or hearings shall be made available to the tribal membership within seven (7) days of such meeting or hearing.</text>
+        </para>
+        <para>
+          <num>9.</num>
+          <text>Upon the recommendation of the Ethics Officer, the Ethics Commission may review any non-frivolous complaint and dismiss any allegation that:</text>
+          <para>
+            <num>a.</num>
+            <text>Contains facts insufficient to constitute a violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>; or</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Contains insufficient evidence to support the allegation; or</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>The Commission lacks authority to hear such complaint.</text>
+          </para>
+        </para>
+        <para>
+          <num>10.</num>
+          <text>The Commission shall set forth its findings, recommendations and the imposition of any sanctions and/or penalties in writing within thirty (30) days of the hearing and the Commission shall deliver a copy of any order or decision to the appropriate branch of the government.</text>
+        </para>
+        <para>
+          <num>11.</num>
+          <text>All five members of the Commission must be present for the duration of any meeting or hearing in order for there to be a quorum.</text>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Allegations or Complaints of Ethical Violations</text>
+        <text>Allegations of unethical conduct, as defined in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>, by an elected official, shall be presented to the Ethics Commission through the Ethics Officer and processed in the following manner.</text>
+        <para>
+          <num>1.</num>
+          <text>Allegations of unethical conduct against an elected official shall be made in writing and submitted to the Ethics Officer.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Any person who believes that an elected official has engaged in unethical conduct as defined by <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite> may submit a written complaint. The complaint shall specify the elected official against whom a complaint of unethical conduct is being made, and the conduct that is alleged to be unethical. The party making the complaint must provide all details of the allegation including the names of any witnesses and any documentation or other evidence supporting the complaint.</text>
+          <para>
+            <num>a.</num>
+            <text>Anonymous complaints shall not be received; all complaints must be signed and notarized in accordance with rules and regulations to be established by the Ethics Officer.</text>
+          </para>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>An allegation of unethical conduct on the part of elected officials must be confirmed by the wronged person (victim).</text>
+        </para>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Initial Review of Allegation</text>
+        <para>
+          <num>1.</num>
+          <text>The Ethics Officer shall perform an initial review of all allegations of unethical conduct on the part of an elected official. This initial review may be conducted at the time the allegation is made, or at any time thereafter, provided that such review shall take place no later then thirty-one (31) days after it has been submitted.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The purpose of the initial review shall be to determine whether the allegation made falls within the scope of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>, whether it is a frivolous complaint and whether the Ethics Commission has jurisdiction to make a determination as to the allegation of unethical conduct. The elected official against whom the allegation is made shall not participate in the initial review.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>As part of the initial review, the Ethics Officer shall conduct an investigation of all formal complaints. Upon completion of the investigation, the Ethics Officer may dismiss a complaint when the complaint is not based upon probable cause or is one the Commission does not have jurisdiction to hear.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The Ethics Officer shall conduct an independent investigation when requested by the Tribal Council. If he or she finds as a result of the investigation that the allegation that warranted the investigation is based upon probable cause, and the Ethics Commission has jurisdiction to hear the allegation, the Ethics Officer may file a complaint on behalf of the Saint Regis Mohawk Tribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Statute of Limitations</text>
+        <text>No complaint shall be considered by the Ethics Commission if more than five (5) years have passed from the date when the alleged violation occurred. Further, the Ethics Commission had no jurisdiction to hear a claim arising out of conduct which occurred prior to the date of enactment of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>, unless such conduct is of a continuing and on-going nature.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Confidentiality</text>
+        <text>All records, transcripts and other documents in the possession of the Ethics Officer and the Ethics Commission shall remain confidential, unless such documents are required to be released pursuant to an appropriate court order.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.090"/>
+      <num codify:value="1.06.090">IX</num>
+      <heading>Sanctions and Penalties</heading>
+      <text>The Ethics Commission may impose a sanction or sanctions against any elected official who is found to have engaged in unethical conduct under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>. Such sanctions may include, but shall not be limited to, the following:</text>
+      <para>
+        <num>1.</num>
+        <text>The recommendation of recall election of an elected position forwarded to the Elections Board, the Tribal Council and the Tribal Clerk.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Forfeiture of all compensation and benefits received for their service, for not more than one hundred and eighty (180) days.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Issuance of a written public reprimand, which shall be entered into such person's permanent record of public office.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.100"/>
+      <num codify:value="1.06.100">X</num>
+      <heading>Appeals</heading>
+      <text>The elected official may appeal a final decision of the Ethics Commission to an Ethics Commission formed specifically for the purpose of hearing the appeal. The Commission shall be comprised of members who were not involved in hearing the initial complaint.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.110"/>
+      <num codify:value="1.06.110">XI</num>
+      <heading>Amendment</heading>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">This Ordinance</code-cite> shall be amended by a petition presented by a tribal member or by the recommendation of the Tribal Council. The petition or recommendation shall be given to the Ethics Officer who shall form an Ethics Commission to decide whether or not to amend the Ordinance. That decision shall be forwarded to the Tribal Council for amendment.</text>
+    </section>
+  </attachment>
 </document>

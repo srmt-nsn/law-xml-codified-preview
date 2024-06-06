@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2008-17">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2008-17" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2008-17</num>
   <heading>Adoption of Rules of Evidence</heading>
   <meta>
@@ -12,4 +12,985 @@
       <citation type="res" url="./adopted/2008-17.pdf">Res. No. 2008-17</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Saint Regis Mohawk Tribal Council is the duly recognized governing body of the Saint Regis Mohawk Tribe and is responsible for the health, safety, education and welfare of the Tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to TCR 2007-01, the Tribal Council has authorized the full implementation of the Tribe's Tribal Court system; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Council through TCR 2007-01 has recognized the Tribal Court as an independent entity with independent judicial authorities; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Council has been working with the Tribal Court and its staff on an on-going basis to adopt and enact Codes that govern the Tribal Court, and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in conjunction with Tribal Court staff the Tribal Legal Department has drafted the attached Rules of Evidence that will govern issues of admissibility of evidence and related matters in the Tribal Court.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED THAT,</conjunction>
+      <text>the Tribal Council hereby adopts and enacts the attached Rules of Evidence.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>THE SAINT REGIS MOHAWK TRIBAL COUNCIL</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+          </tr>
+          <tr>
+            <td>Lorraine M. White</td>
+            <td class="text-indent-2">Barbara A. Lazore</td>
+            <td class="text-indent-2">James W. Ransom</td>
+          </tr>
+          <tr>
+            <td>Tribal Chief</td>
+            <td class="text-indent-2">Tribal Chief</td>
+            <td class="text-indent-2">Tribal Chief</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text><strong>CERTIFICATION:</strong> This is to certify that the St. Regis Mohawk Tribal Council pursuant to the authority vested herein duly passed the above Resolution.</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>___________________________________</td>
+            <td class="text-indent-4">March 27, 2008</td>
+          </tr>
+          <tr>
+            <td>Corleen Jacco, Tribal Clerk</td>
+            <td class="text-indent-4">Date</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </procedural-data>
+  <attachment id="law">
+    <codified:at path="2.04"/>
+    <heading>Rules of Evidence</heading>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.010"/>
+      <num codify:value="2.04.010">I</num>
+      <heading>Title and Codification</heading>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2008-17">This act</code-cite> shall be known as the Saint Regis Mohawk Tribal Rules of Evidence Act of 2008.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.020"/>
+      <num codify:value="2.04.020">II</num>
+      <heading>Purpose</heading>
+      <text>The purpose of this Tribal Council action is to establish Rules of Evidence and practice in cases brought into the Courts of the Saint Regis Mohawk Tribe.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.030"/>
+      <num codify:value="2.04.030">III</num>
+      <heading>Definitions</heading>
+      <text>There are no words or phrases that require statutory definition as part of this enactment.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.040"/>
+      <num codify:value="2.04.040">IV</num>
+      <heading>[Rule 1] Scope and Applicability</heading>
+      <para>
+        <num>A.</num>
+        <text>These Rules govern proceedings in the Tribal Court of the Saint Regis Mohawk Reservation.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>These Rules apply to civil actions and proceedings, to criminal cases and proceedings, to contempt proceedings and to juvenile proceedings.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>These Rules do not apply to preliminary examinations in criminal cases; sentencing, or granting or revoking probation or parole; issuance of warrants for arrest; criminal summonses and search warrants; and proceedings covering release on bail.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The Tribal Court may apply the interpretation of similar provisions of the Federal Rules of Evidence in construing these rules. The Tribal Court shall look to the Federal Rules of Evidence for guidance on any matter not covered by these Rules.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.050"/>
+      <num codify:value="2.04.050">V</num>
+      <heading>[Rule 2] Rulings on Evidence</heading>
+      <para>
+        <num>A.</num>
+        <text>Effect of Erroneous Ruling. Error may not be predicated on a ruling which admits or excludes evidence unless a substantial right of the party is affected, and</text>
+        <para>
+          <num>1.</num>
+          <text>Objection. In case the ruling is one admitting evidence, a timely objection or motion to strike is made and appears on the record, stating the specific ground for the objection, if such is not obvious from the context; or</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Offer of Proof. In case the ruling is one excluding evidence, the substance of the evidence was made known to the Court by offer of proof or was apparent from the context within which the questions were asked.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Record of Offer and Ruling. The Court may add any other or further statement which shows the character of the evidence, the form in which it was offered, the objection made, and the ruling. The Court may direct the making of an offer of proof in question and answer form.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Hearing of the Jury. In jury cases, proceedings shall be conducted to the extent practicable, so as to prevent inadmissible evidence from being suggested to the jury by any means, such as making statements or offers of proof or asking questions in the hearing of the jury.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Plain Error. Nothing in this Rule precludes taking notice of plain errors affecting substantial rights although they were not brought to the attention of the Court.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.060"/>
+      <num codify:value="2.04.060">VI</num>
+      <heading>[Rule 3] Preliminary Questions</heading>
+      <para>
+        <num>A.</num>
+        <text>Questions of Admissibility Generally. Preliminary questions concerning the qualifications of a person to be a witness, the existence of a privilege, or the admissibility of evidence shall be determined by the Court, subject to the provisions of subdivision of this Rule. In making its determination, the Court is not bound by the Rules of Evidence except those pertaining to privileges.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Relevancy Conditioned on Fact. When the relevancy of evidence depends upon the fulfillment of a condition of fact, the Court shall admit it subject to the introduction of evidence sufficient to support a finding that the condition of fact was fulfilled.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Hearing of the Jury. Hearings on the admissibility of confessions shall in all cases be conducted out of the hearing of the jury. Hearing on other preliminary matters shall be conducted when the interests of justice require, or when an accused is a witness and requests a hearing.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Testimony by Accused. The accused does not, by testifying upon a preliminary matter, become subject to cross-examination as to other issues in the case.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Weight and Credibility. This Rule does not limit the right of a party to introduce before the jury evidence relevant to weight or credibility.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.070"/>
+      <num codify:value="2.04.070">VII</num>
+      <heading>[Rule 4] Limited Admissibility</heading>
+      <text>When evidence which is admissible as to one party or for one purpose but not admissible as to another party or for another purpose is admitted, the Court, upon request, shall restrict the evidence to its proper scope and instruct the jury.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.080"/>
+      <num codify:value="2.04.080">VIII</num>
+      <heading>[Rule 5] Relevancy and Its Limits / Definition: Generally Admissible</heading>
+      <para>
+        <num>A.</num>
+        <text>"Relevant evidence" means evidence having a tendency to make the existence of any fact that is of consequence to the determination of the action more probable or less probable than it would be without the evidence.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>All evidence is generally admissible, except as otherwise provided by Ordinances, by acts of the Tribal Council, by these rules or other rules prescribed by the Court pursuant to statutory authority.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Evidence which is not relevant is not admissible.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.090"/>
+      <num codify:value="2.04.090">IX</num>
+      <heading>[Rule 6] Exclusion of Relevant Evidence</heading>
+      <text>Evidence may be excluded if its probative value is substantially outweighed by the danger of unfair prejudice, confusion of the issues, or misleading the jury or it will cause undue delay, waste of time or be a needless presentation of cumulative evidence.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.100"/>
+      <num codify:value="2.04.100">X</num>
+      <heading>[Rule 7] Character Evidence Not Admissible to Prove Conduct; Exceptions; Other Crimes</heading>
+      <para>
+        <num>A.</num>
+        <text>Generally. Evidence of the character or character trait of a person is not admissible if it is to be used to prove conduct or for the purpose of proving action in conformity therewith on a particular occasion.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Exceptions</text>
+        <para>
+          <num>1.</num>
+          <text>The accused may offer evidence of his own pertinent character traits, and the prosecution may do so to rebut the same.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Evidence of a pertinent character trait of the victim, if offered by the accused, except in rape or assault with intention to commit rape cases, or if offered by the prosecution to rebut the same is admissible.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Evidence of other crimes, wrongs or acts only for the purpose of showing motive, intent, opportunity, preparation, plan, knowledge, identity or absence of mistake or accident.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.110"/>
+      <num codify:value="2.04.110">XI</num>
+      <heading>[Rule 8] Methods of Proving Character Trait</heading>
+      <para>
+        <num>A.</num>
+        <text>Reputation or Opinion. In all cases in which evidence of character or a trait of character of a person is admissible, proof may be made by testimony as to reputation or by testimony in the form of an opinion. On cross-examination, inquiry is allowable into specific instances of conduct.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Specific Instances of Conduct. In cases in which character or trait of character of a person is an essential element of a charge, claim, or defense, proof may be made of specific instances of that person's conduct.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.120"/>
+      <num codify:value="2.04.120">XII</num>
+      <heading>[Rule 9] Habit; Routine Practice</heading>
+      <text>Evidence of the habit of a person or of the routine practice of an organization, whether corroborated or not and regardless of the presence of eye witnesses, is relevant to prove that the conduct of the person or organization on a particular occasion was in conformity with the habit or routine practice.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.130"/>
+      <num codify:value="2.04.130">XIII</num>
+      <heading>[Rule 10] Subsequent Remedial Measures</heading>
+      <text>If after an event measures are taken which, if taken previously, would have made the event less likely to occur, evidence of the measures is not admissible to prove negligence or culpable conduct, a defect in a product, a defect in a product's design, or a need for a warning or instruction in connection with the event. This Rule does not require the exclusion of evidence of subsequent measures when offered for another purpose, such as proving ownership, control or feasibility of precautionary measures, if controverted or impeached.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.140"/>
+      <num codify:value="2.04.140">XIV</num>
+      <heading>[Rule 11] Compromise and Offers of Settlement</heading>
+      <text>Evidence of accepting or offering a compromise of a disputed claim shall not be admissible to prove liability or invalidity of the claim or amount. Evidence of conduct or statements made in compromise negotiations are inadmissible.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.150"/>
+      <num codify:value="2.04.150">XV</num>
+      <heading>[Rule 12] Payment or Offer of Payment of Medical or Similar Expenses</heading>
+      <text>Evidence of furnishing or offering or promising to pay medical, hospital, or similar expenses occasioned by an injury is not admissible to prove liability for the injury.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.160"/>
+      <num codify:value="2.04.160">XVI</num>
+      <heading>[Rule 13] Inadmissibility of Pleas, Plea Discussions, and Related Statements</heading>
+      <para>
+        <num>A.</num>
+        <text>Except as otherwise provided in this Rule, evidence of the following is not, in any civil or criminal proceeding, admissible against the defendant who made the plea or was a participant in the plea discussions:</text>
+        <para>
+          <num>1.</num>
+          <text>A plea of guilty which was later withdrawn.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Any statements made in the course of any proceedings under Rule 11 of the Federal Rules of Criminal Procedure or comparable tribal or state procedure regarding the foregoing plea; or</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Any statement made in the course of plea discussions with an attorney for the prosecuting authority which do not result in a plea of guilty or which result in a plea of guilty later withdrawn.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>However, such a statement is admissible (a) in any proceeding when another statement made in the course of the same plea or plea discussions has been introduced and the statement ought, in fairness, be considered contemporaneously with it, or (b) in a criminal proceeding for perjury or false statement if the statement was made by the defendant under oath, on the record and in the presence of counsel.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.170"/>
+      <num codify:value="2.04.170">XVII</num>
+      <heading>[Rule 14] Liability Insurance</heading>
+      <text>Evidence that a person was or was not insured against liability is not admissible upon the issue of whether the person acted negligently or otherwise wrongfully. This Rule does not require the exclusion of evidence of insurance against liability when offered for another purpose, such as proof of agency, ownership, or control, or bias or prejudice of a witness.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.180"/>
+      <num codify:value="2.04.180">XVIII</num>
+      <heading>[Rule 15] Sexual Behavior</heading>
+      <para>
+        <num>A.</num>
+        <text>When inadmissible. In a criminal case in which a person is accused of a sexual offense against another person, the following is not admissible:</text>
+        <para>
+          <num>1.</num>
+          <text>Evidence of reputation or opinion regarding the other sexual behavior of the victim of the sexual offense alleged.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Evidence of specific instances of sexual behavior of an alleged victim with persons other than the accused offered on the issue of whether the alleged victim consented to the sexual behavior with respect to the sexual offense alleged.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Exceptions. The Rule does not require the exclusion of evidence of:</text>
+        <para>
+          <num>1.</num>
+          <text>Specific instances of sexual behavior if offered for a purpose other than the issue of consent, including proof of the source of semen, pregnancy, disease, injury, mistake or the intent of the accused; or</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>False allegations of sexual offenses; or</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Sexual behavior with other than the accused at the time of the event giving rise to the sexual offense alleged.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.190"/>
+      <num codify:value="2.04.190">XIX</num>
+      <heading>[Rule 16] Privileges / Policy</heading>
+      <text>It is the policy of the Tribal Court to encourage and foster relationships of trust and confidence. It is believed that the probative value of certain communications is substantially outweighed by the impairment of those relationships which would result from disclosure.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.200"/>
+      <num codify:value="2.04.200">XX</num>
+      <heading>[Rule 17] Privileges / General</heading>
+      <text>The following subsections apply to Rule 16 through Rule 22:</text>
+      <para>
+        <num>A.</num>
+        <text>To be privileged a communication must come within these Rules.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Generally the privilege does not cease upon the termination of the relationship.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The privilege does not extend to communications in furtherance of an illegal purpose or fraud.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Communications not made in confidence, e. g., intended to be relayed to third parties, made in the presence of third parties, etc., are not within the privilege.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Waiver of the privilege can only be effected by the holder; i.e., by the client or patient, and not by the professional. In matters of nonprofessional privilege, the waiver can only be affected by the one making the communications.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>A third person unknown to the privilege holder cannot testify about the communication between the parties if the conversation took place in a location where there was a reasonable expectation of privacy.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.210"/>
+      <num codify:value="2.04.210">XXI</num>
+      <heading>[Rule 18] Attorney-Client Privilege</heading>
+      <para>
+        <num>A.</num>
+        <text>"Client" a person, corporation, public officer, association, or other organization or entity, either public or private, who is rendered professional legal services by a lawyer, or who, consults with a lawyer with the view of obtaining professional legal services from the lawyer.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>"Lawyer" is a person authorized or reasonably believed by the client to be authorized to practice law in the relevant jurisdiction, state or nation.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A communication is "confidential" if it is not intended to be disclosed to any third party.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A lawyer shall not, without consent of the client, be examined as to any communication made by the client to him, or his advice given in the course of professional representation.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The lawyer's staff, including secretary, clerk, stenographer, etc., shall not be examined concerning any fact or knowledge which was acquired in such capacity.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Exceptions. There is no privilege under this rule where:</text>
+        <para>
+          <num>1.</num>
+          <text>The services sought or obtained were to enable someone in the furtherance of a crime or fraud, which the client knew or reasonably should have known to be a crime or fraud;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The communication is relevant to an issue of breach of duty by the lawyer to the client, or by the client to his lawyer;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The communication is relevant to a matter of common interest between two or more clients if the communication was made by any of them to a lawyer retained or consulted in common, when offered in an action between any of the clients.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.220"/>
+      <num codify:value="2.04.220">XXII</num>
+      <heading>[Rule 19] Doctor-Patient</heading>
+      <text>A physician or surgeon shall not, without the consent of the patient, be examined as to any communication made by the patient with reference to any physical or mental disease or disorder or supposed physical or mental disease or disorder or as to any such knowledge obtained by personal examination of the patient. The patient has the privilege to refuse to disclose and to prevent any other person from disclosing confidential communications, made for the purpose of diagnosis, treatment, or consultation of the patient's physical or mental condition, among himself, the physician or any persons who are participating in the diagnosis, treatment or consultation under the direction of the physician.</text>
+      <para>
+        <num>A.</num>
+        <text>A "physician" is a person authorized to provide medical services, treatment, diagnosis or consultation including a person trained in the Native American healing practices in a state or tribe or reasonably believed by a patient to be so.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A "patient" is a person who consults, or is examined or interviewed by a physician.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The patient, by placing his medical condition at issue, i.e., by filing a personal injury suit, waives this privilege.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.230"/>
+      <num codify:value="2.04.230">XXIII</num>
+      <heading>[Rule 20] Clergy-Penitent</heading>
+      <text>A person has a privilege to refuse to disclose and prevent another from disclosing a confidential communication by the person to a clergyman in his professional character as a spiritual advisor.</text>
+      <para>
+        <num>A.</num>
+        <text>A "clergyman" is a minister, priest, rabbi, Native American spiritual leader or other similar functionary of a religious organization, including such which is recognized by the customs of the Tribe, or an individual reasonably believed to be so by the person consulting him.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A clergyman may claim the privilege on behalf of the person, if that person has not done so nor waived the privilege. Such authority is presumed absent evidence to the contrary.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.240"/>
+      <num codify:value="2.04.240">XXIV</num>
+      <heading>[Rule 21] Husband-Wife</heading>
+      <para>
+        <num>A.</num>
+        <text>Anti-Marital Fact. In any action before the Court, a husband may not be examined for or against his wife without her consent, and a wife may not be examined for or against her husband without his consent, as to events occurring during the marriage.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Communications. Neither husband nor wife may be examined during the marriage or after the marriage as to any communication made by one or the other during the marriage without consent of the other, i.e., the speaker. Only the speaker may waive this privilege.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Exceptions,</text>
+        <para>
+          <num>1.</num>
+          <text>In any action for divorce or a civil action by one against the other, the privileges are waived.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>In a criminal action or proceeding for a crime committed by one against the other, or in a criminal proceeding for abandonment, failure to support or provide for, or failure or neglect to furnish the necessities of life to the spouse or the minor children, the privileges are waived.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.250"/>
+      <num codify:value="2.04.250">XXV</num>
+      <heading>[Rule 22] Waiver</heading>
+      <text>A person upon whom the Rule confers a privilege against disclosure of confidential matters or communications waives the privilege if the person, while the holder of the privilege, voluntarily discloses or consents to disclosure of any significant part of the matter or communication.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.260"/>
+      <num codify:value="2.04.260">XXVI</num>
+      <heading>[Rule 23] Witnesses; Competence; Personal Knowledge</heading>
+      <text>Every person is competent to testify except as otherwise provided by the Rules or by statute.</text>
+      <text>A witness may not testify about a matter unless it is shown that the witness has personal knowledge about the matter. Such a showing may, but need not, consist of the witness' own testimony. The Rule is subject to <code-cite path="§XLVI" doc="Saint Regis Mohawk Tribe Res. No. 2008-17">Section 46</code-cite>; Rule 43, regarding opinion testimony of experts.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.270"/>
+      <num codify:value="2.04.270">XXVII</num>
+      <heading>[Rule 24] Oath or Affirmation</heading>
+      <text>Before testifying in the Tribal Court, every witness shall first state before the judge, parties, and spectators that he will testify truthfully pursuant to an oath prescribed by the Court.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.280"/>
+      <num codify:value="2.04.280">XXVIII</num>
+      <heading>[Rule 25] Interpreters]</heading>
+      <text>All interpreters before the Court are subject to the administration of an oath or affirmation to make a true interpretation.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.290"/>
+      <num codify:value="2.04.290">XXIX</num>
+      <heading>[Rule 26] Competency of Judge or Juror as Witness</heading>
+      <para>
+        <num>A.</num>
+        <text>The judge presiding at trial may not testify in that trial as a witness.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A member of the jury may not testify at a trial in which the juror is sitting as a trier of fact.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.300"/>
+      <num codify:value="2.04.300">XXX</num>
+      <heading>[Rule 27] Who May Impeach</heading>
+      <text>The credibility of a witness may be attacked by any party, including the party calling the witness to testify.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.310"/>
+      <num codify:value="2.04.310">XXXI</num>
+      <heading>[Rule 28] How a Witness' Credibility May Be Attacked</heading>
+      <para>
+        <num>A.</num>
+        <text>The witness' credibility may be attacked or supported by evidence of opinion or reputation, provided the evidence refers to truthfulness or untruthfulness; and evidence of truthfulness is admissible only when it has been attacked by opinion or reputation evidence or otherwise.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Specific instances of conduct of a witness, for the purpose of attacking or supporting his credibility, may only be inquired into on cross examination, concerning the witness' truthfulness or untruthfulness. The Rule does not operate as a waiver of the privilege against self-incrimination.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.320"/>
+      <num codify:value="2.04.320">XXXII</num>
+      <heading>[Rule 29] Impeachment by Evidence of Conviction of a Crime</heading>
+      <para>
+        <num>A.</num>
+        <text>For the purpose of attacking the credibility of a witness, evidence that he has been convicted of a crime shall be admitted, if it is elicited from the witness or established by public record, during cross examination, but only if the crime:</text>
+        <para>
+          <num>1.</num>
+          <text>Was punishable by death or imprisonment in excess of one (1) year pursuant to the law under which he was convicted; or</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>It involved dishonesty or false statement, regardless of the punishment.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Evidence under the Rule is not admissible if ten (10) years have elapsed since the date of conviction or date of release from the confinement for that conviction whichever is the later date; nor shall juvenile adjudications be admissible.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.330"/>
+      <num codify:value="2.04.330">XXXIII</num>
+      <heading>[Rule 30] Mode and Order of Interrogation and Presentation</heading>
+      <para>
+        <num>A.</num>
+        <text>Control by Court; The Court shall exercise reasonable control over the mode and order of interrogating witnesses and presenting evidence as to:</text>
+        <para>
+          <num>1.</num>
+          <text>Make the interrogation and presentation effective for the ascertainment of the truth, and</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Avoid needless consumption of time, and</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Protect witnesses from harassment or undue embarrassment.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Scope or Cross-Examination; Cross-examination should be limited to the subject matter of the direct examination and matters affecting the credibility of the witness. The Court may, in the exercise of discretion, permit inquiry into additional matters as if on direct examination.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Leading Questions; Leading questions shall not be used on the direct examination of a witness except as may be necessary to develop the witness' testimony. Leading questions shall be permitted on cross-examination. When a party calls a hostile witness, an adverse party, or a witness identified with an adverse party, interrogation may be by leading questions.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.340"/>
+      <num codify:value="2.04.340">XXXIV</num>
+      <heading>[Rule 31] Writing Used to Refresh Memory</heading>
+      <text>If a witness uses a writing to refresh memory for the purpose of testifying either:</text>
+      <para>
+        <num>A.</num>
+        <text>While testifying, or</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Before testifying, the Court may determine in the interest of justice, an adverse party is entitled to have the writing produced at the hearing, to inspect it, to cross examine the witness, and to introduce in evidence the portions which relate to the testimony of the witness. If it is claimed that the writing contains matters not related to the subject matter of the testimony, the Court shall examine the writing, excise any portions not related, and order delivery of the remainder to the party entitled. Any portion withheld over objections shall be preserved and made available to the Appellate Court in the event of an appeal. If a writing is not produced or delivered pursuant to order under this Rule, the Court shall make any order justice requires, except that in criminal cases when the prosecution elects not to comply, the order shall be one ruling out the testimony or, if the Court in its discretion determines that the interests of justice so require, declaring a mistrial.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.350"/>
+      <num codify:value="2.04.350">XXXV</num>
+      <heading>[Rule 32] Prior Inconsistent Statement of Witnesses</heading>
+      <para>
+        <num>A.</num>
+        <text>When examining a witness regarding a prior statement made by him, the statement need not be disclosed to the witness at that time; but upon request it shall be shown or disclosed to opposing counsel.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Evidence of a prior inconsistent statement made by a witness is not admissible unless the witness is given an opportunity to explain or deny it, and the opposing party is afforded an opportunity to interrogate the witness.</text>
+        <text>The Rule does not apply to the Admissions by the Party Opponent covered under the Saint Regis Mohawk Rules of Evidence, <code-cite path="§XL" doc="Saint Regis Mohawk Tribe Res. No. 2008-17">Section 40</code-cite>, Rule 37 (<span codify:value="b">B</span>).</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.360"/>
+      <num codify:value="2.04.360">XXXVI</num>
+      <heading>[Rule 33] Calling and Interrogating of Witness by Court</heading>
+      <para>
+        <num>A.</num>
+        <text>Calling by the Court. The Court may, on its own motion or at the suggestion of a party, call witnesses, and all parties are entitled to cross-examine witnesses called.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Interrogation by the Court. The Court may interrogate witnesses, whether called by itself or by a party.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Objections. Objections to the calling of witnesses by the Court or to interrogation by it may be made at the time or at the next available opportunity when the jury is not present.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.370"/>
+      <num codify:value="2.04.370">XXXVII</num>
+      <heading>[Rule 34] Exclusion of Witnesses</heading>
+      <text>At the request of a party or, on its own motion, the Court shall order witnesses to be excluded from the Court room, so that they cannot hear the testimony of other witnesses. This rule does not apply to:</text>
+      <para>
+        <num>A.</num>
+        <text>Parties</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Officer or employee of a party</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Person whose presence is essential to the presentation of a party's cause.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.380"/>
+      <num codify:value="2.04.380">XXXVIII</num>
+      <heading>[Rule 35] Hearsay: Definitions</heading>
+      <text>The following definitions apply to <code-cite path="§XXXVIII" doc="Saint Regis Mohawk Tribe Res. No. 2008-17">this section</code-cite>.</text>
+      <para>
+        <num>A.</num>
+        <text>A "Statement" is</text>
+        <para>
+          <num>1.</num>
+          <text>Oral or written assertion, or</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Nonverbal conduct of a person, if it is intended by him to be an assertion.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>"Declarant" is the person who makes the statement.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>"Hearsay" is a statement other than one made by the declarant, made out of court, offered in evidence to prove the truth of the matter asserted.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.390"/>
+      <num codify:value="2.04.390">XXXIX</num>
+      <heading>[Rule 36] Inadmissible</heading>
+      <text>Hearsay is not admissible except as provided by these Rules.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.400"/>
+      <num codify:value="2.04.400">XL</num>
+      <heading>[Rule 37] Statements Which Are Not Hearsay</heading>
+      <para>
+        <num>A.</num>
+        <text>Prior statements by witness. Prior statement by witness is not hearsay when the declarant testifies and is subject to cross-examination, and the statement is:</text>
+        <para>
+          <num>1.</num>
+          <text>Inconsistent with the declarant's testimony and given under oath subject to penalty of perjury, or</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Consistent with the declarant's testimony and is offered to rebut and expressed or implied charge against the declarant of recent fabrication or improper influence or motive, or</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>One of identification of a person made after perceiving the person.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Admission by a party opponent. When a statement is offered against the party and is:</text>
+        <para>
+          <num>1.</num>
+          <text>The party's own statement, or one which the party has manifested an adoption or belief in its truth, or</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>A statement by a person authorized by the party to make a statement, or</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>A statement by the party's agent or servant acting within the scope of agency or employment, or</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>A statement made by a co-conspirator of a party during the course and in furtherance of the conspiracy.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.410"/>
+      <num codify:value="2.04.410">XLI</num>
+      <heading>[Rule 38] Hearsay Exception: Availability of Declarant Material</heading>
+      <text>The following are not excluded by the Hearsay Rule, even though the declarant is available as a witness:</text>
+      <para>
+        <num>A.</num>
+        <text>Present Sense Impression. A statement describing or explaining an event or condition made while the declarant was perceiving the event or condition or immediately after.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Excited Utterance. A statement relating to a startling event or condition made while the declarant was under the stress of excitement caused by the event or condition.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Statements for Purpose of Medical Diagnosis or Treatment. Statements made for the purpose of medical diagnosis or treatment and describing medical history, or past or present symptoms, pain, or sensations, or the inception or general character or the cause or external source insofar as reasonably pertinent to diagnosis or treatment,</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Recorded Recollection. A memorandum or record concerning a matter about which the witness once had knowledge but now has insufficient recollection to enable the witness to testify fully and accurately, shown to have been made or adopted by the witness when the matter was fresh in the witness' memory and to reflect that knowledge correctly. If admitted, the memorandum or record may be read into evidence but may not itself be received as an exhibit unless offered by an adverse party.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Business Records, A memorandum, report, record, or data compilation, in any form, of acts, events, conditions, opinions, or diagnoses, made at or near the time by, or from information transmitted by, a person with knowledge, if kept in the course of a regularly conducted business activity, and if it was the regular practice of that business activity to make the memorandum, report, record, or data compilation, all as shown by testimony of the custodian or other qualified witness, unless the source of information or the method or circumstances of preparation indicate lack of trustworthiness. The term "business" as used in this paragraph includes business, institution, association, profession, occupation, and calling of ever kind, whether or not conducted for profit.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Public Records and Reports. Records, reports, statements, or data compilations, in any form, or public offices or agencies, setting forth:</text>
+        <para>
+          <num>1.</num>
+          <text>The activities of the office or agency, or</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Matters observed pursuant to duty imposed by law as to which matters there was a duty to report, excluding, however, in criminal cases matters observed by police officers and other law enforcement personnel, or</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>In civil actions and proceedings and against the government in criminal cases, factual findings resulting from an investigation made pursuant to authority granted by law, unless the sources of information or other circumstances indicate lack of trustworthiness.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.420"/>
+      <num codify:value="2.04.420">XLII</num>
+      <heading>[Rule 39] Hearsay Exceptions: Declarant Unavailable</heading>
+      <para>
+        <num>A.</num>
+        <text>Definition of "Unavailability:" A declarant is unavailable in situations where the declarant:</text>
+        <para>
+          <num>1.</num>
+          <text>Is exempted by ruling of the Court on the grounds of privilege from testifying;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Persists in refusing to testify despite an order of Court to do so;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Testifies to a lack of memory;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Is unable to be present because of death or then existing physical or mental illness or infirmity;</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Is absent from the hearing and the proponent of the statement has been unable to procure the declarant's attendance by process or other reasonable means.</text>
+        </para>
+      </para>
+      <para>
+        <num>A.</num>
+        <text>Declarant is not unavailable as a witness if that unavailability is due to the procurement or wrongdoing of the proponent of the statement for the purpose of preventing the witness from attending or testifying.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Exceptions: The following are not excluded by the Hearsay Rule if the declarant is unavailable as a witness.</text>
+        <para>
+          <num>1.</num>
+          <text>Former testimony. Testimony which was given under oath at the same or different proceeding, so long as the party offering the evidence, or a predecessor in interest in a civil action, has an opportunity and similar motive to develop the testimony by direct, cross or redirect examination.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Statement against interest. A statement, at the time made, that is contrary to the declarant's pecuniary or proprietary interest, or so far tended to subject the declarant to criminal or civil liability, that a reasonable person in the declarant's position would not have made the statement unless he believed it to be true. A statement tending to expose the declarant to criminal liability and offered to exculpate the accused is not admissible unless corroborating circumstances indicate the trustworthiness of the statement.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Statement under belief of impending death. In a prosecution for homicide or in a civil action or proceedings, a statement made by a declarant while believing that the declarant's death was imminent concerning the cause or circumstances of what the declarant believed to be impending death.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.430"/>
+      <num codify:value="2.04.430">XLIII</num>
+      <heading>[Rule 40] Hearsay Within Hearsay</heading>
+      <text>Hearsay included within hearsay is not excluded under the Hearsay Rules if each part of the combined statements conforms independently with an exception to the Hearsay Rules provided.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.440"/>
+      <num codify:value="2.04.440">XLIV</num>
+      <heading>[Rule 41] Attacking and Supporting Credibility of Declarant</heading>
+      <text>When a hearsay statement, or statement defined in <code-cite path="§XL" doc="Saint Regis Mohawk Tribe Res. No. 2008-17">Section 40</code-cite>, Rule 37 <span codify:value="(b)">B.</span> (1-4), has been admitted into evidence, the credibility of the declarant may be attacked, and if attacked may be supported, by any evidence which would have been admissible for such purposes had the declarant testified. Evidence of a statement or conduct by the declarant at any time, inconsistent with the declarant's hearsay statement is not subject to any requirement that the declarant may have been afforded an opportunity to deny or explain. If the party against whom a hearsay statement has been admitted calls the declarant as a witness, the party is entitled to examine the declarant on the statement as if under cross examination.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.450"/>
+      <num codify:value="2.04.450">XLV </num>
+      <heading>[Rule 42] Opinion and Expert Testimony: Opinion Testimony by Lay Witness</heading>
+      <text>If the witness is not testifying as an expert, the witness' testimony in the form of opinion is limited to those which are:</text>
+      <para>
+        <num>A.</num>
+        <text>Rationally based on the perception of the witness, and</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Helpful to a clear understanding of the witness; testimony or a determination of a fact in issue.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.460"/>
+      <num codify:value="2.04.460">XLVI</num>
+      <heading>[Rule 43] Testimony by Experts</heading>
+      <para>
+        <num>A.</num>
+        <text>If scientific, technical, or other specialized knowledge will assist the trier of fact to understand the evidence or to determine a fact in issue, a witness qualified as an expert by knowledge, skill, experience, training or education may testify in the form of opinion or other.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The facts or data in the case, upon which the expert bases an opinion or interference may be those perceived by or made known to the expert at or before the hearing. If the facts or data are of such a type reasonably relied upon by experts in the particular field in forming opinions or inferences upon the subject, the facts or data need not be admissible in evidence.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.470"/>
+      <num codify:value="2.04.470">XLVII</num>
+      <heading>[Rule 44] Bases of Opinion Testimony by Experts</heading>
+      <text>The expert may testify in terms of opinion or inference and give reasons without prior disclosure of the underlying facts or data, unless the Court requires otherwise. However, the expert may be required to disclose such facts or data on cross-examination.</text>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.480"/>
+      <num codify:value="2.04.480">XLVIII</num>
+      <heading>[Rule 45] Court Appointed Experts</heading>
+      <para>
+        <num>A.</num>
+        <text>The Court may on its own motion or on the motion of any party enter an order to show cause why expert witnesses should not be appointed, and may request the parties to submit nominations.</text>
+        <para>
+          <num>1.</num>
+          <text>The Court may appoint any expert witnesses agreed upon by the parties, and may appoint expert witnesses of its own selection.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Upon consenting to act, the witness shall be informed of the duties, either in writing by the Court, copy to be filed with the clerk, or at a conference in which the parties may participate.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>A witness shall advise the parties of his findings, if any; his deposition may be taken by any party; the witness may be called to testify by the Court or any party; the witness shall be subject to cross-examination by each party, including the party calling the witness.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Compensation. The Court shall determine appropriate compensation.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Disclosure. In the exercise of its discretion, the Court may authorize disclosure to the jury of the fact that the Court appointed the expert witness.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Nothing in the rule limits either party from calling expert witnesses of their own selection.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.490"/>
+      <num codify:value="2.04.490">XLIX</num>
+      <heading>[Rule 46] Authentication and Identification:</heading>
+      <text>
+        <strong>Requirement of Authentication or Identification</strong>
+      </text>
+      <para>
+        <num>A.</num>
+        <text>General. The requirement of authentication or identification as a condition precedent to admissibility is satisfied by evidence sufficient to support a finding that the matter in question is what it's proponent claims.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Illustrations. The following are illustrative examples conforming with this Rule, and are not limitations:</text>
+        <para>
+          <num>1.</num>
+          <text>Testimony by a witness with knowledge that the matter is what it claimed to be.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Characteristics in appearance, contents, substance, internal patterns, taken in conjunction with circumstances which support that the matter is what it is claimed to be.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Voice identification: Identification of a voice, whether heard or through mechanical or electronic transmission or recording, by opinion based upon hearing the voice at any other time under circumstances connecting it with the alleged speaker.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Telephone conversations, by evidence that a call was made to the number assigned at the time by the phone company to a person or business, if:</text>
+          <para>
+            <num>(a)</num>
+            <text>To a person, circumstances include self-identification, showing the person answering the phone to be the one called, or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>To a business, the call was made to a place of business and the conversation related to business reasonably transacted over the phone.</text>
+          </para>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Public records or reports: Evidence that a writing authorized by law to be recorded or filed and in fact was recorded or filed in the public office where such items are kept.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.500"/>
+      <num codify:value="2.04.500">L</num>
+      <heading>[Rule 47] Self-Identification</heading>
+      <text>Extrinsic evidence of the authenticity as a condition precedent to admissibility is not required for the following:</text>
+      <para>
+        <num>A.</num>
+        <text>Official Public Documents. Documents bearing the official seal and attesting or executing signature of the United States, any State, Indian Tribe or Nation, district, territory, political subdivision, department or agency.</text>
+        <text>B, 	Public Documents. Documents without official seal by purporting to have authorizing signature of official or employee of any entity included in paragraph (A) above, who has the official capacity to certify under seal and such signature is genuine.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Foreign Documents. Documents purporting to be executed or attested in an official capacity by a person authorized under the laws of a foreign country, to make such an execution and accompanied by a final certification as to the genuineness of the signature and official position of:</text>
+        <para>
+          <num>1.</num>
+          <text>The executing or attesting person, or</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Any foreign official whose certification of genuineness relates to the execution or attestation. Final certification may be made by a secretary of the embassy or legation, consul general, consul, vice consul, or consular agent or the United States or a diplomatic or consular official of the foreign country assigned to the United States.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Certified Copies of Public Documents: A copy of an official record or report or entry, or of a document authorized by law to be recorded or filed and actually is filed or recorded in a public office, certified as correct by the custodian or other persons authorized to make the certification, which complies with paragraphs (a), (b) or (c) of this Rule.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Official Publications: Books, pamphlets, or other publications supporting to be issued by a public authority.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Newspapers and Periodicals: Printed materials purporting to be a newspaper or periodical.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Signs, Tags. Labels: Inscription, signs, tags, labels purporting to have been affixed in the course of business and indicating ownership, control or origin.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Documents including a certification of acknowledgement executed in the manner provided by law by a notary public or other officer authorized by law to make acknowledgments.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Commercial paper, signatures, and documents relating to the extent provided by general commercial law.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.510"/>
+      <num codify:value="2.04.510">LI</num>
+      <heading>[Rule 48] Contents of Writings. Recordings and Photographs: Definitions</heading>
+      <para>
+        <num>A.</num>
+        <text>"Writings" and "recordings" consist of letters, words, numbers or their equivalent, set down by handwriting, typewriting, printing, photocopying, photographing, magnetic impulse, mechanical or electronic recording or other forms of data compilation.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>"Photographs" include still photographs, x-ray films, video tapes, and motion pictures.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>An "original" of a written or recording is the best thing itself, or any counterpart intended to have the same effect by a person executing or issuing it. An "original" photograph includes the negative or any print. If data is stored in a computer or similar device, any printout or other output readable by sight, shown to reflect the data accurately is an original.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>"Duplicate" is a counterpart produced by the same impression as the original, or from the same matrix, or by means of photography including enlargements and miniatures, or by mechanical or electronic re-recordings, or by chemical reproduction, or by other equivalent technique which reproduces the original.</text>
+      </para>
+    </section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.520"/>
+      <num codify:value="2.04.520">LII</num>
+      <heading>[Rule 49] Requirement of Original</heading>
+      <text>To prove the content of a writing, recording or photograph, the original is required, except as provided in this Article.</text>
+    </section>
+  </attachment>
 </document>
