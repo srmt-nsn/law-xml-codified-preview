@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2011-48">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2011-48" codify:doc="Saint Regis Mohawk Tribal Code of Law" codify:path="1.05">
   <num>2011-48</num>
   <heading>Resolution of the Saint Regis Mohawk Tribe to Adopt the Procedure for Adopting Tribal Laws and Ordinances</heading>
   <meta>
@@ -12,4 +12,249 @@
       <citation type="res" url="./adopted/2011-48.pdf">Res. No. 2011-48</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Saint Regis Mohawk Tribe (the "Tribe") is a federally recognized Indian tribe eligible for the special programs and services provided by the United States to Indians because of their status as Indians and is recognized as possessing powers of self-government; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Council of the Tribe is the duly recognized governing body of the Tribe and is a federally recognized Indian tribal government; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>there has been an ongoing need to clatify and implement more streamlined procedures for the adoption of Tribal Laws or Ordinances, which will help ensure transparency, efficiency and clarity of Tribal Council decision making process; now, therefore, be it</text>
+    </recital>
+    <recital>
+      <conjunction>RESOLVED,</conjunction>
+      <text>That the Saint Regis Mohawk Tribe hereby adopts the following policy and procedure for the adoption of Tribal Laws and Ordinances:</text>
+      <para codify:tag="section"><codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.05.010"/>2
+        <num codify:value="1.05.010">A.</num><heading>Purpose</heading><text>Tribal Laws and Ordinances are forms of legislation intended to reflect the policies aimed at protecting the health, safety, well-being and sovereignty of the Tribal government and of Tribal members. They are also intended to provide the lawful basis for regulation and governance of the territory under the jurisdiction of the Saint Regis Mohawk Tribe. Tribal Legislation is meant to enhance the health, safety, well-being and sovereignty of the Tribal government and of Tribal members.</text><text>All final decisions on matters of permanent interest shall be embodied in ordinances. Such enactments shall be available for inspection by members of the Tribe during nonnal business hours.</text></para>
+      <para codify:tag="section">
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.05.020"/>
+        <num codify:value="1.05.020">B.</num>
+        <heading>Initiation</heading>
+        <text>Legislation may be drafted and proposed by a Tribal program or department at its initiative or at the request of the Tribal Council, who may also draft and propose legislation at its own initiative. It may also be drafted and proposed by any Tribal community member in accordance with the procedures set forth below.</text>
+      </para>
+      <para codify:tag="section">
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.05.030"/>
+        <num codify:value="1.05.030">C.</num>
+        <heading>Form</heading>
+        <text>The format of the proposed legislation shall include the following sections:</text>
+        <para>
+          <num>1.</num>
+          <text>Title</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Purpose</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Definitions</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Substantive sections of the proposed legislation</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Amendment provision</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>Repeal provision</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>Severability clause</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>Signature page with Tribal Clerk certification</text>
+        </para>
+        <para>
+          <num>9.</num>
+          <text>Legislation Submission Form</text>
+        </para>
+      </para>
+      <para codify:tag="section">
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.05.040"/>
+        <num codify:value="1.05.040">D.</num>
+        <heading>Submission</heading>
+        <para>
+          <num>1.</num>
+          <text>Any proposed legislation shall be submitted in original paper form (hardcopy) and in an electronic form to the Saint Regis Mohawk Tribal Clerk's office.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Electronic submissions shall be made in Microsoft Word.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>If legislation is proposed by a Tribal program or department, a cover sheet that includes the date of submission, name and contact information of the person proposing the legislation, name of any applicable program or department, any applicable grant application, or any applicable deadlines shall be submitted with the proposed legislation.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>If egislation is proposed by a Tribal community member, a Legislation Submission Form shall also be submitted.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>If a member of Tribal Council proposes legislation on their own initiative, they shall provide copies to each member of Council, Council's Assistant, the Tribal Clerk and the Legal Department. No member of Council shall submit for consideration, legislation on behalf a Tribal member without that Tribal member following the procedures outlined above.</text>
+        </para>
+      </para>
+      <para codify:tag="section">
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.05.050"/>
+        <num codify:value="1.05.050">E.</num>
+        <heading>Review</heading>
+        <para>
+          <num>1.</num>
+          <text>The Tribal Clerk shall provide copies of the proposed Tribal Law, Act or Ordinance to each member of Council and to the Legal Department for initial review. Initial Review shall not last more than thirty (30) calendar days.</text>
+        </para>
+      </para>
+      <para codify:tag="section">
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.05.060"/>
+        <num codify:value="1.05.060">F.</num>
+        <heading>Notice and Comment Period</heading>
+        <para>
+          <num>1.</num>
+          <text>Once the initial review is complete, the Tribal Clerk shall issue a notice to the Tribal membership that such legislation is being presented for comment. The date of this notice shall commence the thirty (30) day comment period. The notice shall contain the following: </text>
+          <para>
+            <num>a.</num>
+            <text>The title and purpose of the proposed legislation</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>A summary of its major provisions</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>Information on how Tribal members may view or obtain copies of it</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>Request for comments</text>
+          </para>
+          <para>
+            <num>e.</num>
+            <text>Information on how comments are to be received</text>
+          </para>
+          <para>
+            <num>f.</num>
+            <text>Expiration date for draft comment period</text>
+          </para>
+          <para>
+            <num>g.</num>
+            <text>Date and time of three (3) public meetings to be held on the proposed legislation</text>
+          </para>
+          <para>
+            <num>h.</num>
+            <text>Date of next regularly scheduled Tribal meeting at which the legislation will be presented for adoption.</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Comments received during the draft notice and comment period may be received in writing to the Legal Department who will note the date the comment was received and then forward the comment accordingly.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Comments may also be received verbally at one of the public meetings on the legislation. In such case, the chair of the meeting shall write down the comment, read aloud the comment for verification and correction if necessary, and record the comment along with the date of the meeting in which the comment was received.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Following the draft comment period, Tribal Council shall have no more than thirty
+            (30) calendar days to meaningfully consider comments received and to create a final draft of the proposed legislation. Tribal Council shall provide a response to comments that may take the form of a summary. The response summary shall be made available to Tribal members. In light of comments received, Tribal Council shall determine what changes, if any, should be made to the proposed legislation and shall direct the Legal Department to incorporate such changes accordingly.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Once the final draft is complete to the satisfaction of Tribal Council, it shall be submitted to the Tribal Clerk who will record the date submitted.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>The Tribal Clerk shall issue a notice to the Tribal membership that such legislation is being presented for final action. This date will commence the final notice period of 30 calendar days. The final notice shall include:</text>
+          <para>
+            <num>a.</num>
+            <text>The title and purpose of the proposed legislation</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>A summary of its major provisions</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>Information on how Tribal members may view or obtain copies of it</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>Expiration date of final notice period</text>
+          </para>
+        </para>
+      </para>
+      <para codify:tag="section">
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.05.070"/>
+        <num codify:value="1.05.070">G.</num>
+        <heading>Enactment</heading>
+        <para>
+          <num>1.</num>
+          <text>Legislation shall be presented to the Tribal Council in its Legislative Session and it shall be adopted when at least two out of three chiefs vote to adopt the proposed legislation, sign the legislation in duplicate original and have their signatures certified by the Tribal Clerk.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>If the legislation does not receive the requisite number of votes, it shall fail and may only be presented again upon the initiative of 2 out of 3 Chiefs, whereupon the Tribal Council shall engage in further discussion on the proposed legislation. The chair of the Legislative Session may call for a second vote on whether to adopt the legislation as finally presented; if the second vote is not successful, the legislation shall finally fail and can only be re-considered by going through the complete notice and comment process as outlined above.</text>
+        </para>
+      </para>
+      <para codify:tag="section">
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.05.080"/>
+        <num codify:value="1.05.080">H.</num>
+        <heading>Recordkeeping</heading>
+        <para>
+          <num>1.</num>
+          <text>Originals of finally enacted legislation shall be kept by the Tribal Clerk and copies shall be provided to the Tribal Council, the Legal Department and to the person who initially submitted the proposed legislation.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>In no case shall a signature page be severed from the substance of any finally enacted legislation.</text>
+        </para>
+      </para>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>THE SAINT REGIS MOHAWK TRIBAL COUNCIL</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+          </tr>
+          <tr>
+            <td>Mark H. Garrow</td>
+            <td class="text-indent-2">Randy Hart</td>
+            <td class="text-indent-2">Ron LaFrance Jr.</td>
+          </tr>
+          <tr>
+            <td>Tribal Chief</td>
+            <td class="text-indent-2">Tribal Chief</td>
+            <td class="text-indent-2">Tribal Chief</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text><strong>CERTIFICATION:</strong> This is to certify that the Saint Regis Mohawk Tribal Council pursuant to the authority vested therein duly passed the above resolution.</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>___________________________________</td>
+            <td class="text-indent-4">October 18, 2011</td>
+          </tr>
+          <tr>
+            <td>Corleen Jacco, Tribal Clerk</td>
+            <td class="text-indent-4">Date</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </procedural-data>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 1998-139">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 1998-139" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>1998-139</num>
   <heading>Resolution Establishing the Akwesasne Wetlands Conservations Act</heading>
   <meta>
@@ -12,4 +12,560 @@
       <citation type="res" url="./adopted/1998-139.pdf">Res. No. 1998-139</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Saint Regis Mohawk Tribe is the federally recognized Indian Tribal Government of the Akwesasne Mohawk People, and;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Council of the Saint Regis Mohawk Tribe is empowered by the people to act as the governing body of the Saint Regis Mohawk Tribe, and is authorized to act on the Tribe's behalf to enhance Tribal culture, maintain law and order, protect Tribal health and welfare, and to preserve the living and non-living resources of Akwesasne, and;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Council is authorized to protect these interests and values for the next seven generations of Tribal members through enactment of ordinances, adoption of resolutions, negotiation of intergovernmental agreements, development of studies, and such other and further actions as may be necessary to protect public health, the environment and the natural resources of Akwesasne, and;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Saint Regis Mohawk Tribe has a primary interest in protecting the health and welfare of all people who reside or do business in the St. Regis Mohawk Reserve Area and in protecting the Reservation environment and the health and welfare of the Reservation population from environmental degradation and endangerment, and;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Saint Regis Mohawk Tribe has a primary interest in protecting the health and welfare of all people who reside or do business in the St. Regis Mohawk Reserve Area and in protecting the Reservation environment and the health and welfare of the Reservation population from environmental degradation and endangerment, and;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE, BE IT RESOLVED,</conjunction>
+      <text>that we the Tribal Council of the Saint Regis Mohawk Tribe hereby declare that upon the enactment of this resolution it shall be the policy of the Tribe that no further degradation of the Wetland environment of Akwesasne shall occur unless authorized by Tribal agencies, and;</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED,</conjunction>
+      <text>that we, the Tribal Council of the Saint Regis Mohawk Tribe in furtherance of these policies, do on this date, hereby promulgate and enact the "Akwesasne Wetlands Conservation Act," and do formally approve the official "Wetlands Map", in the form attached hereto, as Tribal law.</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FINALLY RESOLVED,</conjunction>
+      <text>that we the Tribal Council of the Saint Regis Mohawk Tribe, in furtherance of our government-to-government relationship with EPA, hereby request that EPA act in accordance with applicable law and policy, including, but not limited to, the 1984 Policy on Environmental Programs in Indian Country, and Executive Order 13084, dated May 14, 1998, and take such action as may be necessary to protect and further the interests of the Saint Regis Mohawk Tribe as set forth in this Resolution, and that EPA take immediate action to:</text>
+      <text>
+        <ul>
+          <li>Acknowledge the Tribe's inherent authority as a sovereign government to establish rules and regulations to protect human health and the Reservation environment, and further acknowledge that Federal Clean Water Act § 404 activities on the Reservation shall be carried out in consultation with the Saint Regis Mohawk Tribe Environment Division, and;
+          </li>
+          <li>Acknowledge the continuing role of the Tribe in working with EPA and the United States Army Corps of Engineers to implement an effective and environmentally sound Wetlands Conservation Program by recognizing the Akwesasne Wetlands Conservation Act as the standard to be applied to projects with potential Wetland impacts.
+          </li>
+        </ul>
+      </text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>SAINT REGIS MOHAWK TRIBE</text>
+  </procedural-data>
+  <attachment id="executive_summary">
+    <heading>EXECUTIVE SUMMARY</heading>
+    <text>The law firm of McNamee, Lochner, Titus &amp; Williams, P.C., was selected in March, 1996 to provide legal support and assistance to the St. Regis Mohawk Tribe, Environment Division, in developing an Akwesasne Wetlands Conservation Act (referred to below as the "Act"). The Act is designed to work in concert with the existing Wetlands Protection Plan and Environmental Assessment Procedure to comprehensively regulate and protect the critical Wetland resources of Akwesasne. When an applicant identifies potential wetlands impacts during the environmental assessment procedure, the requirement to submit a Wetlands Permit Application is triggered. In concert, these ordinances will provide the Environment Division with powerful tools to guide development and preserve environmental quality.</text>
+    <text>In order to develop the Wetlands Act, Counsel to the Environment Division examined the Wetland protection plans of other Tribes, the Federal government, and New York State. Counsel worked with Environment Division staff, and in particular the Wetlands Biologist, to develop a Wetlands protection plan that protects the wetland ecosystems that have since time immemorial been central to Akwesasne culture.</text>
+    <text>The Act consists of essentially five (5) elements. These elements are: policy, mapping of wetlands, public notice, permitting, and enforcement. Titles I and II set forth in clear terms the important policies that drive Wetland protection, and charge the Environment Division with the task of identifying Wetlands areas on the Reservation and publishing a Wetlands map. Through the diligent efforts of Environment Division staff, working closely with their consultants, the work of identification and mapping has been substantially completed.</text>
+    <text>Title III sets forth the Wetlands Permitting Plan. In order to protect and preserve Wetlands for present and future generations, any person desiring to conduct on designated Wetlands any activity regulated under the Act must apply to the Environment Division for a Permit. By requiring Permit applications to be submitted to the Environment Division prior to development, the Tribe can impose conditions on such development, as needed, in order to guide growth in a manner that is protective of Tribal resources.</text>
+    <text>Certain activities consistent with traditional, cultural uses of Wetlands are excepted from the Permit requirement. Included amongst the excepted activities are the collection, harvest and growth of medicinal and other plants. As part of its responsibilities under the Act, the Environment Division shall compile a list of medicinal plants, shrubs and herbs found in the Wetlands of Akwesasne. Thereafter, any person engaged in the collection, harvest or growth of such plants, shrubs and herbs shall be exempt from the permitting requirements. Also excepted, although subject to certain conditions, are traditional home-builder activities affecting less than .25 acres of Wetlands.</text>
+    <text>Title IV establishes an Environmental Appeals Board. In an attempt to achieve balance and consensus regarding Wetlands and Water Quality protection, the Board is proposed to be staffed by representatives from the St. Regis Mohawk Tribe Environment Division, the St. Regis Mohawk Tribal Council, the Mohawk Council of Akwesasne, the Mohawk Nation of Chiefs, and three at-large members. The Board is empowered to hear appeals from Environment Division orders and permitting decisions in order to assure that all affected are provided with due process of law. The Board's review of the decisions of the Environment Division as they pertain to Wetlands is not unlimited, but empowers the Board to decide only the five issues enumerated in <code-cite path="§01-0402|2.">section 01-0402(2)</code-cite> of the Act.</text>
+    <text>The Act will serve to protect the Wetlands and Water Quality of Akwesasne from undue encroachment and over-development. By regulating the human impact in the Wetlands, the Act will improve the quality of these ecosystems by returning them to their traditional state of balance.</text>
+  </attachment>
+  <codify:insert path="5.06" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">1</num>
+      <heading>General Provisions and Public Policy</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="5.06" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">2</num>
+      <heading>Wetlands Studies: Notification and Maps</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="5.06" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">3</num>
+      <heading>Wetlands Regulations</heading>
+    </container>
+  </codify:insert>
+  <codify:insert path="5.06" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">4</num>
+      <heading>Appeal and Review</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <codified:at path="5.06"/>
+    <heading>AKWESASNE WETLANDS CONSERVATION ACT</heading>
+    <container>
+      <prefix>TITLE</prefix>
+      <num>I</num>
+      <heading>GENERAL PROVISIONS AND PUBLIC POLICY</heading>
+      <section>
+        <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.06.010"/>
+        <num codify:value="5.06.010">01-0101</num>
+        <heading>Declaration of Policy</heading>
+        <text>It is the public policy of the St. Regis Mohawk Tribe to preserve, protect and conserve wetlands and the benefits that they provide, to prevent the pollution and destruction of wetlands, and to regulate the use and development of such wetlands to secure to the people of Akwesasne their natural benefits, consistent with the general welfare and beneficial economic, social, cultural and agricultural development of Akwesasne.</text>
+      </section>
+      <section>
+        <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.06.020"/>
+        <num codify:value="5.06.020">01-0102</num>
+        <heading>Statement of Findings</heading>
+        <para>
+          <num>1.</num>
+          <text>The wetlands of Akwesasne have since time immemorial played a critical role in sustaining Akwesasne cultural traditions, health and welfare.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Considerable acreage of freshwater wetlands in Akwesasne has been lost, polluted or impaired by unregulated draining, dredging, filling, excavating, building, pollution or other acts inconsistent with the natural uses of such areas. The wetlands that remain are in jeopardy of being lost, destroyed or impaired by such unregulated acts.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Wetlands conservation is a matter of Tribal concern, calling for uniform Tribal regulation since a wetland in one region of Akwesasne is affected by acts on rivers, streams and wetlands of other regions.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Any loss of wetlands deprives the people of Akwesasne of some or all of the many and multiple benefits to be derived from wetlands, including, but not limited to:</text>
+          <para>
+            <num>(a)</num>
+            <text>flood and storm control by the hydrologic absorption and storage capacity of wetlands;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>protection of subsurface water resources and provision for valuable watersheds and recharging ground water supplies;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>pollution treatment by serving as biological and chemical oxidation basins;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>erosion control by serving as sedimentation areas and filtering basins, absorbing silt and organic matter and protecting channels and harbors;</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>education of future generations by providing readily accessible outdoor bio-physical laboratories, living classrooms and vast training and education resources;</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>open space and aesthetic appreciation by providing areas for hunting, gathering, fishing, canoeing, bird-watching and camping often in the only remaining open areas along increasingly crowded river fronts;</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>provision of critical wildlife habitat; and</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>support of valuable medicinal plants and trees of cultural and economic importance including, but not limited to, Heartweed (<em>Polygonum persicaria</em>) and BlackAsh (<em>Fraxinus nigra</em>).</text>
+          </para>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Regulation of wetlands, in accordance with the exceptions established in <code-cite path="§01-0301" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">§ 01-0301</code-cite> of this ordinance, is consistent with the legitimate interests of farmers and other landowners to graze and water livestock, make reasonable use of water resources, harvest natural products and medicinal plants of the wetlands, selectively cut timber and otherwise engage in the use of land for agricultural purposes.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.06.030"/>
+        <num codify:value="5.06.030">01-0103</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>1.</num>
+          <text>"<em>Board</em>" shall mean the Akwesasne Environmental Appeals Board.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>"<em>Environment Division</em>" means the Environment Division of the St. Regis Mohawk Tribe.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>"<em>Person</em>" shall mean any corporation, firm, partnership, association, trust, estate, one or more individuals, and any unit of Tribal government or an agency or subdivision thereof.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>"<em>Pollution</em>" shall mean the presence in the environment of conditions induced by humanity or any substances in quantities or characteristics which are or may be injurious to human, plant or wildlife, or other animal life or to property.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>"<em>Wetlands</em>" means lands and waters of Akwesasne as shown on the wetlands map and that are seasonally or permanently flooded by shallow water as well as lands where the water table is close to the surface; in either case the presence of abundant water has caused the formation of hydric soils and has favored the dominance of either hydrophytic or water tolerant plants which are dependant upon or tolerant of very moist conditions. Wetlands may or may not contain species that are of value culturally to the Mohawks of Akwesasne. Lands that are under active agricultural use that are periodically flooded, soaked, or wet are not considered to be wetlands by definition.</text>
+          <para>
+            <num>(a)</num>
+            <text>Wetlands are comprised of marshes, bogs, swamps and fens supporting aquatic or semi-aquatic vegetation:</text>
+            <para>
+              <num>(i)</num>
+              <text>"<em>Marshes</em>" are wet areas periodically inundated with standing or slowly moving water and/or permanently inundated areas characterized by emergent herbaceous vegetation, and to a lesser extent, anchored floating plants and submergents.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>"<em>Bogs</em>" are peat covered areas or peat filled depressions with a high water table and a surface carpet of acidophilic mosses (chiefly Sphagnum). The water table is at or near the surface in the spring, and slightly below during the remainder of the year.</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>"<em>Swamps</em>" are wooded wetlands including both forest swamps and thicket swamps, with 25% cover or more of tall trees and shrubs. In swamps, standing to gently flowing waters occur seasonally or persist for long periods on the surface.</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>"<em>Fens</em>" are peat accumulating wetlands characterized by surface layers of poorly to moderately decomposed peat, often with well decomposed peat near the base. They are generally covered by a dominant component of sedges although grasses and reeds may be present. Fens receive some drainage from surrounding mineral soil and supports marsh-like vegetation.</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>"<em>Wooded Wetlands</em>" are wetlands dominated by trees; a forested wetland.</text>
+            </para>
+            <para>
+              <num>(vi)</num>
+              <text>"<em>Wet Meadows</em>" are grasslands with nearly saturated soil near the surface, but without standing water for most of the year.</text>
+            </para>
+            <para>
+              <num>(vi)</num>
+              <text>"<em>Open Water</em>" refers to water that is free of emergent vegetation or artificial obstructions.</text>
+            </para>
+            <para>
+              <num>(vii)</num>
+              <text>"<em>Emergent Wetland</em>" refers to wetlands dominated by mostly herbaceous emergent vegetation.</text>
+            </para>
+            <para>
+              <num>(viii)</num>
+              <text>"<em>Forested Wetlands</em>" are defined by the presence of trees which mostly cover the site (see, "Wooded Wetlands").</text>
+            </para>
+            <para>
+              <num>(ix)</num>
+              <text>"<em>Scrub/Shrub Wetlands</em>" exhibit wetland soils and hydrogeology, and are populated largely by shrubs, bushes or brush which are persistent year to year.</text>
+            </para>
+            <para>
+              <num>(x)</num>
+              <text>"<em>Reed Swamps</em>" refers to marshes dominated by <em>Phragmites</em> (common reed).</text>
+            </para>
+            <para>
+              <num>(xi)</num>
+              <text>"<em>Slough</em>" refers to an elongated marsh often bisected by a creek with slowly flowing surface water.</text>
+            </para>
+            <para>
+              <num>(xii)</num>
+              <text>"<em>Pot Hole</em>" refers to a shallow, marsh-like pond.</text>
+            </para>
+            <para>
+              <num>(xiii)</num>
+              <text>"<em>Peatland</em>" is a generic term for any wetland that accumulates partially decayed plant matter.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>"<em>Emergent</em>" means rising above a surrounding medium, as in wetland plants protruding above the water level.</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>"<em>Wetlands map</em>" shall mean a map promulgated by the Environment Division by their authority under <code-cite path="§01-0201" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">§01-0201</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">this article</code-cite> on which is indicated the general boundaries of any wetlands.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>TITLE</prefix>
+      <num>II</num>
+      <heading>WETLANDS STUDIES: NOTIFICATION AND MAPS</heading>
+      <section>
+        <codify:insert path="2" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.06.040"/>
+        <num codify:value="5.06.040">01-0201</num>
+        <heading>Wetlands Inventory</heading>
+        <para>
+          <num>1.</num>
+          <text>The Environment Division shall complete a study to identify and map, to the extent practicable, the wetlands of Akwesasne (the "Wetlands Inventory").</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Upon completion of the wetlands inventory, the Environment Division shall prepare a tentative wetlands map outlining the boundaries of such wetlands as determined by the study and inventory conducted under subdivision (<span codify:value="a">1</span>) of <code-cite path="§01-0201" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">this section</code-cite>.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The tentative wetlands map shall set forth the general boundaries of such wetlands as accurately as is practicable to inform the landowners, the Tribe, and the Environment Division of the approximate location of the wetlands.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Upon completion of the tentative wetlands map, the Environment Division shall hold a public hearing in order to afford an opportunity for any person to propose additions or deletions from such map. The Environment Division shall assure that a copy of the relevant map is available for public inspection at a convenient location, no more than thirty nor less than 10 days before the public hearing. The Environment Division shall also issue notice of the public hearing in a local newspaper, at least once, no later than 10 days prior to the hearing.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>After considering the rights of affected property owners and the ecological balance in accordance with the policy and purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">this article</code-cite>, the St. Regis Mohawk Tribal Council shall promulgate by order the final wetlands map. A copy of the order, together with a copy of the wetlands map shall be filed in the offices of the Environment Division, and will be available for public review at a location or locations found by the Environment Division to be most publicly accessible. The Environment Division shall also publish a final notice of promulgation in a local newspaper.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>Upon completion, the Environment Division may readjust the map to clarify the boundaries of the wetlands, to correct any errors in the map, to make any additions, deletions or technical changes in the map, and to reflect changes that have occurred from the granting of permits pursuant to <code-cite path="§01-0301" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">§§ 01-0301</code-cite> and <code-cite path="§01-0302" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">01-0302</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">this article</code-cite>, or natural changes which may have occurred through erosion, accretion, wildlife activity, storm events, or otherwise. Notice of such readjustment shall be given in the same manner as set forth in subdivision (<span codify:value="d">4</span>) of <code-cite path="§01-0201" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">this section</code-cite> for the promulgation of the final wetlands map.</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>The Environment Division may, upon its own initiative, and in its sole discretion, identify more precisely the boundary line or lines of a wetland or portion thereof. Such more precise identification shall be of appropriate scale and sufficient clarity to permit the ready identification of individual buildings and of other structures or facilities or significant geographical features with respect to the boundary of any wetland. In making its determinations under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">the Act</code-cite>, the Environment Division may consider the results of any additional delineations funded by individual applicants.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>TITLE</prefix>
+      <num>III</num>
+      <heading>WETLANDS REGULATIONS</heading>
+      <section>
+        <codify:insert path="3" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.06.050"/>
+        <num codify:value="5.06.050">01-0301</num>
+        <heading>Permits</heading>
+        <para>
+          <num>1.</num>
+          <text>After issuance of the official wetlands map, any person desiring to conduct on wetlands designated on the map any of the regulated activities set forth in subdivision <span codify:value="(b)">two</span> of <code-cite path="§01-0301" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">this section</code-cite> must obtain a permit as required by this title.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Activities subject to regulation shall include any form of draining, dredging, excavation, removal of soil, mud, sand, shells, gravel or other aggregate from any wetland, either directly or indirectly; erecting any structures, roads, the driving of pilings, or placing of any other obstructions whether or not changing the ebb and flow of the water; any form of pollution, including but not limited to, installing a septic tank, running a stormwater or sanitary sewer outfall, discharging sewage treatment effluent or other liquid wastes into or so as to drain into a wetland; and any other activity which substantially impairs any of the several functions served by wetlands or the benefits derived from wetlands which are set forth in <code-cite path="§01-0102|5." doc="Saint Regis Mohawk Tribe Res. No. 1998-139">section 01-0102(5)</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">this article</code-cite>. These activities are subject to regulation whether or not they occur upon the wetland itself, if, in the discretion of the Environment Division, they inhibit or otherwise substantially affect the function of the wetlands and/or are located within 100 feet from the boundary of such wetland as indicated on the wetlands map.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert path="3" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.06.060"/>
+        <num codify:value="5.06.060">01-0302</num>
+        <heading>Non-Prohibited Discharge of Dredged or Fill Material</heading>
+        <para>
+          <num>1.</num>
+          <text>The following activities are not prohibited by or otherwise subject to regulation under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">the Act</code-cite>;</text>
+          <para>
+            <num>(a)</num>
+            <text>The selective removal of the natural products of the wetlands by recreational and commercial fishing, shellfishing, aquaculture, silviculture, hunting or trapping shall be excluded from regulated activities, where otherwise allowed pursuant to Akwesasne cultural traditions, laws or regulations;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The activities of farmers and other landowners in grazing and watering livestock, making reasonable use of water resources, selective harvesting of natural products of the wetlands, selectively cutting timber, draining land or wetlands for growing agricultural products and otherwise engaging in the use of wetlands or other land for growing agricultural products shall be excluded from regulated activities;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The Environment Division shall develop and publish a list of medicinal plants, shrubs and herbs found in the wetlands of Akwesasne. Any person engaged in the collection, harvest or growth of such plants for non-commercial consumption shall be exempt from the permitting requirements of this chapter;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Maintenance, including emergency reconstruction of recently damaged parts of currently serviceable structures such as dikes, dams, levees, groins, riprap, breakwaters, causeways and bridge abutments or approaches, and transportation structures;</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Construction or maintenance of farm or stock ponds or irrigation ditches, or the maintenance of drainage ditches;</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Construction of temporary sedimentation basins on a construction site which does not include placement of fill material into the navigable waters;</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Construction or maintenance of farm roads or forest roads, or temporary roads for moving mining equipment, where such roads are constructed and maintained, in accordance with best management practices, to assure that flow and circulation patterns and chemical and biological characteristics of the navigable waters are not impaired, that the reach of the navigable waters is not reduced, and that any adverse effect on the aquatic environment will be otherwise minimized;</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Prior Converted Farmlands. The Environment Division finds that due to the pressures of outside forces, certain lands once converted to agricultural uses, have been left fallow, and for various reasons may know fall within the regulatory definition of Wetlands. The Environment Division may, on a case by case basis and in its sole discretion, exempt activities taking place on such prior converted farmlands from any or all parts of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">the Act</code-cite>. In order to qualify for the exemption, the applicant must present to the Environment Division some credible evidence of the use of the particular parcel as farmlands. In making its determinations under this subsection, the Environment Division shall favor conversion to agricultural and residential uses over conversion for commercial uses.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>Single-Family Housing. Discharges of dredged or fill material into wetlands for the construction and expansion of a single-family home and attendant features (such as a garage, driveway, storage shed, and/or septic field) is allowed for an individual permittee provided the activity meets all of the following criteria:</text>
+            <para>
+              <num>(a)</num>
+              <text>The discharge does not cause the loss of more than 1/4 acre of wetland;</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>The permittee notifies the Environment Division in accordance with rules to be promulgated by the Environment Division;</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>The permittee has taken all practicable actions to minimize the on-site and off-site impacts of the discharge;</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>The discharge is part of a single and complete project;</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>This subsection applies only to single-family homes to be used for a personal residence;</text>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text>Sufficient vegetated buffers must be maintained adjacent to all open water bodies, streams, etc., to preclude water quality degradation due to erosion and sedimentation.</text>
+            </para>
+            <para>
+              <num>(h)</num>
+              <text>For the purposes of this subsection, the term "individual permittee" refers to a natural person and/or a married or co-habitating couple, but does not include a corporation, partnership, or similar entity.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+      <section>
+        <codify:insert path="3" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.06.070"/>
+        <num codify:value="5.06.070">01-0303</num>
+        <heading>Applications for Permits</heading>
+        <para>
+          <num>1.</num>
+          <text>Any person proposing to conduct or cause to be conducted a regulated activity upon any wetland shall file an application for a permit with the Environment Division. Review of the application shall be made by the Environment Division in accordance with applicable law and such rules as may be adopted by the Environment Division. The application shall include a detailed description of the proposed activity and a map showing the area of wetland directly affected, with the location of the proposed activity in relation to the wetland.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>No sooner than thirty and not later than sixty days after receipt by the Environment Division of an application, and after notice of application has been published by the applicant either in a local newspaper, or by any means practicable, the Environment Division shall hold a public hearing on such application at a suitable location unless no notice of objection has been filed or unless the Environment Division finds the activity to be of such a minor nature as not to affect or endanger the balance of systems within the wetlands, in which case the Environment Division may, in the exercise of discretion, dispense with such hearing. At such hearing any person or persons filing a request for a hearing may appear and be heard.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The applicant shall have the burden of demonstrating that the proposed activity will be in accord with the policies and provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">this article</code-cite>.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Any person may ask the Environment Division whether or not a given parcel of land will be designated a wetland subject to regulation. The Environment Division shall give a definite answer in writing within 30 days of such request whether such parcel will or will not be so designated. The Environment Division shall make its determination based upon review of the Wetlands map, and a site visit. Applicants may, at their own risk and expense, commission a more precise delineation of the affected area. Such delineations are not binding upon the Environment Division and may only be performed by contractors approved by the Environment Division.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>For permits whose issuance is reasonably calculated to affect wetlands that straddle Reservation boundaries, or over which jurisdiction is shared with some other governmental entity, the applicant shall forward copies of such application and proposed permit to the governmental entity affected by the issuance of such permit. The applicant shall provide notice to the Environment Division of such forwarding, and the Environment Division must allow at least 21 days for review and comment on such proposed permit prior to its issuance. "Governmental Entity" as used in this sub-part, refers solely and exclusively to the Governments of Akwesasne.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.06.080"/>
+        <num codify:value="5.06.080">01-0304</num>
+        <heading>Granting Permits</heading>
+        <para>
+          <num>1.</num>
+          <text>In granting, denying or limiting any permit, the Environment Division shall consider the effect of the proposed activity on Tribal health and welfare, fishing, flood and storm dangers, water quality and protection and enhancement of the wetlands and the benefits derived from wetlands as set forth in <code-cite path="§01-0102|5." doc="Saint Regis Mohawk Tribe Res. No. 1998-139">section 01-0102(5)</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">this article</code-cite>.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>No permit shall be granted under <code-cite path="§01-0304" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">this section</code-cite> unless the proposed activity is consistent with the land use regulations applicable, now, or in the future.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>In granting a permit, the Environment Division may limit the permit or impose conditions designed to carry out the public policy set forth in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">this article</code-cite>. The Director of the Environment Division may issue citations, suspend, or revoke a permit if it finds that the applicant has not complied with any of the conditions or limitations set forth in the permit or has exceeded the scope of the activity as set forth in the application. Environment Division suspension and revocation proceedings shall be governed by rules and regulations to be adopted by the Environment Division.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>In the event that the Director of the Environment Division determines that a violation constitutes a serious, ongoing threat to Tribal health and safety, or to any Tribal member, the Director may request that the Tribal Council issue a cease and desist order to carry out the purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">this Act</code-cite>.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>The Environment Division shall state with a written record the findings and reasons for all actions taken under to <code-cite path="§01-0304" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">this section</code-cite>.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>Application to the Environmental Appeals Board for review of the determination of the Environment Division must be made within a period of thirty days after the filing such determination, pursuant to the provisions of Title IV. Any owner of the wetland and any resident or citizen in close proximity shall be entitled to seek review.</text>
+        </para>
+      </section>
+    </container>
+    <container>
+      <prefix>TITLE</prefix>
+      <num>IV</num>
+      <heading>APPEAL AND REVIEW</heading>
+      <section>
+        <codify:insert path="4" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.06.090"/>
+        <num codify:value="5.06.090">01-0401</num>
+        <heading>Wetlands Appeals Board</heading>
+        <para>
+          <num>1.</num>
+          <text>There is created by this ordinance an appeals board, to be known as the Akwesasne Environmental Appeals Board ("Board"), consisting of seven members.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>In recognition that important wetlands and water quality issues may transcend human-drawn boundaries, each of the affected Tribal entities has the authority to appoint one (1) person to serve as a member of the Board. The term of office of such members will be __ years, unless such term is shortened because a member dies or resigns or the member is otherwise removed.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The members of the Akwesasne Environmental Appeals Board will be appointed in the following proportions:</text>
+          <para>
+            <num>(a)</num>
+            <text>One member of the St. Regis Mohawk Tribe Environment Division;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>One representative of the St. Regis Mohawk Tribal Council;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>One representative of the Mohawk Council of Akwesasne;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>One representative of the Mohawk Nation Council of Chiefs</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Three at-large members</text>
+          </para>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The procedures by which the representatives in sub-part (2) are selected will be established by rules promulgated by the Environment Division with the advice and consent of the St. Regis Mohawk Tribal Council, the Mohawk Council of Akwesasne, and the Mohawk Nation Council of Chiefs.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert path="4" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.06.100"/>
+        <num codify:value="5.06.100">01-0402</num>
+        <heading>Powers</heading>
+        <para>
+          <num>1.</num>
+          <text>The board shall have power, and it shall be its duty:</text>
+          <para>
+            <num>(a)</num>
+            <text>To meet and function at any place within Akwesasne;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>To adopt, promulgate, amend and rescind suitable procedural rules with respect to the functioning of the board and the setting of time limits for the hearing of appeals, the rendering of decisions on appeals, and the filing of the determination, decision or order of the board with the Environment Division;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>To hear appeals by any party to any wetland permitting proceeding before the Environment Division and from all orders or decisions of the Environment Division issued under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">this article</code-cite>, provided such appeals are started by filing with the Board a Notice of Appeal within thirty days after service of such order or decision;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>To receive briefs, and, where the board deems it advisable, to hear oral argument with respect to such appeals;</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>To require the Environment Division to submit an original or certified copy of the entire record which any order or decision appealed from is based;</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>To suspend the effectiveness of any order or decision of the Environment Division pending the determination of an appeal in proper cases and on such terms and conditions as the board may require.</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The board may affirm, remand, or reverse any order or decision of the Environment Division or remand the matter to the Environment Division for further consideration in whole, or in part, or with respect to any party. The Board shall limit its review to whether the order or decision of the Environment Division is:</text>
+          <para>
+            <num>(a)</num>
+            <text>in conformity with the traditions and laws of Akwesasne;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>within the Environment Division's statutory jurisdiction or authority;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>made in accordance with procedures required by law or established by appropriate rules or regulations of the Environment Division;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>supported by substantial evidence on the whole record; or</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>not arbitrary, capricious or characterized by abuse of discretion.</text>
+          </para>
+          <text>The Environment Division shall be bound by the decision of the Board except to the extent such decision is reversed or otherwise modified by the St. Regis Mohawk Tribal Council or a court of Tribal jurisdiction.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert path="4" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.06.110"/>
+        <num codify:value="5.06.110">01-0403</num>
+        <heading>Miscellaneous Provisions</heading>
+        <para>
+          <num>1.</num>
+          <text>The provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">this article</code-cite> shall not limit in any manner the functions, powers and duties of the Environment Division, or of any other Tribal department, division or agency, under this chapter or Tribal laws.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The Environment Division, their agents and employees may enter upon any lands or waters after reasonable notice and for good cause shown for the purpose of undertaking any investigations, examination, survey, or other activity, including the eradication, treatment or destruction of non-indigenous species for the purposes of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">this article</code-cite>.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The Environment Division may adopt and, from time to time, amend rules and regulations consistent with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">this article</code-cite> to assist in carrying out the functions, powers and duties provided by this ordinance.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1998-139">this article</code-cite> shall not apply to activities which commenced or received approvals prior to the effective date of this ordinance.</text>
+        </para>
+      </section>
+    </container>
+  </attachment>
 </document>

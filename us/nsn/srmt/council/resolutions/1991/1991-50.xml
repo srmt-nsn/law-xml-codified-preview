@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 1991-50">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 1991-50" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>1991-50</num>
   <heading>Petroleum Fuel Ordinance</heading>
   <meta>
@@ -12,4 +12,255 @@
       <citation type="res" url="./adopted/1991-50.pdf">Res. No. 1991-50</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the St. Regis Mohawk Tribal Council is the duly constituted governing body of the St. Regis Indian Reservation, and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>under the Tribal governmental structure, the elected Tribal Council is charged with the duty of protecting the health, security and general welfare of the St. Regis Mohawk Tribe, and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>by virtue of its status as a federal Indian Tribe, the St. Regis Mohawk Tribe is authorized by federal law to regulate the possession, sale, storage, transportation and use of gasoline and other petroleum products on the St. Regis Indian Reservation, and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the St. Regis Mohawk Tribal Council deems it essential to the health, safety and general welfare of the St. Regis Mohawk Tribe to enact a comprehensive Petroleum Ordinance regulating the sale and distribution of petroleum products and levying a tribal administrative charge upon their distribution on the St. Regis Indian Reservation,</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED THAT:</conjunction>
+      <text>the St. Regis Mohawk Tribal Council does hereby promulgate and enact the following Petroleum Fuel Ordinance.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>Dated:</td>
+            <td class="text-indent-2">
+              <u>June 28, 1991</u>
+            </td>
+            <td class="text-indent-2">____________________________</td>
+          </tr>
+          <tr>
+            <td/>
+            <td class="text-indent-2"/>
+            <td class="text-indent-2">L. David Jacobs, Head Chief</td>
+          </tr>
+          <tr>
+            <td>Dated:</td>
+            <td class="text-indent-2">
+              <u>July 16, 1991</u>
+            </td>
+            <td class="text-indent-2">____________________________</td>
+          </tr>
+          <tr>
+            <td/>
+            <td class="text-indent-2"/>
+            <td class="text-indent-2">Lincoln C. White</td>
+          </tr>
+          <tr>
+            <td>Dated:</td>
+            <td class="text-indent-2">
+              <u>June 28, 1991</u>
+            </td>
+            <td class="text-indent-2">____________________________</td>
+          </tr>
+          <tr>
+            <td/>
+            <td class="text-indent-2"/>
+            <td class="text-indent-2">Norman J. Tarbe</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </procedural-data>
+  <attachment id="law">
+    <codified:at path="4.06"/>
+    <heading>SAINT REGIS MOHAWK INDIAN TRIBAL PETROLEUM FUEL ORDINANCE</heading>
+    <container codify:tag="section">
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.010"/>
+      <prefix>Article</prefix>
+      <num codify:value="4.06.010">I</num>
+      <heading codify:value="Title">TITLE</heading>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">This ordinance</code-cite> shall be known as the St. Regis Mohawk Petroleum Fuel Regulatory Ordinance.</text>
+    </container>
+    <container codify:tag="section">
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.020"/>
+      <prefix>Article</prefix>
+      <num codify:value="4.06.020">II</num>
+      <heading codify:value="Purpose">PURPOSE</heading>
+      <text>The purpose of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this ordinance</code-cite> is to regulate the possession, sale, display, storage, transportation, and use of gasoline and other petroleum fuel products in, on, and from Tribal Lands.</text>
+    </container>
+    <container codify:tag="section">
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.030"/>
+      <prefix>Article</prefix>
+      <num codify:value="4.06.030">III</num>
+      <heading codify:value="Definitions">DEFINITIONS</heading>
+      <text>"St. Regis Mohawk Tribe of Indians" means a federally recognized tribe of Indians located in the State of New York.</text>
+      <text>"Gasoline and other Petroleum Products" mean leaded gasoline fuel, unleaded gasoline fuel and diesel fuel.</text>
+      <text>"Tribal Fuel Permit" means an exclusive gasoline fuel permit to possess, transport, store, and sell (wholesale and/or retail) to the general public approved by the Tribal Council of Chiefs.</text>
+      <text>"Subject Permises" means any trust or restricted lands held in trust by the United States Government, owned by the St. Regis Mohawk Tribe of Indians or its members, designated for such Permit.</text>
+      <text>"Permit Fee" means any consideration paid in advance to the Tribe for the maintenance of a legal Tribal Fuel Permit.</text>
+    </container>
+    <container>
+      <prefix>Article</prefix>
+      <num>IV</num>
+      <heading>GENERAL PROVISIONS</heading>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.040"/>
+        <num codify:value="4.06.040">1</num>
+        <heading>Tribal Regulartory Power</heading>
+        <text>The provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this ordinance</code-cite> shall be deemed an exercise of the power and authority delegated to the St. Regis Mohawk Tribal Council by the St. Regis Mohawk Indian Tribal General Council of New York State to regulate business within the boundaries of the St. Regis Mohawk Indian Reservation of New York State.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.050"/>
+        <num codify:value="4.06.050">2</num>
+        <heading>Tribal Fuel Permit Requirement</heading>
+        <text>On or after the effective date of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this ordinance</code-cite>, no person shall engage in the sale or distribution of gasoline fuel or other petroleum fuel products on trust or restricted lands within the boundaries of the St. Regis Mohawk Indian Reservation without first having obtained and being the holder of a valid and sustaining Tribal Fuel Permit, visibly displayed in the place of business on the subject's premises.</text>
+        <text>Those already engaged in the sale or distribution of gasoline fuel and other petroleum products on trust or restricted lands within the boundaries of the St. Regis Mohawk Indian Reservation, will also be required to adhere to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this ordinance</code-cite>.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.060"/>
+        <num codify:value="4.06.060">3</num>
+        <heading>Penalties</heading>
+        <text>Any person who shall violate any of the provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this ordinance</code-cite> shall be deemed guilty of a violation of the laws of the St. Regis Mohawk Indian Tribe of New York and shall be subject to legal action in a court of competent jurisdiction and be subject to a fine of not more than One Thousand Dollars ($1,000.00) and/or both legal action and fine on each occassion of violation.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.070"/>
+        <num codify:value="4.06.070">4</num>
+        <heading>Tribal Fuel Permit Application</heading>
+        <text>The application for a Tribal Fuel Permit under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this ordinance</code-cite> shall be made to the St. Regis Mohawk Tribal Council through the Tribal Administrator's office and shall contain the following information:</text>
+        <para>
+          <num>(a)</num>
+          <text>Name, age, date of birth, enrollment number, and Tribal affiliation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The residence of the applicant at present and for the past five (5) years.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The proposed place of business and the description of the premises of said property.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The applicant's financial statement.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The applicant's employment history for the past five (5) Years.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>A statement as to whether the applicant owns trust or restricted lands within the St. Regis Mohawk Indian Reservation and if so, a description of said property.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.080"/>
+        <num codify:value="4.06.080">5</num>
+        <heading>Tribal Permit Fees</heading>
+        <text>A Tribal Fuel Permit Fee in the sum of Five Hundred Dollars ($500.00) shall be paid by the Applicant upon approval of the application for a permit by the St. Regis Mohawk Tribal Council, Chiefs and shall be paid annually at the time of permit renewal as provided in <code-cite path="§7" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">Section 7</code-cite> hereinbelow.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.090"/>
+        <num codify:value="4.06.090">6</num>
+        <heading>Tribal Permit Approval Process</heading>
+        <text>In determining whether a permit shall be issued, the St. Regis Mohawk Tribal Council shall take into consideration ownership of the property, location of the place of business, any applicable environmental and safety consideration, and the financial stability and experience of the applicant. The applicant shall be both the owner and the operator of the business. The St. Regis Mohawk Tribal Council shall limit the number of Tribal Permits and locations in the manner to adequately service the area and their determination as to whether or not a Tribal Permit shall be issued is final.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.100"/>
+        <num codify:value="4.06.100">7</num>
+        <heading>Tribal Permit Reporting</heading>
+        <text>A Tribal Permit to sell or distribute gasoline fuel and other petroleum products shall be applied annually, on or before the 30th day of June. Applicants shall provide at the time of application a notarized statement setting forth the number of gallons and the amount of other petroleum products sold during the previous year, along with the gross income derived from such sales; and further, applicants shall provide the names of all employees and amount of income earned by each. The records provided pursuant to <cite path="§7" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this section</cite> are confidential and shall not be available to any person other that the Tribal Council and Tribal Administator.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.110"/>
+        <num codify:value="4.06.110">8</num>
+        <heading>Books and Records</heading>
+        <text>The St. Regis Mohawk Tribal Council shall have the right and authority to examine the books and records of the permittees at any reasonable time to verify the sales and salaries paid to employees. Said books and records shall be maintained by the permittee on the subject's permises at all times.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.120"/>
+        <num codify:value="4.06.120">9</num>
+        <heading>Tribal Permit Authorization</heading>
+        <text>The granting of a Tribal Permit pursuant to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this ordinance</code-cite> shall authorize the permittee to sell gasoline and other petroleum products to any person with the boundaries of the St. Regis Mohawk Indan Reservation and who is the consumer of the petroleum products so purchased.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.130"/>
+        <num codify:value="4.06.130">10</num>
+        <heading>Tribal Fuel Administrative Fees</heading>
+        <text>In addition to the Tribal Permit Fees described hereinabove, permittees shall pay a tribal administrative fee in the amount of two cents ($.02) per gallon of gasoline sold or distributed. Said fees shall be paid monthly in arrears to the St. Regis Mohawk Indian Tribe of New York State no later then the 10th day of the following month of operation.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.140"/>
+        <num codify:value="4.06.140">11</num>
+        <heading>Proceeds of Fuel Administrative Fees</heading>
+        <text>The fuel revenues received by the St. Regis Mohawk Indian Tribe as a result of the permit fees and administrative fees described hereinabove shall be deposited in the Tribal General Fund. Said funds shall be used exclusively for the administration of the ordinance and service to and benefit the members of the St. Regis Mohawk Indian Tribe.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.150"/>
+        <num codify:value="4.06.150">12</num>
+        <heading>Compliance with Applicable Laws</heading>
+        <text>Any permittee who shall fail to comply with the terms of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this ordinance</code-cite> shall have his permit cancelled or suspended. Written notification of the grounds for said cancellation shall be given at least five days prior to a hearing held before the Tribal Council or their designated committee as provided for in <code-cite path="§17" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">Section 17</code-cite> below to determine if <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this ordinance</code-cite> has been violated. Cancellation or suspension by said committee may be appealed to the Tribal Council.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.160"/>
+        <num codify:value="4.06.160">13</num>
+        <heading>Severability</heading>
+        <text>In any clause, part or section of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this Ordinance</code-cite> shall be adjudged invalid, such judgement shall not affect or invalidate the remainder of the ordinance but shall be confined in its operation to the clause, part or section directly involved in controversy in which such judgement was rendered.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.170"/>
+        <num codify:value="4.06.170">14</num>
+        <heading>Disclaimer</heading>
+        <text>Nothing in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this ordinance</code-cite> shall be construed to authorize or require the criminal trial and punishment of non-Indians by the St. Regis Mohawk Tribe of New York State except to the extent allowed by an applicable present or future Act of Congress or any applicable law.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.180"/>
+        <num codify:value="4.06.180">15</num>
+        <heading>Regulations</heading>
+        <text>The Tribal Council shall have the authority to adopt and enforce rules and regulations to implement <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this ordinance</code-cite> and to further the purposes thereof.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.190"/>
+        <num codify:value="4.06.190">16</num>
+        <heading>Effective Date</heading>
+        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">This ordinance</code-cite> shall be effective upon it passage and approval. Any and all prior ordinances, resolutions, regulations or other form of control of the St. Regis Mohawk Tribe of the State of New York whether written or unwritten, which authorize, prohibit, or deal with the transport, handling, storage or sale of gasoline and other petroleum products are hereby repealed and have no further force or effort. No Tribal ordinance or regulation shall be applied in a manner inconsistent with the provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this ordinance</code-cite>.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.200"/>
+        <num codify:value="4.06.200">17</num>
+        <heading>Enforcement</heading>
+        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">This ordinance</code-cite> shall be enforced by the Tribal Council, or any other Agency or Committee vested with such enforcement authority by resolution of the tribal Council.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.210"/>
+        <num codify:value="4.06.210">18</num>
+        <heading>Sovereign Immunity</heading>
+        <text>Nothing in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this ordinance</code-cite> is intended nor shall be construed as a waiver of the sovereign immunity of the St. Regis Mohawk Tribe of the State of New York. No officer, manager or employee of an enterprise of the Tribe shall be authorized nor shall attempt to waiver the sovereign immunity of the Tribe.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.220"/>
+        <num codify:value="4.06.220">19</num>
+        <heading>Environmental Protection Requirements</heading>
+        <text>It shall be the responsibility of the Permittee to satisfy all federal and Tribal environmental protection and safety requirements with respect to the safe storage, either above ground or underground, handling, and transportation of gasoline and other petroleum products. Any non-compliance with this provision is subject to the terms and conditions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this ordinance</code-cite>.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.230"/>
+        <num codify:value="4.06.230">20</num>
+        <heading>Indemnification</heading>
+        <text>Any person licensed under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this ordinance</code-cite> to sell or distribute gasoline or other petroleum products on the St. Regis Mohawk Indian Reservation lands shall indemnify and hold harmless the Tribe against loss, cost, or damage due to any injury to persons or property occurring as a result of the sale of such products.</text>
+      </section>
+      <section>
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.240"/>
+        <num codify:value="4.06.240">21</num>
+        <heading>Amendment</heading>
+        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">This ordinance</code-cite> may be amended by a majority vote of the Tribal Council.</text>
+      </section>
+    </container>
+  </attachment>
 </document>

@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2011-50">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2011-50" codify:doc="Saint Regis Mohawk Tribal Code of Law" codify:path="1.04">
   <num>2011-50</num>
   <heading>Resolution of the Saint Regis Mohawk Tribe to Clarify the Procedure for Adopting Tribal Council Resolutions</heading>
   <meta>
-    <stub/>
     <effective>2011-11-22</effective>
     <history>
       <adopted>2011-11-22</adopted>
@@ -12,4 +11,158 @@
       <citation type="res" url="./adopted/2011-50.pdf">Res. No. 2011-50</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Saint Regis Mohawk Tribal Council is the duly recognized governing body of the Saint Regis Mohawk Tribe and is responsible for the health, safety, education and welfare of all members of the tribe; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>there has been an ongoing need to clarify and implement more streamlined procedures for the adoption of Tribal Council resolutions, which will help ensure transparency, efficiency and clarity of Tribal Council decision making process; now, therefore, be it</text>
+    </recital>
+    <recital>
+      <conjunction>RESOLVED,</conjunction>
+      <text>That the Saint Regis Mohawk Tribe hereby adopts the following policy and procedure for the adoption of Tribal Council Resolutions:</text>
+      <para codify:tag="section"><codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.010"/>2
+        <num codify:value="1.04.010">A.</num><heading>Purpose</heading><text>The Purpose of a Tribal Council Resolution (TCR), is to formally express Tribal Council's opinion or decision on a particular issue. The TCR shall be the official embodiment of Tribal Council legislative action. The TCR shall also serve as a record of legislative action for Tribal member reference.</text><text>All final decision on matters of temporary interest where a formal expression is needed shall be embodied in a resolution, noted in minutes, and shall be available for inspection by members of the Tribe during normal business hours.</text></para>
+      <para codify:tag="section">
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.020"/>
+        <num codify:value="1.04.020">B.</num>
+        <heading>Initiation</heading>
+        <para>
+          <num>1.</num>
+          <text>A TCR may be proposed by any member of Council, any Tribal program or department or any Tribally enrolled member.</text>
+        </para>
+      </para>
+      <para codify:tag="section">
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.030"/>
+        <num codify:value="1.04.030">C.</num>
+        <heading>Form</heading>
+        <text>The format of the proposed TCR shall follow the conventional format currently in use and shall include "whereas" clauses that provide history, background, authority, and justification, and shall also include "resolved" clauses that shall clearly state the action or position Council is requested to take. A template of the preferred format of TCRs shall be made available.</text>
+      </para>
+      <para codify:tag="section">
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.040"/>
+        <num codify:value="1.04.040">D.</num>
+        <heading>Submission</heading>
+        <para>
+          <num>1.</num>
+          <text>All proposed TCRs shall be submitted in original form (hardcopy) and in an electronic form to the Tribal Clerk's office.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Electronic submission shall be made in Microsoft Word.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>If a TCR is proposed by a Tribal program or department, or by a community member, a cover sheet that includes the date of submission, name and contact information of the person submitting the TCR, name of any applicable program or department, any applicable grant application, or any applicable deadlines shall be submitted with the proposed TCR.</text>
+        </para>
+      </para>
+      <para codify:tag="section">
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.050"/>
+        <num codify:value="1.04.050">E.</num>
+        <heading>Review and Record-keeping</heading>
+        <para>
+          <num>1.</num>
+          <text>The Tribal Clerk shall provide copies of the proposed TCR to each member of Council and to the Legal Department for initial review. Initial review shall not last more than five (5) business days.</text>
+          <para>
+            <num>a.</num>
+            <text>The Legal Department shall ensure the proposed TCR does not violate any applicable laws, may propose changes to the TCR, and will provide any other guidance as deemed necessary by the Tribal Council.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>The Tribal Clerk shall immediately review Tribal records to determine whether the proposed TCR would have an impact on any existing resolution, ordinance or regulation. If an impact is found, the Tribal Clerk shall immediately inform Tribal Council and may make recommendations to ensure continuity of Tribal records, i.e. rescission of prior resolutions and cross-referencing.</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>The Tribal Council shall decide whether to adopt a TCR by considering whether the resolution is in the best interest of the health, safety and welfare of the Saint Regis Mohawk Tribe, whether the proposed TCR falls within the scope of the Tribal Council's authority and may consider any other factors it deems necessary.</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The Tribal Clerk shall keep one copy of the proposed TCR and shall keep a record of all TCRs passed, amended, or rescinded.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Solely at Tribal Council's discretion, it may request community review of a TCR prior to presenting it in the Work Session. This community review shall not exceed thirty (30) business days.</text>
+          <para>
+            <num>a.</num>
+            <text>If community review of a TCR is requested, the TCR shall be presented at the next regularly scheduled Tribal meeting and must be acted on within ten (10) business days following the end of the community review period.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Community review of a TCR shall consist of accepting oral or written comments received at the Tribal meeting and up to 5 business days after. After 5 business days, no further comments will be received.</text>
+          </para>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Once the initial review is complete, the Tribal Council may provide a final draft to the person who submitted the proposed TCR for their review.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>All final TCRs shall be created in duplicate original, Council's Assistant and the Tribal Clerk shall each keep one copy. Adopted, amending or rescinding resolutions shall be kept in a manner so as to ensure efficient review and cross-referencing.</text>
+        </para>
+      </para>
+      <para codify:tag="section">
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.060"/>
+        <num codify:value="1.04.060">F.</num>
+        <heading>Enactment</heading>
+        <para>
+          <num>1.</num>
+          <text>A TCR shall be presented to the Tribal Council in its Work Session and it shall be adopted when at least two out of three chiefs accept and sign the resolution.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>If the resolution does not receive the requisite number of votes, it shall fail and may only be presented again by requesting that either a Chief or a Sub-Chief sponsor the re-presentation of the TCR at the next work session.</text>
+        </para>
+      </para>
+      <para codify:tag="section">
+        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.070"/>
+        <num codify:value="1.04.070">G.</num>
+        <heading>Amendment and Rescission</heading>
+        <para>
+          <num>1.</num>
+          <text>Any resolution may be amended or rescinded if the Tribal Council determines that to do so would be in the best interest of the health, safety and welfare of the Saint Regis Mohawk Tribe. An amending or rescinding TCR shall be passed in a Work Session, shall be recorded and the Tribal Clerk shall be directed to cross-reference amending and rescinding resolutions accordingly.</text>
+        </para>
+      </para>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>THE SAINT REGIS MOHAWK TRIBAL COUNCIL</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+          </tr>
+          <tr>
+            <td>Mark H. Garrow</td>
+            <td class="text-indent-2">Randy Hart</td>
+            <td class="text-indent-2">Ron LaFrance Jr.</td>
+          </tr>
+          <tr>
+            <td>Tribal Chief</td>
+            <td class="text-indent-2">Tribal Chief</td>
+            <td class="text-indent-2">Tribal Chief</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text><strong>CERTIFICATION:</strong> This is to certify that the Saint Regis Mohawk Tribal Council pursuant to the authority vested therein duly passed the above resolution.</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>___________________________________</td>
+            <td class="text-indent-4">November 22, 2011</td>
+          </tr>
+          <tr>
+            <td>Corleen Jacco, Tribal Clerk</td>
+            <td class="text-indent-4">Date</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </procedural-data>
 </document>
