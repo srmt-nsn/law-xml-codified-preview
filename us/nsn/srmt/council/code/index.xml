@@ -2,8 +2,8 @@
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribal Code of Law">
   <meta>
     <effective>0001-01-01</effective>
-    <recency through="2023-11-30">
-      <doc id="Saint Regis Mohawk Tribe Res. No. 2023-51" type="resolution"/>
+    <recency through="2024-02-20">
+      <doc id="Saint Regis Mohawk Tribe Res. No. 2024-08" type="resolution"/>
     </recency>
   </meta>
   <heading>Saint Regis Mohawk Tribal Code of Law</heading>

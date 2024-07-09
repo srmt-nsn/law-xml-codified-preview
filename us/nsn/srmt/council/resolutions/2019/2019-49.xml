@@ -95,11 +95,11 @@
     </text>
   </procedural-data>
   <attachment id="law">
-    <codified:at path="11.02"/>
+    <codified:at path="11.03"/>
     <heading>Family Support Act</heading>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.02.010"/>
-      <num codify:value="11.02.010">I</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.03.010"/>
+      <num codify:value="11.03.010">I</num>
       <heading>General</heading>
       <para>
         <num>A.</num>
@@ -319,8 +319,8 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.02.020"/>
-      <num codify:value="11.02.020">II</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.03.020"/>
+      <num codify:value="11.03.020">II</num>
       <heading>Tribal Court</heading>
       <para>
         <num>A.</num>
@@ -472,8 +472,8 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.02.030"/>
-      <num codify:value="11.02.030">III</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.03.030"/>
+      <num codify:value="11.03.030">III</num>
       <heading>Mediation</heading>
       <para>
         <num>A.</num>
@@ -537,8 +537,8 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.02.040"/>
-      <num codify:value="11.02.040">IV</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.03.040"/>
+      <num codify:value="11.03.040">IV</num>
       <heading>Paternity</heading>
       <para>
         <num>A.</num>
@@ -774,8 +774,8 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.02.050"/>
-      <num codify:value="11.02.050">V</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.03.050"/>
+      <num codify:value="11.03.050">V</num>
       <heading>Establishment of Child Support</heading>
       <para>
         <num>A.</num>
@@ -1275,8 +1275,8 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.02.060"/>
-      <num codify:value="11.02.060">VI</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.03.060"/>
+      <num codify:value="11.03.060">VI</num>
       <heading>Foreign Orders</heading>
       <para>
         <num>A.</num>
@@ -1396,38 +1396,38 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.02.070"/>
-      <num codify:value="11.02.070">VII</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.03.070"/>
+      <num codify:value="11.03.070">VII</num>
       <heading>Location of Parents and Assets</heading>
       <text>SRMT-CSEU is responsible for locating or attempting to locate all parents and their assets should that information be needed to establish or enforce a child support order. The SRMT-CSEU shall utilize all sources available to them to perform locate tasks.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.02.080"/>
-      <num codify:value="11.02.080">VIII</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.03.080"/>
+      <num codify:value="11.03.080">VIII</num>
       <heading>Appeals</heading>
       <text>Any party to a child support action may appeal from any final Tribal Court Order under the Rules of Civil Appellate Procedure.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.02.090"/>
-      <num codify:value="11.02.090">IX</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.03.090"/>
+      <num codify:value="11.03.090">IX</num>
       <heading>Severability</heading>
       <text>The provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2019-49">this Act</code-cite> are severable and if any part of provision shall be held void by the Saint Regis Mohawk Tribal Court, the decision of the court shall not affect or impair any of the remaining parts or provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2019-49">this Act</code-cite>.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.02.100"/>
-      <num codify:value="11.02.100">X</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.03.100"/>
+      <num codify:value="11.03.100">X</num>
       <heading>Sovereign Immunity Not Waived</heading>
       <text>Nothing in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2019-49">this Act</code-cite> is intended nor shall be construed as any waiver of the sovereign immunity of the Saint Regis Mohawk Tribe from suit in State, Federal or Tribal Court against the Saint Regis Mohawk Tribe, or as to any Tribal entity, official, or employee acting in his or her official capacity.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.02.110"/>
-      <num codify:value="11.02.110">XI</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.03.110"/>
+      <num codify:value="11.03.110">XI</num>
       <heading>Amendment</heading>
       <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2019-49">This Act</code-cite> may be amended upon the approval of such amendments by the majority of Tribal Council and upon notice to the Tribal membership.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.02.120"/>
-      <num codify:value="11.02.120">XII</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|11.03.120"/>
+      <num codify:value="11.03.120">XII</num>
       <heading>Repealer</heading>
       <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2019-49">This Act</code-cite> shall supersede and replace all prior Acts, or portions thereof, adopted by the Saint Regis Mohawk Tribe, as they pertain to the matters contained herein.</text>
     </section>

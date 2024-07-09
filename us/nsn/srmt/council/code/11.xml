@@ -5,10 +5,1907 @@
   <heading>Domestic Relations</heading>
   <container>
     <prefix>Chapter</prefix>
+    <num>11.01</num>
+    <heading>Child Welfare Code [Reserved]</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>11.02</num>
-    <heading>Family Support Act</heading>
+    <heading>Marriage, Divorce and Custody Code</heading>
     <section>
       <num>11.02.010</num>
+      <heading>Purpose</heading>
+      <text>The purpose of <cite path="|11.02">this chapter</cite> is to promote the health, safety, and general welfare of the Saint Regis Mohawk Tribe by codifying a uniform, efficient and equitable process and procedure governing marriage, dissolution of marriage and ensuring custody matters involving children are handled quickly and in the children's best interests.</text>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.010" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.020</num>
+      <heading>Definitions</heading>
+      <text>For the purpose of <cite path="|11.02">this chapter</cite>, the following terms are defined except when the specific context indicates otherwise:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Abandoned" means left without provision for reasonable and necessary care or supervision.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"child" or "children" means any biological or adopted child or children who are under eighteen (18) years of age except for child support purposes.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"child custody determination" means a judgment, decree, or other order of a court providing for the legal custody, physical custody, or parenting time with respect to a child. The term includes a permanent, temporary, initial, and modification order. The term does not include an order relating to child support or other monetary obligation of an individual.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"child custody proceeding" means a proceeding in which legal custody, physical custody, or parenting time with respect to a child is at issue. The term includes a proceeding for divorce, separation, custody, third party custody, and paternity.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"commencement" means the filing of the first pleading in a proceeding.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"custody" means legal custody or physical custody, or both, as the context requires.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"divorce" means the legal dissolution of a marriage by the Court.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"guardian ad litem" means an adult appointed by the Court to represent the best interests of the child and provide written reports, if required by the Court.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"home jurisdiction" means the jurisdiction in which a child lived with a parent or a parent substitute for at least six consecutive months immediately before the commencement of a child custody proceeding. In the case of a child less than six months of age, the term means the jurisdiction in which the child lived from birth with a parent. A period of temporary absence of is part of the period.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Initial determination" means the first child custody determination concerning a particular child.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Issuing court" means the court that makes a child custody determination for which enforcement is sought under <cite path="|11.02.305">Section 11.02.305</cite>.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"legal custody" means a determination as to which parent shall have the decision-making authority as to the important decisions affecting the welfare of a child, including decisions involving education, religion and medical treatment, and includes "joint legal custody" under which legal custody is shared by the parents, a third person or a combination thereof, or "sole legal custody" under which legal custody is held by one parent or a third person.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"marriage" means a contract between two (2) persons, regardless of their sex, creating a union to the exclusion of all others.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"modification" means a child custody determination that changes, replaces, supersedes, or is otherwise made after a previous determination concerning the same child, whether or not it is made by the court that made the previous determination.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>"parent" means the natural or adoptive parent of any child.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>"parenting time" means the schedule of time during which each parent has access to a child at specified times. Each parent during their scheduled parenting time is responsible for providing the child with food, clothing and shelter and may make routine decisions concerning the child's care.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>"petition" means a formal application to the Court for divorce or custody or any subsequent proceeding related to a divorce or custody.</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text>"physical custody" means a determination where a child will reside, and includes "joint physical custody" under which a child will reside alternately for specified periods with each Parent, a third party, or a combination thereof, and "sole physical custody" means where a child will reside primarily with one parent or a third person with the other parent or third person having a schedule of parenting time.</text>
+      </para>
+      <para>
+        <num>(s)</num>
+        <text>"Reservation" means both the Saint Regis Mohawk Indian Tribe Reservation as</text>
+        <text>established by the 1796 Treaty with the Seven Nations of Canada (7 Stat. 55) and any other lands over which the Tribe exercises jurisdiction now or in the future.</text>
+      </para>
+      <para>
+        <num>(t)</num>
+        <text>"Tribe" means the Saint Regis Mohawk Tribe.</text>
+      </para>
+      <para>
+        <num>(u)</num>
+        <text>"Tribal Member" means someone who is enrolled with the Saint Regis Mohawk Tribe or someone who is eligible for enrollment.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.020" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.030</num>
+      <heading>Tribal Court Jurisdiction</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Saint Regis Mohawk Tribal Court may exercise subject matter jurisdiction over the</text>
+        <text>proceedings and law set forth in this Act.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Saint Regis Mohawk Tribal Court may exercise personal jurisdiction over a party in marriage, divorce, and/or custody when:</text>
+        <para>
+          <num>(1)</num>
+          <text>a party or the child is a Tribal Member;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>a party or the child resides or is domiciled within the Tribe's Reservation;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the non-Indian or non-member party has consented to the jurisdiction of the Tribe by:</text>
+          <para>
+            <num>(A)</num>
+            <text>express contractual consent;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>residing or domiciling within the Tribe's Reservation;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>being employed as a contract, temporary, or regular employee of the Tribe or a tribal business located on the Reservation;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>engaging in consensual relations or a domestic relationship with a Tribal Member on the Reservation; or</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>participating in any other substantial activity within the territorial jurisdiction of the Tribe that impacts the political integrity, the economic security, or the health and welfare of the Tribe and its members.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>To dissolve a marriage and grant a judgment of divorce, the Tribal Court shall have subject matter jurisdiction in the following circumstances:</text>
+        <para>
+          <num>(1)</num>
+          <text>if there are children, the Petitioner must have resided within the Reservation for one-hundred eighty (180) days immediately preceding the filing of the Petition; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>if there are no children, the Petitioner must have resided within the Reservation for thirty (30) days immediately preceding the filing of the Petition; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>if the marriage which is the subject of the Petition occurred under <cite path="|11.02">this chapter</cite> unless neither of the parties resided within the Reservation for thirty (30) days immediately preceding the filing of the Petition if there are no children or one-hundred eighty (180) days if there are children.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Where the method of procedure in any proceeding in which the Saint Regis Mohawk Tribal Court has jurisdiction under <cite path="|11.02">this chapter</cite> is not prescribed, the procedure shall be in accord with the Tribe's Rules of Civil Procedure to the extent they are suitable to the proceeding involved.  If there is any conflict between the application of any provision under <cite path="|11.02">this chapter</cite> or any other provision of tribal law, <cite path="|11.02">this chapter</cite> governing the proceeding shall control.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.030" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.040</num>
+      <heading>Powers of the Tribal Court</heading>
+      <para>
+        <num>(a)</num>
+        <text>Without limiting the authority of the Tribal Court, it may:</text>
+        <para>
+          <num>(1)</num>
+          <text>require any party to provide additional information under oath as required by the Tribal Court, including without limitation, on matters pertinent to the jurisdiction and disposition of the case;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>upon its discretion appoint a lawyer for a litigant or interested party in a custody or divorce matter pending before the Court;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>appoint a lawyer for the child if the Court determines it is necessary;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>appoint a guardian ad litem to represent a child if, at any time in a divorce or custody proceeding, the Court determines that the best Interests of the child are inadequately represented and may order the parties to bear the cost of the guardian ad litem. The guardian ad litem may file a written report and recommendation with the Tribal Court which:</text>
+          <para>
+            <num>(A)</num>
+            <text>if admitted into evidence, may be reviewed by the Tribal Court in making determinations regarding custody and parenting time;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>may not be admitted into evidence unless all parties stipulate to the admission; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>may be used by the parties for purposes of any settlement conference;</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>at the request of a person who changed his or her name upon marriage, restore his or her birth name, or the surname he or she legally bore prior to his or her marriage to the spouse in the divorce action; or</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>make a referral to the appropriate authorities to investigate any suspected child abuse or neglect.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.040" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.050</num>
+      <heading>Marriage Eligibility</heading>
+      <para>
+        <num>(a)</num>
+        <text>To be eligible to marry under <cite path="|11.02">this chapter</cite> the following shall apply:</text>
+        <para>
+          <num>(1)</num>
+          <text>at least one person seeking to marry must be a Saint Regis Mohawk Tribal Member;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>both must freely consent to the marriage and have the capacity to consent;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>both must be under the jurisdiction of the Tribal Court;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>both must be at least eighteen (18) years of age;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>both must not currently be married or otherwise in a civil union relationship that provides substantially the same rights, benefits and responsibilities as a marriage;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>they must not be related to the proposed spouse within the fourth degree of consanguinity which is first cousins or closer; and</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>must complete and return the application for marriage.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.050" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.060</num>
+      <heading>Application for Marriage License</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any person seeking to marry pursuant to <cite path="|11.02">this chapter</cite> shall obtain an application for a marriage license from the Tribal Court. The application shall be on a form provided by the Tribal Court that indicates no license shall be granted earlier than ten (10) business days from the date the application is filed with the Court. The Application shall contain, at a minimum, the following information from each person seeking to be married:</text>
+        <para>
+          <num>(1)</num>
+          <text>full name, including any maiden or previous names;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>address;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>date of birth;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>parents' full names (if known);</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>parent's birthplace (if known);</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>whether the person was previously married and, if married, when and how such Marriage was terminated;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>whether the person is a Tribal Member;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>express consent to the personal jurisdiction of the Saint Regis Mohawk Tribe, the Tribal Court, and the Court of Appeals, and that the person waives all available defenses against such jurisdiction;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>an affirmation that the person is not currently married or in a civil union relationship that provides substantially the same rights, benefits and responsibilities as a marriage;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>an affirmation that the person has the capacity to enter into marriage; and</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>an affirmation that the person is not related to the other person within the fourth degree of consanguinity as outlined in <cite path="|11.02.050|(a)|(6)">Section 11.02.050(a)(6)</cite>.</text>
+          <text>The contents of the completed application shall be sworn to under oath.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.060" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.070</num>
+      <heading>Filing an Application for a Marriage License</heading>
+      <para>
+        <num>(a)</num>
+        <text>A completed application for a marriage license shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>be filed with the Tribal Court in person, by U.S. mail, or by private courier; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>be accompanied by:</text>
+          <para>
+            <num>(A)</num>
+            <text>proof of the age of each person, which may be provided by birth certificate, driver's license, state or tribal photo identification, or passport;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Tribal ID if either party is an enrolled tribal member or proof that either party is eligible for tribal membership; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>any filing fee that may be established by the Tribal Court.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.070" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.080</num>
+      <heading>Review of Application for Marriage License</heading>
+      <para>
+        <num>(a)</num>
+        <text>For each application filed, the Tribal Court shall determine whether it is complete.  Any determination, however, as to whether a person is a Tribal Member shall be made by the Tribal Clerk's Office.  The Court shall approve or deny an application for a marriage license no later than days ten (10) business days after the filing of the application.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Approval of the Application. No marriage license shall be issued by the Tribal Court unless the persons applying for the marriage license meet the criteria for marriage under <cite path="|11.02">this chapter</cite>. If the Tribal Court determines that the application is complete and that the persons identified in the application are eligible to marry under <cite path="|11.02">this chapter</cite>, the Court shall issue a marriage license to the parties; provided, however, that no marriage license shall be issued earlier than ten (10) business days from the date the application was filed with the Tribal Court.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Rejection of the Application. The Tribal Court shall reject an application for a marriage license and provide written notice of such rejection to the persons applying for the marriage license, if:</text>
+        <para>
+          <num>(1)</num>
+          <text>the application for a marriage license is incomplete;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>neither person applying for the marriage license is a Tribal Member; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>it determines that such persons are not otherwise eligible to marry under <cite path="|11.02">this chapter</cite>.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.080" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.090</num>
+      <heading>Issuance of a Marriage License</heading>
+      <para>
+        <num>(a)</num>
+        <text>All marriage licenses issued pursuant to <cite path="|11.02">this chapter</cite> shall be issued by the Tribal Court on a form provided by the Tribal Court, which at a minimum, shall contain the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>a statement that the marriage license is valid for thirty (30) days from the date it is issued, which statement shall be included thereon;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>provisions for the signatures of the person solemnizing the marriage, the parties to the marriage, and two witnesses to the marriage ceremony;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A provision for the date and location of marriage; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A statement that the fully executed marriage license must be filed with the Tribal Court within ten (10) days from the date of the solemnization of the marriage.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A marriage license shall be valid for thirty (30) days from the date of issuance by the Tribal Court.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The parties intending to marry pursuant to <cite path="|11.02">this chapter</cite> shall be responsible for presenting the marriage license to the person solemnizing the marriage.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.090" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.100</num>
+      <heading>Solemnizing the Marriage</heading>
+      <para>
+        <num>(a)</num>
+        <text>Only the following people are authorized to solemnize a marriage performed pursuant to <cite path="|11.02">this chapter</cite>:</text>
+        <para>
+          <num>(1)</num>
+          <text>a traditional spiritual leader;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>a person or member of the clergy recognized by his or her religion as having the authority to perform a marriage;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>a current elected Tribal Council Chief or Tribal Clerk; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>a judge of the Tribal Court.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Review of the Marriage License. Prior to solemnizing the marriage, the person performing the ceremony shall review the marriage license and determine:</text>
+        <para>
+          <num>(1)</num>
+          <text>the persons seeking to be married are the persons named in the license; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>as of the solemnization of the marriage, the license remains valid in accordance with the thirty (30) day time constraints of <cite path="|11.02.090|(b)">Section 11.02.090(b)</cite> of <cite path="|11.02">this chapter</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Ceremony and Witnesses. A marriage ceremony performed pursuant to <cite path="|11.02">this chapter</cite> need not take any particular form, however, the persons seeking to marry must declare, in the presence of the person solemnizing the marriage, and at least two (2) witnesses who are at least eighteen years of age, that they wish to marry each other.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Following the marriage ceremony, the marriage license shall be signed by the following persons:</text>
+        <para>
+          <num>(1)</num>
+          <text>the person who solemnized the marriage ceremony, who shall also indicate the date and location of the ceremony;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>two (2) witnesses to the marriage ceremony, who are at least eighteen (18) years of age; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the persons married at the ceremony.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Following the marriage ceremony, the marriage license shall be filed with the Tribal Court by the person who solemnized the marriage not later than ten (10) days from the date of the marriage.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.100" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.110</num>
+      <heading>Issuance of the Marriage License</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Court shall, within ten (10) business days of the filing of a marriage license, examine it to ensure that it conforms to the requirements of <cite path="|11.02">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If the Tribal Court determines that the marriage license conforms to the requirements of <cite path="|11.02">this chapter</cite>, the Court shall approve the license and issue a certificate of marriage to the parties.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If the Tribal Court determines that the marriage license does not conform to the requirements of <cite path="|11.02">this chapter</cite>, the Court shall not approve the marriage license or issue a certificate of marriage and shall provide written notice of denial to the persons seeking it.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Tribal Court shall maintain each application for a marriage license, denial, as required, the marriage license, and a copy of the certificate of marriage as a permanent record of the Tribe.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Should any party to the marriage performed desire a certificate of the marriage be filed in another jurisdiction, the party may obtain a certified copy from the Court upon request and payment of any fee set by the Court.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.110" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.120</num>
+      <heading>Petition for Divorce</heading>
+      <para>
+        <num>(a)</num>
+        <text>A petition may be filed in the Tribal Court upon the allegation that there has been a breakdown of the marriage relationship to the extent that the objects of matrimony have been destroyed and there remains no reasonable likelihood that the marriage can be preserved.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In the petition, the Petitioner shall make no other explanation of the grounds for divorce other than by the use of the language stated herein at paragraph A.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A petition shall be filed with the Tribal Court on a form provided by the Tribal Court and must be dated, signed and verified by the Petitioner.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The petition shall include the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>the language of paragraph A herein without further particulars;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the basis for jurisdiction under <cite path="|11.02.030">Section 11.02.030</cite>;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>whether the divorce will be contested or uncontested;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the complete current names and names before the marriage of all parties;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>the date and location of the marriage;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>whether a party is pregnant;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>whether there are any children of the parties or children born or adopted during the marriage;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>the complete names and dates of birth of any children born or adopted during the    marriage;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>if the case involves any child, or if child support is requested, whether any other court has prior continuing jurisdiction of the child and, if so, the name of the court and file    number;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>whether there is real or personal property or debt to be divided; and</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>if the Petitioner requests spousal support, facts sufficient to show a need for such support and that the other party is able to pay spousal support.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Each party shall attach to its first pleading a verified statement disclosing what real and personal property has come to either party by reason of the marriage, and how it has been disposed of, and what portion thereof still remains in the hands of either party. This statement shall not be made part of the public Tribal Court file.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>If custody of any child is to be determined, except as otherwise provided in paragraph G below, each party in its first pleading or in an attached verified statement, shall state:</text>
+        <para>
+          <num>(1)</num>
+          <text>if reasonably ascertainable, the present address and the places where any child has lived during the last five (5) years, and the names and present addresses of the people with   whom the child has lived during that period;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>whether the party has participated, as a party or witness or in another capacity, in another child custody proceeding with any child and, if so, the name of the court, case number of the child custody proceeding, and date of the child custody determination, if any;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>whether the party knows of a proceeding that could affect the current child custody proceeding, including a proceeding for enforcement or a proceeding relating to domestic violence, a protective order, termination of parental rights, or adoption, and, if so, the name of the court, the case number, and the nature of the proceeding; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the name and address of each person that the party knows who is not a party to the child custody proceeding and who has custody of any child or claims rights of custody or parenting time with any child.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Notwithstanding paragraph F herein, a party is not required to disclose identifying information:</text>
+        <para>
+          <num>(1)</num>
+          <text>to the extent such information is treated as confidential under applicable law; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>if a party alleges in a sworn statement or under oath in the petition that the health, safety, or liberty of any party or any child would be put at risk by the disclosure of any identifying information. In such event, the Tribal Court shall seal and not disclose that information to the other party or the public unless the Tribal Court orders the disclosure after a hearing in which the Tribal Court considers the health, safety, and liberty of the party and the child and determines that the disclosure is in the interest of justice.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>In an action involving any children, or if child support or spousal support is requested,  except as otherwise provided herein in paragraph I, the party seeking relief must attach a verified statement to the Petition, stating:</text>
+        <para>
+          <num>(1)</num>
+          <text>the last known telephone number, post office address, residence address, and business address of each party;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the name and address of each party's employer, if known;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the estimated weekly gross income of each party;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>a physical description of each party, including eye color, hair color, height, weight, race, gender, and identifying marks;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>any other names by which the parties are or have been known;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>the name, age, birth date, social security number and residence address of each child involved in the action, as well as of any other child of either party;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>the name and address of any person, other than the parties, who may have custody of any child during the pendency of the action;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>the places where the child has lived during the last five years, and the names and present addresses of the persons with whom the child has lived during that period.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>whether the petitioner has participated, as a party or witness or in any other capacity, in any other proceeding concerning the custody of or parenting time with the child and, if so, identify the court, the case number, and the date of the child custody determination, if any;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>whether the Petitioner knows of any proceeding that could affect the current proceeding, including proceedings for enforcement and proceedings relating to domestic violence, protective orders, termination of parental rights, and adoptions and, if so, identify the court, the case number, and the nature of the proceeding;</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>whether the Petitioner knows the names and addresses of any person not a party to the proceeding who has physical custody of the child or claims rights of legal custody or physical custody of, or parenting time with, the child and, if so, the names and addresses of those persons;</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>the kind of public assistance for which the party has applied for or is being received by either party or on behalf of any child, provided that if public assistance has not been requested or received, that fact must be stated;</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>the health care coverage, if any, that is available for any child; the name of the policy holder; the name of the insurance company, health care organization, or health maintenance organization and the policy, certificate, or contract number; and</text>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>a proposed parenting plan.</text>
+        </para>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The information in the verified statement under paragraph H herein is confidential and shall not be released other than to the Tribal Court, the parties, or the attorneys for the parties, except by Tribal Court order and shall not be made a part of the public Tribal Court file. For good cause, the addresses of a party and any child may be omitted from the copy of the statement that is served on the other party. If any of the information required to be included in the verified statement is omitted, the party seeking relief shall explain the reason for the omission in a sworn affidavit, to be filed with the Tribal Court.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>The petition shall be accompanied by a filing fee for a civil action as may be specified by rules of the Tribal Court.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.120" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.130</num>
+      <heading>Summons and Service</heading>
+      <para>
+        <num>(a)</num>
+        <text>When a petition is filed in the Tribal Court, the Tribal Court shall issue a summons with a hearing scheduled no sooner than sixty (60) days after the petition is filed, signed by the judge or the Tribal Court's Principal Law Clerk and direct the parties not to dispose of assets of the marital estate without court order.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribal Court shall retain the original executed summons and immediately return a copy of the executed summons to the Petitioner.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The summons and petition shall be served by the Petitioner on Respondent in accordance with the Saint Regis Mohawk Tribe Rules of Civil Procedure, with proof of service filed with Tribal Court in accordance with such rules.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.130" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.140</num>
+      <heading>Answer</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Respondent shall file an answer, except if the divorce is uncontested, with the Tribal Court, or take other action permitted by Tribal law or Tribal Court rules, within twenty (20) calendar days after being served with the summons and a copy of the Petition.  In an uncontested divorce, no answer is required unless the Court issues a notice to appear pursuant to <cite path="|11.02.130">Section 11.02.130</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Respondent, by answer, shall either admit the grounds for divorce alleged or deny them without further explanation.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>An admission by the Respondent of the grounds for divorce may be considered by the Tribal Court but is not binding on the Tribal Court's determination.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Respondent shall cause the Petitioner to be served with the answer as governed by the Saint Regis Mohawk Tribe Rules of Civil Procedure and shall cause proof of service to be filed with the Tribal Court.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.140" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.150</num>
+      <heading>Default</heading>
+      <para>
+        <num>(a)</num>
+        <text>For a contested divorce, if the Respondent fails to answer within the time stated in <cite path="|11.02.140|(a)">Section 11.02.140(a)</cite>, the Petitioner may file a motion with the Tribal Court for a default together with a proposed default judgment.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Petitioner must cause the Respondent to be served with the motion for default and the proposed default judgment in the manner provided by the SRMT Rules of Civil Procedure, and shall cause proof of service to be filed with the Tribal Court, if:</text>
+        <para>
+          <num>(1)</num>
+          <text>the Respondent has appeared in the action;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the motion for a default judgment seeks relief different in kind from, or greater in amount than, that stated in the Petition; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the Petition does not state a specific amount demanded.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Tribal Court may grant Petitioner's motion for default judgment and enter a default judgment if the time under <cite path="|11.02.180">Section 11.02.180</cite> has run, provided that the Tribal Court believes the proposed default judgment is fair on its face to both parties.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Tribal Court's Principal Law Clerk shall promptly mail notice of entry of a default judgment to all parties. The notice to the Respondent shall be mailed to the Respondent's last known address or the address of the place of service. The Principal Law Clerk shall cause a record to be kept that notice was given.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.150" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.160</num>
+      <heading>Attorney Fees</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any party may, at any time, request that the Tribal Court order the other party to pay all or part of the attorney fees and expenses related to the action or a specific proceeding under <cite path="|11.02">this chapter</cite>, including a post-judgment proceeding.  A party who requests attorney fees and expenses must allege facts sufficient to show that:</text>
+        <para>
+          <num>(1)</num>
+          <text>the party is unable to bear the expense of the action, and that the other party is able to pay; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the attorney fees and expenses were incurred because the other party refuses to comply with a previous Tribal Court order, despite having the ability to comply.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.160" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.170</num>
+      <heading>Sufficiency of Grounds for Divorce</heading>
+      <para>
+        <num>(a)</num>
+        <text>In a contested divorce, the Tribal Court shall enter a judgment of divorce dissolving the bonds of matrimony if evidence is presented in open court that there has been a breakdown in the marriage relationship to the extent that the objects of matrimony have been destroyed and there remains no reasonable likelihood that the marriage can be preserved.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If the divorce is uncontested, the Petitioner shall submit to Tribal Court a proposed judgment.  The Tribal Court may enter such judgment of divorce within twenty (20) days after receiving proof of service of the Petition on the Respondent.  If Tribal Court elects not to enter the proposed judgment of divorce, it shall schedule an appearance within twenty (20) days and send such notice to the parties at which time the Respondent shall file an answer pursuant to <cite path="|11.02.140">Section 11.02.140</cite>.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Tribal Court shall decide all issues of fact and law and there shall be no right to trial by jury.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.170" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.180</num>
+      <heading>Hearing on Petition</heading>
+      <para>
+        <num>(a)</num>
+        <text>No proof or testimony may be taken in a contested divorce until the expiration of thirty (30) days from the time of filing the Petition, except when the testimony is taken conditionally for the purpose of preserving such testimony.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Testimony may be taken conditionally at any time for the purpose of preserving such testimony.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Testimony shall be taken in person, except the Tribal Court may allow testimony to be taken by telephone or other electronically reliable means.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.180" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.190</num>
+      <heading>Temporary Orders</heading>
+      <para>
+        <num>(a)</num>
+        <text>After a divorce petition has been filed, but before a final judgment of divorce has been entered, upon the motion of either party or on the Tribal Court's own motion it may:</text>
+        <para>
+          <num>(1)</num>
+          <text>require either party to pay, during the pendency of the action, spousal support for the suitable maintenance of the adverse party, to pay such sums as shall be deemed proper and necessary to conserve any real or personal property owned by the parties or either of them, and to pay any sums necessary to enable the adverse party to carry on or defend the action; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>enter orders concerning the care, parenting time, custody, and support of any child of the parties during the pendency of the action, as the Tribal Court shall deem just, proper, and necessary for the benefit of such child. Such orders are not intended to be a final determination of such matters.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.190" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.200</num>
+      <heading>Mediation and Settlement Agreements</heading>
+      <para>
+        <num>(a)</num>
+        <text>Settlement agreements are the preferred outcome of divorce proceedings.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If the parties cannot come to an agreement, or they state in the petition the divorce is contested under <cite path="|11.02.120|(d)|(3)">Section 11.02.120(d)(3)</cite> they shall go through a mediation proceeding to attempt to achieve a settlement agreement after the filing of the petition and answer, but prior to a full contested divorce.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If the divorce involves children as defined in Chapter 3 of this Code, the parties shall attend mediation required under <cite path="|11.02">this chapter</cite> even if the divorce is uncontested, and if all child support matters cannot be resolved then child support shall be determined pursuant to Chapter 3, Section 3.A.2.b of this Code. If a party wants child support to be paid through the Saint Regis Mohawk Tribe Child Support Enforcement Unit (SRMT CSEU) the child support payee shall need to register for services with the SRMT CSEU.  If the parties do not want child support payments through the CSEU then the Court shall advise the parties of the option of obtaining its services post-judgment.  If the child support portion of a divorce does not direct payment through the CSEU, then it may be modified by either party filing a petition to modify or enforce the judgment of divorce upon a showing of a change in circumstances or failure of the payor to follow the child support portion of the divorce including non-payment.  At any time, any party can sign-up for services with the Tribe's CSEU to include modifying a judgment of divorce and/or enforcing a judgment of divorce.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>If the parties have filed competing parenting plans under <cite path="|11.02">this chapter</cite>, they shall also submit to mediation under <cite path="|11.02">this chapter</cite> and chapter 3, Section 3.A.2.b.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>If the parties do not come to a settlement agreement, the mediator shall submit a report to the Tribal Court detailing the areas of agreement and dispute between the parties.  Such report shall be considered confidential.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>A settlement agreement between the parties regarding the proceedings in a divorce action, subsequently denied by either party, is not binding unless it was made in open court, or evidence of the agreement is in writing, subscribed by the party against whom the agreement is offered or by that party's attorney.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>All settlement agreements respecting any proceedings in a divorce action are subject to the approval of the Tribal Court and shall be approved unless the Tribal Court determines that the terms are not fair and equitable.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Custody agreements shall be approved by the Tribal Court upon a finding that the custody agreement is in the best Interests of the child.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>For child support agreements that do not involve the CSEU, they shall be approved by the Court upon a finding that the child support agreement is in keeping with the Tribe's Child Support Guidelines or that any deviation from the presumptive correct amount of child support is in the best interests of the child and state the reasons in writing for such deviation except if the Court determines that a party is being coerced into a settlement or finds after a hearing that there are issues of domestic violence between the parties, then it shall direct one of the parties to obtain services from the Tribe's CSEU.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.200" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.210</num>
+      <heading>Equitable Distribution</heading>
+      <text>The Tribal Court may include in any judgment of divorce appropriate provisions awarding to a party all or a portion of the property, either real or personal, owned by his or her spouse, as appears to the Tribal Court to be equitable under all the circumstances of the case, if it appears from the evidence in the case that the other party contributed to the acquisition, improvement, or accumulation of the property. The judgment, upon becoming final, shall have the same force and effect as a quitclaim deed for real property, a and as a bill of sale for personal property as though given by that party to the other party.</text>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.210" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.220</num>
+      <heading>Restoration of Property</heading>
+      <text>The Tribal Court may make a determination for restoring to either party the whole, or such parts as it shall deem just and reasonable, of the real and personal estate that shall have come to either party by reason of the marriage, or for awarding to either party the value thereof, to be paid by the other party.</text>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.220" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.230</num>
+      <heading>Further Award of Property</heading>
+      <text>Upon entry of a judgment of divorce if there are insufficient assets in the marital estate for the suitable support and maintenance of either party and any Children of the marriage who are committed to the care and Custody of either party, the Tribal Court may also award to either party the part of the real and personal property of the other party as well as spousal maintenance out of the real and personal property, to be paid to either party in gross or otherwise as the Tribal Court considers just and reasonable, after considering <cite path="|11.02.270">Section 11.02.270</cite> of <cite path="|11.02">this chapter</cite> and the outcome of Chapter 3 of this Code.</text>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.230" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.240</num>
+      <heading>Valuation of Marital Estate</heading>
+      <text>The Tribal Court shall value the marital estate based upon the date of separation, filing, trial, judgment, or any other appropriate date to facilitate equitable distribution under all the circumstances of the case.</text>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.240" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.245</num>
+      <heading>Imputation of Income and Allocation of Assets</heading>
+      <text>The Court has the power to impute income and assets and the discretion to take testimony to determine the true income and allocation of assets of either party.</text>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.245" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.250</num>
+      <heading>Retirement Benefits</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any rights in and to vested pension, annuity, or retirement benefits, or accumulated contributions in any pension, annuity, or retirement system, payable to or on behalf of a party on account of service credit accrued by the party during marriage shall be considered part of the marital estate and shall be valued, and may be divided, by the Tribal Court under <cite path="|11.02">this chapter</cite> where just and equitable.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any rights or contingent rights in and to unvested pension, annuity, or retirement benefits payable to or on behalf of a party on account of service credit accrued by a party during marriage may be considered part of the marital estate and shall be valued, and may be divided, by the Tribal Court under <cite path="|11.02">this chapter</cite> where just and equitable.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.250" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.260</num>
+      <heading>Disclosure of Property</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribal Court may request records from the Tribal Clerk's office regarding real property of the parties.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribal Court may order each party to provide the other party with updated and current information of any changes to the declarations made in the financial affidavit filed with the Petition.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.260" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.270</num>
+      <heading>Spousal Maintenance</heading>
+      <para>
+        <num>(a)</num>
+        <text>In any divorce action, the Tribal Court may require either party to pay for the suitable maintenance of the adverse party where just and equitable based upon consideration of the following factors:</text>
+        <para>
+          <num>(1)</num>
+          <text>the age and health of the parties;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the present or future earning capacity of the parties, including a history of limited participation in the workforce;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the need of one party to incur education or training expenses;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the termination of a child support award before the termination of the maintenance award when the calculation of maintenance was based upon child support being awarded which resulted in a maintenance award lower than it would have been had child support not been awarded;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>the wasteful dissipation of marital property, including transfers or encumbrances made in contemplation of a matrimonial action without fair consideration;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>the existence and duration of a pre-marital joint household or a pre-divorce separate household;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>acts by one party against the other that have inhibited or continue to inhibit a party's earning capacity or ability to obtain meaningful employment. Such acts include but are not limited to acts of domestic violence as defined in the Violence Against Women Act;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>the availability and cost of medical insurance for the parties;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>the care of children or stepchildren, disabled adult children or stepchildren, elderly parents or in-laws provided during the marriage that inhibits a party's earning capacity;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>the tax consequences to each party;</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>the standard of living of the parties established during the marriage;</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>the reduced or lost earning capacity of the payee as a result of having forgone or delayed education, training, employment or career opportunities during the marriage;</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>the equitable distribution of marital property and the income or imputed income on the assets so distributed;</text>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>the contributions and services of the payee as a spouse, parent, wage earner and homemaker to the career or career potential or business of the other party; and</text>
+        </para>
+        <para>
+          <num>(15)</num>
+          <text>any other factor which the court shall expressly find to be just and proper.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.270" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.280</num>
+      <heading>Termination of Spousal Maintenance</heading>
+      <para>
+        <num>(a)</num>
+        <text>An award of spousal maintenance may be terminated by the Tribal Court as of the date the party receiving spousal maintenance remarries unless a contrary agreement is specifically stated in the judgment of divorce.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A party who is in receipt of spousal maintenance pursuant to a Tribal Court order shall notify the other party in writing within fifteen (15) days if the party receiving spousal maintenance remarries.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Termination of an award under <cite path="|11.02.280">this section</cite> shall not affect spousal maintenance payments which have accrued prior to that termination, provided that if a party failed to provide written notice pursuant to paragraph B herein, then upon motion of the other party, Tribal Court may waive any spousal maintenance payments which have accrued after the date the party receiving spousal maintenance remarried.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.280" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.290</num>
+      <heading>Amendment of the Spousal Maintenance</heading>
+      <para>
+        <num>(a)</num>
+        <text>On motion of either party, after a judgment for spousal maintenance, the Tribal Court may revise and alter the judgment, respecting the amount or payment of spousal maintenance, and may make any judgment respecting any of the matters that the Tribal Court might have made in the original action.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Provisions relating to property settlement in a divorce judgment or a settlement agreement shall not be modified absent a showing of fraud, duress, mutual mistake of fact or upon further agreement of the parties.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.290" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.300</num>
+      <heading>Child Support</heading>
+      <para>
+        <num>(a)</num>
+        <text>In all actions involving custody of a child, the Tribal Court may establish the rights and duties as to a child's financial support in accordance with the Saint Regis Mohawk Tribe Family Support Act (Chapter 3 of this Code).</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>An agreement between the parties stated on the record and made an order of the Tribal Court, or included in a judgment of divorce under which one party agrees to pay post-majority child support, is enforceable.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.300" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.305</num>
+      <heading>Saint Regis Mohawk Tribe Uniform Child Custody Jurisdiction Enforcement Act</heading>
+      <para>
+        <num>(a)</num>
+        <text>Purpose. <cite path="|11.02.305">This section</cite> is to provide an effective mechanism to obtain and enforce orders of custody and visitation across jurisdictional lines including temporary orders if the issuing court had the requisite jurisdiction.  <cite path="|11.02.305">This section</cite> only applies to a child custody proceeding in which legal custody, physical custody, or parenting time to a child is an issue, which for this purpose of this Code is limited to a proceeding for a divorce, separation, custody or parenting time under <cite path="|11.02">this chapter</cite>, and protection orders from domestic violence, but excludes neglect, abuse, dependency, guardianship, termination of parental rights, juvenile delinquency, person in need of supervision, and contractual emancipation.  It also excludes child support proceedings since these are covered under Chapter 3 of this Code and can be registered for enforcement under that Chapter.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>International application.  The Court shall treat a foreign country as if it were a state of the United States for the purpose of applying <cite path="|11.02.305">this section</cite>. A child custody determination made in a foreign country under factual circumstances in substantial conformity with the jurisdictional standards of this article must be recognized and enforced. The Court need not apply <cite path="|11.02.305">this section</cite> if the child custody law of a foreign country, as written or as applied, violates fundamental principles of human rights.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Effect of a child custody determination. A child custody determination made by a court that had jurisdiction under <cite path="|11.02.305">this section</cite> binds all people who have been served in accordance, with the laws of this Tribe or who have submitted to the jurisdiction of the Court, and who have been given an opportunity to be heard. As to those people, the determination is conclusive as to all decided issues of law and fact except to the extent the determination is modified.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Notice.  Notice required for the exercise of jurisdiction when a person is outside this jurisdiction may be given in a manner prescribed by the Tribe's Rules of Civil Procedure for service of process or according to the place where the person resides. Notice must be given in a manner reasonably calculated to give actual notice, but may be by publication if other means are not effective.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Communication between courts.  The Tribal Court may communicate with a court in another tribe or state concerning a proceeding involving jurisdiction under <cite path="|11.02.305">this section</cite>.  When communicating the following also shall apply:</text>
+        <para>
+          <num>(1)</num>
+          <text>the Court may allow the parties to participate in the communication. If the parties are not able to participate in the communication, they must be given the opportunity to present facts and legal arguments before a decision on jurisdiction is made;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>communication between courts on schedules, calendars, court records, and similar matters may occur without informing the parties. A record need not be made of the communication;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>except as otherwise provided in subdivision three of <cite path="|11.02.305">this section</cite>, a record must be made of a communication under <cite path="|11.02.305">this section</cite>. The parties must be informed promptly of the communication and granted access to the record; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>for the purposes of <cite path="|11.02.305">this section</cite>, "record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Taking testimony in another jurisdiction.  When taking testimony in another jurisdiction the following shall apply:</text>
+        <para>
+          <num>(1)</num>
+          <text>in addition to other procedures available to a party, a party to a child custody proceeding may offer testimony of witnesses who are located in another jurisdiction, including testimony of the parties and the child, by deposition or other means allowable in this Court for testimony taken in another jurisdiction. The Court on its own motion may order that the testimony of a person be taken in another jurisdiction and may prescribe the manner in which, and the terms upon which, the testimony is taken;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>this Court may permit an individual residing in another jurisdiction to be deposed or to testify by telephone, audiovisual means, or other electronic means before a designated court or at another location in that state. This Court shall cooperate with courts of other jurisdictions in designating an appropriate location for the deposition or testimony; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>documentary evidence transmitted from another jurisdiction to this Court by technological means that do not produce an original writing may not be excluded from evidence on an objection based on the means of transmission.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Cooperation between courts; preservation of records.  The following shall apply:</text>
+        <para>
+          <num>(1)</num>
+          <text>this Court may request the appropriate court of another jurisdiction to:</text>
+          <para>
+            <num>(A)</num>
+            <text>hold an evidentiary hearing;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>order a person to produce or give evidence pursuant to procedures of that jurisdiction;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>order that an evaluation be made with respect to the custody of a child involved in a pending proceeding;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>forward to this Court a certified copy of the transcript of the record of the hearing, the evidence otherwise presented, and any evaluation prepared in compliance with the request; and</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>order a party to a child custody proceeding or any person having physical custody of the child to appear in the proceeding with or without the child;</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>upon the request of a court of another jurisdiction, this Court may hold a hearing or enter an order described in subdivision one of <cite path="|11.02.305">this section</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>this Court shall preserve the pleadings, orders, decrees, records of hearings, evaluations, and other pertinent records with respect to a child custody proceeding at least until the child attains eighteen years of age. Upon appropriate request by a court or law enforcement official of another jurisdiction, the Court shall forward a certified copy of those records.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Initial child custody jurisdiction. This Court may exercise jurisdiction to make an initial child custody determination if:</text>
+        <para>
+          <num>(1)</num>
+          <text>the Court has jurisdiction under <cite path="|11.02.030">Section 11.02.030</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>a court of another jurisdiction does not have jurisdiction under paragraph 1 herein, or a court of the home jurisdiction of the child has declined to exercise jurisdiction on the ground that this Court is the more appropriate forum, and:</text>
+          <para>
+            <num>(A)</num>
+            <text>the child and the child's parents, or the child and at least one parent, have a significant connection with this jurisdiction other than mere physical presence; and</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>substantial evidence is available in this jurisdiction concerning the child's care, protection, training, and personal relationships;</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>all other courts having jurisdiction under paragraph (1) or (2) herein have declined to exercise jurisdiction on the ground that this Court is the more appropriate forum; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>no court of any other state would have jurisdiction under the criteria specified in paragraph (1), (2) or (3) of this Subsection.</text>
+        </para>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Exclusive, continuing jurisdiction. Except as otherwise provided in <cite path="|11.02.305">this section</cite>, this Court which has made a child custody determination has continuing jurisdiction over the determination until this Court determines it no longer has jurisdiction under <cite path="|11.02">this chapter</cite> and that substantial evidence is no longer available in this jurisdiction concerning the child's care, protection, training, and personal relationships.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Jurisdiction to modify determination. This Court may not modify a child custody determination made by a court of another jurisdiction unless:</text>
+        <para>
+          <num>(1)</num>
+          <text>this Court has authority to make an initial determination; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the court of the other jurisdiction determines it no longer has exclusive, continuing jurisdiction, or that this Court would be a more convenient forum; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>this Court or a court of another jurisdiction determines that the child or the child's parents do not presently reside in the other jurisdiction.</text>
+        </para>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>Temporary emergency jurisdiction. This Court may take temporary emergency jurisdiction if the child is present in this jurisdiction and the child has been abandoned or it is necessary in an emergency to protect the child, a sibling or parent of the child so long as there is no order from another jurisdiction to be enforced.  If there is an order from another jurisdiction then such order may be registered as outlined in subsection (o)(1) along with a request to enforce with an expedited hearing to be scheduled within three (3) days.  A petition to register along with a request for expedited enforcement shall be served with a summons or order to the show cause as directed by the Court to the parent(s) and anyone who has physical custody of the child(ren) The Court shall not enter an order unless all of the necessary parties have been served.  In any order related to an emergency or abandonment, the Court shall detail its findings regarding the emergency and if there is an existing order the basis for registering the order.  The Court's findings shall include specific findings regarding the imminent risk to the health and safety of the child(ren) or the child(ren)'s abandonment.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>Simultaneous proceedings. This Court may not exercise its jurisdiction regarding a child custody proceeding if, at the time of the commencement of the proceeding, a proceeding concerning the custody of the child has been commenced in a court of another jurisdiction substantially in conformity with <cite path="|11.02.305">this section</cite>, unless the proceeding has been terminated or is stayed by the court of the other jurisdiction because this Court is a more convenient forum.</text>
+        <para>
+          <num>(1)</num>
+          <text>Except as otherwise provided in <cite path="|11.02">this chapter</cite>, this Court, before hearing a child custody proceeding, shall examine the court documents and other information supplied by the parties. If this Court determines a child custody proceeding has been commenced in a court in another jurisdiction having jurisdiction substantially in accordance with <cite path="|11.02.305">this section</cite>, this Court shall stay its proceeding and communicate with the other court.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In a proceeding to modify a child custody determination, this court shall determine whether a proceeding to enforce the determination has been commenced in another state. If a proceeding to enforce a child custody determination has been commenced in another state, the court may:</text>
+          <para>
+            <num>(A)</num>
+            <text>stay the proceeding for modification pending the entry of an order of a court of the other jurisdiction enforcing, staying, denying, or dismissing the proceeding for enforcement;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>enjoin the parties from continuing with the proceeding for enforcement; or</text>
+            <text>proceed with the modification under conditions it considers appropriate.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If a proceeding for enforcement under <cite path="|11.02.305">this section</cite> is commenced in this Court, and the Court determines that a proceeding to modify the determination is pending in a court of another jurisdiction having jurisdiction to modify the determination, the Court shall immediately communicate with the modifying court. The proceeding for enforcement continues unless the enforcing court, after consultation with the modifying court, stays or dismisses the proceeding.</text>
+        </para>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>Inconvenient forum. This Court may decline to exercise its jurisdiction at any time if it determines that it is an inconvenient forum under the circumstances and that a court of another jurisdiction is a more appropriate forum. The issue of inconvenient forum may be raised upon motion of a party, the child, the law guardian, the guardian ad litem, or upon the court's own motion, or request of another court.</text>
+        <para>
+          <num>(1)</num>
+          <text>Before determining whether it is an inconvenient forum, this Court shall consider whether it is appropriate for a court of another jurisdiction to exercise jurisdiction. For this purpose, the court shall allow the parties to submit information and shall consider all relevant factors, including:</text>
+          <para>
+            <num>(A)</num>
+            <text>whether domestic violence or mistreatment or abuse of a child or sibling has occurred and is likely to continue in the future and which jurisdiction could best protect the parties and the child;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>the length of time the child has resided outside this jurisdiction;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>the distance between this Court and the court in the other jurisdiction;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>the relative financial circumstances of the parties;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>any agreement of the parties as to which court should assume jurisdiction;</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>the nature and location of the evidence required to resolve the pending litigation, including testimony of the child;</text>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>the ability of each court to decide the issue expeditiously and the procedures necessary to present the evidence; and</text>
+          </para>
+          <para>
+            <num>(H)</num>
+            <text>the familiarity of each court with the facts and issues in the pending litigation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If this Court determines that it is an inconvenient forum, and that a court of another jurisdiction is a more appropriate forum, it shall stay the proceedings upon condition that a child custody proceeding be promptly commenced in another designated jurisdiction and may impose any other condition the Court considers just and proper.</text>
+        </para>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>Duty to enforce. This Court shall recognize and enforce a child custody determination of a court of another state if the latter court exercised jurisdiction in substantial conformity with <cite path="|11.02.305">this section</cite> or the determination was made under factual circumstances meeting the jurisdictional standards of <cite path="|11.02.305">this section</cite> and the determination has not been modified in accordance with <cite path="|11.02.305">this section</cite>. This Court may utilize any remedy it has available to enforce a child custody determination made by a court of another jurisdiction.  If the Court believes a child(ren)'s health or safety is at imminent risk of danger it may request the assistance of the Tribe's Indian Child Welfare Act ("ICWA") program to take the necessary steps to ensure the child's safety and ICWA may request the assistance of the Saint Regis Mohawk Tribe Police Department.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>Registration of child custody determination. In order to register a child custody determination, this Subsection shall apply and procedures outlined must be followed.</text>
+        <para>
+          <num>(1)</num>
+          <text>A child custody determination issued by a court of another jurisdiction may be registered in this jurisdiction, with or without a simultaneous request for enforcement, by sending to the Court:</text>
+          <para>
+            <num>(A)</num>
+            <text>a petition requesting registration;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>two copies, including one certified copy, of the determination sought to be registered, and a statement under penalty of perjury that to the best of the knowledge and belief of the person seeking registration the order has not been modified; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>the name and address of the person seeking registration and any parent or person acting as a parent who has been awarded custody or visitation in the child custody determination sought to be registered.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>On receipt of the documents required by subdivision (1) herein, the Court shall:</text>
+          <para>
+            <num>(A)</num>
+            <text>docket the petition together with one copy of  the document sought to be registered and/or enforced; and</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>serve notice upon the persons named by regular mail and provide them with notice of the opportunity to be heard to contest the registration in accordance with <cite path="|11.02.305">this section</cite>.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The notice required by paragraph (b) of subdivision (2) herein must state the following:</text>
+            <para>
+              <num>(i)</num>
+              <text>a registered determination is enforceable as of the date of the registration in the same manner as a determination issued by this Court;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a hearing to contest the validity of the registered determination must be requested within twenty (20) days after service of notice; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>failure to contest the registration will result in confirmation of the child custody determination and preclude further contest of that determination with respect to any matter that could have been asserted.</text>
+            </para>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>A person seeking to contest the validity of a registered order must request a hearing within twenty days after mailing of the notice. At that hearing, the Court shall confirm the registered order unless the person contesting registration establishes that:</text>
+            <para>
+              <num>(i)</num>
+              <text>the issuing court did not have jurisdiction;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the child custody determination sought to be registered has been vacated, stayed, or modified by a court having jurisdiction to do so; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>the person contesting registration was entitled to notice, but notice was not given in the proceedings before the court that issued the order.</text>
+            </para>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>If a timely request for a hearing to contest the validity of the registration is not made, the registration is confirmed as a matter of law and the person requesting registration and all persons served must be notified of the confirmation.</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>Confirmation of a registered order, whether by operation of law or after notice and hearing, precludes further contest of the order with respect to any matter that could have been asserted at the time of registration.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.305" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.310</num>
+      <heading>Child Custody</heading>
+      <para>
+        <num>(a)</num>
+        <text>In all actions involving dispute over custody, the Tribal Court shall declare the child's inherent rights and establish the rights and duties as to custody based upon the best interests of the child in accordance with <cite path="|11.02">this chapter</cite>.  The Court may entertain a petition for custody from a parent or non-parent if he/she can satisfy the Court of a significant connection to the child(ren) either through family, clan, cultural connection or some other significant connection to the child(ren).  When a non-parent files for custody, then the legally recognized parent(s) must be named as a Respondent(s) along with anyone who may have physical placement/custody of the child. The Court may only entertain emergency ex parte petitions when a parent is incapacitated or when a child's life is at imminent risk of health or injury.  After an emergency ex parte temporary custody order is entered, it shall be served along with a summons or order to show cause to be served at the Court's direction to be made returnable within five (5) days for a hearing along with a custody petition as outlined in <cite path="|11.02.320">Section 11.02.320</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribal Court shall enter the orders and judgments it considers just and proper concerning care and custody of the children, including orders and judgments awarding joint legal custody or sole legal custody, and joint physical custody or sole physical custody, until each child has attained the age of eighteen (18) years.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>When Custody of any child is contested, the Tribal Court may interview the child privately to determine if the child is of sufficient age to express a preference regarding custody and, if so, the reasonable preference of the child, provided that the Tribal Court shall focus the interview on such determination, and the information received shall be applied only to the custody determination. A record shall be made of such interview and sealed pending any review by the Tribe's Court of Appeals.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Each party has a continuing duty to inform the Tribal Court of any other proceeding that could affect any award of custody of any child under <cite path="|11.02">this chapter</cite>.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.310" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.320</num>
+      <heading>Petition for Child Custody</heading>
+      <para>
+        <num>(a)</num>
+        <text>For an action involving children and no divorce, except as otherwise provided below in B, the party seeking relief must attach a verified statement to the petition, stating:</text>
+        <para>
+          <num>(1)</num>
+          <text>the Court's  jurisdiction under <cite path="|11.02.320">this section</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the last known telephone number, post office address, residence address, and if knows the business address of each party;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>a physical description of each party, including eye color, hair color, height, weight, race, gender, and identifying marks;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>any other names by which the parties are or have been known;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>the name, age, birth date, and residential address of each child involved in the action, as well as of any other child of either party;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>if the parties are unmarried how paternity was established, if paternity has not been established any paternity action shall be governed by Chapter 3, Section 4 of this Code;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>the places where the child has lived during the last five years, and the names and present addresses of the persons with whom the child has lived during that period;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>whether the petitioner has participated, as a party or witness or in any other capacity, in any other proceeding concerning the custody of or visitation with the child and, if so, identify the court, the case number, and the date of the child custody determination, if any;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>if the petitioner knows of any proceeding that could affect the current proceeding, including proceedings for enforcement and proceedings relating to domestic violence, protective orders, termination of parental rights, and adoptions and, if so, identify the court, the case number, and the nature of the proceeding;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>if the petitioner knows the names and addresses of any person not a party to the proceeding who has physical custody of the child or claims rights of legal custody or physical custody of, or parenting time with, the child and, if so, the names and addresses of those persons;</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>the name and address of any person, other than the parties, who may have custody of any child during the pendency of the action; and</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>a proposed parenting plan.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The information in the verified statement under <cite path="|11.02.320|(a)">Section 11.02.320(a)</cite> is confidential and shall not be released other than to the Tribal Court, the parties, or the attorneys for the parties, except on Tribal Court order and shall not be made a part of the public Tribal Court file. For good cause, the addresses of a party and any child may be omitted from the copy of the statement that is served on the other party. If any of the information required to be included in the verified statement is omitted, the party seeking relief shall explain the omission in a sworn affidavit, to be filed with the Tribal Court.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Petition shall be accompanied by a filing fee for a civil action as may be specified by rules of the Tribal Court.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>When a Petition is filed in the Tribal Court, the Tribal Court shall issue a summons with a hearing scheduled no later than sixty (60) days after the Petition is filed.  The summons shall include a date certain and time for the parties' appearance with a warning that a Respondent's failure to appear may result in a default judgment.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Tribal Court shall retain the original executed summons and return a copy of the executed summons to the Petitioner within five (5) days.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The summons and petition shall be served by the Petitioner on Respondent(s) in accordance with the Saint Regis Mohawk Tribe's Rules of Civil Procedure, with proof of service filed with Tribal Court in accordance with those rules.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.320" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.325</num>
+      <heading>Answer</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Respondent may file an answer with the Tribal Court, or take other action permitted by Tribal law or Tribal Court rules, within twenty (20) calendar days after being served with the summons and a copy of the Petition.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Respondent, by answer, shall agree with the parenting plan proposed or propose an alternative parenting plan.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If filing an answer, the Respondent shall cause the Petitioner to be served with it as governed by the Saint Regis Mohawk Tribe Rules of Civil Procedure and shall file the proof of service with the Tribal Court.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.325" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.330</num>
+      <heading>Default</heading>
+      <para>
+        <num>(a)</num>
+        <text>If the Respondent fails to answer within the time stated in <cite path="|11.02.320|(a)">Section 11.02.320(a)</cite>, the Petitioner may file a motion with the Tribal Court for a default together with a proposed order.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Petitioner must cause the Respondent to be served with the motion for default and the proposed order in the manner provided in the Saint Regis Mohawk Tribe's  Rules of Civil Procedure, and shall cause proof of service to be filed with the Tribal Court, if:</text>
+        <para>
+          <num>(1)</num>
+          <text>the Respondent has appeared in the action; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The motion for a default judgment seeks relief different than stated in the Petition.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Tribal Court may grant Petitioner's motion for default judgment and enter a default judgment if the time under <cite path="|11.02.320">Section 11.02.320</cite> has run, provided that the Tribal Court believes the proposed order is fair to both parties and in the best interest of the Children.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Tribal Court clerk shall promptly mail notice of entry of a default order to all parties. The notice to the Respondent shall be mailed to the Respondent's last known address or the address of the place of service. The clerk shall keep a record that notice was given.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>If a Respondent is served with proof of service filed and fails to appear on the return date, the Court may entertain an oral motion to award the Petitioner custody or make such orders as it deems just and proper.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.330" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.340</num>
+      <heading>Best Interest of the Child in Custody Proceedings</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Court shall consider these interests in every decision regarding custody of a child and their family. It is in the best interest of a child:</text>
+        <para>
+          <num>(1)</num>
+          <text>to have strong relationships with both of their parents unless the Court determines that it would be contrary to their best interest;  if the petitioner is not a parent, the Court shall include a provision as to why custody to a non-parent is in the child's best interest;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>to know and rely upon their heritage, and to have pride in their heritage;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>to be protected and cared for by adults willing to meet their spiritual, physical, and emotional needs;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>to have the right to healthy relationships with extended family on both sides of the family;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>to grow up free from violence and emotional abuse;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>to express their own views;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>to develop self-identity and awareness of their unique role within the larger community, including participation in family, community and cultural activities; and</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>to have families that respect their relationship with all sides of their family relations.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.340" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.350</num>
+      <heading>Joint Custody</heading>
+      <text>In Custody disputes between parents, the Tribal Court shall advise the parents of joint legal custody and joint physical custody and that neither parent has a presumptive right or superior right to custody.  At the request of either parent, the Tribal Court shall consider an award of joint legal custody or joint physical custody, or both, and shall state on the record the reasons for granting or denying a request. Absent a request by either parent, the Tribal Court may consider joint legal custody or joint physical custody, or both. The Tribal Court shall make determinations regarding joint legal custody or joint physical custody, or both, based upon the best interests of the child.</text>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.350" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.355</num>
+      <heading>Third Party Custody by Consent</heading>
+      <para>
+        <num>(a)</num>
+        <text>An adult who has an established, substantial, familial relationship with the child, may petition the court with the consent of the parents to establish a third-party custody order.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Once the petition is filed the Court shall cause a summons to be issued to the parties.  The return date of the petition shall be no later than thirty (30) days from the filing.  The Petitioner shall serve the parents with the summons and petition according to the Saint Regis Mohawk Tribe's Rules of Civil Procedure with proof of service to be filed in accordance with such rules.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>On the return date, the Court may approve the Petition if each parent consents and the Court finds after taking testimony that the third party is appropriate and has an established familial connection with the child. If the Court finds the third party is not appropriate, the Court may refer the matter as it sees fit.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>To modify or terminate such an order, a parent may file to revoke the order at any time, but the parent must revoke it in front of the Judge and the Court must find it is in the child's best interest to revoke such order or refer the matter as it sees fit.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.355" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.360</num>
+      <heading>Parenting Time</heading>
+      <para>
+        <num>(a)</num>
+        <text>In all actions involving any dispute over custody, the Tribal Court shall declare the child's inherent rights and establish the rights and duties as to parenting time in accordance with <cite path="|11.02">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Parenting time shall be granted in accordance with the best interests of the child. Except as otherwise provided in <cite path="|11.02.360">this section</cite>, parenting time shall be granted to a parent in a frequency, duration, and type reasonably calculated to promote a strong relationship between the child and the parent granted parenting time.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If the parents agree on parenting time terms, the Tribal Court shall order the parenting time terms unless it determines on the record by clear and convincing evidence that the parenting time terms are not in the best interests of the child.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>A child has a right to parenting time with a parent unless it is shown on the record by clear and convincing evidence that it would endanger the child's physical, mental, or emotional health.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Tribal Court may consider the following factors when determining the frequency, duration and type of parenting time to be granted:</text>
+        <para>
+          <num>(1)</num>
+          <text>the existence of any special circumstances or needs of the child;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>whether the child is a nursing child less than six (6) months of age, or less than one year of age if the child receives substantial nutrition through nursing;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the reasonable likelihood of abuse or neglect of the child during parenting time;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the reasonable likelihood of abuse of a parent resulting from the exercise of parenting time;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>the inconvenience to, and burdensome impact or effect on, the child of traveling for purposes of parenting time;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>whether a parent can reasonably be expected to exercise parenting time in accordance with the Tribal Court order;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>whether a parent has frequently failed to exercise reasonable parenting time;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>the threatened or actual detention of the child with the intent to retain or conceal the child from the other parent or from a third person who has custody, provided that a custodial parent's temporary residence with the child in a domestic violence shelter shall not be construed as evidence of the custodial parent's intent to retain or conceal the child from the other parent; and</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>any other relevant factor it deems relevant.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>A parenting time order may contain any reasonable terms or conditions that facilitate the orderly and meaningful exercise of parenting time by a parent, including without limitation, one or more of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>division of the responsibility to transport the child;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>division of the cost of transporting the child;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>restrictions on the presence of any third person during parenting time;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>requirements that the child be ready for parenting time at a specific time;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>requirements that the parent arrive for parenting time, and return the child from parenting time, at specific times;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>requirements that parenting time occur in the presence of a third person or agency;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>requirements that a party posts a bond with the Court to assure compliance with a parenting time order;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>requirements of reasonable notice when parenting time will not occur; and</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>any other reasonable condition determined to be appropriate in the particular case.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>During the time a child is with a parent to whom parenting time has been awarded, that parent shall decide all routine matters concerning the child.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Upon motion, the Tribal Court shall consider, and may provide for, reasonable visitation by grandparents and, if denied, shall make a record of the denial.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.360" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.370</num>
+      <heading>Change in Residence</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any child whose custody is governed by Tribal Court and provides for joint custody has, for the purposes of <cite path="|11.02.370">this section</cite>, a legal residence with each parent.  Except as otherwise provided in <cite path="|11.02.370">this section</cite>, a parent of any child whose custody is governed by Tribal Court order and provides for joint custody shall not change a legal residence of the child to a location that is more than one-hundred (100) miles from the child's legal residence at the time of the order.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>When filing to modify a joint custody order, <cite path="|11.02.370|(a)">Section 11.02.370(a)</cite> does not apply if:</text>
+        <para>
+          <num>(1)</num>
+          <text>the other parent consents to the residence change and the Tribal Court enters an order permitting the residence change;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>after complying with paragraph C below, the Tribal Court permits the residence change;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>after a hearing, the Tribal Court determines to grant sole legal custody and sole physical custody to one (1) of the parents; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the modified order would result in the child's two (2) legal residences being closer to each other.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Before permitting a legal residence change otherwise restricted by <cite path="|11.02.370|(a)">Section 11.02.370(a)</cite>, the Tribal Court shall consider each of the following factors, with the child best interests as the primary focus in the deliberations:</text>
+        <para>
+          <num>(1)</num>
+          <text>each parent's reasons for seeking relocation or fighting against the relocation;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the quality of the child's relationship with each parent;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the degree to which the Tribal Court is satisfied that, if it permits the legal residence change, it is possible to order a modification of the parenting time schedule and other arrangements governing the child's schedule in a manner that can provide an adequate basis for preserving and fostering the parental relationship between the child and each parent; and whether each parent is likely to comply with the modification;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>whether the legal residence change has the capacity to improve the quality of life, including financially, emotionally, and educationally, for both the child and the relocating parent; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>domestic violence, regardless of whether the violence was directed against or witnessed by the child.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Each Tribal Court order determining or amending custody or parenting time of any child shall include a provision stating each parent's agreement as to how a change in either of the child's legal residences will be handled. If such a provision is included in the order and the child's legal residence change is done in compliance with that provision, this paragraph shall not apply. If the Parents do not agree on such a provision, the Tribal Court shall include in the order the following provision: "A parent whose custody or parenting time of a child is governed by this order shall not change the legal residence of the child except in compliance with <cite path="|11.02">this chapter</cite>."</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>If <cite path="|11.02.370">this section</cite> applies to a change in a child's legal residence, and the parent seeking to change that legal residence needs to seek a safe location from the threat of domestic violence, the parent may move to such a location with the child until the Tribal Court makes a determination under <cite path="|11.02.370">this section</cite>.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.370" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.380</num>
+      <heading>Amendment of Custody Order or Judgment of Divorce Involving Children</heading>
+      <para>
+        <num>(a)</num>
+        <text>After entry of a judgment of divorce and/or custody, the Tribal Court may modify the judgment concerning the custody arrangements only after a showing of a substantial change of circumstances, which must be alleged in a petition and as subject to the requirements of <cite path="|11.02.380">this section</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribal Court may modify custody provisions of a judgment of divorce upon a showing of a substantial change in circumstances. The Tribal Court shall not modify the custody provisions of a judgment of divorce so as to change the established custodial environment of a child unless there is presented a preponderance of the evidence that there has been a substantial change in the circumstances of the parties and that it is in the best interests of the child.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If a petition to amend a judgment of divorce with respect to custody is filed during the time a parent is in active military duty, the Tribal Court shall not enter an order amending the judgment, or issue a new order, that changes the child's placement that existed on the date the parent was called to active military duty, except the Tribal Court may enter a temporary custody order if there is clear and convincing evidence that it is in the best interests of the child. Upon a parent's return from active military duty, the Tribal Court shall reinstate the custody order in effect immediately before that period of active military duty. If a motion for change of custody is filed after a parent returns from active military duty, the Tribal Court shall not consider a parent's absence due to that military duty in a best interests of the child determination.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.380" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.390</num>
+      <heading>Form of Judgment and Order</heading>
+      <para>
+        <num>(a)</num>
+        <text>Each separate subject in a judgment or order entered under <cite path="|11.02">this chapter</cite> shall be set forth in a separate paragraph that is prefaced by an appropriate heading.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A judgment of divorce shall include:</text>
+        <para>
+          <num>(1)</num>
+          <text>a determination of all rights of the parties in and to all property rights of the parties;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>a determination of all rights of the parties in and to any policy or contract of life insurance, endowment, or annuity;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>a determination of all rights of the parties in and to any vested pension, annuity, or retirement benefits; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>a determination of all rights of the parties concerning spousal support provided that if spousal support is not granted, a provision reserving or denying spousal support (a judgment silent with regard to spousal support reserves it).</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A judgment or order awarding Custody must provide that:</text>
+        <para>
+          <num>(1)</num>
+          <text>the domicile or residence of the child may not be removed from the state of domicile or residence without the approval of the Court, preferably from the judge who awarded custody or the judge's successor;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the person awarded custody must promptly notify the Tribal Court in writing when any child is moved to another address that is more than one hundred (100) miles away or when there is a change the child's school district; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>a parent whose custody or parenting time of any child is governed by the order shall not change the legal residence of the child except in compliance with <cite path="|11.02.370">Section 11.02.370</cite>.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.390" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.400</num>
+      <heading>Timing of Submission and Finding of Judgment or Order</heading>
+      <text>Within twenty (20) days after the Tribal Court renders an opinion, or a settlement agreement is placed on the record, the moving party unless the moving party is not represented shall submit a proposed judgment of divorce approved by the opposing party or a motion to settle the judgment or order. The Tribal Court may extend the time for filing of the proposed final judgment of divorce. Once signed, the Tribal Court shall file the judgment or order and mail a copy to each party. If the parties are unrepresented the Tribal Court shall render the judgment and order and shall file it and mail a copy to each party.</text>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.400" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.410</num>
+      <heading>Enforcement</heading>
+      <para>
+        <num>(a)</num>
+        <text>When either party to a divorce proceeding or custody order fails to comply with the terms of the judgment of divorce and/or custody, the other party may file a petition with the Tribal Court alleging such failure. The moving party shall cause the petition, along with a notice of hearing, to be served on the other party in accordance with the Saint Regis Mohawk Tribe court rules and shall cause proof of service to be filed with the Tribal Court in accordance with such rules.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>At the hearing, the Tribal Court shall take testimony as to the alleged failure to comply with the order or judgment and may issue any order which it deems just and proper under the circumstances.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Without limitation, if the Tribal Court orders periodic support payments under <cite path="|11.02">this chapter</cite>, and the parent does not pay as ordered, the Tribal Court may utilize all enforcement methods that are available under the Tribe's Rules of Civil Procedure.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.410" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.420</num>
+      <heading>Appeals</heading>
+      <para>
+        <num>(a)</num>
+        <text>Appealable orders. Parties can only appeal final orders.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>All appeals shall follow the requirements set in the Saint Regis Mohawk Tribe Rules of Appellate Procedure.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The standard of review for these cases shall be de novo for questions of law and clear error for questions of facts.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.420" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.430</num>
+      <heading>Severability</heading>
+      <text>If any provision of <cite path="|11.02">this chapter</cite>, or the application thereof to any person or circumstances, shall, for any reason, be adjudged by a court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder of <cite path="|11.02">this chapter</cite>, which shall continue in full force and effect.</text>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.530" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.440</num>
+      <heading>Sovereign Immunity Not Waived</heading>
+      <text>Nothing in <cite path="|11.02">this chapter</cite> is intended nor shall be construed as any waiver of the sovereign immunity of the Saint Regis Mohawk Tribe from suit in State, Federal or Tribal Court against the Saint Regis Mohawk Tribe, or as to any Tribal entity, official, or employee acting in his or her official capacity.</text>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.540" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.450</num>
+      <heading>Amendments</heading>
+      <text>The Chapter of this Code may be amended upon the approval of such amendments by the majority of Tribal Council and upon notice to the Tribal membership.</text>
+      <annotations>
+        <annotation app="2024-02-20" doc="Saint Regis Mohawk Tribe Res. No. 2024-08" eff="2024-02-20" path="attachments|law|2|02.550" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.03</num>
+    <heading>Family Support Act</heading>
+    <section>
+      <num>11.03.010</num>
       <heading>General</heading>
       <para>
         <num>(a)</num>
@@ -16,9 +1913,9 @@
           <strong>Purpose and Authority</strong>
         </text>
         <text>The Saint Regis Mohawk Tribe believes that parents have a duty to care for their children and this duty applies to all parents whose parental rights have not been terminated. This duty includes providing love, guidance, education, providing a safe and healthy environment, participation in tribal culture, and to provide financial support.</text>
-        <text>The purpose of <cite path="|11.02">this chapter</cite> is to provide a process that ensures that the basic health and financial needs of the children are met when their parents do not live together. Child support is based on the financial resources of the parents, the financial needs of the children, and is an entitlement of the child.</text>
-        <text>Culturally, children of the Saint Regis Mohawk Tribe are cared for by parents, extended family, and the community. <cite path="|11.02">This chapter</cite> focuses on the parents' duty to meet the needs of their children.</text>
-        <text>The Saint Regis Mohawk Tribal Council is the duly recognized governing body of the Saint Regis Mohawk Tribe and is responsible for the health, safety, education and welfare of all members of the Tribe, and in furtherance of those responsibilities, the Saint Regis Mohawk Tribal Council passes <cite path="|11.02">this chapter</cite>.</text>
+        <text>The purpose of <cite path="|11.03">this chapter</cite> is to provide a process that ensures that the basic health and financial needs of the children are met when their parents do not live together. Child support is based on the financial resources of the parents, the financial needs of the children, and is an entitlement of the child.</text>
+        <text>Culturally, children of the Saint Regis Mohawk Tribe are cared for by parents, extended family, and the community. <cite path="|11.03">This chapter</cite> focuses on the parents' duty to meet the needs of their children.</text>
+        <text>The Saint Regis Mohawk Tribal Council is the duly recognized governing body of the Saint Regis Mohawk Tribe and is responsible for the health, safety, education and welfare of all members of the Tribe, and in furtherance of those responsibilities, the Saint Regis Mohawk Tribal Council passes <cite path="|11.03">this chapter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -27,11 +1924,11 @@
         </text>
         <para>
           <num>(1)</num>
-          <text>Where the method of procedure in any proceeding in which the Saint Regis Mohawk Tribal Court has jurisdiction under <cite path="|11.02">this chapter</cite> is not prescribed, the procedure shall be in accord with the Tribe's Rules of Civil Procedure to the extent they are suitable to the proceeding involved.</text>
+          <text>Where the method of procedure in any proceeding in which the Saint Regis Mohawk Tribal Court has jurisdiction under <cite path="|11.03">this chapter</cite> is not prescribed, the procedure shall be in accord with the Tribe's Rules of Civil Procedure to the extent they are suitable to the proceeding involved.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>If there is any conflict between the application of any provision under <cite path="|11.02">this chapter</cite> or any other provision of tribal law, <cite path="|11.02">this chapter</cite> governing the proceeding shall control.</text>
+          <text>If there is any conflict between the application of any provision under <cite path="|11.03">this chapter</cite> or any other provision of tribal law, <cite path="|11.03">this chapter</cite> governing the proceeding shall control.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -187,7 +2084,7 @@
         </text>
         <para>
           <num>(1)</num>
-          <text>The Saint Regis Mohawk Tribe's Child Support Enforcement Unit ("SRMT-CSEU") is hereby established. The SRMT-CSEU is the designated Tribal agency identified in the approved Tribal Plan under Title IV-D of the Social Security Act, and is responsible for the administration and operation of the Tribal IV-D plan. Pursuant to its Tribal IV-D plan, the SRMT-CSEU does not represent either party in actions arising under <cite path="|11.02">this chapter</cite>. The SRMT-CSEU is deemed to represent the best interests of the children and the Tribe.</text>
+          <text>The Saint Regis Mohawk Tribe's Child Support Enforcement Unit ("SRMT-CSEU") is hereby established. The SRMT-CSEU is the designated Tribal agency identified in the approved Tribal Plan under Title IV-D of the Social Security Act, and is responsible for the administration and operation of the Tribal IV-D plan. Pursuant to its Tribal IV-D plan, the SRMT-CSEU does not represent either party in actions arising under <cite path="|11.03">this chapter</cite>. The SRMT-CSEU is deemed to represent the best interests of the children and the Tribe.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -215,7 +2112,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>The SRMT-CSEU is authorized to develop policies and procedures, to be approved and adopted by the Saint Regis Mohawk Tribal Council, as well as take any other action necessary to implement the approved Tribal Plan IV-D Plan, consistent with <cite path="|11.02">this chapter</cite> and any other applicable law.</text>
+          <text>The SRMT-CSEU is authorized to develop policies and procedures, to be approved and adopted by the Saint Regis Mohawk Tribal Council, as well as take any other action necessary to implement the approved Tribal Plan IV-D Plan, consistent with <cite path="|11.03">this chapter</cite> and any other applicable law.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -223,7 +2120,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>To the extent that the duties and responsibilities outlined by <cite path="|11.02">this chapter</cite>, other applicable laws, and by its internal policies and procedures, as approved by the Saint Regis Mohawk Tribal Council, the SRMT-CSEU are in conflict with existing personnel or administrative policies, the SRMT-CSEU policies and procedures will take precedence.</text>
+          <text>To the extent that the duties and responsibilities outlined by <cite path="|11.03">this chapter</cite>, other applicable laws, and by its internal policies and procedures, as approved by the Saint Regis Mohawk Tribal Council, the SRMT-CSEU are in conflict with existing personnel or administrative policies, the SRMT-CSEU policies and procedures will take precedence.</text>
         </para>
       </para>
       <annotations>
@@ -231,7 +2128,7 @@
       </annotations>
     </section>
     <section>
-      <num>11.02.020</num>
+      <num>11.03.020</num>
       <heading>Tribal Court</heading>
       <para>
         <num>(a)</num>
@@ -240,7 +2137,7 @@
         </text>
         <para>
           <num>(1)</num>
-          <text>The Saint Regis Mohawk Tribal Court shall have subject matter jurisdiction over the proceedings and law set forth in <cite path="|11.02">this chapter</cite>.</text>
+          <text>The Saint Regis Mohawk Tribal Court shall have subject matter jurisdiction over the proceedings and law set forth in <cite path="|11.03">this chapter</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -361,7 +2258,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>That the respondent was given proper service of the Petition and Summons as provided for in <cite path="|11.02">this chapter</cite>;</text>
+            <text>That the respondent was given proper service of the Petition and Summons as provided for in <cite path="|11.03">this chapter</cite>;</text>
           </para>
           <para>
             <num>(C)</num>
@@ -386,7 +2283,7 @@
       </annotations>
     </section>
     <section>
-      <num>11.02.030</num>
+      <num>11.03.030</num>
       <heading>Mediation</heading>
       <para>
         <num>(a)</num>
@@ -431,7 +2328,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>When child support is requested in a petition, the SRMT-CSEU shall prepare a Child Support Worksheet for the parties using the guidelines in <cite path="|11.02">this chapter</cite> and the information presented by each party in the Financial Disclosure Form. The Worksheet will provide calculations on the amount of child support that may be requested by the petitioner. All information collected during the mediation shall be kept confidential.</text>
+          <text>When child support is requested in a petition, the SRMT-CSEU shall prepare a Child Support Worksheet for the parties using the guidelines in <cite path="|11.03">this chapter</cite> and the information presented by each party in the Financial Disclosure Form. The Worksheet will provide calculations on the amount of child support that may be requested by the petitioner. All information collected during the mediation shall be kept confidential.</text>
         </para>
       </para>
       <para>
@@ -453,7 +2350,7 @@
       </annotations>
     </section>
     <section>
-      <num>11.02.040</num>
+      <num>11.03.040</num>
       <heading>Paternity</heading>
       <para>
         <num>(a)</num>
@@ -498,7 +2395,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Establishment of paternity under <cite path="|11.02">this chapter</cite> has no effect on Tribal enrollment, membership or eligibility for membership. Membership determinations are separate and distinct from the establishment of paternity. Any person wishing to file a membership application may do so with the Tribal Clerk of the SRMT.</text>
+          <text>Establishment of paternity under <cite path="|11.03">this chapter</cite> has no effect on Tribal enrollment, membership or eligibility for membership. Membership determinations are separate and distinct from the establishment of paternity. Any person wishing to file a membership application may do so with the Tribal Clerk of the SRMT.</text>
         </para>
       </para>
       <para>
@@ -594,7 +2491,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>If paternity is contested, the SRMT Tribal Court shall order that genetic testing be performed within ten (10) days of the hearing. The Order shall contain the date, time and location of the genetic testing and shall comply with the requirements of <cite path="|11.02">this chapter</cite>.</text>
+          <text>If paternity is contested, the SRMT Tribal Court shall order that genetic testing be performed within ten (10) days of the hearing. The Order shall contain the date, time and location of the genetic testing and shall comply with the requirements of <cite path="|11.03">this chapter</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -653,7 +2550,7 @@
           </para>
           <para>
             <num>(H)</num>
-            <text>Establishment of paternity under <cite path="|11.02.040">this section</cite> has no effect on Tribal enrollment or membership.</text>
+            <text>Establishment of paternity under <cite path="|11.03.040">this section</cite> has no effect on Tribal enrollment or membership.</text>
           </para>
         </para>
       </para>
@@ -692,7 +2589,7 @@
       </annotations>
     </section>
     <section>
-      <num>11.02.050</num>
+      <num>11.03.050</num>
       <heading>Establishment of Child Support</heading>
       <para>
         <num>(a)</num>
@@ -730,7 +2627,7 @@
           </para>
           <para>
             <num>(D)</num>
-            <text>The amount of the proposed child support requested pursuant to the guidelines provided for in <cite path="|11.02">this chapter</cite>.</text>
+            <text>The amount of the proposed child support requested pursuant to the guidelines provided for in <cite path="|11.03">this chapter</cite>.</text>
           </para>
           <para>
             <num>(E)</num>
@@ -765,7 +2662,7 @@
         </text>
         <para>
           <num>(1)</num>
-          <text>Each party to the action shall be required to complete a Financial Disclosure Form and to provide SRMT-CSEU with the disclosure prior to the Mediation as required by <cite path="|11.02.030|(a)|(3)">Section 11.02.030(a)(3)</cite>. Each party shall sign a confidentiality statement that will require each of them to keep any information learned during the mediation confidential. If a party fails to attend Mediation then each party shall file the Financial Disclosure Form with the Court prior to the initial court appearance.</text>
+          <text>Each party to the action shall be required to complete a Financial Disclosure Form and to provide SRMT-CSEU with the disclosure prior to the Mediation as required by <cite path="|11.03.030|(a)|(3)">Section 11.03.030(a)(3)</cite>. Each party shall sign a confidentiality statement that will require each of them to keep any information learned during the mediation confidential. If a party fails to attend Mediation then each party shall file the Financial Disclosure Form with the Court prior to the initial court appearance.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -851,7 +2748,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Child support obligations shall be based on the percentages contained in <cite path="|11.02.050">this section</cite> and shall be represented as a whole dollar amount in the Court Order, unless the Court finds good cause to deviate pursuant to <cite path="|11.02.050|(f)|(4)">Section 11.02.050(f)(4)</cite> from the SRMT CSSC or based on the child's needs.</text>
+          <text>Child support obligations shall be based on the percentages contained in <cite path="|11.03.050">this section</cite> and shall be represented as a whole dollar amount in the Court Order, unless the Court finds good cause to deviate pursuant to <cite path="|11.03.050|(f)|(4)">Section 11.03.050(f)(4)</cite> from the SRMT CSSC or based on the child's needs.</text>
         </para>
       </para>
       <para>
@@ -861,7 +2758,7 @@
         </text>
         <para>
           <num>(1)</num>
-          <text><u>Worksheet</u>. The Child Support Calculation Worksheet provided for in <cite path="|11.02">this chapter</cite> will determine the proposed amount of child support a parent will be responsible for. The worksheet will be completed utilizing the following steps:</text>
+          <text><u>Worksheet</u>. The Child Support Calculation Worksheet provided for in <cite path="|11.03">this chapter</cite> will determine the proposed amount of child support a parent will be responsible for. The worksheet will be completed utilizing the following steps:</text>
           <para>
             <num>(A)</num>
             <text><u>Determine Total Gross Annual Income of each parent</u>. Total Gross Income is determined by totaling all funds received from any source before taxes or other expenses of any kind are taken out. Total Gross Annual Income does not include public assistance payments or child support received or paid on behalf of children of other relationships</text>
@@ -974,7 +2871,7 @@
           </para>
           <para>
             <num>(F)</num>
-            <text>A statement that if a payor becomes delinquent in an amount equal to one month's child support or fails to follow the terms of the Court Order, any and all enforcement remedies available to SRMT-CSEU under <cite path="|11.02">this chapter</cite> shall be taken;</text>
+            <text>A statement that if a payor becomes delinquent in an amount equal to one month's child support or fails to follow the terms of the Court Order, any and all enforcement remedies available to SRMT-CSEU under <cite path="|11.03">this chapter</cite> shall be taken;</text>
           </para>
           <para>
             <num>(G)</num>
@@ -1031,14 +2928,14 @@
         </para>
         <para>
           <num>(5)</num>
-          <text><u>Default Order</u>. When the respondent fails to appear or fails to answer a Petition filed herein, the Tribal Court shall enter a Default Child Support Order pursuant to <cite path="|11.02.020|(d)">Section 11.02.020(d)</cite></text>
+          <text><u>Default Order</u>. When the respondent fails to appear or fails to answer a Petition filed herein, the Tribal Court shall enter a Default Child Support Order pursuant to <cite path="|11.03.020|(d)">Section 11.03.020(d)</cite></text>
           <para>
             <num>(A)</num>
             <text>In issuing the Default Order, the Court must also find that the Petition or the recommendation of SRMT-CSEU is based on available, relevant and material financial information and the respondent's child support obligation, at the amount provided for in the Default Order, has been correctly determined under the guidelines and schedule based on calculation of the income provided or based upon the child(ren)'s needs.</text>
           </para>
           <para>
             <num>(B)</num>
-            <text>The Default Order shall be served on the respondent by the Tribal Court Clerk per the Service requirements at <cite path="|11.02.020|(c)">Section 11.02.020(c)</cite>.</text>
+            <text>The Default Order shall be served on the respondent by the Tribal Court Clerk per the Service requirements at <cite path="|11.03.020|(c)">Section 11.03.020(c)</cite>.</text>
           </para>
           <para>
             <num>(C)</num>
@@ -1081,11 +2978,11 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>No employer shall refuse to honor a Notice of Income Withholding or a party's wage withholding request issued under <cite path="|11.02">this chapter</cite>. If the employer fails to withhold income in accordance with the terms contained in the Notice of Income Withholding, the employer may be held liable for all amounts that should have been withheld from the payor. The SRMT-CSEU has the authority and standing as the Tribal agency with authority to enforce this Tribe's interest in child support, to initiate an action to recoup such amounts. The SRMT-CSEU Standard Operating Procedures will provide detail on when and how this will occur.</text>
+          <text>No employer shall refuse to honor a Notice of Income Withholding or a party's wage withholding request issued under <cite path="|11.03">this chapter</cite>. If the employer fails to withhold income in accordance with the terms contained in the Notice of Income Withholding, the employer may be held liable for all amounts that should have been withheld from the payor. The SRMT-CSEU has the authority and standing as the Tribal agency with authority to enforce this Tribe's interest in child support, to initiate an action to recoup such amounts. The SRMT-CSEU Standard Operating Procedures will provide detail on when and how this will occur.</text>
         </para>
         <para>
           <num>(7)</num>
-          <text>An employer may not discharge, refuse to employ or take disciplinary action against an employee because his or her wages have been subjected to withholding for child support. Failure to comply with <cite path="|11.02.050">this section</cite> may subject an employer to appropriate penalties as to be determined under SRMT law or custom.</text>
+          <text>An employer may not discharge, refuse to employ or take disciplinary action against an employee because his or her wages have been subjected to withholding for child support. Failure to comply with <cite path="|11.03.050">this section</cite> may subject an employer to appropriate penalties as to be determined under SRMT law or custom.</text>
         </para>
         <para>
           <num>(8)</num>
@@ -1195,7 +3092,7 @@
       </annotations>
     </section>
     <section>
-      <num>11.02.060</num>
+      <num>11.03.060</num>
       <heading>Foreign Orders</heading>
       <para>
         <num>(a)</num>
@@ -1208,7 +3105,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Foreign Orders may be registered with the Tribal Court by request of the transferring foreign court or by petition of the SRMT-CSEU. Any requests to the Tribal Court from a foreign jurisdiction for enforcement of a child support order shall be referred to SRMT- CSEU for processing of the petition under <cite path="|11.02.060">this section</cite>.</text>
+          <text>Foreign Orders may be registered with the Tribal Court by request of the transferring foreign court or by petition of the SRMT-CSEU. Any requests to the Tribal Court from a foreign jurisdiction for enforcement of a child support order shall be referred to SRMT- CSEU for processing of the petition under <cite path="|11.03.060">this section</cite>.</text>
         </para>
       </para>
       <para>
@@ -1294,11 +3191,11 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>Failure to comply with <cite path="|11.02.060">this section</cite> may subject an employer to appropriate penalties as to be determined under SRMT law or custom.</text>
+          <text>Failure to comply with <cite path="|11.03.060">this section</cite> may subject an employer to appropriate penalties as to be determined under SRMT law or custom.</text>
         </para>
         <para>
           <num>(8)</num>
-          <text>All other provisions of <cite path="|11.02">this chapter</cite> shall be followed with respect to enforcement of the order.</text>
+          <text>All other provisions of <cite path="|11.03">this chapter</cite> shall be followed with respect to enforcement of the order.</text>
         </para>
       </para>
       <para>
@@ -1318,7 +3215,7 @@
       </annotations>
     </section>
     <section>
-      <num>11.02.070</num>
+      <num>11.03.070</num>
       <heading>Location of Parents and Assets</heading>
       <text>SRMT-CSEU is responsible for locating or attempting to locate all parents and their assets should that information be needed to establish or enforce a child support order. The SRMT-CSEU shall utilize all sources available to them to perform locate tasks.</text>
       <annotations>
@@ -1326,7 +3223,7 @@
       </annotations>
     </section>
     <section>
-      <num>11.02.080</num>
+      <num>11.03.080</num>
       <heading>Appeals</heading>
       <text>Any party to a child support action may appeal from any final Tribal Court Order under the Rules of Civil Appellate Procedure.</text>
       <annotations>
@@ -1334,33 +3231,33 @@
       </annotations>
     </section>
     <section>
-      <num>11.02.090</num>
+      <num>11.03.090</num>
       <heading>Severability</heading>
-      <text>The provisions of <cite path="|11.02">this chapter</cite> are severable and if any part of provision shall be held void by the Saint Regis Mohawk Tribal Court, the decision of the court shall not affect or impair any of the remaining parts or provisions of <cite path="|11.02">this chapter</cite>.</text>
+      <text>The provisions of <cite path="|11.03">this chapter</cite> are severable and if any part of provision shall be held void by the Saint Regis Mohawk Tribal Court, the decision of the court shall not affect or impair any of the remaining parts or provisions of <cite path="|11.03">this chapter</cite>.</text>
       <annotations>
         <annotation app="2019-10-09" doc="Saint Regis Mohawk Tribe Res. No. 2019-49" eff="2019-10-09" path="attachments|law|IX" type="History"/>
       </annotations>
     </section>
     <section>
-      <num>11.02.100</num>
+      <num>11.03.100</num>
       <heading>Sovereign Immunity Not Waived</heading>
-      <text>Nothing in <cite path="|11.02">this chapter</cite> is intended nor shall be construed as any waiver of the sovereign immunity of the Saint Regis Mohawk Tribe from suit in State, Federal or Tribal Court against the Saint Regis Mohawk Tribe, or as to any Tribal entity, official, or employee acting in his or her official capacity.</text>
+      <text>Nothing in <cite path="|11.03">this chapter</cite> is intended nor shall be construed as any waiver of the sovereign immunity of the Saint Regis Mohawk Tribe from suit in State, Federal or Tribal Court against the Saint Regis Mohawk Tribe, or as to any Tribal entity, official, or employee acting in his or her official capacity.</text>
       <annotations>
         <annotation app="2019-10-09" doc="Saint Regis Mohawk Tribe Res. No. 2019-49" eff="2019-10-09" path="attachments|law|X" type="History"/>
       </annotations>
     </section>
     <section>
-      <num>11.02.110</num>
+      <num>11.03.110</num>
       <heading>Amendment</heading>
-      <text><cite path="|11.02">This chapter</cite> may be amended upon the approval of such amendments by the majority of Tribal Council and upon notice to the Tribal membership.</text>
+      <text><cite path="|11.03">This chapter</cite> may be amended upon the approval of such amendments by the majority of Tribal Council and upon notice to the Tribal membership.</text>
       <annotations>
         <annotation app="2019-10-09" doc="Saint Regis Mohawk Tribe Res. No. 2019-49" eff="2019-10-09" path="attachments|law|XI" type="History"/>
       </annotations>
     </section>
     <section>
-      <num>11.02.120</num>
+      <num>11.03.120</num>
       <heading>Repealer</heading>
-      <text><cite path="|11.02">This chapter</cite> shall supersede and replace all prior Acts, or portions thereof, adopted by the Saint Regis Mohawk Tribe, as they pertain to the matters contained herein.</text>
+      <text><cite path="|11.03">This chapter</cite> shall supersede and replace all prior Acts, or portions thereof, adopted by the Saint Regis Mohawk Tribe, as they pertain to the matters contained herein.</text>
       <annotations>
         <annotation app="2019-10-09" doc="Saint Regis Mohawk Tribe Res. No. 2019-49" eff="2019-10-09" path="attachments|law|XII" type="History"/>
       </annotations>

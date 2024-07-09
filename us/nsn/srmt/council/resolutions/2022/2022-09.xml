@@ -276,7 +276,7 @@
       <heading>Records and Reports</heading>
     </container>
   </codify:insert>
-  <codify:insert path="16.05" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1">
+  <codify:insert path="16.04" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1">
     <container>
       <prefix>Subchapter</prefix>
       <num path-omit="true">1</num>
@@ -3456,7 +3456,7 @@
       </container>
     </container>
     <container>
-      <codified:at path="16.05"/>
+      <codified:at path="16.04"/>
       <prefix>Title</prefix>
       <num>IV</num>
       <heading>Miscellaneous</heading>
@@ -3465,14 +3465,14 @@
         <num>28</num>
         <heading>Miscellaneous</heading>
         <section>
-          <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.05.010"/>
-          <num codify:value="16.05.010">28.1</num>
+          <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.04.010"/>
+          <num codify:value="16.04.010">28.1</num>
           <heading>Severability</heading>
           <text>If the Court shall adjudge to be invalid or unconstitutional any clause, sentence, paragraph, section, article or part of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-09">this Ordinance</code-cite>, such judgment or decree shall not affect, impair, invalidate or nullify the remainder of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-09">this Ordinance</code-cite>, but the effect thereof shall be confined to the clause, sentence, paragraph, section, article or part of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-09">this Ordinance</code-cite> as adjudged to be invalid or unconstitutional.</text>
         </section>
         <section>
-          <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.05.020"/>
-          <num codify:value="16.05.020">28.2</num>
+          <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.04.020"/>
+          <num codify:value="16.04.020">28.2</num>
           <heading>Construction and Application of Ordinance and Bylaws</heading>
           <para>
             <num>(a)</num>
@@ -3492,20 +3492,20 @@
           </para>
         </section>
         <section>
-          <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.05.030"/>
-          <num codify:value="16.05.030">28.3</num>
+          <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.04.030"/>
+          <num codify:value="16.04.030">28.3</num>
           <heading>Penalties</heading>
           <text>The Tribal Court shall have the authority to determine, apply and enforce appropriate remedies and penalties, including, but not limited to, civil fines, for violations of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-09">this Ordinance</code-cite>, or of the articles of incorporation or bylaws of any corporation formed pursuant to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-09">this Ordinance</code-cite>. The remedies available to corporations and their shareholders, shall include declaratory and injunctive relief, and special writs of mandamus, to compel actions necessary to secure the rights, obligations or privileges of such parties, whether or not those rights, obligations or privileges arise under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-09">this Ordinance</code-cite>.</text>
         </section>
         <section>
-          <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.05.040"/>
-          <num codify:value="16.05.040">28.4</num>
+          <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.04.040"/>
+          <num codify:value="16.04.040">28.4</num>
           <heading>Applicable Law</heading>
           <text>Except as otherwise specifically provided for herein, the Saint Regis Mohawk Tribe's Rules of Civil Procedure shall apply to any procedure or dispute not otherwise addressed by <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-09">this Ordinance</code-cite>.</text>
         </section>
         <section>
-          <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.05.050"/>
-          <num codify:value="16.05.050">28.5</num>
+          <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.04.050"/>
+          <num codify:value="16.04.050">28.5</num>
           <heading>Fees</heading>
           <para>
             <num>(a)</num>

@@ -3619,11 +3619,6 @@
   <container>
     <prefix>Chapter</prefix>
     <num>16.04</num>
-    <heading>Limited Liability Companies</heading>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>16.05</num>
     <heading>Miscellaneous</heading>
     <container>
       <prefix>Subchapter</prefix>
@@ -3631,7 +3626,7 @@
       <heading>Miscellaneous</heading>
       <annotation app="2022-02-28" doc="Saint Regis Mohawk Tribe Res. No. 2022-09" eff="2022-02-28" path="" type="History"/>
       <section>
-        <num>16.05.010</num>
+        <num>16.04.010</num>
         <heading>Severability</heading>
         <text>If the Court shall adjudge to be invalid or unconstitutional any clause, sentence, paragraph, section, article or part of <cite path="|16">this title</cite>, such judgment or decree shall not affect, impair, invalidate or nullify the remainder of <cite path="|16">this title</cite>, but the effect thereof shall be confined to the clause, sentence, paragraph, section, article or part of <cite path="|16">this title</cite> as adjudged to be invalid or unconstitutional.</text>
         <annotations>
@@ -3640,7 +3635,7 @@
         </annotations>
       </section>
       <section>
-        <num>16.05.020</num>
+        <num>16.04.020</num>
         <heading>Construction and Application of Ordinance and Bylaws</heading>
         <para>
           <num>(a)</num>
@@ -3664,7 +3659,7 @@
         </annotations>
       </section>
       <section>
-        <num>16.05.030</num>
+        <num>16.04.030</num>
         <heading>Penalties</heading>
         <text>The Tribal Court shall have the authority to determine, apply and enforce appropriate remedies and penalties, including, but not limited to, civil fines, for violations of <cite path="|16">this title</cite>, or of the articles of incorporation or bylaws of any corporation formed pursuant to <cite path="|16">this title</cite>. The remedies available to corporations and their shareholders, shall include declaratory and injunctive relief, and special writs of mandamus, to compel actions necessary to secure the rights, obligations or privileges of such parties, whether or not those rights, obligations or privileges arise under <cite path="|16">this title</cite>.</text>
         <annotations>
@@ -3673,7 +3668,7 @@
         </annotations>
       </section>
       <section>
-        <num>16.05.040</num>
+        <num>16.04.040</num>
         <heading>Applicable Law</heading>
         <text>Except as otherwise specifically provided for herein, the Saint Regis Mohawk Tribe's Rules of Civil Procedure shall apply to any procedure or dispute not otherwise addressed by <cite path="|16">this title</cite>.</text>
         <annotations>
@@ -3682,7 +3677,7 @@
         </annotations>
       </section>
       <section>
-        <num>16.05.050</num>
+        <num>16.04.050</num>
         <heading>Fees</heading>
         <para>
           <num>(a)</num>
@@ -3690,11 +3685,11 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The Tribal Secretary shall retain from the revenue collected from the fees required by <cite path="|16.05.050">this section</cite> a sum sufficient to provide at all times a fund of at least five hundred dollars ($500.00), but not more than fifteen hundred dollars ($1,500.00), from which the Tribal Secretary may refund any payment made pursuant to <cite path="|16.05.050">this section</cite> to the extent that it exceeds the fees required by <cite path="|16.05.050">this section</cite>.</text>
+          <text>The Tribal Secretary shall retain from the revenue collected from the fees required by <cite path="|16.04.050">this section</cite> a sum sufficient to provide at all times a fund of at least five hundred dollars ($500.00), but not more than fifteen hundred dollars ($1,500.00), from which the Tribal Secretary may refund any payment made pursuant to <cite path="|16.04.050">this section</cite> to the extent that it exceeds the fees required by <cite path="|16.04.050">this section</cite>.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>No document required to be filed under <cite path="|16">this title</cite> shall be effective until the applicable fee required by <cite path="|16.05.050">this section</cite> is paid.</text>
+          <text>No document required to be filed under <cite path="|16">this title</cite> shall be effective until the applicable fee required by <cite path="|16.04.050">this section</cite> is paid.</text>
         </para>
         <annotations>
           <annotation app="2022-02-28" doc="Saint Regis Mohawk Tribe Res. No. 2022-09" eff="2022-02-28" path="" type="History"/>
@@ -3702,6 +3697,11 @@
         </annotations>
       </section>
     </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.05</num>
+    <heading>Limited Liability Companies</heading>
   </container>
   <annotations>
     <annotation type="Editor's Notes">References to "this Title" in Title 16 refer only to Chapter 16.01 "General Provisions", Chapter 16.02 "Corporations", Chapter 16.03 "Non-Profit Corporations" and Chapter 16.05 "Miscellaneous". Such references do not refer to Chapter 16.04 "Limited Liability Companies".</annotation>
