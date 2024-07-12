@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2011-50" codify:doc="Saint Regis Mohawk Tribal Code of Law" codify:path="1.04">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2011-50">
   <num>2011-50</num>
   <heading>Resolution of the Saint Regis Mohawk Tribe to Clarify the Procedure for Adopting Tribal Council Resolutions</heading>
   <meta>
@@ -23,26 +23,27 @@
     <recital>
       <conjunction>RESOLVED,</conjunction>
       <text>That the Saint Regis Mohawk Tribe hereby adopts the following policy and procedure for the adoption of Tribal Council Resolutions:</text>
-      <para codify:tag="section"><codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.010"/>2
-        <num codify:value="1.04.010">A.</num><heading>Purpose</heading><text>The Purpose of a Tribal Council Resolution (TCR), is to formally express Tribal Council's opinion or decision on a particular issue. The TCR shall be the official embodiment of Tribal Council legislative action. The TCR shall also serve as a record of legislative action for Tribal member reference.</text><text>All final decision on matters of temporary interest where a formal expression is needed shall be embodied in a resolution, noted in minutes, and shall be available for inspection by members of the Tribe during normal business hours.</text></para>
-      <para codify:tag="section">
-        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.020"/>
-        <num codify:value="1.04.020">B.</num>
+      <para>
+        <num>A.</num>
+        <heading>Purpose</heading>
+        <text>The Purpose of a Tribal Council Resolution (TCR), is to formally express Tribal Council's opinion or decision on a particular issue. The TCR shall be the official embodiment of Tribal Council legislative action. The TCR shall also serve as a record of legislative action for Tribal member reference.</text>
+        <text>All final decision on matters of temporary interest where a formal expression is needed shall be embodied in a resolution, noted in minutes, and shall be available for inspection by members of the Tribe during normal business hours.</text>
+      </para>
+      <para>
+        <num>B.</num>
         <heading>Initiation</heading>
         <para>
           <num>1.</num>
           <text>A TCR may be proposed by any member of Council, any Tribal program or department or any Tribally enrolled member.</text>
         </para>
       </para>
-      <para codify:tag="section">
-        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.030"/>
-        <num codify:value="1.04.030">C.</num>
+      <para>
+        <num>C.</num>
         <heading>Form</heading>
         <text>The format of the proposed TCR shall follow the conventional format currently in use and shall include "whereas" clauses that provide history, background, authority, and justification, and shall also include "resolved" clauses that shall clearly state the action or position Council is requested to take. A template of the preferred format of TCRs shall be made available.</text>
       </para>
-      <para codify:tag="section">
-        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.040"/>
-        <num codify:value="1.04.040">D.</num>
+      <para>
+        <num>D.</num>
         <heading>Submission</heading>
         <para>
           <num>1.</num>
@@ -57,9 +58,8 @@
           <text>If a TCR is proposed by a Tribal program or department, or by a community member, a cover sheet that includes the date of submission, name and contact information of the person submitting the TCR, name of any applicable program or department, any applicable grant application, or any applicable deadlines shall be submitted with the proposed TCR.</text>
         </para>
       </para>
-      <para codify:tag="section">
-        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.050"/>
-        <num codify:value="1.04.050">E.</num>
+      <para>
+        <num>E.</num>
         <heading>Review and Record-keeping</heading>
         <para>
           <num>1.</num>
@@ -102,9 +102,8 @@
           <text>All final TCRs shall be created in duplicate original, Council's Assistant and the Tribal Clerk shall each keep one copy. Adopted, amending or rescinding resolutions shall be kept in a manner so as to ensure efficient review and cross-referencing.</text>
         </para>
       </para>
-      <para codify:tag="section">
-        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.060"/>
-        <num codify:value="1.04.060">F.</num>
+      <para>
+        <num>F.</num>
         <heading>Enactment</heading>
         <para>
           <num>1.</num>
@@ -115,9 +114,8 @@
           <text>If the resolution does not receive the requisite number of votes, it shall fail and may only be presented again by requesting that either a Chief or a Sub-Chief sponsor the re-presentation of the TCR at the next work session.</text>
         </para>
       </para>
-      <para codify:tag="section">
-        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.070"/>
-        <num codify:value="1.04.070">G.</num>
+      <para>
+        <num>G.</num>
         <heading>Amendment and Rescission</heading>
         <para>
           <num>1.</num>

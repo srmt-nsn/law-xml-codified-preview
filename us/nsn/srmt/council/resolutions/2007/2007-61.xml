@@ -77,32 +77,32 @@
     </text>
   </procedural-data>
   <attachment id="law">
-    <codified:at path="1.06"/>
+    <codified:at path="1.04"/>
     <heading>Saint Regis Mohawk Tribe Ethics Ordinance</heading>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.010"/>
-      <num codify:value="1.06.010">I</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.010"/>
+      <num codify:value="1.04.010">I</num>
       <heading>Title</heading>
       <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">This Ordinance</code-cite> shall be known as the Saint Regis Mohawk Tribal Ethics Ordinance.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.020"/>
-      <num codify:value="1.06.020">II</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.020"/>
+      <num codify:value="1.04.020">II</num>
       <heading>Authority</heading>
       <text>The Saint Regis Mohawk Tribal Council is vested with the authority to represent and act on behalf of the tribal membership and the Saint Regis Mohawk Tribe. The Tribal Council exercises broad executive, legislative and judicial authority.</text>
       <text>The Tribal Clerk exercises those powers set forth in TCR 2003-115.</text>
       <text>As such, the Tribal Council and the Tribal Clerk are vested with the trust of the tribal membership.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.030"/>
-      <num codify:value="1.06.030">III</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.030"/>
+      <num codify:value="1.04.030">III</num>
       <heading>Purpose and Policy</heading>
       <text>The purpose of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite> is to require elected officials to be accountable to the tribal membership and to act with integrity and honesty and to maintain high standards of honesty, integrity, fairness and impartiality in their conduct.</text>
       <text>The Tribal Council and the Tribal Clerk shall act in the best interest of the Saint Regis Mohawk Tribe and the tribal membership. <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">This Ordinance</code-cite> is intended to guide the actions of elected officials and provide guidance for the conduct of tribal business, to protect the interests of the tribal membership, and to protect the reputation and integrity of the Tribal Government.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.040"/>
-      <num codify:value="1.06.040">IV</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.040"/>
+      <num codify:value="1.04.040">IV</num>
       <heading>Definitions</heading>
       <para>
         <num>1.</num>
@@ -198,8 +198,8 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.050"/>
-      <num codify:value="1.06.050">V</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.050"/>
+      <num codify:value="1.04.050">V</num>
       <heading>Ethical Obligations and Standards of Conduct</heading>
       <para>
         <num>A.</num>
@@ -425,8 +425,8 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.060"/>
-      <num codify:value="1.06.060">VI</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.060"/>
+      <num codify:value="1.04.060">VI</num>
       <heading>Disclosure Statement, Filing Requirements</heading>
       <para>
         <num>A.</num>
@@ -474,8 +474,8 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.070"/>
-      <num codify:value="1.06.070">VII</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.070"/>
+      <num codify:value="1.04.070">VII</num>
       <heading>Appointment of Ethics Officer</heading>
       <para>
         <num>A.</num>
@@ -525,8 +525,8 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.080"/>
-      <num codify:value="1.06.080">XIII</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.080"/>
+      <num codify:value="1.04.080">XIII</num>
       <heading>Ethics Commission</heading>
       <para>
         <num>A.</num>
@@ -737,8 +737,8 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.090"/>
-      <num codify:value="1.06.090">IX</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.090"/>
+      <num codify:value="1.04.090">IX</num>
       <heading>Sanctions and Penalties</heading>
       <text>The Ethics Commission may impose a sanction or sanctions against any elected official who is found to have engaged in unethical conduct under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">this Ordinance</code-cite>. Such sanctions may include, but shall not be limited to, the following:</text>
       <para>
@@ -755,14 +755,14 @@
       </para>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.100"/>
-      <num codify:value="1.06.100">X</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.100"/>
+      <num codify:value="1.04.100">X</num>
       <heading>Appeals</heading>
       <text>The elected official may appeal a final decision of the Ethics Commission to an Ethics Commission formed specifically for the purpose of hearing the appeal. The Commission shall be comprised of members who were not involved in hearing the initial complaint.</text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.06.110"/>
-      <num codify:value="1.06.110">XI</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.04.110"/>
+      <num codify:value="1.04.110">XI</num>
       <heading>Amendment</heading>
       <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2007-61">This Ordinance</code-cite> shall be amended by a petition presented by a tribal member or by the recommendation of the Tribal Council. The petition or recommendation shall be given to the Ethics Officer who shall form an Ethics Commission to decide whether or not to amend the Ordinance. That decision shall be forwarded to the Tribal Council for amendment.</text>
     </section>

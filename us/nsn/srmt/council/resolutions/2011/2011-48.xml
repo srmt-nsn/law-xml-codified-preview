@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2011-48" codify:doc="Saint Regis Mohawk Tribal Code of Law" codify:path="1.05">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2011-48">
   <num>2011-48</num>
   <heading>Resolution of the Saint Regis Mohawk Tribe to Adopt the Procedure for Adopting Tribal Laws and Ordinances</heading>
   <meta>
@@ -28,17 +28,19 @@
     <recital>
       <conjunction>RESOLVED,</conjunction>
       <text>That the Saint Regis Mohawk Tribe hereby adopts the following policy and procedure for the adoption of Tribal Laws and Ordinances:</text>
-      <para codify:tag="section"><codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.05.010"/>2
-        <num codify:value="1.05.010">A.</num><heading>Purpose</heading><text>Tribal Laws and Ordinances are forms of legislation intended to reflect the policies aimed at protecting the health, safety, well-being and sovereignty of the Tribal government and of Tribal members. They are also intended to provide the lawful basis for regulation and governance of the territory under the jurisdiction of the Saint Regis Mohawk Tribe. Tribal Legislation is meant to enhance the health, safety, well-being and sovereignty of the Tribal government and of Tribal members.</text><text>All final decisions on matters of permanent interest shall be embodied in ordinances. Such enactments shall be available for inspection by members of the Tribe during nonnal business hours.</text></para>
-      <para codify:tag="section">
-        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.05.020"/>
-        <num codify:value="1.05.020">B.</num>
+      <para>
+        <num>A.</num>
+        <heading>Purpose</heading>
+        <text>Tribal Laws and Ordinances are forms of legislation intended to reflect the policies aimed at protecting the health, safety, well-being and sovereignty of the Tribal government and of Tribal members. They are also intended to provide the lawful basis for regulation and governance of the territory under the jurisdiction of the Saint Regis Mohawk Tribe. Tribal Legislation is meant to enhance the health, safety, well-being and sovereignty of the Tribal government and of Tribal members.</text>
+        <text>All final decisions on matters of permanent interest shall be embodied in ordinances. Such enactments shall be available for inspection by members of the Tribe during nonnal business hours.</text>
+      </para>
+      <para>
+        <num>B.</num>
         <heading>Initiation</heading>
         <text>Legislation may be drafted and proposed by a Tribal program or department at its initiative or at the request of the Tribal Council, who may also draft and propose legislation at its own initiative. It may also be drafted and proposed by any Tribal community member in accordance with the procedures set forth below.</text>
       </para>
-      <para codify:tag="section">
-        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.05.030"/>
-        <num codify:value="1.05.030">C.</num>
+      <para>
+        <num>C.</num>
         <heading>Form</heading>
         <text>The format of the proposed legislation shall include the following sections:</text>
         <para>
@@ -78,9 +80,8 @@
           <text>Legislation Submission Form</text>
         </para>
       </para>
-      <para codify:tag="section">
-        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.05.040"/>
-        <num codify:value="1.05.040">D.</num>
+      <para>
+        <num>D.</num>
         <heading>Submission</heading>
         <para>
           <num>1.</num>
@@ -103,18 +104,16 @@
           <text>If a member of Tribal Council proposes legislation on their own initiative, they shall provide copies to each member of Council, Council's Assistant, the Tribal Clerk and the Legal Department. No member of Council shall submit for consideration, legislation on behalf a Tribal member without that Tribal member following the procedures outlined above.</text>
         </para>
       </para>
-      <para codify:tag="section">
-        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.05.050"/>
-        <num codify:value="1.05.050">E.</num>
+      <para>
+        <num>E.</num>
         <heading>Review</heading>
         <para>
           <num>1.</num>
           <text>The Tribal Clerk shall provide copies of the proposed Tribal Law, Act or Ordinance to each member of Council and to the Legal Department for initial review. Initial Review shall not last more than thirty (30) calendar days.</text>
         </para>
       </para>
-      <para codify:tag="section">
-        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.05.060"/>
-        <num codify:value="1.05.060">F.</num>
+      <para>
+        <num>F.</num>
         <heading>Notice and Comment Period</heading>
         <para>
           <num>1.</num>
@@ -190,9 +189,8 @@
           </para>
         </para>
       </para>
-      <para codify:tag="section">
-        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.05.070"/>
-        <num codify:value="1.05.070">G.</num>
+      <para>
+        <num>G.</num>
         <heading>Enactment</heading>
         <para>
           <num>1.</num>
@@ -203,9 +201,8 @@
           <text>If the legislation does not receive the requisite number of votes, it shall fail and may only be presented again upon the initiative of 2 out of 3 Chiefs, whereupon the Tribal Council shall engage in further discussion on the proposed legislation. The chair of the Legislative Session may call for a second vote on whether to adopt the legislation as finally presented; if the second vote is not successful, the legislation shall finally fail and can only be re-considered by going through the complete notice and comment process as outlined above.</text>
         </para>
       </para>
-      <para codify:tag="section">
-        <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.05.080"/>
-        <num codify:value="1.05.080">H.</num>
+      <para>
+        <num>H.</num>
         <heading>Recordkeeping</heading>
         <para>
           <num>1.</num>
