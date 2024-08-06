@@ -5,6 +5,255 @@
   <heading>Enrollment and Membership</heading>
   <container>
     <prefix>Chapter</prefix>
+    <num>8.01</num>
+    <heading>Membership Ordinance</heading>
+    <text class="center">
+      <strong>Preamble</strong>
+    </text>
+    <text>We the people of The Saint Regis Mohawk Tribe do hereby enact this Membership Code in order to avoid sex discrimination; provide criteria for membership for children; provide criteria for membership for spouses; and, to provide for applications for membership and appeals of determinations by the Tribal clerk.</text>
+    <text>The purpose for the Code is to ensure the ongoing strength of the people of The Saint Regis Mohawk Tribe; to provide fair and just criteria for eligibility; and, to provide notice concerning eligibility requirements.</text>
+    <text>People presently enrolled as members on the Tribal Roll will not be removed as a result of the enactment of this Code.</text>
+    <text>Applications for membership are to be made through the Tribal Clerk; should someone disagree with the Tribal Clerk, then provisions are made for appeal to a Membership Court. All will be done in a timely manner.</text>
+    <section>
+      <num>8.01.010</num>
+      <heading>General Provisions</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Membership Code of the Tribe shall determine who shall be the members of the Tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Membership Code shall be adopted by a referendum vote.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Membership Code can be amended or repealed in a referendum vote.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Membership Code of the Tribe is binding in the determination of the status of any individual as an Akwesasne Mohawk</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Akwesasne Mohawk means a person who is registered as an Akwesasne Mohawk, or is entitled to be registered as an Akwesasne Mohawk pursuant to the Criteria for Membership</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Tribal Chiefs shall have overall responsibility for this Membership Code.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Tribal Clerk of the Saint Regis Mohawk Tribe shall have administrative responsibilities according to this Membership Code.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Applications for membership shall be made to the Tribal clerk.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>There shall be established a Membership Court of the saint Regis Mohawk Tribe.</text>
+      </para>
+      <annotations>
+        <annotation app="1986-07-05" doc="Saint Regis Mohawk Tribe Res. No. 1986-14" eff="1986-07-05" path="attachments|law|I" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>8.01.020</num>
+      <heading>Criteria for Membership</heading>
+      <para>
+        <num>(a)</num>
+        <heading>NATURAL HERITAGE:</heading>
+        <para>
+          <num>(1)</num>
+          <text>Every person whose natural mother and father are members of the Tribe is a member of the Tribe.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Every person who has one natural parent who is a member of the Tribe is eligible for membership."</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Indian members of the Mohawk Council of Akwesasne (formerly the St. Regis Band Council) with one natural parent who was a member of the Band Council shall be eligible for membership.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Effective as of the date of the enactment of this Membership Code, the children resulting from the marriage of any member who has only one natural Indian parent, who is or was a member of the Tribe, and a non-Indian, will be eligible for membership.</text>
+          <text>However, effective as of the date of enactment of this Code, this provision will not apply to any person who was enrolled on or prior to April 19, 1986.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>MARRIAGES:</heading>
+        <para>
+          <num>(1)</num>
+          <text>A member of the Tribe who marries an Akwesasne Mohawk:</text>
+          <para>
+            <num>(A)</num>
+            <text>Retains membership;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Spouse is eligible for membership;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Children are members.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A member of the Tribe who marries Indian</text>
+          <para>
+            <num>(A)</num>
+            <text>Retains membership;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Spouse is eligible for membership; upon proof of having one natural parent who was or is registered for membership by another Tribe;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Children are eligible for membership.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A member of the Tribe who marries non-Indian;</text>
+          <para>
+            <num>(A)</num>
+            <text>Retains membership;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Spouse is not eligible for membership;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>children are eligible for membership, except as provided in "Natural Heritage" number 4 above.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>ADOPTIONS:</heading>
+        <para>
+          <num>(1)</num>
+          <text>A member of the Tribe who is adopted by a person who is not a member of the Tribe retains membership.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An Akwesasne Mohawk child when adopted by a member of the Tribe is eligible for membership.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The non-Akwesasne Mohawk Indian child with at least one natural Indian parent who was enrolled or registered by another Indian Band or Tribe, when adopted by a member of the Tribe is eligible for membership.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The non-Indian child adopted by a member of the Tribe shall not acquire membership.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="1986-07-05" doc="Saint Regis Mohawk Tribe Res. No. 1986-14" eff="1986-07-05" path="attachments|law|II" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>8.01.030</num>
+      <heading>Application Procedure</heading>
+      <para>
+        <num>(a)</num>
+        <text>It shall be the responsibility of the APPLICANT to forward a completed application form and all required documentation to the Tribal clerk.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Application form(s) are available from the Tribal Clerk's office.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The application form and all documentation shall be treated as CONFIDENTIAL:</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Should additional documentation be required, the Tribal Clerk shall notify the applicant by letter.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>A fee of $5.00 per application will be collected by the Tribal Clerk at the time of application.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>After the application is completed, applicant will be notified by letter as to the decision of the Tribal Clerk within ten (10) working days.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Any individual who feels that he/she has been dealt with unfairly may appeal for redress to the Membership Court.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Approved applicant's names shall be listed for public viewing for a period of ninety (90) days after determination of eligibility.</text>
+      </para>
+      <annotations>
+        <annotation app="1986-07-05" doc="Saint Regis Mohawk Tribe Res. No. 1986-14" eff="1986-07-05" path="attachments|law|III" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>8.01.040</num>
+      <heading>Membership Court</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who feels that he/she has been dealt with unfairly by the Tribal Clerk may appeal for redress to the Membership Court.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any member of the Tribe who feels that a person has been denied membership to the Tribe, in violation of the Membership Code, may apply to the Membership Court for redress.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any member of the Tribe who feels that a person has been granted membership to the Tribe in violation of the Membership Code, may apply to the Membership Court for redress.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>An appeal or grievance shall be filed with the Tribal Clerk within ninety (90) days unless they have good cause for needing more than ninety (90) days time. The Tribal Clerk in turn shall forward a copy of the appeal or grievance to the membership Court.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Membership Court shall meet within thirty (30) days of the filing of an appeal or grievance.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The person filing the appeal or grievance shall be given the date of the hearing by the Tribal clerk.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Membership Court will hear evidence, can seek additional evidence and shall render a decision based on the Membership Code.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The three (3) Sub-Chiefs shall comprise the Membership Court.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Should a vacancy occur in the Membership Court, the Tribal chiefs shall appoint an individual until the next tribal election at which time the position will be filled by the regular election process.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Impeachment process: A Judge may be impeached by the Tribal Council for dereliction of duties. Dereliction of duties is defined as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>Failure to appear for three (3) consecutive meetings;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Deliberate obstruction of court process.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="1986-07-05" doc="Saint Regis Mohawk Tribe Res. No. 1986-14" eff="1986-07-05" path="attachments|law|IV" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>8.04</num>
     <heading>Tribal Residency Ordinance</heading>
     <section>
