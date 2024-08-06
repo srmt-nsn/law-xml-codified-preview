@@ -10,14 +10,15 @@
       <xml-bulk>https://github.com/srmt-nsn/law-xml</xml-bulk>
       <html-bulk>https://github.com/srmt-nsn/law-html</html-bulk>
       <static-assets>https://github.com/srmt-nsn/law-static-assets</static-assets>
+      <law-git>https://github.com/srmt-nsn/law.git</law-git>
       <html/>
     </canonical-urls>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="srmt-nsn/law-xml" commit="c55ce87e4734e50bfa61856d2559a0110c26533e"/>
+        <repository name="srmt-nsn/law-xml" commit="44dc4b5c840a553c552dfe517161a4c3dd6c7070"/>
       </repositories>
       <platform version="2.14.0" reproducible="false"/>
-      <build-date>2024-07-12</build-date>
+      <build-date>2024-08-06</build-date>
       <codified-date>2024-06-02</codified-date>
     </build>
   </meta>

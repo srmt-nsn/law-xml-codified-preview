@@ -80,7 +80,7 @@
   <attachment id="law">
     <codified:at path="7.03"/>
     <heading>Saint Regis Mohawk Tribe Room Occupancy Fee Ordinance</heading>
-    <container>
+    <container name="forward">
       <heading>Forward</heading>
       <text>The requirements for occupancy permits, the distribution of permits, reporting requirements, remittance of occupancy fees and other obligations is set forth below.</text>
       <text>Facilities that offer accommodations within the jurisdiction of the Saint Regis Mohawk Tribe (SRMT) must comply with all SRMT adopted Fire Safety and Building Codes regulations and apply a room occupancy fee for each occupied room per day.</text>
@@ -95,7 +95,7 @@
         <text>The rules and regulations set forth below applies to the occupancy of any room at any Hotel or Motel located within the jurisdiction of the SRMT.</text>
       </section>
     </codify:insert>
-    <container>
+    <container name="purpose">
       <heading>Purpose</heading>
       <text>The imposition of an Occupancy Fee has been determined to be in the best interest of the Tribe to help provide revenue for services that ensure the health, safety and welfare of Tribal Members.</text>
     </container>
@@ -106,7 +106,7 @@
         <text>The imposition of an Occupancy Fee has been determined to be in the best interest of the Tribe to help provide revenue for services that ensure the health, safety and welfare of Tribal Members.</text>
       </section>
     </codify:insert>
-    <container>
+    <container name="definitions">
       <heading>Definitions</heading>
       <text>"Hotel" means a commercial establishment offering lodging to travelers and sometimes to permanent residents, and often having restaurants, meeting rooms, stores, etc., that are available to the general public.</text>
       <text>"Motel" means a hotel providing travelers with lodging and free parking facilities, typically a roadside hotel having rooms adjacent to an outside parking area.</text>
@@ -127,7 +127,7 @@
         <text>"Person" means any organization, whether it be a sole proprietorship, partnership, joint venture, trust, estate, unincorporated association, corporation, or government or any part, division, or agency of any of the foregoing, and an individual or group of individuals.</text>
       </section>
     </codify:insert>
-    <container>
+    <container name="occupancy-permit-requirements">
       <heading>Occupancy Permit Requirements</heading>
       <text>There shall be a requirement to obtain a Saint Regis Mohawk Tribe permit to offer any rooms for rent for any duration.</text>
     </container>
@@ -138,7 +138,7 @@
         <text>There shall be a requirement to obtain a Saint Regis Mohawk Tribe permit to offer any rooms for rent for any duration.</text>
       </section>
     </codify:insert>
-    <container>
+    <container name="permit-application-requirements">
       <heading>Permit Application Requirements</heading>
       <text>Shall include the Following:</text>
       <text>
@@ -173,7 +173,7 @@
         </text>
       </section>
     </codify:insert>
-    <container>
+    <container name="permit-process-and-distribution">
       <heading>Permit Process and Distribution</heading>
       <text>The applicant must complete the application with the Compliance Department.</text>
       <text>
@@ -198,7 +198,7 @@
         </text>
       </section>
     </codify:insert>
-    <container>
+    <container name="permit-fee">
       <heading>Permit Fee</heading>
       <text>The applicant for an occupancy permit for a hotel and/or motel shall remit an initial application fee of fifty dollars ($50.00) for an application.</text>
     </container>
@@ -209,7 +209,7 @@
         <text>The applicant for an occupancy permit for a hotel and/or motel shall remit an initial application fee of fifty dollars ($50.00) for an application.</text>
       </section>
     </codify:insert>
-    <container>
+    <container name="permit-denial">
       <heading>Permit Denial</heading>
       <text>Should it be determined that an applicant's location not be in compliance with applicable codes, the applicant shall be notified of the specific deficiencies and a permit shall not be issued for the occupancy until non-compliance is rectified.</text>
     </container>
@@ -220,7 +220,7 @@
         <text>Should it be determined that an applicant's location not be in compliance with applicable codes, the applicant shall be notified of the specific deficiencies and a permit shall not be issued for the occupancy until non-compliance is rectified.</text>
       </section>
     </codify:insert>
-    <container>
+    <container name="occupancy-rate">
       <heading>Occupancy Rate</heading>
       <text>The SRMT Room Occupancy Fee rate shall be assessed at ten dollars ($10.00) per room for each day of occupancy.</text>
     </container>
@@ -231,7 +231,7 @@
         <text>The SRMT Room Occupancy Fee rate shall be assessed at ten dollars ($10.00) per room for each day of occupancy.</text>
       </section>
     </codify:insert>
-    <container>
+    <container name="exemptions">
       <heading>Exemptions</heading>
       <para>
         <num>1.</num>
@@ -264,7 +264,7 @@
         </para>
       </section>
     </codify:insert>
-    <container>
+    <container name="reporting-requirements">
       <heading>Reporting Requirements</heading>
       <text>Shall be outlined below and required to be remitted and adhered to at all times.</text>
       <para>
@@ -327,7 +327,7 @@
         </para>
       </section>
     </codify:insert>
-    <container>
+    <container name="use-of-occupancy-fees">
       <heading>Use of Occupancy Fees</heading>
       <text>The Occupancy Fees will be utilized to assist in the education and recreation of the membership of the Tribe and in tourism.</text>
     </container>
@@ -338,7 +338,7 @@
         <text>The Occupancy Fees will be utilized to assist in the education and recreation of the membership of the Tribe and in tourism.</text>
       </section>
     </codify:insert>
-    <container>
+    <container name="violations">
       <heading>Violations</heading>
       <text>Violations may include, however are not limited to:</text>
       <text>
@@ -361,7 +361,7 @@
         </text>
       </section>
     </codify:insert>
-    <container>
+    <container name="amendments">
       <heading>Amendments</heading>
       <text>This document may be amended from time to time should it be determined by Tribal Council, The amendment process shall be as follows:</text>
       <text>

@@ -1879,7 +1879,7 @@
         <heading>Amendments</heading>
         <text>The Chapter of this Code may be amended upon the approval of such amendments by the majority of Tribal Council and upon notice to the Tribal membership.</text>
       </section>
-      <container>
+      <container name="amendments">
         <heading>Summary of Amendments</heading>
         <para>
           <num>1.</num>
