@@ -15,7 +15,7 @@
     </canonical-urls>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="srmt-nsn/law-xml" commit="36a44ccb3e3ce960cb56856e29409d522a9ba401"/>
+        <repository name="srmt-nsn/law-xml" commit="095d1276a549c27db81612662bc143164dd690f1"/>
       </repositories>
       <platform version="2.14.0" reproducible="false"/>
       <build-date>2024-08-07</build-date>
@@ -50,6 +50,7 @@
     <xi:include href="./us/nsn/srmt/council/resolutions/2000/index.xml"/>
     <xi:include href="./us/nsn/srmt/council/resolutions/1999/index.xml"/>
     <xi:include href="./us/nsn/srmt/council/resolutions/1998/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/1993/index.xml"/>
     <xi:include href="./us/nsn/srmt/council/resolutions/1991/index.xml"/>
     <xi:include href="./us/nsn/srmt/council/resolutions/1989/index.xml"/>
     <xi:include href="./us/nsn/srmt/council/resolutions/1986/index.xml"/>

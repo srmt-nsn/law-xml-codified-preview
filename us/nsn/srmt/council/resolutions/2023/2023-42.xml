@@ -22,7 +22,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>in Tribal Council Resolution (TCR 2011-52) the Saint Regis Mohawk Tribal Council previously adopted the Saint Regis Mohawk Non-Member Fishing Regulations and Law (the "Regulation"), which was later amended in TCR 2014-07; and</text>
+      <text>in Tribal Council Resolution (<cite doc="Saint Regis Mohawk Tribe Res. No. 2011-52">TCR 2011-52</cite>) the Saint Regis Mohawk Tribal Council previously adopted the Saint Regis Mohawk Non-Member Fishing Regulations and Law (the "Regulation"), which was later amended in <cite doc="Saint Regis Mohawk Tribe Res. No. 2014-07">TCR 2014-07</cite>; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -30,7 +30,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>pursuant to the Tribal Procedures Act Section X (3), the Compliance Department has met all of the necessary requirements for Tribal Member's public review and comments on the proposed legislation; and</text>
+      <text>pursuant to the <cite doc="Saint Regis Mohawk Tribal Code of Law" path="1.01.100|(c)">Tribal Procedures Act Section X (3)</cite>, the Compliance Department has met all of the necessary requirements for Tribal Member's public review and comments on the proposed legislation; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -38,7 +38,7 @@
     </recital>
     <recital>
       <conjunction>NOW, THEREFORE, BE IT RESOLVED,</conjunction>
-      <text>that the Saint Regis Mohawk Tribal Council hereby amends TCR 2014-07 in its entirety and hereby adopts the attached and amended Saint Regis Mohawk Tribe Fishing Ordinance effective the date of this resolution.</text>
+      <text>that the Saint Regis Mohawk Tribal Council hereby amends <cite doc="Saint Regis Mohawk Tribe Res. No. 2014-07">TCR 2014-07</cite> in its entirety and hereby adopts the attached and amended Saint Regis Mohawk Tribe Fishing Ordinance effective the date of this resolution.</text>
     </recital>
   </recitals>
   <procedural-data>
@@ -83,13 +83,25 @@
   <attachment id="law">
     <codified:at path="13.01"/>
     <heading>Saint Regis Mohawk Tribe Fishing Ordinance</heading>
-    <section><codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|13.01.010"/>&gt;
-      <num codify:value="13.01.010">I</num><heading>Title</heading><text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">This Ordinance</code-cite> shall be known as the "Saint Regis Mohawk Tribe's Fishing Ordinance" (hereinafter "Fishing Ordinance").</text></section>
+    <section>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|13.01.010"/>
+      <num codify:value="13.01.010">I</num>
+      <heading>Title</heading>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">This Ordinance</code-cite> shall be known as the "Saint Regis Mohawk Tribe's Fishing Ordinance" (hereinafter "Fishing Ordinance").</text>
+      <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2011-52"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2014-07"/>
+      </annotations>
+    </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|13.01.020"/>
       <num codify:value="13.01.020">II</num>
       <heading>Purpose</heading>
       <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">This Fishing Ordinance</code-cite> and regulations promulgated hereunder are designed to protect the Tribe's natural resources including fish and waterways within the Saint Regis Mohawk Tribe's ("SRMT" or "Tribe") jurisdiction including, but not limited to the waters of the St. Lawrence River and the contributories known as the St. Regis River, Raquette River, Salmon River and Grasse River, and to promote the health, welfare, and safety of all Tribal Members.</text>
+      <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2011-52"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2014-07"/>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|13.01.030"/>
@@ -97,12 +109,20 @@
       <heading>Authority</heading>
       <text>The Saint Regis Mohawk Tribal Council ("Tribal Council") has the inherent sovereign power to enact laws governing commercial activity within the Tribe's territory and to adopt laws to protect the health, welfare, and safety of all Tribal Members. Tribal Council with its inherent authority may delegate its authority to the Tribe's Compliance Department to promulgate and enforce fishing regulations. The Compliance Department is hereby delegated authority and is authorized to adopt any regulations it deems necessary to implement <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite>.</text>
       <text>Pursuant to the Compliance Department's delegated authority its actions regarding <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">this Fishing Ordinance</code-cite> shall be taken in the Tribe's best interests. These actions are undertaken to ensure the continuation of natural resources such as fish, which are important to the community that may use it as a food source or a source of economic development for Tribal Members.</text>
+      <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2011-52"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2014-07"/>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|13.01.040"/>
       <num codify:value="13.01.040">IV</num>
       <heading>Applicability</heading>
       <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">This Fishing Ordinance</code-cite> shall be applicable to Members and Non-Members to participate in fishing activities within the Tribe's jurisdiction.</text>
+      <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2011-52"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2014-07"/>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|13.01.050"/>
@@ -142,6 +162,10 @@
       <text><strong>"Trout"</strong> means brook trout, brown trout, rainbow trout and hybrids of these species including lake.</text>
       <text><strong>"Vehicle"</strong> means a vehicle that is drawn, propelled, or driven by any means, including muscular power, motor fuel and/or any other kind of power.</text>
       <text><strong>"Vessel"</strong> means a boat, ship, skiff, canoe, punt and raft regardless of how it may be propelled, which includes muscular power, motor fuel and or other means.</text>
+      <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2011-52"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2014-07"/>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|13.01.060"/>
@@ -282,6 +306,10 @@
           <em>(Please see <cite doc="Saint Regis Mohawk Tribal Code of Law" path="13.01|A">Appendix A</cite> - Seasons)</em>
         </text>
       </para>
+      <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2011-52"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2014-07"/>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|13.01.070"/>
@@ -388,6 +416,10 @@
           <text>Any decision made by either the Compliance Officer or Tribal Court is final and shall not be appealable.</text>
         </para>
       </para>
+      <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2011-52"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2014-07"/>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|13.01.080"/>
@@ -528,6 +560,10 @@
         </text>
         <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-42">This Fishing Ordinance</code-cite> shall become effective upon enactment</text>
       </para>
+      <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2011-52"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2014-07"/>
+      </annotations>
     </section>
     <container name="amendments">
       <heading>Amendment Summary</heading>

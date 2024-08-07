@@ -261,6 +261,7 @@
       <heading>Title</heading>
       <text><cite path="|8.04">This chapter</cite> shall be known as the "Saint Regis Mohawk Tribe Residency Ordinance".</text>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2019-28"/>
         <annotation app="2023-07-26" doc="Saint Regis Mohawk Tribe Res. No. 2023-35" eff="2023-07-26" path="attachments|law|I." type="History"/>
       </annotations>
     </section>
@@ -284,6 +285,7 @@
         <text><cite path="|8.04">This chapter</cite> establishes laws for Non-Members to obtain Residency Permits allowing them to reside on Mohawk Territory under the conditions established herein.</text>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2019-28"/>
         <annotation app="2023-07-26" doc="Saint Regis Mohawk Tribe Res. No. 2023-35" eff="2023-07-26" path="attachments|law|II." type="History"/>
       </annotations>
     </section>
@@ -371,7 +373,7 @@
         </para>
         <para>
           <num>(20)</num>
-          <text>"Saint Regis Mohawk Tribal Court" means the judicial system established by Tribal Council pursuant to TCR 2007-01 as the Saint Regis Mohawk Tribal Court, an independent entity with independent judicial authority.</text>
+          <text>"Saint Regis Mohawk Tribal Court" means the judicial system established by Tribal Council pursuant to <cite doc="Saint Regis Mohawk Tribe Res. No. 2007-01">TCR 2007-01</cite> as the Saint Regis Mohawk Tribal Court, an independent entity with independent judicial authority.</text>
         </para>
         <para>
           <num>(21)</num>
@@ -395,11 +397,11 @@
         </para>
         <para>
           <num>(26)</num>
-          <text>"Tribal Election and Referendum Code" means Tribal Election and Referendum Ordinance enacted by the Tribe in 2008 (TCR 2008-36) to govern the conduct of all elections and tribal referenda, as amended.</text>
+          <text>"Tribal Election and Referendum Code" means Tribal Election and Referendum Ordinance enacted by the Tribe in 2008 (<cite doc="Saint Regis Mohawk Tribe Res. No. 2008-36">TCR 2008-36</cite>) to govern the conduct of all elections and tribal referenda, as amended.</text>
         </para>
         <para>
           <num>(27)</num>
-          <text>"Tribal Procedures Act" means the Ordinance enacted by the Tribe in 2013 (TCR 2013-32) setting forth the general powers of the Tribal Council, clarifying referendum, ordinance and tribal resolution procedures, and related matters.</text>
+          <text>"Tribal Procedures Act" means the Ordinance enacted by the Tribe in 2013 (<cite doc="Saint Regis Mohawk Tribe Res. No. 2013-32">TCR 2013-32</cite>) setting forth the general powers of the Tribal Council, clarifying referendum, ordinance and tribal resolution procedures, and related matters.</text>
         </para>
         <para>
           <num>(28)</num>
@@ -411,6 +413,7 @@
         </para>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2019-28"/>
         <annotation app="2023-07-26" doc="Saint Regis Mohawk Tribe Res. No. 2023-35" eff="2023-07-26" path="attachments|law|III." type="History"/>
       </annotations>
     </section>
@@ -458,6 +461,7 @@
         <text><u>Board Approval Subject to Investigation Findings</u>. Final approval by the Board of the above eligible Non-Members will be subject to Board investigation and background checks.</text>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2019-28"/>
         <annotation app="2023-07-26" doc="Saint Regis Mohawk Tribe Res. No. 2023-35" eff="2023-07-26" path="attachments|law|IV." type="History"/>
       </annotations>
     </section>
@@ -537,6 +541,7 @@
         <text><u>Vacancies</u>. Board Member vacancies will be filled by the Tribal Council under the same procedure as for appointment. Board members appointed to fill vacancies will serve the remainder of the vacant seat.</text>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2019-28"/>
         <annotation app="2023-07-26" doc="Saint Regis Mohawk Tribe Res. No. 2023-35" eff="2023-07-26" path="attachments|law|V." type="History"/>
       </annotations>
     </section>
@@ -636,6 +641,7 @@
         <text><u>Additional Board Authorization</u>. The Board is authorized to develop Regulations that will assist and promote the Permitting process. Such Regulations may require Owners and Landlords of Rental Properties to carry out certain acts and duties such as informing Tenants of the Permit requirements, providing Permit forms to their Tenants and reporting and certifying to the Board regarding Tenant compliance and updating informant on an Owner's or Landlord's tenants. The Board is also authorized to develop additional Permit forms, if warranted, for "short term" residents on the Territory.</text>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2019-28"/>
         <annotation app="2023-07-26" doc="Saint Regis Mohawk Tribe Res. No. 2023-35" eff="2023-07-26" path="attachments|law|VI." type="History"/>
       </annotations>
     </section>
@@ -731,6 +737,7 @@
         <text><u>Publication of Board Decisions and Reports</u>. Decisions of the Residency Board or the Tribal Court with respect to an Application for a Residency Permit, shall be published in a community newspaper. On or before January 1st of each year, beginning in the first full year following adoption, the Residency Board will provide the Tribal Council with a written report listing all persons residing on the Territory under a Residency Permit (including the expiration date), and the identity of any applicant who has been denied, or whose Residency Permit has been revoked.</text>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2019-28"/>
         <annotation app="2023-07-26" doc="Saint Regis Mohawk Tribe Res. No. 2023-35" eff="2023-07-26" path="attachments|law|VII." type="History"/>
       </annotations>
     </section>
@@ -799,9 +806,10 @@
       </para>
       <para>
         <num>(d)</num>
-        <text><u>Consistency with Exclusion Policy</u>. Grounds for permit revocation set forth above in <cite path="|8.04.080|(b)">Section 8.04.080(b)</cite><cite path="|8.04.080|(b)|(1)">Section 8.04.080(b)(1)</cite>-<cite path="|8.04.080|(b)|(10)">Section 8.04.080(b)(10)</cite> are based upon the Tribe's Exclusion Policy as amended from time to time.</text>
+        <text><u>Consistency with Exclusion Policy</u>. Grounds for permit revocation set forth above in <cite path="|8.04.080|(b)|(1)">Section 8.04.080(b)(1)</cite>-<cite path="|8.04.080|(b)|(10)">Section 8.04.080(b)(10)</cite> are based upon the Tribe's Exclusion Policy as amended from time to time.</text>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2019-28"/>
         <annotation app="2023-07-26" doc="Saint Regis Mohawk Tribe Res. No. 2023-35" eff="2023-07-26" path="attachments|law|VIII." type="History"/>
       </annotations>
     </section>
@@ -825,6 +833,7 @@
         <text><u>No Further Appeal</u>. Any decision of the Tribal Court (including any appeal to the Tribal Appellate Court) is final for the Tribe and there is no appeal to the Tribal Council.</text>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2019-28"/>
         <annotation app="2023-07-26" doc="Saint Regis Mohawk Tribe Res. No. 2023-35" eff="2023-07-26" path="attachments|law|IX." type="History"/>
       </annotations>
     </section>
@@ -876,6 +885,7 @@
         </para>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2019-28"/>
         <annotation app="2023-07-26" doc="Saint Regis Mohawk Tribe Res. No. 2023-35" eff="2023-07-26" path="attachments|law|X." type="History"/>
       </annotations>
     </section>
@@ -887,6 +897,7 @@
         <text>The Residency Board may issue Regulations as appropriate for the proper administration of <cite path="|8.04">this chapter</cite> provided that such regulations are consistent with the provisions in <cite path="|8.04">this chapter</cite>.</text>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2019-28"/>
         <annotation app="2023-07-26" doc="Saint Regis Mohawk Tribe Res. No. 2023-35" eff="2023-07-26" path="attachments|law|XI." type="History"/>
       </annotations>
     </section>
@@ -898,6 +909,7 @@
         <text>Residency Permits will not be required until the Residency Board is seated and until the Board is able to develop Residency Forms, host Community educational meetings and fully apprise the Community of the Ordinance requirements and the Permit process. Within ninety (90) days, after it is seated, the Board shall notify the Community of the date(s) within which Non-Members must apply for and obtain required Permits. In the interim time period after enactment and when the Board is seated, the Tribal Council is authorized to take any actions needed to administer the provisions of <cite path="|8.04">this chapter</cite>.</text>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2019-28"/>
         <annotation app="2023-07-26" doc="Saint Regis Mohawk Tribe Res. No. 2023-35" eff="2023-07-26" path="attachments|law|XII." type="History"/>
       </annotations>
     </section>
@@ -909,6 +921,7 @@
         <text><cite path="|8.04">This chapter</cite> may be amended by: (1) a duly conducted Referendum; or (2) by the Board through a Board Resolution recommending amendment, provided the amendment is confirmed by a vote of the Tribal Council. The amendment shall be processed following the Tribal Procedure Act and include notice to, and review by, the Community. Amendments through a Board Resolution may not change the residency eligibility requirements set forth in the Ordinance.</text>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2019-28"/>
         <annotation app="2023-07-26" doc="Saint Regis Mohawk Tribe Res. No. 2023-35" eff="2023-07-26" path="attachments|law|XIII." type="History"/>
       </annotations>
     </section>
@@ -920,6 +933,7 @@
         <text>The provisions of <cite path="|8.04">this chapter</cite> shall be severable and if any part or provision shall be held void by any Court of competent jurisdiction, the decision of the Court so holding shall not affect or impair any of the remaining parts or provisions of <cite path="|8.04">this chapter</cite>.</text>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2019-28"/>
         <annotation app="2023-07-26" doc="Saint Regis Mohawk Tribe Res. No. 2023-35" eff="2023-07-26" path="attachments|law|XIV." type="History"/>
       </annotations>
     </section>
@@ -931,6 +945,7 @@
         <text>This Ordinance repeals any other Tribal Council Resolutions, Ordinances, Acts or Laws that inconsistent herein.</text>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2019-28"/>
         <annotation app="2023-07-26" doc="Saint Regis Mohawk Tribe Res. No. 2023-35" eff="2023-07-26" path="attachments|law|XV." type="History"/>
       </annotations>
     </section>

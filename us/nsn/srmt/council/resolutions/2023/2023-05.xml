@@ -22,11 +22,11 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>by TCR 2021-33 the Tribal Council adopted the original "Saint Regis Mohawk Tribe Adult Use Cannabis Ordinance" ("AUC Ordinance") establishing rules and regulations governing commercial use and activity of "Adult Use Cannabis" including but not limited to cultivation, processing and sale on tribal territory; and</text>
+      <text>by <cite doc="Saint Regis Mohawk Tribe Res. No. 2021-33">TCR 2021-33</cite> the Tribal Council adopted the original "Saint Regis Mohawk Tribe Adult Use Cannabis Ordinance" ("AUC Ordinance") establishing rules and regulations governing commercial use and activity of "Adult Use Cannabis" including but not limited to cultivation, processing and sale on tribal territory; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>by TCR 2022-17 the Tribal Council amended the AUC Ordinance to permit drive through sales windows at licensed retail stores and to increase the number of plants permitted under a Tier Ill cultivation license; and</text>
+      <text>by <cite doc="Saint Regis Mohawk Tribe Res. No. 2022-17">TCR 2022-17</cite> the Tribal Council amended the AUC Ordinance to permit drive through sales windows at licensed retail stores and to increase the number of plants permitted under a Tier Ill cultivation license; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -240,6 +240,10 @@
         <num codify:value="15.02.010">1.01</num>
         <heading>Title</heading>
         <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">This Ordinance</code-cite> shall be known as the "Saint Regis Mohawk Tribe Adult Use Cannabis Ordinance".</text>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.020"/>
@@ -261,6 +265,10 @@
           <num>(d)</num>
           <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">This Ordinance</code-cite> includes appropriate fees on commercial AUC activities to fund tribal oversight and regulation and to fund tribal member programs and services.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.030"/>
@@ -270,6 +278,10 @@
           <num>(a)</num>
           <text>The Tribe's authority to adopt <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> is based upon the Tribal Procedures Act, as amended, and the Tribe's inherent sovereign power to: (1) enact laws governing commercial activity within its territory; and (2) adopt regulations to protect the health, safety and general welfare of tribal members.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.040"/>
@@ -283,6 +295,10 @@
           <num>(b)</num>
           <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">This Ordinance</code-cite> provides a robust regulatory system that addresses these issues. It requires use of a tracking system to record cannabis transactions on tribal territory from cultivation to sale. It contains mandatory rules on sales to minors. And it includes provisions protecting community health and safety at least as robust as those imposed by New York State with respect to AUC sales.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.050"/>
@@ -304,6 +320,10 @@
           <num>(d)</num>
           <text>All existing authority of the Tribe shall remain in full force and effect, and nothing in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> repeals or limits the Tribe's authority to impose penalties or initiate punitive proceedings before or after its effective date.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.060"/>
@@ -445,6 +465,10 @@
             <text>"Tribe" shall mean the Saint Regis Mohawk Tribe, a federally recognized Indian tribe located in Akwesasne, New York. References to "Tribe" shall also include the Tribe's Cannabis Compliance Office and/or Cannabis Control Board.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -571,6 +595,10 @@
           <num>(g)</num>
           <text>The CCB will provide regular reports to the Tribal Council summarizing, among other things, their official actions, activities, investigative reports, and reports received from licensed businesses to keep the Tribal Council fully informed as to the status of their activities.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="2" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.080"/>
@@ -616,6 +644,10 @@
             <text>With the approval of the CCB, retain consultants, advisors and agents to assist with any of the duties described above, except that the CCO may not contract with any person having an ownership interest in, or control of, any Cultivator, Processor, or Retail Store licensed by the Tribe.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="2" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.090"/>
@@ -665,6 +697,10 @@
           <num>(c)</num>
           <text>The CCO shall not store or transport cannabis to facilitate the operation of the TCE.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -707,6 +743,10 @@
           <num>(c)</num>
           <text>If deemed necessary by the CCB, the Tribe may apply for a testing facility license.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="3" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.110"/>
@@ -720,12 +760,20 @@
           <num>(b)</num>
           <text>The number of business licenses issued overall will be determined by the Tribe based upon factors such as market conditions, market or product saturation, increase in crime, abuse of license privileges; and other relevant factors.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="3" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.120"/>
         <num codify:value="15.02.120">3.03</num>
         <heading>License Term</heading>
         <text>All licenses shall have a term of five (5) years, unless revoked pursuant to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>, and may be renewed through a renewal application process established by the CCO.</text>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="3" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.130"/>
@@ -759,6 +807,10 @@
             <text>Not have been convicted of a serious felony, as defined in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="3" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.140"/>
@@ -784,6 +836,10 @@
           <num>(b)</num>
           <text>The CCB has the authority to provide a waiver of <code-cite path="|attachments|law|3|3.05|(a)" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">subsection (a)</code-cite> on a case-by- case basis if circumstances warrant such a waiver.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -850,6 +906,10 @@
           <num>(d)</num>
           <text>The CCO shall not accept an application for a Cultivation license, Processing license, or Retail Store license from an applicant who has not received pre-clearance from the CCO.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="4" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.160"/>
@@ -915,6 +975,10 @@
             <text>Needs of the applicant for its own extraction and processing.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="4" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.170"/>
@@ -968,6 +1032,10 @@
           <num>(c)</num>
           <text>After 180 days of operation, a Processing licensee may apply to change tiers by submitting a revised operating plan and the difference in application and licensing fees, prorated for the time remaining on the license.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="4" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.180"/>
@@ -1005,6 +1073,10 @@
           <num>(b)</num>
           <text>The CCO shall begin to accept applications for Retail Store licenses within 30 days of the effective date of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this ordinance</code-cite>.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="4" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.190"/>
@@ -1050,6 +1122,10 @@
           <num>(b)</num>
           <text>The CCO shall begin to accept applications for Consumption Lounge licenses within 30 days of the effective date of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this ordinance</code-cite>.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -1084,6 +1160,10 @@
             <text>Providing recommendations to the CCB concerning approval or denial of license applications.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="5" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.210"/>
@@ -1113,6 +1193,10 @@
             <text>The CCB will issue a written decision via letter to applicant.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="5" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.220"/>
@@ -1150,6 +1234,10 @@
             <text>The Tribal Court's decision shall be final and non-appealable.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="5" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.230"/>
@@ -1159,6 +1247,10 @@
           <num>1.</num>
           <text>The CCO and CCB may decide to issue conditional licenses to applicants if that is deemed necessary. The applicant still must complete and submit a complete application form. The award of a conditional licenses will contain terms that must be satisfied before a permanent license is granted.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -1266,6 +1358,10 @@
             </text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="6" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.250"/>
@@ -1489,6 +1585,10 @@
             <text>Revise the application fee amounts for licensees for new and renewed licenses.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -1511,6 +1611,10 @@
           <num>(c)</num>
           <text>Cannabis or cannabis products may not be consumed within the store premises unless the Cannabis Retail store has an additional consumption lounge license and the consumption lounge is completely separated from the remainder of the premises by solid partitions without openings other than doors.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="7" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.270"/>
@@ -1552,6 +1656,10 @@
             <text>Other products not containing cannabis as permitted by the CCO.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="7" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.280"/>
@@ -1605,6 +1713,10 @@
           <num>(g)</num>
           <text>Sell or offer for sale cannabis or cannabis products unless revenue stamps have been affixed to the product.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="7" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.290"/>
@@ -1618,6 +1730,10 @@
           <num>(b)</num>
           <text>Prior to any sale of cannabis products through a drive through sales window the licensee shall verify that all persons in the vehicle are twenty-one (21) years old or older by means of an approved form of government-issued photographic identification containing a date of birth.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="7" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.300"/>
@@ -1627,6 +1743,10 @@
           <num>(a)</num>
           <text>At point of sale, the retailer shall retain, at a minimum the following information from consumers: (1) payment method; (2) amount of payment; (3) time of sale; (4) product quantity; and (5) other product descriptors. This data must be inputted into the Tribe's approved tracking system.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="7" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.310"/>
@@ -1636,6 +1756,10 @@
           <num>(a)</num>
           <text>Retail stores shall also comply with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> and all rules and regulations issued under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> that apply to cannabis businesses and facilities such as, but not limited to, security, surveillance, health and safety and audit and inspection requirements.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -1654,6 +1778,10 @@
           <num>(b)</num>
           <text>Consumption Lounges may not offer for sale or sell alcohol or tobacco.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="8" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.330"/>
@@ -1687,6 +1815,10 @@
             <text>Other products not containing cannabis as permitted by the CCO.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="8" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.340"/>
@@ -1739,6 +1871,10 @@
           <num>vii.</num>
           <text>Sell or offer for sale cannabis or cannabis products unless revenue stamps have been affixed to the product.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="8" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.350"/>
@@ -1748,6 +1884,10 @@
           <num>(a)</num>
           <text>Prior to any sale of cannabis or cannabis products, the licensee shall verify that the individual is 21 years of age or older by means of an approved form of government-issued photographic identification containing a date of birth.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="8" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.360"/>
@@ -1778,6 +1918,10 @@
             <text>This data must be inputted into the Tribe's approved tracking system.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="8" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.370"/>
@@ -1787,6 +1931,10 @@
           <num>(a)</num>
           <text>Consumption Lounges shall also comply with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> and all rules and regulations issued under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> that apply to cannabis businesses and facilities such as, but not limited to, security, surveillance, health and safety and audit and inspection requirements.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -1821,6 +1969,10 @@
             <text>Cultivators shall be required to sell cannabis flower and trim, subject to the approved operating plan, to processors or retail stores as directed by the TCE at prices determined by the CCO.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="9" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.390"/>
@@ -1886,6 +2038,10 @@
             <text>Licensee must avoid adverse impacts or public nuisance.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -1900,6 +2056,10 @@
           <num>(a)</num>
           <text>A cannabis processor license authorizes the licensee to buy or acquire cannabis or cannabis extracts from a licensed cultivator or processor; and to possess, store and process cannabis and cannabis products. Processing shall include, but not necessarily be limited to, blending, extracting, infusing, packaging, labeling, branding or otherwise making or preparing cannabis products and transporting cannabis products to a Retail Store. Processing shall not include the cultivation of cannabis.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="10" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.410"/>
@@ -1909,6 +2069,10 @@
           <num>(a)</num>
           <text>A processor may process adult use cannabis products only for sale or distribution to licensed cannabis retail stores or other licensed processors.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="10" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.420"/>
@@ -1918,6 +2082,10 @@
           <num>(a)</num>
           <text>A licensed processor may not sell or offer to sell adult use cannabis products to consumers.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="10" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.430"/>
@@ -1927,6 +2095,10 @@
           <num>(a)</num>
           <text>A processor shall purchase all cannabis necessary for its processing from a licensed cultivation facility. A processor shall purchase all cannabis extract necessary for the creation of other cannabis products from a licensed Tier II processor.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="10" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.440"/>
@@ -1952,6 +2124,10 @@
             <text>The CCO shall require any applicant applying for a processor license to disclose whether or not it intends to utilize any inherently hazardous substance.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="10" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.450"/>
@@ -2005,6 +2181,10 @@
             <text>May not involve the addition of cannabis to a trademarked food or drink product, except when the trademarked product is used as a component of or ingredient in the edible cannabis product and the edible cannabis product is not advertised or described for sale as containing the trademarked product.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="10" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.460"/>
@@ -2022,6 +2202,10 @@
           <num>(c)</num>
           <text>Processors shall be required to produce products for other licensees if they are offered reasonable prices to be determined by the CCO.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -2064,6 +2248,10 @@
             <text>Records all sales or transfers of harvested cannabis (transferee, buyer, amounts in pounds) including tracking ID numbers;</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="11" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.480"/>
@@ -2109,6 +2297,10 @@
             <text>Put tracking ID on all product transferred or sold or in inventory.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="11" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.490"/>
@@ -2142,6 +2334,10 @@
           <num>(c)</num>
           <text><u>Tracking ID numbers</u>. All cannabis and products in inventory or sold must have tracking ID numbers.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -2153,6 +2349,10 @@
         <num codify:value="15.02.500">12.01</num>
         <heading>Location of Stores and Facilities</heading>
         <text>Due to the threat of exposure to children, young adults and the general public, any building housing a cannabis retail stores, processing, or cultivation facilities, unless otherwise permitted by the CCO, shall not be located within 500 feet of a sensitive site, as defined in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>.</text>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="12" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.510"/>
@@ -2171,6 +2371,10 @@
           <num>(c)</num>
           <text>Stores shall be a designed and constructed to a certain minimum standard approved by the CCO.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -2229,6 +2433,10 @@
           <num>(g)</num>
           <text>The CCO may waive any or all testing requirements until it determines that licensees may legally transfer cannabis or cannabis products to independent laboratories capable of performing such testing.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -2299,6 +2507,10 @@
             <text>For edible cannabis products, a nutritional fact panel.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="14" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.540"/>
@@ -2321,6 +2533,10 @@
           <num>(d)</num>
           <text>Must conform to all other applicable requirements and restrictions imposed by rule by the CCO.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="14" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.550"/>
@@ -2343,6 +2559,10 @@
           <num>(d)</num>
           <text>Any other information that has been preapproved by the CCO.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="14" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.560"/>
@@ -2369,6 +2589,10 @@
           <num>(e)</num>
           <text>May not be labeled or packaged in violation of any other labeling or packaging requirement or restriction imposed by rule by the CCO.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -2383,6 +2607,10 @@
           <num>(a)</num>
           <text>A licensed AUC business shall not engage in advertising that is misleading, deceptive or false. A licensee shall not make any misleading, deceptive or false assertions or statements on any product, any sign, or any document provided to a consumer.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="15" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.580"/>
@@ -2392,6 +2620,10 @@
           <num>(a)</num>
           <text>A licensed AUC business may advertise on television radio, a print publication or via the internet only where at least 71.6 percent of the audience is reasonably expected to be at least 21 years or older.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="15" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.590"/>
@@ -2401,6 +2633,10 @@
           <num>(a)</num>
           <text>A licensed AUC business may not engage in advertising that asserts its products are safe because they are regulated by the Tribe or because they are tested.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="15" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.600"/>
@@ -2410,6 +2646,10 @@
           <num>(a)</num>
           <text>A licensed AUC business shall not advertise on any outdoor sign that is within 500 feet of a sensitive area.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="15" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.610"/>
@@ -2419,6 +2659,10 @@
           <num>(a)</num>
           <text>A licensed AUC business shall not include in any form of advertising or signage any content that specifically targets any individual under the age of 21, including but not limited to cartoon characters or similar images.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="15" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.620"/>
@@ -2428,6 +2672,10 @@
           <num>(a)</num>
           <text>A licensed AUC business may not engage in advertising via marketing directed towards location-based devices, including but not limited to cellular phones, unless the mobile device application installed on the device includes a permanent and easy opt-out feature.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="15" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.630"/>
@@ -2437,6 +2685,10 @@
           <num>(a)</num>
           <text>A licensed AUC business shall not utilize unsolicited pop-up advertising on the internet.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="15" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.640"/>
@@ -2446,6 +2698,10 @@
           <num>(a)</num>
           <text>A licensed AUC business may sponsor a charitable, sports, or similar event, but the business shall not engage in advertising at, or in connection with, such an event unless the business has reliable evidence that at least 71.6 percent of the audience at the event and/or viewing the event is reasonably expected to be at least 21 years or older.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -2469,6 +2725,10 @@
           <num>(c)</num>
           <text>Limitations on the display of cannabis and cannabis products at retail stores.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -2491,6 +2751,10 @@
           <num>(c)</num>
           <text>The CCO shall establish rules governing security systems and video monitoring.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="17" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.670"/>
@@ -2524,6 +2788,10 @@
           <num>(g)</num>
           <text>The licensee shall maintain a visitor log of all persons other than employees or emergency personnel responding to an emergency that access any secured areas, which shall include the name of the visitor, date, time and purpose of the visit. The visitor log shall be available to the CCO at all times during operating hours and upon request.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -2535,6 +2803,10 @@
         <num codify:value="15.02.680">18.01</num>
         <heading>General</heading>
         <text>The CCO may impose penalties on licensee for license violations and penalties upon non-compliant cannabis businesses (i.e., those operating without obtaining a Tribal AUC business license). Any penalties, orders or decisions of either the CCB or CCO are enforceable by the Tribal Court, which has jurisdiction over any and all matters arising under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>. The penalties authorized in Sec. 18.02 - 18.07 are in addition to any criminal or civil penalties that may be imposed pursuant to other applicable laws or rules.</text>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="18" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.690"/>
@@ -2548,48 +2820,80 @@
           <num>(b)</num>
           <text>All monetary penalties imposed must be paid by the licensee to the CCO in the form of cash or in the form of a certified check or a cashier's check.</text>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="18" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.700"/>
         <num codify:value="15.02.700">18.03</num>
         <heading>License Suspension</heading>
         <text>A licensee whose license has been suspended may not, for the duration of the period of suspension, engage in any activities relating to the operation of the cannabis business.</text>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="18" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.710"/>
         <num codify:value="15.02.710">18.04</num>
         <heading>License Revocation</heading>
         <text>A licensee whose license has been revoked shall cease immediately all activities relating to the operation of the cannabis business the licensee was previously licensed to operate and shall ensure that all adult use cannabis and adult use cannabis products in the possession of the licensee are forfeited to the CCO for destruction.</text>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="18" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.720"/>
         <num codify:value="15.02.720">18.05</num>
         <heading>Cease and Desist Orders</heading>
         <text>The CCO may issue cease and desist orders upon any persons who operate any AUC businesses without a Tribal license or upon licensees who operate in violation of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite>. Such orders may include a requirement that the person hold cannabis plants, cannabis, or cannabis products in a secure location pending further instruction from the CCO.</text>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="18" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.730"/>
         <num codify:value="15.02.730">18.06</num>
         <heading>Imposition of Monetary Penalty upon Suspension or Revocation</heading>
         <text>In addition to suspending or revoking a licensee's license, the CCO may impose a monetary penalty on the licensee.</text>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="18" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.740"/>
         <num codify:value="15.02.740">18.07</num>
         <heading>Order for Destruction of Cannabis or Cannabis Products</heading>
         <text>If the CCO issues a final order imposing a monetary penalty on or a license suspension, revocation of a licensee or operation without a license, the CCO may specify in the order, in addition to any other penalties imposed in the order, that all or a portion of the cannabis or cannabis products in the possession of the licensee or party are not authorized and are subject to destruction. A person subject to a final order directing the destruction of cannabis or cannabis products shall forfeit the cannabis and cannabis products described in the order.</text>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="18" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.750"/>
         <num codify:value="15.02.750">18.08</num>
         <heading>Investigation</heading>
         <text>If the CCO is notified by a law enforcement agency that there is a pending investigation of a person subject to an order, the CCO may not destroy any cannabis or cannabis products of that person until the destruction is approved by the law enforcement agency.</text>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="18" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.760"/>
         <num codify:value="15.02.760">18.09</num>
         <heading>Voluntary Surrender</heading>
         <text>The CCO may negotiate the voluntary surrender of a license in combination with or in place of any other penalties under this <span codify:value="subchapter">chapter</span>. The agreement may stipulate a time during which the licensee may not apply for a new license.</text>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -2601,12 +2905,20 @@
         <num codify:value="15.02.770">19.01</num>
         <heading>Personal Cannabis Plants</heading>
         <text>Adult tribal members may grow and possess up to six (6) mature cannabis plants and six (6) immature plants within his/her private residence for personal use.</text>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="19" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.780"/>
         <num codify:value="15.02.780">19.02</num>
         <heading>Eligibility</heading>
         <text>Tribal members must be 21 years old or older.</text>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="19" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.790"/>
@@ -2636,6 +2948,10 @@
             <text>Cannabis cannot be sold.</text>
           </para>
         </para>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -2647,30 +2963,50 @@
         <num codify:value="15.02.800">20.01</num>
         <heading>Sovereign Immunity</heading>
         <text>Nothing in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> shall be interpreted as waiving or diminishing the sovereign immunity of the Saint Regis Mohawk Tribe or its subordinate entities, agencies, officers, agents, employees, instrumentalities, or authorize in any form a prospective waiver of such sovereign immunity.</text>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="20" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.810"/>
         <num codify:value="15.02.810">20.02</num>
         <heading>Regulations</heading>
         <text>The CCO and CCB may issue regulations as appropriate for the proper administration of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">this Ordinance</code-cite> and will be processed following the Tribal Procedures Act and include notice to, and review by, the Community.</text>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="20" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.820"/>
         <num codify:value="15.02.820">20.03</num>
         <heading>Effective Date</heading>
         <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">This Ordinance</code-cite> shall be effective upon approval by the Tribal Council.</text>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="20" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.830"/>
         <num codify:value="15.02.830">20.04</num>
         <heading>Amendments</heading>
         <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">This Ordinance</code-cite> may be amended by the Tribal Council and shall be processed following the Tribal Procedure Act and include notice to, and review by, the Community. Any changes to fees, fee structure, monetary penalties may be made by the CCO in consultation with and with the approval of the CCB and Tribal Council without notice to, and review by, the Community.</text>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
       <section>
         <codify:insert path="20" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|15.02.840"/>
         <num codify:value="15.02.840">20.05</num>
         <heading>Severability</heading>
         <text>The Provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">This Ordinance</code-cite> Shall Be Severable and If Any Part or Provision Shall Be Held Void by Any Court of Competent Jurisdiction, the Decision of the Court so Holding Shall Not Affect or Impair Any of the Remaining Parts or Provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-05">This Ordinance</code-cite></text>
+        <annotations>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2021-33"/>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2022-17"/>
+        </annotations>
       </section>
     </container>
   </attachment>

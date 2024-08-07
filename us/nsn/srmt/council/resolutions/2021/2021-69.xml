@@ -22,7 +22,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the Saint Regis Mohawk Tribal Council previously adopted the "Saint Regis Mohawk Tribe Land Laws and Land Dispute Ordinance" ("LL&amp;LDO") in Tribal Council Resolution (TCR) 2016-91; and</text>
+      <text>the Saint Regis Mohawk Tribal Council previously adopted the "Saint Regis Mohawk Tribe Land Laws and Land Dispute Ordinance" ("LL&amp;LDO") in <cite doc="Saint Regis Mohawk Tribe Res. No. 2016-91">Tribal Council Resolution (TCR) 2016-91</cite>; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -30,7 +30,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>pursuant to the Tribal Procedures Act Section X (3), the General Counsel's Office has met all of the necessary requirements for Tribal Member's public review and comments on the proposed legislation; and</text>
+      <text>pursuant to the <cite doc="Saint Regis Mohawk Tribal Code of Law" path="1.01.100|(c)">Tribal Procedures Act Section X (3)</cite>, the General Counsel's Office has met all of the necessary requirements for Tribal Member's public review and comments on the proposed legislation; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -38,7 +38,7 @@
     </recital>
     <recital>
       <conjunction>NOW, THEREFORE, BE IT RESOLVED,</conjunction>
-      <text>that the Saint Regis Mohawk Tribal Council hereby amends TCR 2016-91 in its entirety and hereby adopts the attached and amended Saint Regis Mohawk Tribe Land Laws and Land Dispute Ordinance effective the date of this resolution.</text>
+      <text>that the Saint Regis Mohawk Tribal Council hereby amends <cite doc="Saint Regis Mohawk Tribe Res. No. 2016-91">TCR 2016-91</cite> in its entirety and hereby adopts the attached and amended Saint Regis Mohawk Tribe Land Laws and Land Dispute Ordinance effective the date of this resolution.</text>
     </recital>
   </recitals>
   <procedural-data>
@@ -90,6 +90,7 @@
         <strong>TITLE</strong>
       </text>
       <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-69">This Ordinance</code-cite> shall be known as the Saint Regis Mohawk Tribe Land Laws and Dispute Ordinance.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-91"/>
     </para>
     <para codify:tag="section">
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.01.020"/>
@@ -109,6 +110,7 @@
         <num>C.</num>
         <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-69">This Ordinance</code-cite> shall apply to all lands within the boundaries of the 1796 Saint Regis Mohawk Tribe Reservation.</text>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-91"/>
     </para>
     <para codify:tag="section">
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.01.030"/>
@@ -168,6 +170,7 @@
         <num>M.</num>
         <text>"Tribal Member" for purposes of this ordinance, includes anyone who is enrolled with the Saint Regis MohawkTribe or eligible for enrollment with the Saint Regis Mohawk Tribe.</text>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-91"/>
     </para>
     <para codify:tag="section">
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.01.040"/>
@@ -402,6 +405,7 @@
           </para>
         </para>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-91"/>
     </para>
     <para codify:tag="section">
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.01.050"/>
@@ -538,6 +542,7 @@
         <heading>Appeals.</heading>
         <text>All final decisions of the Tribal Court regarding land or land disputes shall be appealable to the Saint Regis Mohawk Tribe Appellate Court.</text>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-91"/>
     </para>
     <para codify:tag="section">
       <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.01.060"/>
@@ -546,6 +551,7 @@
         <strong>SOVEREIGN IMMUNITY NOT WAIVED</strong>
       </text>
       <text>The Tribal Council agrees to a limited waiver of its immunity solely for the Tribal Court to review any decisions the Tribal Council rendered on land disputes as defined in <code-cite path="|attachments|law|III.|F." doc="Saint Regis Mohawk Tribe Res. No. 2021-69">Sec. III.F.</code-cite>, to hear any claim in which the Tribe claims title or an ownership interest in property which is in dispute, or to hear a claim regarding the correction of a deed. The waiver shall apply to equitable remedies only. Otherwise, nothing in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-69">this Ordinance</code-cite> is intended nor shall be construed as any other waiver of the sovereign immunity of the Saint Regis Mohawk Tribe from suit in State, Federal or Tribal Court against the Saint Regis Mohawk Tribe, any Tribal entity, or any official acting in his or her official capacity.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-91"/>
     </para>
     <para codify:tag="section">
       <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.01.070"/>
@@ -554,6 +560,7 @@
         <strong>AMENDMENT</strong>
       </text>
       <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-69">This Ordinance</code-cite> may be amended upon the approval of such amendments by the majority of Tribal Council and upon notice to the Tribal membership.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-91"/>
     </para>
     <para codify:tag="section">
       <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.01.080"/>
@@ -562,6 +569,7 @@
         <strong>REPEALER</strong>
       </text>
       <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-69">This Ordinance</code-cite> shall supersede and replace all prior Ordinances, or portions thereof, adopted by the Saint Regis Mohawk Tribe, as they pertain to the matters contained herein.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-91"/>
     </para>
     <para codify:tag="section">
       <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.01.090"/>
@@ -570,6 +578,7 @@
         <strong>SEVERABILITY</strong>
       </text>
       <text>The provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-69">this Ordinance</code-cite> are severable and if any part or provision shall be held void by any Court of competent jurisdiction, the decision of the Court so holding shall not affect or impair any of the remaining parts or provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2021-69">this Ordinance</code-cite>.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-91"/>
     </para>
     <para codify:tag="section">
       <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|12.01.100"/>
@@ -578,6 +587,7 @@
         <strong>EFFECTIVE DATE</strong>
       </text>
       <text>This Amended Ordinance shall become effective upon enactment.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-91"/>
     </para>
     <text>
       <u>Amendments</u>
@@ -592,7 +602,7 @@
     </para>
     <para>
       <num>3.</num>
-      <text>Clarified Section IV.E.3.c regarding a valid Will as a form of land ownership. In order to be considered proof of land ownership the Will must meet the requirements of the Tribe's Probate Law (TCR 2017-52 or as amended).</text>
+      <text>Clarified Section IV.E.3.c regarding a valid Will as a form of land ownership. In order to be considered proof of land ownership the Will must meet the requirements of the Tribe's Probate Law (<cite doc="Saint Regis Mohawk Tribe Res. No. 2017-52">TCR 2017-52</cite> or as amended).</text>
     </para>
     <para>
       <num>4.</num>

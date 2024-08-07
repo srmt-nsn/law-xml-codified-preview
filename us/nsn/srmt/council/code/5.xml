@@ -166,7 +166,7 @@
     <section>
       <num>5.01.050</num>
       <heading>Tribal Implementation Plan</heading>
-      <text>The ambient air quality standards for PCBs set forth are in addition to and supplement the PCB air quality standard in Appendix C (TCR 1989-19) to the Tribal Implementation Plan and that standard remains in full force and effect.</text>
+      <text>The ambient air quality standards for PCBs set forth are in addition to and supplement the PCB air quality standard in Appendix C (<cite doc="Saint Regis Mohawk Tribe Res. No. 1989-19">TCR 1989-19</cite>) to the Tribal Implementation Plan and that standard remains in full force and effect.</text>
       <annotations>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
         <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|V." type="History"/>
@@ -185,7 +185,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>"Tribal Court" means the Saint Regis Mohawk Tribal Court as established under the Saint Regis Mohawk Tribal Court and Judiciary Code (TCR 2008-22, as amended by TCR 2012-13), or any successor tribal court of competent jurisdiction.</text>
+        <text>"Tribal Court" means the Saint Regis Mohawk Tribal Court as established under the Saint Regis Mohawk Tribal Court and Judiciary Code (<cite doc="Saint Regis Mohawk Tribe Res. No. 2008-22">TCR 2008-22</cite>, as amended by <cite doc="Saint Regis Mohawk Tribe Res. No. 2012-13">TCR 2012-13</cite>), or any successor tribal court of competent jurisdiction.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
@@ -300,6 +300,8 @@
         </para>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-67"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2020-02"/>
         <annotation app="2022-02-01" doc="Saint Regis Mohawk Tribe Res. No. 2022-04" eff="2022-02-01" path="attachments|law|I" type="History"/>
       </annotations>
     </section>
@@ -377,6 +379,8 @@
       <text><u>Wildlife</u>: any form of animal life living wild on the Territories, including but not limited to all wild mammals, birds, reptiles, and amphibians and their eggs, offspring and spawn.</text>
       <text><u>Zone of Passage</u>: the portion of the receiving water outside the mixing zone.</text>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-67"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2020-02"/>
         <annotation app="2022-02-01" doc="Saint Regis Mohawk Tribe Res. No. 2022-04" eff="2022-02-01" path="attachments|law|II" type="History"/>
       </annotations>
     </section>
@@ -833,6 +837,8 @@
         </para>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-67"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2020-02"/>
         <annotation app="2022-02-01" doc="Saint Regis Mohawk Tribe Res. No. 2022-04" eff="2022-02-01" path="attachments|law|III" type="History"/>
       </annotations>
     </section>
@@ -1019,6 +1025,8 @@
         </para>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-67"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2020-02"/>
         <annotation app="2022-02-01" doc="Saint Regis Mohawk Tribe Res. No. 2022-04" eff="2022-02-01" path="attachments|law|IV" type="History"/>
       </annotations>
     </section>
@@ -1098,6 +1106,8 @@
         <text>In addition to the classes specified above please see Table 1 below for addition information on Designated Uses.</text>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-67"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2020-02"/>
         <annotation app="2022-02-01" doc="Saint Regis Mohawk Tribe Res. No. 2022-04" eff="2022-02-01" path="attachments|law|V" type="History"/>
       </annotations>
     </section>
@@ -1203,6 +1213,8 @@
         </para>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-67"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2020-02"/>
         <annotation app="2022-02-01" doc="Saint Regis Mohawk Tribe Res. No. 2022-04" eff="2022-02-01" path="attachments|law|VI" type="History"/>
       </annotations>
     </section>
@@ -1237,6 +1249,8 @@
         <text>Sample procedures shall comply with SRMT standards for data quality. Contact the Environment Division for information on Data Quality Objectives, Quality Assurance Project Plans, and Data Quality Management.</text>
       </para>
       <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-67"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2020-02"/>
         <annotation app="2022-02-01" doc="Saint Regis Mohawk Tribe Res. No. 2022-04" eff="2022-02-01" path="attachments|law|VII" type="History"/>
       </annotations>
     </section>
@@ -8928,7 +8942,7 @@
         <text>
           <strong>PURPOSE</strong>
         </text>
-        <text><cite path="|5.03">This chapter</cite> does not allow for the improper disposal of any Solid Waste on the Reservation. Improper disposal or creating an Open Dump of any Solid Waste materials or recyclables, whether on the side of the road, in the Community Recycling Depot, or anywhere that they should not be disposed of, will be considered a violation of the Code. Disposal of such Solid Waste or creating an Open Dump site is different than someone who litters as outlined in the Saint Regis Mohawk Tribe Traffic Code Section III(5)(f) (TCR 2018-09 or as amended).</text>
+        <text><cite path="|5.03">This chapter</cite> does not allow for the improper disposal of any Solid Waste on the Reservation. Improper disposal or creating an Open Dump of any Solid Waste materials or recyclables, whether on the side of the road, in the Community Recycling Depot, or anywhere that they should not be disposed of, will be considered a violation of the Code. Disposal of such Solid Waste or creating an Open Dump site is different than someone who litters as outlined in the Saint Regis Mohawk Tribe Traffic Code <cite path="3.01.030|(e)|(6)">Section III(5)(f)</cite> (<cite doc="Saint Regis Mohawk Tribe Res. No. 2018-09">TCR 2018-09</cite> or as amended).</text>
         <text>It is the intent of <cite path="|5.03">this chapter</cite> to create a comprehensive integrated waste management policy that requires all solid waste to be disposed of properly at management facilities on and off the Reservation. <cite path="|5.03">This chapter</cite> encourages Mohawk People to reduce, recycle and reuse those materials that do not belong in the waste stream. Education of the community through diverse media has been a continuing process, aimed at eliminating the poor solid waste disposal practices of the past.</text>
         <text>The Code intends to:</text>
         <para>
@@ -9575,7 +9589,7 @@
         <text>
           <strong>BURNING OF SOLID WASTE</strong>
         </text>
-        <text>Any burning of Solid Wastes will be done in accordance with the open burn regulations established by the Environment Division's Clean Air Program (see TCR 2002-59 or as amended)</text>
+        <text>Any burning of Solid Wastes will be done in accordance with the open burn regulations established by the Environment Division's Clean Air Program (see <cite doc="Saint Regis Mohawk Tribe Res. No. 2002-59">TCR 2002-59</cite> or as amended)</text>
       </para>
       <para>
         <num>(d)</num>
@@ -9910,7 +9924,7 @@
     <section>
       <num>5.04.020</num>
       <heading>Authority</heading>
-      <text>The authority of the Tribe to enact the Pesticide Regulation lies in the inherent sovereign authority of the Saint Regis Mohawk Tribe the Tribal Procedures Act section IV (C) (1), (2), (10) and (13) (TCR 2013-32); and the Tribal Court and Judiciary Code Section V and VI (TCR 2008- 22).</text>
+      <text>The authority of the Tribe to enact the Pesticide Regulation lies in the inherent sovereign authority of the Saint Regis Mohawk Tribe the Tribal Procedures Act section IV (C) (1), (2), (10) and (13) (<cite doc="Saint Regis Mohawk Tribe Res. No. 2013-32">TCR 2013-32</cite>); and the Tribal Court and Judiciary Code Section V and VI (TCR 2008- 22).</text>
       <text>Tribes cannot be granted primacy status under FIFRA. The EPA, however, does permit cooperative agreements to tribes who cooperate with EPA for the enforcement of FIFRA and who have developed their own Tribal Codes for pesticide use on tribal lands. If a tribal inspector uses tribal credentials for an inspection, enforcement can be pursued by the Tribal Council. If EPA credentials are used for an inspection, the Tribe shall send the inspection file and all information to the EPA's regional office.</text>
       <annotations>
         <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|2.0" type="History"/>

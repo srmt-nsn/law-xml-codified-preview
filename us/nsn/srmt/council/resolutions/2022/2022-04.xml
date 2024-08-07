@@ -23,7 +23,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>in TCR 2000-12, the Tribe authorized the Environment Division to obtain delegation of the Clean Water Act, now known as the Federal Water Pollution Control Act (FWPCA), programs to the Tribe from the U.S. Environmental Protection Agency (EPA) and determined that the Tribe's Environment Division shall have primary responsibility for establishing, reviewing, implementing and revising water quality standards under the FWPCA, Section 303, and for issuing certifications under Section 401, subject to Tribal Council's review and approval in accordance with Tribal law; and</text>
+      <text>in <cite doc="Saint Regis Mohawk Tribe Res. No. 2000-12">TCR 2000-12</cite>, the Tribe authorized the Environment Division to obtain delegation of the Clean Water Act, now known as the Federal Water Pollution Control Act (FWPCA), programs to the Tribe from the U.S. Environmental Protection Agency (EPA) and determined that the Tribe's Environment Division shall have primary responsibility for establishing, reviewing, implementing and revising water quality standards under the FWPCA, Section 303, and for issuing certifications under Section 401, subject to Tribal Council's review and approval in accordance with Tribal law; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -35,7 +35,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>in TCR 2016-67, the Tribal Council adopted Water Quality Standards ("WQS") and in TCR 2020-02 the Tribal Council re-certified the WQS for the Tribe; and</text>
+      <text>in <cite doc="Saint Regis Mohawk Tribe Res. No. 2016-67">TCR 2016-67</cite>, the Tribal Council adopted Water Quality Standards ("WQS") and in <cite doc="Saint Regis Mohawk Tribe Res. No. 2020-02">TCR 2020-02</cite> the Tribal Council re-certified the WQS for the Tribe; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -44,15 +44,29 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Environment Division Water Resource Program recommends an amendment to the WQS that includes updated definitions to class A, class B, and to class C type waterbodies, including changes to class descriptions, and changes to substance standards to more accurately reflect the current contaminant concentration calculation standards. Substances with changes or newly added are as follows:</text>
+      <text>
+        <table class="layout-table">
+          <tbody>
+            <tr>
+              <td>Substances with Changes to Standards:</td>
+              <td class="text-indent-4">Newly Added Substances: None</td>
+            </tr>
+            <tr>
+              <td class="text-indent-1">Selenium</td>
+              <td class="text-indent-4"/>
+            </tr>
+            <tr>
+              <td class="text-indent-1">Cadmium</td>
+              <td class="text-indent-4"/>
+            </tr>
+            <tr>
+              <td class="text-indent-1">Aluminium</td>
+              <td class="text-indent-4"/>
+            </tr>
+          </tbody>
+        </table>
+      </text>
     </recital>
-    <text>Substances with Changes to Standards:     Newly Added Substances: None</text>
-    <text>
-      <ul proof="needed">
-        <li>Selenium</li>
-        <li>Cadmium</li>
-        <li>Aluminum</li>
-      </ul>
-    </text>
     <recital>
       <conjunction>NOW, THEREFORE, BE IT RESOLVED,</conjunction>
       <text>the Saint Regis Mohawk Tribal Council hereby amends the Saint Regis Mohawk Tribal Water Quality Standards, as attached hereto, effective the date of this Resolution.</text>
@@ -205,6 +219,10 @@
           </para>
         </para>
       </para>
+      <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-67"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2020-02"/>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.02.020"/>
@@ -280,6 +298,10 @@
       <text><u>Water Quality Standards Variance (WQS variance)</u>: is a time-limited designated use and criterion for a specific pollutant(s) or water quality parameter(s) that reflect the highest attainable condition during the term of the WQS variance.</text>
       <text><u>Wildlife</u>: any form of animal life living wild on the Territories, including but not limited to all wild mammals, birds, reptiles, and amphibians and their eggs, offspring and spawn.</text>
       <text><u>Zone of Passage</u>: the portion of the receiving water outside the mixing zone.</text>
+      <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-67"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2020-02"/>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.02.030"/>
@@ -734,6 +756,10 @@
           </para>
         </para>
       </para>
+      <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-67"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2020-02"/>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.02.040"/>
@@ -918,6 +944,10 @@
           <text>Natural wetlands shall not be used as repositories or treatment systems for wastes from human sources.</text>
         </para>
       </para>
+      <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-67"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2020-02"/>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.02.050"/>
@@ -995,6 +1025,10 @@
         </para>
         <text>In addition to the classes specified above please see Table 1 below for addition information on Designated Uses.</text>
       </para>
+      <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-67"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2020-02"/>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.02.060"/>
@@ -1098,6 +1132,10 @@
           <text>** Subsistence fish consumption has been an <strong>ongoing practice</strong>; however, the current WQ does not does not support this use for all individuals. Women of child bearing age and children are advised to restrict consumption to certain species and reduced quantities (fewer than 8, 4 oz. portions per month). SRMT currently defines subsistence fishing as consuming locally caught fish at a daily average rate of 150g/dy or 40 portions per month.</text>
         </para>
       </para>
+      <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-67"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2020-02"/>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.02.070"/>
@@ -1130,6 +1168,10 @@
         <text>Sampling Procedures</text>
         <text>Sample procedures shall comply with SRMT standards for data quality. Contact the Environment Division for information on Data Quality Objectives, Quality Assurance Project Plans, and Data Quality Management.</text>
       </para>
+      <annotations>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2016-67"/>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2020-02"/>
+      </annotations>
     </section>
     <attachment name="appendix">
       <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.02|attachments|appendix"/>

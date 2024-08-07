@@ -19,11 +19,11 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the Tribe adopted and ratified a gaming ordinance establishing the Tribal Gaming Commission and other regulatory structures to coordinate Tribal gaming on the Saint Regis Mohawk Reservation pursuant to Tribal Council Resolution ("TCR") 1993-102; and</text>
+      <text>the Tribe adopted and ratified a gaming ordinance establishing the Tribal Gaming Commission and other regulatory structures to coordinate Tribal gaming on the Saint Regis Mohawk Reservation pursuant to <cite doc="Saint Regis Mohawk Tribe Res. No. 1993-102">Tribal Council Resolution ("TCR") 1993-102</cite>; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the Saint Regis Mohawk Tribal Council now wishes to amend TCR 1993-102 and any amendments thereto.</text>
+      <text>the Saint Regis Mohawk Tribal Council now wishes to amend <cite doc="Saint Regis Mohawk Tribe Res. No. 1993-102">TCR 1993-102</cite> and any amendments thereto.</text>
     </recital>
     <recital>
       <conjunction>NOW, THEREFORE, BE IT RESOLVED:</conjunction>
@@ -33,7 +33,7 @@
       </para>
       <para>
         <num>2.</num>
-        <text>This Amendment supersedes TCR 1993-102 and any prior amendments.</text>
+        <text>This Amendment supersedes <cite doc="Saint Regis Mohawk Tribe Res. No. 1993-102">TCR 1993-102</cite> and any prior amendments.</text>
       </para>
     </recital>
   </recitals>
@@ -86,18 +86,21 @@
       <num codify:value="9.01.010">1</num>
       <heading>Authority</heading>
       <text>Pursuant to the authority vested in the Saint Regis Mohawk Tribe, (hereinafter referred to as the "Tribe") and its Tribal Council, by virtue of the Tribe's inherent powers of self-government recognized by the federal government in the Treaty with the Seven Nations of Canada, 7 Stat. 55 (May 31, 1796) and the power of a majority of the Tribal Council to act on behalf of the Tribe pursuant to the customs and traditions of the Tribe, the Tribe hereby authorizes the operation of a variety of Class II and Class III games (as defined by IGRA and <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>) as a means to promote the Tribe's economic development, self-sufficiency, and strong Tribal government and establishes a public body known as the Saint Regis Mohawk Tribal Gaming Commission (hereinafter referred to as the "Tribal Gaming Commission") to regulate such gaming.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.020"/>
       <num codify:value="9.01.020">2</num>
       <heading>Purpose</heading>
       <text>The Saint Regis Mohawk Tribal Gaming Commission of the Saint Regis Mohawk Tribe, to enact ordinances, hereby enacts <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite> to promote tribal economic development, self-sufficiency, and sovereignty; to shield the operation of gaming from organized crime and other corrupting influences; and to ensure that gaming is conducted fairly and honestly by both the operator and players.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.030"/>
       <num codify:value="9.01.030">3</num>
       <heading>Applicability</heading>
       <text>Unless specifically indicated otherwise, all provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite> shall apply to Class II and Class III gaming on the Tribe's tribal lands.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.040"/>
@@ -396,12 +399,14 @@
         <num>Y.</num>
         <text><strong>Tribe</strong> means the Saint Regis Mohawk Tribe.</text>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.050"/>
       <num codify:value="9.01.050">5</num>
       <heading>Gaming Authorized</heading>
       <text>Class II and Class III gaming are authorized to be conducted on the Tribe's lands, if such gaming is conducted in accordance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>, the Indian Gaming Regulatory Act (IGRA), the NIGC's regulations, and any other applicable laws or regulations.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.060"/>
@@ -411,6 +416,7 @@
         <num>A.</num>
         <text>The Tribe shall have the sole proprietary interest in and responsibility for the conduct of any gaming operation authorized by <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>.</text>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.070"/>
@@ -440,6 +446,7 @@
           <text>To help fund operations of local government agencies.</text>
         </para>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.080"/>
@@ -465,6 +472,7 @@
           <text>The per capita payments are subject to Federal taxation and the Tribe notifies its members of such tax liability when payments are made.</text>
         </para>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.090"/>
@@ -554,6 +562,7 @@
         <num>N.</num>
         <text>Commissioners may participate in a meeting of the Tribal Gaming Commission by means of conference telephone or similar communications equipment by means of which all persons participating in the meetings can hear each other, and participation in a meeting in such manner by any Tribal Gaming Commissioner who does not object at the beginning of such meeting to the holding thereof in such manner shall constitute presence in person of that Tribal Gaming Commissioner at such meeting.</text>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.100"/>
@@ -752,6 +761,7 @@
           <text>Establish and implement Tribal Internal Control Standards (TICS).</text>
         </para>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.110"/>
@@ -773,6 +783,7 @@
         <num>D.</num>
         <text>Copies of the annual audit of each licensed gaming operation, and each audit for supplies, services, or concessions of each gaming operation, shall be furnished to the NIGC within 120 days after the end of each fiscal year of the gaming operation.</text>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.120"/>
@@ -786,6 +797,7 @@
         <num>B.</num>
         <text>The Commission shall identify and enforce laws, resolutions, codes, policies, standards, or procedures, which are applicable to each gaming place, facility, or location, to ensure adequate protection of the environment and the health and safety of the public.</text>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.130"/>
@@ -823,12 +835,14 @@
         <num>H.</num>
         <text>The Commission shall notify the NIGC Chair within 30 days if a facility license is terminated or expires, or if a gaming place, facility, or location closes or reopens.</text>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.140"/>
       <num codify:value="9.01.140">14</num>
       <heading>Agent for Service of Process</heading>
       <text>The Commission designates the Executive Director as the agent for service of any official determination, order or notice of violation.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.150"/>
@@ -844,12 +858,14 @@
         <text>The following additional notice shall be placed on the application form for a key employee or a primary management official before it is filled out by an applicant:</text>
         <text>A false statement on any part of your license application may be grounds for denying a license or the suspension or revocation of a license. Also, you may be punished by fine or imprisonment (U.S. Code, title 18, section 1001).</text>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.160"/>
       <num codify:value="9.01.160">16</num>
       <heading>License Fees</heading>
       <text>The Commission may charge a license fee, to be set by the Commission, to cover its expenses in investigating and licensing key employees and primary management officials of the gaming operation.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.170"/>
@@ -935,6 +951,7 @@
         <num>F.</num>
         <text>The Commission, and its investigators, shall keep confidential the identity of each person interviewed in the course of conducting a background investigation.</text>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.180"/>
@@ -981,6 +998,7 @@
           <text>Take other appropriate steps to verify the accuracy of the information focusing on any problem areas noted.</text>
         </para>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.190"/>
@@ -1010,6 +1028,7 @@
           <text>The basis for those conclusions.</text>
         </para>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.200"/>
@@ -1027,6 +1046,7 @@
         <num>C.</num>
         <text>Copies of the eligibility determination shall be included with. the notice of results that must be submitted to the NIGC before the licensing of a primary management official or key employee.</text>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.210"/>
@@ -1076,6 +1096,7 @@
           <text>A copy of the eligibility determination made in accordance with <code-cite path="§21" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">Section 21</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>.</text>
         </para>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.220"/>
@@ -1117,6 +1138,7 @@
         <num>I.</num>
         <text>If the Commission has issued a license to a primary management official or key employee before receiving the NIGC's statement of objections, notice and a hearing shall be provided to the licensee, as required by <code-cite path="§28" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">Section 28</code-cite> of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>.</text>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.230"/>
@@ -1150,6 +1172,7 @@
           <text>Forward copies of its eligibility determination and notice of results of the applicant's background investigation to the NIGC for inclusion in the Indian Gaming Individuals Record System.</text>
         </para>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.240"/>
@@ -1179,6 +1202,7 @@
         <num>C.</num>
         <text>The Commission shall notify the NIGC of its decision to revoke or reinstate a license within 45 days of receiving notification from the NIGC that a primary management official or key employee is not eligible for employment.</text>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.250"/>
@@ -1200,12 +1224,14 @@
           <text>Eligibility Determinations.</text>
         </para>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.260"/>
       <num codify:value="9.01.260">26</num>
       <heading>Confidentiality</heading>
       <text>Communications, documents, records, and other information obtained by the Commission and Commission staff relating to licensing matters are confidential and shall not be disclosed except in furtherance of the duties of the Commission and Commission staff or pursuant to a court order. <code-cite path="§26" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">This Section</code-cite> does not apply to requests for such information for investigatory or law enforcement purposes from tribal, federal, or state law enforcement agencies.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.270"/>
@@ -1227,18 +1253,21 @@
         <num>D.</num>
         <text>Within 30 days of the hearing, the Commission shall provide the subject written notice of its determination.</text>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.280"/>
       <num codify:value="9.01.280">28</num>
       <heading>Licenses for Vendors</heading>
       <text>Vendors of gaming services or supplies must have a vendor license from the Commission in order to transact business with the Gaming operation. Contracts for professional legal and accounting services are excluded from <code-cite path="§28" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Section</code-cite>.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.290"/>
       <num codify:value="9.01.290">29</num>
       <heading>Submission of a Vendor License Application</heading>
       <text>In order to obtain a gaming vendor license, the business must complete a vendor application and submit to background checks of itself and its principals. Principals of a business include those officers, directors, managers, owners, partners, and non-institutional stockholders that either own 10% or more of the business' stock or are the 10 largest stockholders, as well as the on-site supervisors or managers designated in an agreement with the Tribe, if applicable.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.300"/>
@@ -1316,6 +1345,7 @@
         <num>C.</num>
         <text>A vendor may submit to the Commission a copy of a recent license application to another jurisdiction if it contains the information listed above. The vendor will be required to submit, in writing, any changes in the information since the other license application was filed, and any information requested by the Commission not contained in the other application.</text>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.310"/>
@@ -1342,12 +1372,14 @@
         <num>E.</num>
         <text>Conducting an investigation of the principals of the vendor's business, including facilitating a criminal history check, obtaining criminal history check results, obtaining a credit report, and interviewing the personal references.</text>
       </para>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.320"/>
       <num codify:value="9.01.320">32</num>
       <heading>Vendor License Fees</heading>
       <text>The Commission may charge a license fee, to be set by the Commission, to cover its expenses in investigating and licensing vendors of the gaming operation.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.330"/>
@@ -1355,36 +1387,42 @@
       <heading>Vendor Background Investigation Reports</heading>
       <text>The Commission employees shall complete an investigative report covering each of the steps taken in the background investigation of the gaming vendor and its principals, and present it to the</text>
       <text>Commission.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.340"/>
       <num codify:value="9.01.340">34</num>
       <heading>Vendors Licensed by Recognized Regulatory Authorities</heading>
       <text>The Commission may adopt regulations naming specific licensing authorities that it recognizes and may authorize exemptions to the vendor licensing process for vendors who have received a license from one of the named regulatory authorities.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.350"/>
       <num codify:value="9.01.350">35</num>
       <heading>Compliance with Federal Law</heading>
       <text>The Commission shall comply with all applicable federal laws.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.360"/>
       <num codify:value="9.01.360">36</num>
       <heading>Surveillance</heading>
       <text>The Surveillance Department and all surveillance staff shall be employees of and report only to the Commission. All surveillance systems, equipment, room, etc. shall be under the exclusive control and jurisdiction of the Commission.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.370"/>
       <num codify:value="9.01.370">37</num>
       <heading>Repeal</heading>
       <text>To the extent that they are inconsistent with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">this Ordinance</code-cite>, all prior Tribal gaming ordinances are hereby repealed.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|9.01.380"/>
       <num codify:value="9.01.380">38</num>
       <heading>Effective Date</heading>
       <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-14">This ordinance</code-cite> shall take effect immediately upon its approval by the NIGC Chair.</text>
+      <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 1993-102"/>
     </section>
   </attachment>
 </document>

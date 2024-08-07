@@ -39,11 +39,11 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the PCB standards set forth in TCR 1989-19 were recognized by the U.S. Environmental Protection Agency as ARARs for purposes of remediation of the General Motors Massena Superfund Site; and</text>
+      <text>the PCB standards set forth in <cite doc="Saint Regis Mohawk Tribe Res. No. 1989-19">TCR 1989-19</cite> were recognized by the U.S. Environmental Protection Agency as ARARs for purposes of remediation of the General Motors Massena Superfund Site; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>TCR 1989-19 established an ambient air standard for PCBs of background or 5 ng/m<sup>3</sup>; and</text>
+      <text><cite doc="Saint Regis Mohawk Tribe Res. No. 1989-19">TCR 1989-19</cite> established an ambient air standard for PCBs of background or 5 ng/m<sup>3</sup>; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -71,11 +71,11 @@
     </recital>
     <recital>
       <conjunction>BE IT FURTHER RESOLVED,</conjunction>
-      <text>the ambient air quality standards for PCBs set forth in this TCR are in addition to and supplement the PCB air quality standard in Appendix C (TCR 1989-19) to the Tribal Implementation Plan and that standard remains in full force and effect; and</text>
+      <text>the ambient air quality standards for PCBs set forth in this TCR are in addition to and supplement the PCB air quality standard in Appendix C (<cite doc="Saint Regis Mohawk Tribe Res. No. 1989-19">TCR 1989-19</cite>) to the Tribal Implementation Plan and that standard remains in full force and effect; and</text>
     </recital>
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
-      <text>this Tribal Council Resolution hereby supersedes TCR 2017-24.</text>
+      <text>this Tribal Council Resolution hereby supersedes <cite doc="Saint Regis Mohawk Tribe Res. No. 2017-24">TCR 2017-24</cite>.</text>
     </recital>
   </recitals>
   <procedural-data>
@@ -272,7 +272,7 @@
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.01.050"/>
       <num codify:value="5.01.050">V.</num>
       <heading codify:value="Tribal Implementation Plan">TRIBAL IMPLEMENTATION PLAN</heading>
-      <text>The ambient air quality standards for PCBs set forth are in addition to and supplement the PCB air quality standard in Appendix C (TCR 1989-19) to the Tribal Implementation Plan and that standard remains in full force and effect.</text>
+      <text>The ambient air quality standards for PCBs set forth are in addition to and supplement the PCB air quality standard in Appendix C (<cite doc="Saint Regis Mohawk Tribe Res. No. 1989-19">TCR 1989-19</cite>) to the Tribal Implementation Plan and that standard remains in full force and effect.</text>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
     </section>
     <section>
@@ -289,7 +289,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>"Tribal Court" means the Saint Regis Mohawk Tribal Court as established under the Saint Regis Mohawk Tribal Court and Judiciary Code (TCR 2008-22, as amended by TCR 2012-13), or any successor tribal court of competent jurisdiction.</text>
+        <text>"Tribal Court" means the Saint Regis Mohawk Tribal Court as established under the Saint Regis Mohawk Tribal Court and Judiciary Code (<cite doc="Saint Regis Mohawk Tribe Res. No. 2008-22">TCR 2008-22</cite>, as amended by <cite doc="Saint Regis Mohawk Tribe Res. No. 2012-13">TCR 2012-13</cite>), or any successor tribal court of competent jurisdiction.</text>
       </para>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
     </section>
