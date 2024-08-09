@@ -18,7 +18,7 @@
         <repository name="srmt-nsn/law-xml" commit="095d1276a549c27db81612662bc143164dd690f1"/>
       </repositories>
       <platform version="2.14.0" reproducible="false"/>
-      <build-date>2024-08-07</build-date>
+      <build-date>2024-08-09</build-date>
       <codified-date>2024-06-02</codified-date>
     </build>
   </meta>
