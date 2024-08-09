@@ -31,11 +31,11 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the Tribe adopted the Tribal Secured Transactions Ordinance (the "Ordinance") in Tribal Council Resolution 2008-59, provided for further clarifications of the Ordinance in Tribal Council Resolution 2008-62, and amended the Ordinance pursuant to Tribal Council Resolution 2012-03; and</text>
+      <text>the Tribe adopted the Tribal Secured Transactions Ordinance (the "Ordinance") in <cite doc="Saint Regis Mohawk Tribe Res. No. 2008-59">Tribal Council Resolution 2008-59</cite>, provided for further clarifications of the Ordinance in <cite doc="Saint Regis Mohawk Tribe Res. No. 2008-62">Tribal Council Resolution 2008-62</cite>, and amended the Ordinance pursuant to <cite doc="Saint Regis Mohawk Tribe Res. No. 2012-03">Tribal Council Resolution 2012-03</cite>; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>in accordance with the terms described in <cite doc="Saint Regis Mohawk Tribe Res. No. 2016-96" path="|attachments|law|V">Section V</cite> of the Ordinance, the Tribe wishes to further amend the Ordinance as described below; now, therefore be it,</text>
+      <text>in accordance with the terms described in <cite path="|attachments|law|V">Section V</cite> of the Ordinance, the Tribe wishes to further amend the Ordinance as described below; now, therefore be it,</text>
     </recital>
     <recital>
       <conjunction>RESOLVED,</conjunction>
@@ -113,6 +113,11 @@
         <num>C.</num>
         <text><u>Applicability</u>. <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">This Ordinance</code-cite> shall apply only to security interests and collateral securing the Obligations described in the Credit Agreement.</text>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2008-59</annotation>
+        <annotation type="History">Res. No. 2008-62</annotation>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2012-03"/>
+      </annotations>
     </section>
     <section>
       <num>II</num>
@@ -139,6 +144,11 @@
         <text>"Tribal Party" means the Te Wà Tha Hón:Ni Corporation, Akwesasne Mohawk Casino, LLC, Mohawk Bingo Palace, LLC, and any other enterprise, corporation, limited liability company, or other entity that becomes a Guarantor of the Obligations under the Credit Agreement.</text>
       </para>
       <text>Any undefined terms that are defined in the New York UCC are used in <code-cite path="|attachments|law">this Ordinance</code-cite> with the meanings that apply in the New York UCC.</text>
+      <annotations>
+        <annotation type="History">Res. No. 2008-59</annotation>
+        <annotation type="History">Res. No. 2008-62</annotation>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2012-03"/>
+      </annotations>
     </section>
     <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.02.020">
       <section>
@@ -166,6 +176,11 @@
           <text>"Tribal Party" means the Te wá tha hón:ni Corporation, Mohawk Gaming Enterprises, LLC, and any other enterprise, corporation, limited liability company, or other entity that becomes a Guarantor of the Obligations under the Credit Agreement.</text>
         </para>
         <text>Any undefined terms that are defined in the New York UCC are used in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite> with the meanings that apply in the New York UCC.</text>
+        <annotations>
+          <annotation type="History">Res. No. 2008-59</annotation>
+          <annotation type="History">Res. No. 2008-62</annotation>
+          <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2012-03"/>
+        </annotations>
       </section>
     </codify:insert>
     <section>
@@ -173,6 +188,11 @@
       <num codify:value="7.02.030">III</num>
       <heading>Scope</heading>
       <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">This Ordinance</code-cite> shall apply only to security interests and collateral subject to the sovereign authority of the Tribe securing the Obligations described in the Credit Agreement, to the same extent provided in Section 9-109 of the New York UCC, except that provisions of Sections 9-109(c)(2) and (c)(3) of the New York UCC shall be ineffective to limit the application of the New York UCC to Tribal Parties in accordance with <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite>. <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">This Ordinance</code-cite> shall not apply to security interests or collateral securing any obligations other than the Obligations described in the Credit Agreement.</text>
+      <annotations>
+        <annotation type="History">Res. No. 2008-59</annotation>
+        <annotation type="History">Res. No. 2008-62</annotation>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2012-03"/>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.02.040"/>
@@ -198,12 +218,22 @@
         <num>E.</num>
         <text>Notwithstanding the incorporation by reference of the New York UCC as a law of the Tribe as provided in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite>, nothing herein shall be construed to subject the Tribal Lands, Tribal Parties, or the Tribe to the general laws and jurisdiction of the State of New York.</text>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2008-59</annotation>
+        <annotation type="History">Res. No. 2008-62</annotation>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2012-03"/>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.02.050"/>
       <num codify:value="7.02.050">V</num>
       <heading>Amendment</heading>
       <text>Once applicable to any security interest, <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite> shall remain in effect with respect to that security interest until all obligations secured thereby have been fully and finally discharged or otherwise fully satisfied, except that <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite> may be amended, with prior notice to each secured party, only to the extent such amendment is not adverse in any way to any secured party with respect to any security interest.</text>
+      <annotations>
+        <annotation type="History">Res. No. 2008-59</annotation>
+        <annotation type="History">Res. No. 2008-62</annotation>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2012-03"/>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.02.060"/>
@@ -217,12 +247,22 @@
         <num>B.</num>
         <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">This Ordinance</code-cite> will be effective on the date a security interest to which <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite> applies is granted in a writing signed by a Tribal Party to a secure the Obligations described in the Credit Agreement. Once effective, <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite> will be automatically repealed without further action by the Tribal Council at the time the Obligations described in the Credit Agreement are fully and finally discharged or otherwise fully satisfied.</text>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2008-59</annotation>
+        <annotation type="History">Res. No. 2008-62</annotation>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2012-03"/>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|7.02.070"/>
       <num codify:value="7.02.070">VII</num>
       <heading>No Waiver of Immunity</heading>
       <text>Nothing in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2016-96">this Ordinance</code-cite> shall waive or impair the Tribe's sovereign immunity or the sovereign immunity of any other Tribal Party.</text>
+      <annotations>
+        <annotation type="History">Res. No. 2008-59</annotation>
+        <annotation type="History">Res. No. 2008-62</annotation>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2012-03"/>
+      </annotations>
     </section>
   </attachment>
 </document>

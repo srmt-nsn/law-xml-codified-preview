@@ -93,6 +93,13 @@
       <num codify:value="3.01.010">I</num>
       <heading>Purpose</heading>
       <text>The purpose of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite> is to regulate vehicle traffic on and through the Saint Regis Mohawk Indian Reservation to protect the health, safety, and welfare of both the members of the Saint Regis Mohawk Tribe ("Tribe") and the general public passing through the territory of the Saint Regis Mohawk Tribe.</text>
+      <annotations>
+        <annotation type="History">Res. No. 2000-109</annotation>
+        <annotation type="History">Res. No. 2001-25</annotation>
+        <annotation type="History">Res. No. 2004-81</annotation>
+        <annotation type="History">Res. No. 2010-40</annotation>
+        <annotation type="History">Res. No. 2012-15</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.01.020"/>
@@ -127,6 +134,13 @@
         <num>5.</num>
         <text>Saint Regis Mohawk Indian Reservation: includes both the Saint Regis Mohawk Reservation ("Reservation") as established by the 1796 Treaty with the Seven Nations of Canada, 7 Stat. 55 and any other lands over which the Tribe exercises jurisdiction now or in the future.</text>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2000-109</annotation>
+        <annotation type="History">Res. No. 2001-25</annotation>
+        <annotation type="History">Res. No. 2004-81</annotation>
+        <annotation type="History">Res. No. 2010-40</annotation>
+        <annotation type="History">Res. No. 2012-15</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.01.030"/>
@@ -279,6 +293,13 @@
           <text><u>Rights of other drivers</u>. Furthermore, nothing contained within <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite> shall be so construed as to prevent any person or entity from petitioning the Saint Regis Mohawk Tribal Court, Traffic Court Division or Tribal Court against an operator, owner, or lessee of a motor vehicle or ORV for damages caused by the negligent or illegal operation of a motor vehicle.</text>
         </para>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2000-109</annotation>
+        <annotation type="History">Res. No. 2001-25</annotation>
+        <annotation type="History">Res. No. 2004-81</annotation>
+        <annotation type="History">Res. No. 2010-40</annotation>
+        <annotation type="History">Res. No. 2012-15</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.01.040"/>
@@ -418,6 +439,14 @@
           <text>Any owner or operator who receives three (3) or more infractions within a two-year period for violating any provision contained in <code-cite path="§IV" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">Section IV</code-cite> shall have his/her ORV registration revoked and shall not be eligible to operate any ORV on the Reservation including any permitted roadways, Tribal property or private property for two years from the date of revocation.</text>
         </para>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2000-109</annotation>
+        <annotation type="History">Res. No. 2001-25</annotation>
+        <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2002-188"/>
+        <annotation type="History">Res. No. 2004-81</annotation>
+        <annotation type="History">Res. No. 2010-40</annotation>
+        <annotation type="History">Res. No. 2012-15</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.01.050"/>
@@ -442,6 +471,13 @@
         <text><u>Hearing upon the filing of a summons</u>. The Saint Regis Mohawk Tribal Court, Traffic Court Division shall be the sole arbiter of each summons and complaint filed or issued under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite>.</text>
         <text>Nothing in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2018-09">this Act</code-cite>, however, should be construed as preventing an operator of a motor vehicle or ORV, upon whom a summons has been issued, from advising the Saint Regis Mohawk Tribal Court, Traffic Court Division of his/her intent to waive the opportunity to make a presentation to the Traffic Court Judge, and consent to the Traffic Court Judge to set the amount of judgment to be paid by the operator of a motor vehicle or ORV. If an operator fails to appear on the return date in the summons or submit a guilty plea then the Court shall send a reminder notice to the operator of another scheduled appearance to answer the summons. If such operator still fails to contact the Court then the Court shall set a judgment and the operator shall be notified by mail of the imposed fine.</text>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2000-109</annotation>
+        <annotation type="History">Res. No. 2001-25</annotation>
+        <annotation type="History">Res. No. 2004-81</annotation>
+        <annotation type="History">Res. No. 2010-40</annotation>
+        <annotation type="History">Res. No. 2012-15</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.01.060"/>
@@ -527,6 +563,13 @@
           <text><u>Alternative Civil Judgment and/or Sentencing</u>. After the Saint Regis Mohawk Tribal Court, Traffic Court Division has made a finding against an operator of a motor vehicle, the complainant and/or the SRMT Police or the operator may make a request for an alternative sentence of Community Service. When such request is made the Saint Regis Mohawk Tribal Court, Traffic Court Division shall make a factual determination on the record whether such alternative is appropriate. If such alternative is found appropriate, then any fine imposed shall be suspended and an appropriate alternative sentence of Community Service may be imposed and monitored by the Court. Such Community Service cannot be ordered or served for any Tribal program/department where a background check or fingerprinting is required. Written evidence of successful completion of an alternative sentence shall be required and upon receipt, the judgment of the Saint Regis Mohawk Tribal Court, Traffic Court Division shall be deemed satisfied.</text>
         </para>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2000-109</annotation>
+        <annotation type="History">Res. No. 2001-25</annotation>
+        <annotation type="History">Res. No. 2004-81</annotation>
+        <annotation type="History">Res. No. 2010-40</annotation>
+        <annotation type="History">Res. No. 2012-15</annotation>
+      </annotations>
     </section>
   </attachment>
 </document>

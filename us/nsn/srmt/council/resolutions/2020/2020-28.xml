@@ -91,12 +91,20 @@
       <num codify:value="3.02.010">1</num>
       <heading>Title and Codification</heading>
       <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">This Act</code-cite> shall be known as the Saint Regis Mohawk Tribe Police Commission Act.</text>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.020"/>
       <num codify:value="3.02.020">2</num>
       <heading>Prior Laws</heading>
       <text>The Police Commission Act of 2014 is hereby amended through the adoption of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">this Act</code-cite>.</text>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.030"/>
@@ -126,6 +134,10 @@
           <text>Provide an open and independent forum for the community to express concerns about police conduct.</text>
         </para>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.040"/>
@@ -191,18 +203,30 @@
         <num>O.</num>
         <text>Tribe: The Saint Regis Mohawk Tribe.</text>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.050"/>
       <num codify:value="3.02.050">5</num>
       <heading>Source of Authority</heading>
       <text>The Saint Regis Mohawk Tribe has inherent sovereign authority to govern and provide for the health and safety of its members, residents, visitors and territory, and through that authority has created the Saint Regis Mohawk Tribal Police Commission.</text>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.060"/>
       <num codify:value="3.02.060">6</num>
       <heading>Scope of Authority</heading>
       <text>The Saint Regis Mohawk Tribal Police Commission shall supervise the Chief of Police and oversee all complaints and disciplinary actions against the Chief of Police while also overseeing hearings of formal charges against Police Officers or Police Department Personnel as outlined herein and in certain instances hear appeals of personnel complaints as outlined herein. In addition, the Commission may also recommend Police Department policies and procedures or amendments thereto.</text>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.070"/>
@@ -309,6 +333,10 @@
         <text>Election of Officers</text>
         <text>The Commission members shall nominate a Chairperson by motion and majority vote. The Chairperson shall be the presiding officer at all meetings and shall perform duties pertaining to the office. The Chairperson's term shall be for one (1) year or until a successor is nominated. Failure of the Chairperson to perform his/her duties shall result in the Commission removing the Chairperson from his/her role and responsibility. The Chairperson is a voting member of the Commission.</text>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.080"/>
@@ -342,18 +370,30 @@
         <num>G.</num>
         <text>In the event, the Commission fails to act to determine whether a Commissioner shall be removed or disciplined for any infraction under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">this Act</code-cite>, Tribal Council retains its discretion to remove or discipline a Commissioner.</text>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.090"/>
       <num codify:value="3.02.090">9</num>
       <heading>Conflict of Interest</heading>
       <text>In the event a Commissioner possesses a conflict of interest on a particular issue, he or she shall recuse himself/herself from the decision-making process. If the Commissioner fails to recuse himself or herself and the conflict of interest is apparent to the remaining Commissioners, they shall remove him or her by a majority vote. In the case of a conflict of interest, a sub-chief(s) shall replace the conflicted Police Commissioner(s) for the matter.</text>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.100"/>
       <num codify:value="3.02.100">10</num>
       <heading>Confidentiality</heading>
       <text>All Commissioners shall not reveal any confidential information regarding personnel matters, investigations, and disciplinary hearings. Sharing of confidential information shall result in the removal pursuant to <code-cite path="§8" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">Section 8</code-cite>.</text>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.110"/>
@@ -483,6 +523,10 @@
         <num>U.</num>
         <text>The Commission shall not respond to police scenes or calls for assistance. If any individual Commissioner responds to a police scene or calls for assistance, the Tribal Police on scene shall refer the matter to the Senior Officer on scene.</text>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.120"/>
@@ -492,6 +536,10 @@
         <num>A.</num>
         <text>The Commission may have the services of its own contract attorney, separate from the Tribe's Legal Department, during all officer or personnel disciplinary hearings to avoid any conflict of interest. Payment for the services of any contract attorney shall be included in the Commission's annual budget.</text>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.130"/>
@@ -609,6 +657,10 @@
         <num>H.</num>
         <text>Any misconduct that is criminal in nature shall be referred to the tribal prosecutor and/or Franklin County District Attorney or other law enforcement agency that is deemed appropriate.</text>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.140"/>
@@ -630,6 +682,10 @@
         <num>D.</num>
         <text>Police Officers and Personnel may also make any complaint about working conditions to the Tribe's Human Resources Department. No disciplinary action may be taken against a Police Officer or Personnel for making such a complaint. The Tribe's Human Resource Department shall conduct the investigation. Any report shall be submitted to the Chief of Police who may share with the Police Commission, but in no way shall the Police Commission be involved in any action.</text>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.150"/>
@@ -659,6 +715,10 @@
         <num>F.</num>
         <text>Complaints against the Chief of Police shall be filed with the Commission who shall forward them to Internal Affairs to investigate, if warranted. If an investigation is warranted, the Commission's Chair or his/her designee shall oversee the investigation. If the Commission determines it is necessary, they may appoint an external investigator. The Commission shall notify the complainant in writing of the investigation. Once an investigation is complete, the Commission shall determine whether any disciplinary action needs to be taken and notify the complainant whether the complaint was sustained or unfounded. The process outlined in <code-cite path="§13|E." doc="Saint Regis Mohawk Tribe Res. No. 2020-28">Section 13 E</code-cite> shall apply to disciplinary actions against the Chief of Police.</text>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.160"/>
@@ -756,6 +816,10 @@
         <num>E.</num>
         <text>Commission files, including notes, regarding formal disciplinary hearings shall be kept in an organized manner and secured in a locked filing cabinet that is only accessible by Commission members and its administrative assistant.</text>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.170"/>
@@ -777,6 +841,10 @@
         <num>D.</num>
         <text>Upon the Commission's approval, these agreements shall be forwarded to the Tribal Council for approval.</text>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.180"/>
@@ -802,6 +870,10 @@
         <num>B.</num>
         <text>The Commission Chair may also call special meetings to attend to urgent business.</text>
       </para>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.190"/>
@@ -816,30 +888,50 @@
         <text>The Commission shall receive an annual budget every year from the Tribal General Fund, which may include funding for stipends, meetings, training, travel, an administrative assistant, supplies, and a contract attorney or any other reasonable and necessary expense.</text>
       </para>
       <text>The Commission shall submit a proposed budget for the Commission's funding to the Budget Team by June 1<sup>st</sup> of every year, unless requested at a different time by the Tribal Council.</text>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.200"/>
       <num codify:value="3.02.200">20</num>
       <heading>Severability</heading>
       <text>If any word, clause, phrase, sentence, subsection, section, or other provision of this Code is held invalid by a court of competent jurisdiction, the invalidity shall not affect any other provisions or applications of this law that can be given effect without the invalid provision.</text>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.210"/>
       <num codify:value="3.02.210">21</num>
       <heading>Sovereign Immunity</heading>
       <text>Nothing in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">this Act</code-cite> shall be deemed as a waiver of the Tribe's sovereignty immunity.</text>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.220"/>
       <num codify:value="3.02.220">22</num>
       <heading>Amendment</heading>
       <text>This Ordinance may be amended upon the approval and adoption of such amendments by Tribal Council.</text>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
     <section>
       <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.02.230"/>
       <num codify:value="3.02.230">23</num>
       <heading>Repealer</heading>
       <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2020-28">This Act</code-cite> shall supersede and replace all other Acts, or portions thereof, adopted by the Saint Regis Mohawk Tribal Council, as they contain to the matters herein.</text>
+      <annotations>
+        <annotation type="History">Res. No. 2014-10</annotation>
+        <annotation type="History">Res. No. 2018-49</annotation>
+      </annotations>
     </section>
   </attachment>
 </document>
