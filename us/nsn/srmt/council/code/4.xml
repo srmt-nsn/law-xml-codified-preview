@@ -5,6 +5,22 @@
   <heading>Health, Safety and Welfare</heading>
   <container>
     <prefix>Chapter</prefix>
+    <num>4.02</num>
+    <heading>Fire Prevention and Building Code</heading>
+    <annotations>
+      <annotation type="Commentary">The Tribal Council has adopted ,as its own tribal law, the <a href="https://dos.ny.gov/laws-and-regulations-division-building-standards-and-codes">New York State Fire Prevention and Building Code</a>.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>4.03</num>
+    <heading>Food Code</heading>
+    <annotations>
+      <annotation type="Commentary">The Tribal Council has adopted ,as its own tribal law, the United States Food and Drug Administration <a href="https://www.fda.gov/food/retail-food-protection/fda-food-code">Food Code</a>.</annotation>
+    </annotations>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>4.04</num>
     <heading>Alcohol Beverages Control Act</heading>
     <text>This Ordinance shall be cited as the "St. Regis Mohawk Tribal Alcoholic Beverages Control Act" and, pursuant to the inherent sovereignty of the St. Regis Mohawk Indian Tribe of the State of New York, shall be deemed an exercise of the Tribe's powers for the purpose of protecting the welfare, health, peace, morals and safety of all people residing on the St. Regis Mohawk Indian Reservation of the State of New York.</text>
