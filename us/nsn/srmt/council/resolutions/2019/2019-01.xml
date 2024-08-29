@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2019-01">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribe Res. No. 2019-01" codify:doc="Saint Regis Mohawk Tribal Code of Law">
   <num>2019-01</num>
   <heading>Amend the Saint Regis Mohawk Tribe Alcohol Beverages Control Act to Permit a Craft Brewery</heading>
   <meta>
@@ -23,7 +23,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the Ordinance, under Section 10, permits the Tribal Council to adopt rules and regulations to further the purposes of the Ordinance; and</text>
+      <text>the Ordinance, under <cite doc="Saint Regis Mohawk Tribal Code of Law" path="4.04.100">Section 10</cite>, permits the Tribal Council to adopt rules and regulations to further the purposes of the Ordinance; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -93,7 +93,15 @@
       </table>
     </text>
   </procedural-data>
+  <codify:insert path="4.04" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2">
+    <container>
+      <prefix>Subchapter</prefix>
+      <num path-omit="true">2</num>
+      <heading>Rules and Regulations for a Craft Brewery</heading>
+    </container>
+  </codify:insert>
   <attachment id="law">
+    <codified:at path="4.04|2"/>
     <heading>Alcohol Beverages Control Act</heading>
     <text class="center">
       <strong>Appendix C-4</strong>
@@ -102,19 +110,43 @@
       <heading class="center">Rules and Regulations for a Craft Brewery</heading>
       <container name="forward">
         <heading>Forward</heading>
-        <text>The Saint Regis Mohawk Tribal Council ("Tribal Council") has provided in this Appendix the provisions for a qualified Tribal member or qualified Tribal business to apply for a license to brew beer as long as the brewery is connected to a licensed restaurant or bar.</text>
+        <text>The Saint Regis Mohawk Tribal Council ("Tribal Council") has provided in <code-cite path="|attachments|law">this Appendix</code-cite> the provisions for a qualified Tribal member or qualified Tribal business to apply for a license to brew beer as long as the brewery is connected to a licensed restaurant or bar.</text>
         <text>The rules set forth below shall govern the requirements for the licensing and reporting of any brewery.</text>
         <text>The Tribal Council hereby enacts the restrictions, regulations and provisions contained herein for the protection, health, welfare and safety of Saint Regis Mohawk Tribe ("Tribe").</text>
       </container>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.04.140">
+        <section>
+          <num>4.04.140</num>
+          <heading>Forward</heading>
+          <text>The Saint Regis Mohawk Tribal Council ("Tribal Council") has provided in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2019-01">this Appendix</code-cite> the provisions for a qualified Tribal member or qualified Tribal business to apply for a license to brew beer as long as the brewery is connected to a licensed restaurant or bar.</text>
+          <text>The rules set forth below shall govern the requirements for the licensing and reporting of any brewery.</text>
+          <text>The Tribal Council hereby enacts the restrictions, regulations and provisions contained herein for the protection, health, welfare and safety of Saint Regis Mohawk Tribe ("Tribe").</text>
+        </section>
+      </codify:insert>
       <container name="policy">
         <heading>Policy</heading>
-        <text>In order to safeguard the public's safety, the Tribal Council has deemed it necessary to regulate and control the sale and distribution of Alcoholic beverages within the Saint Regis Mohawk Reservation ("Reservation") to promote temperance in consumption and respect for, and obedience to Tribal Law. It is hereby declared that such policy will best be carried out by empowering the Tribe's Compliance Department to determine whether the issuance of a License pursuant to this Appendix shall promote public convenience and advantage Tribal businesses and whether to increase or decrease the number of such Licenses. When considering a new License application, the Compliance Department also shall consider the proximity of each existing Licensed Premises to the proposed location. The denial of an application is subject only to the right of an Applicant to request the Compliance Department from reconsidering the denial based upon new information. If the Applicant is denied again then he/she can submit its request to Tribal Council for reconsideration.</text>
+        <text>In order to safeguard the public's safety, the Tribal Council has deemed it necessary to regulate and control the sale and distribution of Alcoholic beverages within the Saint Regis Mohawk Reservation ("Reservation") to promote temperance in consumption and respect for, and obedience to Tribal Law. It is hereby declared that such policy will best be carried out by empowering the Tribe's Compliance Department to determine whether the issuance of a License pursuant to <code-cite path="|attachments|law">this Appendix</code-cite> shall promote public convenience and advantage Tribal businesses and whether to increase or decrease the number of such Licenses. When considering a new License application, the Compliance Department also shall consider the proximity of each existing Licensed Premises to the proposed location. The denial of an application is subject only to the right of an Applicant to request the Compliance Department from reconsidering the denial based upon new information. If the Applicant is denied again then he/she can submit its request to Tribal Council for reconsideration.</text>
       </container>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.04.150">
+        <section>
+          <heading>Policy</heading>
+          <num>4.04.150</num>
+          <text>In order to safeguard the public's safety, the Tribal Council has deemed it necessary to regulate and control the sale and distribution of Alcoholic beverages within the Saint Regis Mohawk Reservation ("Reservation") to promote temperance in consumption and respect for, and obedience to Tribal Law. It is hereby declared that such policy will best be carried out by empowering the Tribe's Compliance Department to determine whether the issuance of a License pursuant to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2019-01">this Appendix</code-cite> shall promote public convenience and advantage Tribal businesses and whether to increase or decrease the number of such Licenses. When considering a new License application, the Compliance Department also shall consider the proximity of each existing Licensed Premises to the proposed location. The denial of an application is subject only to the right of an Applicant to request the Compliance Department from reconsidering the denial based upon new information. If the Applicant is denied again then he/she can submit its request to Tribal Council for reconsideration.</text>
+        </section>
+      </codify:insert>
       <container name="definitions">
-        <heading>Definitions (Whenever Used in This Appendix, Unless the Context Requires Otherwise)</heading>
+        <heading>Definitions (Whenever Used in <code-cite path="|attachments|law">This Appendix</code-cite>, Unless the Context Requires Otherwise)</heading>
         <text>Except as otherwise provided, the definitions from Appendix C-2 are incorporated herein as if fully set forth herein.</text>
-        <text>For the purpose of this Appendix an Applicant means an enrolled Tribal Member who is at least twenty-one (21) years old. If he/she holds any other Tribal license he/she must be in good standing under each Tribal license he/she holds and shall not have been convicted of any felony or any criminal offense which is considered a felony in the jurisdiction where convicted. It also includes any entity which is Tribally licensed and in good standing or any wholly-owned subsidiary of the Tribe.</text>
+        <text>For the purpose of <code-cite path="|attachments|law">this Appendix</code-cite> an Applicant means an enrolled Tribal Member who is at least twenty-one (21) years old. If he/she holds any other Tribal license he/she must be in good standing under each Tribal license he/she holds and shall not have been convicted of any felony or any criminal offense which is considered a felony in the jurisdiction where convicted. It also includes any entity which is Tribally licensed and in good standing or any wholly-owned subsidiary of the Tribe.</text>
       </container>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.04.160">
+        <section>
+          <num>4.04.160</num>
+          <heading>Definitions (Whenever Used in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2019-01">This Appendix</code-cite>, Unless the Context Requires Otherwise)</heading>
+          <text>Except as otherwise provided, the definitions from Appendix C-2 are incorporated herein as if fully set forth herein.</text>
+          <text>For the purpose of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2019-01">this Appendix</code-cite> an Applicant means an enrolled Tribal Member who is at least twenty-one (21) years old. If he/she holds any other Tribal license he/she must be in good standing under each Tribal license he/she holds and shall not have been convicted of any felony or any criminal offense which is considered a felony in the jurisdiction where convicted. It also includes any entity which is Tribally licensed and in good standing or any wholly-owned subsidiary of the Tribe.</text>
+        </section>
+      </codify:insert>
       <container name="license">
         <heading>License to Brew Beer</heading>
         <para>
@@ -155,20 +187,80 @@
         </para>
         <para>
           <num>J.</num>
-          <text>Under federal law, alcohol related sales and transactions must be in conformity with Tribal and State law. As a condition of the Brewer's License, a person holding a license under this Appendix C-4 must adhere to all Tribal and State regulations applicable to beer manufacturing and transactions, as a condition of the Brewer's License.</text>
+          <text>Under federal law, alcohol related sales and transactions must be in conformity with Tribal and State law. As a condition of the Brewer's License, a person holding a license under <code-cite path="|attachments|law">this Appendix</code-cite> C-4 must adhere to all Tribal and State regulations applicable to beer manufacturing and transactions, as a condition of the Brewer's License.</text>
         </para>
       </container>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.04.170">
+        <section>
+          <num>4.04.170</num>
+          <heading>License to Brew Beer</heading>
+          <para>
+            <num>A.</num>
+            <text>Any Applicant may apply to the Compliance Department for a License to brew beer ("Brewer's License"). The amount to be paid is determined under License Fees. The exact amount shall be listed in the Schedule for License Fees.</text>
+          </para>
+          <para>
+            <num>B.</num>
+            <text>Each Application shall contain a description of the brewery along with the adjacent bar, restaurant or hotel.</text>
+          </para>
+          <para>
+            <num>C.</num>
+            <text>The Brewer's License shall authorize its holder to brew beer in the designated premises outlined in the application.</text>
+          </para>
+          <para>
+            <num>D.</num>
+            <text>A Brewer's License shall authorize the sale from the brewery premises to a duly licensed Tribal wholesalers and retailers and to sell or deliver such beer to persons outside of the Tribe's jurisdiction pursuant to the laws of the place of such sale or delivery.</text>
+          </para>
+          <para>
+            <num>E.</num>
+            <text>A person holding a Brewer's License may sell beer at retail in bulk by the keg, cask or barrel for off-premises consumption.</text>
+          </para>
+          <para>
+            <num>F.</num>
+            <text>A person holding a Brewer's License may within the brewery or any adjoining licensed premises conduct tastings of, and sell at retail for consumption on or off the licensed premises, any beer manufactured by the licensee. For sales for on-premises consumption, food must be readily available.</text>
+          </para>
+          <para>
+            <num>G.</num>
+            <text>All of the provisions from Appendix C-2 and Appendix C-3 regarding consumption for on and off premises shall apply so far as applicable to a Brewer's License.</text>
+          </para>
+          <para>
+            <num>H.</num>
+            <text>A Brewer's License shall entitle its holder to sell beer it manufactures for on premises consumption in an adjacent restaurant and bar. A separate license pursuant to Appendix C-2 is required to the sale of other beer, wine or liquor for consumption in the adjacent bar or restaurant.</text>
+          </para>
+          <para>
+            <num>I.</num>
+            <text>No Brewer's License shall be issued to any person other than the person listed as the Applicant and for the location outlined in the Application.</text>
+          </para>
+          <para>
+            <num>J.</num>
+            <text>Under federal law, alcohol related sales and transactions must be in conformity with Tribal and State law. As a condition of the Brewer's License, a person holding a license under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2019-01">this Appendix</code-cite> C-4 must adhere to all Tribal and State regulations applicable to beer manufacturing and transactions, as a condition of the Brewer's License.</text>
+          </para>
+        </section>
+      </codify:insert>
       <container name="premises">
         <heading>Premises Requirement for the Brewery</heading>
         <para>
           <num>A.</num>
-          <text>The U.S. Department of the Treasury's Alcohol and Tobacco Tax and Trade Bureau (TTB) is the primary federal agency that exercises jurisdiction over breweries. A person holding a Brewer's License under this Appendix C-4 must adhere to applicable TTB regulations, as a condition of the Brewer's License.</text>
+          <text>The U.S. Department of the Treasury's Alcohol and Tobacco Tax and Trade Bureau (TTB) is the primary federal agency that exercises jurisdiction over breweries. A person holding a Brewer's License under <code-cite path="|attachments|law">this Appendix</code-cite> C-4 must adhere to applicable TTB regulations, as a condition of the Brewer's License.</text>
         </para>
         <para>
           <num>B.</num>
-          <text>Under the Federal Food Modernization Act (FSMA), the Food and Drug Administration (FDA) now has some jurisdiction over breweries. The Tribe now adopts as if fully set forth herein the Good Manufacturing Practices at 21 CFR Part 110. A person holding a Brewer's License under this Appendix C-4 must adhere to applicable FDA regulations, as a condition of the Brewer's License.</text>
+          <text>Under the Federal Food Modernization Act (FSMA), the Food and Drug Administration (FDA) now has some jurisdiction over breweries. The Tribe now adopts as if fully set forth herein the Good Manufacturing Practices at 21 CFR Part 110. A person holding a Brewer's License under <code-cite path="|attachments|law">this Appendix</code-cite> C-4 must adhere to applicable FDA regulations, as a condition of the Brewer's License.</text>
         </para>
       </container>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.04.180">
+        <section>
+          <num>4.04.180</num>
+          <heading>Premises Requirement for the Brewery</heading>
+          <para>
+            <num>A.</num>
+            <text>The U.S. Department of the Treasury's Alcohol and Tobacco Tax and Trade Bureau (TTB) is the primary federal agency that exercises jurisdiction over breweries. A person holding a Brewer's License under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2019-01">this Appendix</code-cite> C-4 must adhere to applicable TTB regulations, as a condition of the Brewer's License.</text>
+          </para>
+          <para>
+            <num>B.</num>
+            <text>Under the Federal Food Modernization Act (FSMA), the Food and Drug Administration (FDA) now has some jurisdiction over breweries. The Tribe now adopts as if fully set forth herein the Good Manufacturing Practices at 21 CFR Part 110. A person holding a Brewer's License under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2019-01">this Appendix</code-cite> C-4 must adhere to applicable FDA regulations, as a condition of the Brewer's License.</text>
+          </para>
+        </section>
+      </codify:insert>
       <container name="license-fees">
         <heading>License Fees</heading>
         <para>
@@ -176,11 +268,21 @@
           <text>The Compliance Department shall submit to Tribal Council a proposed schedule for license fees for a Brewer's License. The schedule for License fees may be amended from time to time based upon the Compliance Department's recommendation and justification to Tribal Council for the increase. Once an increase has been recommended, Tribal Council shall post the proposed amended schedule to the public for thirty (30) days to comment on it. It shall then be resubmitted as amended to Tribal Council and adopted.</text>
         </para>
       </container>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.04.190">
+        <section>
+          <num>4.04.190</num>
+          <heading>License Fees</heading>
+          <para>
+            <num>A.</num>
+            <text>The Compliance Department shall submit to Tribal Council a proposed schedule for license fees for a Brewer's License. The schedule for License fees may be amended from time to time based upon the Compliance Department's recommendation and justification to Tribal Council for the increase. Once an increase has been recommended, Tribal Council shall post the proposed amended schedule to the public for thirty (30) days to comment on it. It shall then be resubmitted as amended to Tribal Council and adopted.</text>
+          </para>
+        </section>
+      </codify:insert>
       <container name="fines-and-penalties">
         <heading>Fines and Penalties</heading>
         <para>
           <num>A.</num>
-          <text>The following is the schedule of fines and penalties levied on any holder of a Brewer's Licensee who fails to adhere to the rules and regulations specified in this Appendix. These fines may be amended from time to time. Upon the completion of a Compliance Department investigation and, if a finding is made against the Licensee, the following shall apply:</text>
+          <text>The following is the schedule of fines and penalties levied on any holder of a Brewer's Licensee who fails to adhere to the rules and regulations specified in <code-cite path="|attachments|law">this Appendix</code-cite>. These fines may be amended from time to time. Upon the completion of a Compliance Department investigation and, if a finding is made against the Licensee, the following shall apply:</text>
           <text>
             <table class="layout-table">
               <tbody>
@@ -213,6 +315,46 @@
           <text>Where a Notice of Violation is pending or any suspension or revocation of a License is issued such suspension or revocation shall be made public and such notice may include specific facts that are relevant to the violations committed (<em>see</em> <cite doc="Saint Regis Mohawk Tribe Res. No. 2010-30">TCR 2010-30</cite>).</text>
         </para>
       </container>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.04.200">
+        <section>
+          <num>4.04.200</num>
+          <heading>Fines and Penalties</heading>
+          <para>
+            <num>A.</num>
+            <text>The following is the schedule of fines and penalties levied on any holder of a Brewer's Licensee who fails to adhere to the rules and regulations specified in <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2019-01">this Appendix</code-cite>. These fines may be amended from time to time. Upon the completion of a Compliance Department investigation and, if a finding is made against the Licensee, the following shall apply:</text>
+            <text>
+              <table class="layout-table">
+                <tbody>
+                  <tr>
+                    <td>First offense:</td>
+                    <td>Letter of reprimand and a minimum fine of three hundred dollars ($300.00) or a fine of up to one thousand dollars ($1,000.00).</td>
+                  </tr>
+                  <tr>
+                    <td>Second Offense:</td>
+                    <td>Up to a thirty-day (30) probationary period of license and a minimum fine of six hundred dollars or a fine of up to three thousand dollars ($3,000.00). If the fine remains unpaid after the assessed period of probation, it shall continue until it is paid. The Licensee shall not be able to manufacture any beer during the probationary period or until the fine is paid. Plus, the Licensee's other licenses related to alcohol shall be suspended.</td>
+                  </tr>
+                  <tr>
+                    <td>Third Offense:</td>
+                    <td>Up to a one-year suspension of license and a minimum fine of one thousand eight hundred dollars ($1,800.00) or a fine of up to ten thousand dollars ($10,000.00). If the fine remains unpaid after thirty (30) days the Licensee must reapply for a new License. During the suspension, the Licensee may not manufacture any beer and all of the holder's other licenses related to alcohol shall be suspended. Once the suspension has been completed and the fine has been paid the Licensee must serve a five-year probationary period under the Compliance Department. Any further violation of any of the Tribe's Alcoholic Beverage law, rules and regulations shall result in a permanent revocation of all licenses.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
+          <para>
+            <num>B.</num>
+            <text>Whatever fine and or suspension the Compliance Director imposes, only Tribal Council can review it. A fine or suspension may be reviewed by Tribal Council when a licensee requests for a review in writing to Tribal Council within five (5) days of receiving notice of fine and/or suspension.</text>
+          </para>
+          <para>
+            <num>C.</num>
+            <text>For a period of three (3) years, after a Licensee is found to have a violated a provision contained herein if that same Licensee is found to have violated that same provision or a similar provision then any subsequent fines or penalties shall be deemed progressive during that three-year period.</text>
+          </para>
+          <para>
+            <num>D.</num>
+            <text>Where a Notice of Violation is pending or any suspension or revocation of a License is issued such suspension or revocation shall be made public and such notice may include specific facts that are relevant to the violations committed (<em>see</em> <cite doc="Saint Regis Mohawk Tribe Res. No. 2010-30">TCR 2010-30</cite>).</text>
+          </para>
+        </section>
+      </codify:insert>
     </container>
   </attachment>
 </document>
