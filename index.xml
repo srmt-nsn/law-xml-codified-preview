@@ -15,10 +15,10 @@
     </canonical-urls>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="srmt-nsn/law-xml" commit="095d1276a549c27db81612662bc143164dd690f1"/>
+        <repository name="srmt-nsn/law-xml" commit="4bc4a42ad5047416e8979be1e1c89094d693473a"/>
       </repositories>
       <platform version="2.14.0" reproducible="false"/>
-      <build-date>2024-08-17</build-date>
+      <build-date>2024-08-29</build-date>
       <codified-date>2024-06-02</codified-date>
     </build>
   </meta>
@@ -43,6 +43,7 @@
     <xi:include href="./us/nsn/srmt/council/resolutions/2009/index.xml"/>
     <xi:include href="./us/nsn/srmt/council/resolutions/2008/index.xml"/>
     <xi:include href="./us/nsn/srmt/council/resolutions/2007/index.xml"/>
+    <xi:include href="./us/nsn/srmt/council/resolutions/2006/index.xml"/>
     <xi:include href="./us/nsn/srmt/council/resolutions/2005/index.xml"/>
     <xi:include href="./us/nsn/srmt/council/resolutions/2004/index.xml"/>
     <xi:include href="./us/nsn/srmt/council/resolutions/2003/index.xml"/>
