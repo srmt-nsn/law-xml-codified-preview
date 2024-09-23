@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Saint Regis Mohawk Tribal Code of Law">
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Saint Regis Mohawk Tribal Code of Law">
   <prefix>Title</prefix>
   <num>5</num>
   <heading>Environment</heading>
@@ -400,11 +400,11 @@
           <text>Where, for any parameter, the quality of the waters exceed levels necessary to support the protection and propagation of fish, shellfish, and wildlife and recreation in and on the waters, that water shall be considered high quality for that parameter consistent with the definition of high quality water found at subsection of this antidegradation standard and that quality shall be maintained and protected unless the Tribe finds, after full satisfaction of Tribe's intergovernmental coordination and public participation provisions of the Tribe's continuing planning process, that allowing lower water quality is necessary to accommodate important economic or social development in the area in which the waters are located. In allowing such degradation, the Tribe shall assure water quality adequate to fully protect existing uses. Further, the Tribe shall assure that there shall be achieved the highest statutory and regulatory requirements for all new and existing point sources and all cost-effective and reasonable best management practices for nonpoint source control. The Tribe shall utilize the Antidegradation Implementation Procedures set forth below in determining if any lowering of water quality will be allowed;</text>
           <para>
             <num>(A)</num>
-            <text>The Tribe identifies waters for the protections described in paragraph (a)(2) of <cite path="§III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite> on a parameter-by-parameter basis.</text>
+            <text>The Tribe identifies waters for the protections described in paragraph (a)(2) of <cite path="attachments|law|III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite> on a parameter-by-parameter basis.</text>
           </para>
           <para>
             <num>(B)</num>
-            <text>Before allowing any lowering of high water quality, pursuant to paragraph (a)(2) of <cite path="§III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite>, the Tribe shall find, after an analysis of alternatives, that such a lowering is necessary to accommodate important economic or social development in the area in which the waters are located. The analysis of alternatives shall evaluate a range of practicable alternatives that would prevent or lessen the degradation associated with the proposed activity. When the analysis of alternatives identifies one or more practicable alternatives, the Tribe shall only find that a lowering is necessary if one such alternative is selected for implementation.</text>
+            <text>Before allowing any lowering of high water quality, pursuant to paragraph (a)(2) of <cite path="attachments|law|III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite>, the Tribe shall find, after an analysis of alternatives, that such a lowering is necessary to accommodate important economic or social development in the area in which the waters are located. The analysis of alternatives shall evaluate a range of practicable alternatives that would prevent or lessen the degradation associated with the proposed activity. When the analysis of alternatives identifies one or more practicable alternatives, the Tribe shall only find that a lowering is necessary if one such alternative is selected for implementation.</text>
           </para>
         </para>
         <para>
@@ -416,7 +416,7 @@
           <text>In those cases where the potential lowering of water quality is associated with a thermal discharge, the decision to allow such degradation shall be consistent with Section 316 of the Clean Water Act (CWA).</text>
           <para>
             <num>(A)</num>
-            <text>As described in Section B. below, the Tribe has developed methods for implementing the antidegradation policy that are, at a minimum, consistent with the Tribe's policy and with paragraph (a) of <cite path="§III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite>. The Tribe shall provide an opportunity for public involvement during the development and any subsequent revisions of the implementation methods, and shall make the methods available to the public.</text>
+            <text>As described in Section B. below, the Tribe has developed methods for implementing the antidegradation policy that are, at a minimum, consistent with the Tribe's policy and with paragraph (a) of <cite path="attachments|law|III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite>. The Tribe shall provide an opportunity for public involvement during the development and any subsequent revisions of the implementation methods, and shall make the methods available to the public.</text>
           </para>
         </para>
       </para>
@@ -624,7 +624,7 @@
           </para>
           <para>
             <num>(D)</num>
-            <text>A WQS variance, once adopted by the SRMT and approved by EPA, shall be the applicable standard for purposes of the CWA under 40 CFR 131.21(d)-(e), for the following limited purposes. An approved WQS variance applies for the purposes of developing permit limits and requirements under 301(b)(1)(C), where appropriate, consistent with paragraph (a)(1) of <cite path="§III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite>. The SRMT and other certifying entities may also use an approved WQS variance when issuing certifications under section 401 of the CWA.</text>
+            <text>A WQS variance, once adopted by the SRMT and approved by EPA, shall be the applicable standard for purposes of the CWA under 40 CFR 131.21(d)-(e), for the following limited purposes. An approved WQS variance applies for the purposes of developing permit limits and requirements under 301(b)(1)(C), where appropriate, consistent with paragraph (a)(1) of <cite path="attachments|law|III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite>. The SRMT and other certifying entities may also use an approved WQS variance when issuing certifications under section 401 of the CWA.</text>
           </para>
           <para>
             <num>(E)</num>
@@ -695,7 +695,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>The requirements that apply throughout the term of the WQS variance. The requirements shall represent the highest attainable condition of the water body or waterbody segment applicable throughout the term of the WQS variance based on the documentation required in (d)(2) of <cite path="§III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite>. The requirements shall not result in any lowering of the currently attained ambient water quality, unless a WQS variance is necessary for restoration activities, consistent with paragraph (d)(2)(A)(i)(b) of <cite path="§III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite>. DPNR must specify the highest attainable condition of the water body or waterbody segment as a quantifiable expression that is one of the following:</text>
+              <text>The requirements that apply throughout the term of the WQS variance. The requirements shall represent the highest attainable condition of the water body or waterbody segment applicable throughout the term of the WQS variance based on the documentation required in (d)(2) of <cite path="attachments|law|III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite>. The requirements shall not result in any lowering of the currently attained ambient water quality, unless a WQS variance is necessary for restoration activities, consistent with paragraph (d)(2)(A)(i)(b) of <cite path="attachments|law|III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite>. DPNR must specify the highest attainable condition of the water body or waterbody segment as a quantifiable expression that is one of the following:</text>
               <para>
                 <num>(I)</num>
                 <text>For discharger(s)-specific WQS variances:</text>
@@ -731,7 +731,7 @@
             </para>
             <para>
               <num>(iv)</num>
-              <text>The term of the WQS variance, expressed as an interval of time from the date of the SRMT approval or a specific date. The term of the WQS variance must only be as long as necessary to achieve the highest attainable condition and consistent with the demonstration provided in paragraph (d)(2) of <cite path="§III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite>. The SRMT may adopt a subsequent WQS variance consistent with <cite path="§III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite>.</text>
+              <text>The term of the WQS variance, expressed as an interval of time from the date of the SRMT approval or a specific date. The term of the WQS variance must only be as long as necessary to achieve the highest attainable condition and consistent with the demonstration provided in paragraph (d)(2) of <cite path="attachments|law|III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite>. The SRMT may adopt a subsequent WQS variance consistent with <cite path="attachments|law|III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite>.</text>
             </para>
           </para>
           <para>
@@ -754,7 +754,7 @@
               </para>
               <para>
                 <num>(II)</num>
-                <text>For a WQS variance to a non-101(a)(2) use, the SRMT must submit documentation justifying how its consideration of the use and value of the water for those uses listed in § 131.10(a) appropriately supports the WQS variance and term. A demonstration consistent with (d)(2)(A)(i) of <cite path="§III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite> may be used to satisfy this requirement.</text>
+                <text>For a WQS variance to a non-101(a)(2) use, the SRMT must submit documentation justifying how its consideration of the use and value of the water for those uses listed in § 131.10(a) appropriately supports the WQS variance and term. A demonstration consistent with (d)(2)(A)(i) of <cite path="attachments|law|III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite> may be used to satisfy this requirement.</text>
               </para>
             </para>
             <para>
@@ -763,7 +763,7 @@
             </para>
             <para>
               <num>(iii)</num>
-              <text>In addition to (A) and (B) of <cite path="§III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite>, for a WQS variance that applies to a water body or waterbody segment:</text>
+              <text>In addition to (A) and (B) of <cite path="attachments|law|III " doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite>, for a WQS variance that applies to a water body or waterbody segment:</text>
               <para>
                 <num>(I)</num>
                 <text>Identification and documentation of any cost-effective and reasonable best management practices for nonpoint source controls related to the pollutant(s) or water quality parameter(s) and water body or waterbody segment(s) specified in the WQS variance that could be implemented to make progress towards attaining the underlying designated use and criterion. DPNR must provide public notice and comment for any such documentation.</text>
@@ -8282,7 +8282,7 @@
         </para>
         <para>
           <num>B.</num>
-          <text>In addition to the chemical characteristics provided in <cite path="§1" doc="Saint Regis Mohawk Tribe Res. No. 2022-04">this section</cite>, coliform or pathogenic organisms shall not be discharged in amounts sufficient to render ground waters detrimental to public health, safety or welfare.</text>
+          <text>In addition to the chemical characteristics provided in <cite path="|5.02|attachments|appendix|1">Appendix 11</cite>, coliform or pathogenic organisms shall not be discharged in amounts sufficient to render ground waters detrimental to public health, safety or welfare.</text>
         </para>
         <para>
           <num>C.</num>

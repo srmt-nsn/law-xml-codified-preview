@@ -163,7 +163,7 @@
       <para>
         <num>C.</num>
         <text>Powers and Duties of the Council</text>
-        <text>The three (3) Chiefs shall exercise all legislative and executive powers of the Tribe including, but not limited to the following; subject to the restrictions set forth in <code-cite path="§V" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section V</code-cite>: (Removal) and <code-cite path="§VI" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section VI</code-cite>: (Referendum Powers):</text>
+        <text>The three (3) Chiefs shall exercise all legislative and executive powers of the Tribe including, but not limited to the following; subject to the restrictions set forth in <code-cite path="attachments|law|V" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section V</code-cite>: (Removal) and <code-cite path="attachments|law|VI" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section VI</code-cite>: (Referendum Powers):</text>
         <para>
           <num>1.</num>
           <text>To promote and protect the health, safety, education and general welfare of the Tribe.</text>
@@ -338,7 +338,7 @@
       <para>
         <num>A.</num>
         <text>Authority of Members to Initiate Referendums</text>
-        <text>Members shall have power to initiate referendums subject to the provisions set forth in <code-cite path="§VI" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">this Section</code-cite> and in any regulations that are issued pursuant to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">this Ordinance</code-cite> ("Initiative").</text>
+        <text>Members shall have power to initiate referendums subject to the provisions set forth in <code-cite path="attachments|law|VI" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">this Section</code-cite> and in any regulations that are issued pursuant to <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">this Ordinance</code-cite> ("Initiative").</text>
         <para>
           <num>1.</num>
           <text>A referendum may be called to adopt new laws, reject or amend existing laws, or to pose questions on issues that affect the community.</text>
@@ -597,7 +597,7 @@
       </para>
       <para>
         <num>2.</num>
-        <text>An Ordinance may be proposed by the Council, any Tribal Member or any Department or Program of the Tribe. (A member may also propose an ordinance via the referendum process, refer herein to <code-cite path="§VI|A." doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section VI A</code-cite>).</text>
+        <text>An Ordinance may be proposed by the Council, any Tribal Member or any Department or Program of the Tribe. (A member may also propose an ordinance via the referendum process, refer herein to <code-cite path="attachments|law|VI|A." doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section VI A</code-cite>).</text>
       </para>
       <para>
         <num>3.</num>
@@ -625,7 +625,7 @@
       </para>
       <para>
         <num>4.</num>
-        <text>In the event that Tribal Council elects to put the pending Ordinance to a referendum vote or adoption of the Ordinance requires a referendum vote pursuant to <code-cite path="§VI|B.|2." doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section VI, B. 2</code-cite>, or the Ordinance has been put forward through the Referendum process, the Referendum Election process shall be followed.</text>
+        <text>In the event that Tribal Council elects to put the pending Ordinance to a referendum vote or adoption of the Ordinance requires a referendum vote pursuant to <code-cite path="attachments|law|VI|B.|2." doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section VI, B. 2</code-cite>, or the Ordinance has been put forward through the Referendum process, the Referendum Election process shall be followed.</text>
       </para>
       <para>
         <num>5.</num>
@@ -880,7 +880,7 @@
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.01.130"/>
       <num codify:value="1.01.130">XIII</num>
       <heading>Amendment Provision</heading>
-      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">This Ordinance</code-cite> may be amended (see <code-cite path="§VI" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section VI</code-cite>) by a duly conducted Referendum.</text>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">This Ordinance</code-cite> may be amended (see <code-cite path="attachments|law|VI" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section VI</code-cite>) by a duly conducted Referendum.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.01.140"/>
@@ -898,7 +898,7 @@
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|1.01.160"/>
       <num codify:value="1.01.160">XVI</num>
       <heading>Rules of Compliance</heading>
-      <text>Failure to administer or comply with this Tribal Governance Ordinance may result in the implementation of <code-cite path="§V" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section V</code-cite>.</text>
+      <text>Failure to administer or comply with this Tribal Governance Ordinance may result in the implementation of <code-cite path="attachments|law|V" doc="Saint Regis Mohawk Tribe Res. No. 2013-32">Section V</code-cite>.</text>
     </section>
   </attachment>
 </document>

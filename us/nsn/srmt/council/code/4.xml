@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Saint Regis Mohawk Tribal Code of Law">
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Saint Regis Mohawk Tribal Code of Law">
   <prefix>Title</prefix>
   <num>4</num>
   <heading>Health, Safety and Welfare</heading>
@@ -284,7 +284,7 @@
         </para>
         <para>
           <num>J.</num>
-          <text>Under federal law, alcohol related sales and transactions must be in conformity with Tribal and State law. As a condition of the Brewer's License, a person holding a license under this Subchapter C-4 must adhere to all Tribal and State regulations applicable to beer manufacturing and transactions, as a condition of the Brewer's License.</text>
+          <text>Under federal law, alcohol related sales and transactions must be in conformity with Tribal and State law. As a condition of the Brewer's License, a person holding a license under this Subchapter 2 must adhere to all Tribal and State regulations applicable to beer manufacturing and transactions, as a condition of the Brewer's License.</text>
         </para>
         <annotations>
           <annotation app="2019-01-04" doc="Saint Regis Mohawk Tribe Res. No. 2019-01" eff="2019-01-04" path="" type="History"/>
@@ -296,11 +296,11 @@
         <heading>Premises Requirement for the Brewery</heading>
         <para>
           <num>A.</num>
-          <text>The U.S. Department of the Treasury's Alcohol and Tobacco Tax and Trade Bureau (TTB) is the primary federal agency that exercises jurisdiction over breweries. A person holding a Brewer's License under this Subchapter C-4 must adhere to applicable TTB regulations, as a condition of the Brewer's License.</text>
+          <text>The U.S. Department of the Treasury's Alcohol and Tobacco Tax and Trade Bureau (TTB) is the primary federal agency that exercises jurisdiction over breweries. A person holding a Brewer's License under this Subchapter 2 must adhere to applicable TTB regulations, as a condition of the Brewer's License.</text>
         </para>
         <para>
           <num>B.</num>
-          <text>Under the Federal Food Modernization Act (FSMA), the Food and Drug Administration (FDA) now has some jurisdiction over breweries. The Tribe now adopts as if fully set forth herein the Good Manufacturing Practices at 21 CFR Part 110. A person holding a Brewer's License under this Subchapter C-4 must adhere to applicable FDA regulations, as a condition of the Brewer's License.</text>
+          <text>Under the Federal Food Modernization Act (FSMA), the Food and Drug Administration (FDA) now has some jurisdiction over breweries. The Tribe now adopts as if fully set forth herein the Good Manufacturing Practices at 21 CFR Part 110. A person holding a Brewer's License under this Subchapter 2 must adhere to applicable FDA regulations, as a condition of the Brewer's License.</text>
         </para>
         <annotations>
           <annotation app="2019-01-04" doc="Saint Regis Mohawk Tribe Res. No. 2019-01" eff="2019-01-04" path="" type="History"/>
@@ -362,6 +362,673 @@
         </annotations>
       </section>
     </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>4.05</num>
+    <heading>Tobacco Ordinance</heading>
+    <section>
+      <num>4.05.010</num>
+      <heading>Title</heading>
+      <text><cite path="|4.05">This chapter</cite> shall be known as the Saint Regis Mohawk Tobacco Ordinance. (the "Ordinance")</text>
+      <annotations>
+        <annotation app="2004-07-09" doc="Saint Regis Mohawk Tribe Res. No. 2004-40" eff="2004-07-09" path="attachments|law|1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>4.05.020</num>
+      <heading>Definitions</heading>
+      <text>Provided at Appendix A.</text>
+      <annotations>
+        <annotation app="2004-07-09" doc="Saint Regis Mohawk Tribe Res. No. 2004-40" eff="2004-07-09" path="attachments|law|2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>4.05.030</num>
+      <heading>General Guidance</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Requirement for a License.</heading>
+        <text>Any individual who desires to sell, receive with the intent to sell, trade, barter, distribute, or manufacture tobacco products within the boundaries of the Saint Regis Mohawk Reservation (the "Reservation") must be in possession of a valid license issued in accordance with <cite path="|4.05">this chapter</cite> by the Saint Regis Mohawk Tribal Council (the "Tribal Council"). Further, no person shall introduce tobacco products onto the Reservation retail market without first having received a valid license issued by the Tribal Council in accordance with the provisions of this regulation.</text>
+        <text>Only enrolled members of the St. Regis Mohawk Tribe or those entitled to enrollment may be granted a Tribal license and under certain circumstances to non-natives.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Granting of Licenses.</heading>
+        <text>The receipt of a license to manufacture, wholesale, distribute, retail or sell the cigarettes within the boundaries of the St. Regis Mohawk Reservation is a privilege granted by the Tribal Council on behalf of the Tribe. All actions by the Tribal Council regarding the Ordinance will be taken in the best interest of the Tribe and taken to insure the continuation of successful tobacco activities that are important to the economic development of the Tribe.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>License Renewal.</heading>
+        <text>The Saint Regis Mohawk Tribe reserves the right to deny any request for a license renewal. Within 30-days of the license expiration date the Compliance Department will notify Licensee by mail and include a renewal application. Upon return of renewal application the Compliance Department will review the licensees history, submit a recommendation, along with the application to the Tribal Council. The decision to renew or deny a License is rendered by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Form of Application.</heading>
+        <text>Every application for a cigarette and tobacco products license shall be made on a form prescribed by the Compliance Director and shall state name and address of applicant; applicant shall be both owner and operator of business; if the applicant is a firm, partnership, or association, the name and address of each of it's members; if the applicant is a corporation, the name and address of each of it's officers; the address of its principal place of business; the place where the business to be licensed is to be conducted; a release of information/background check on the prescribed form; and any other information the Compliance Department may require for the administration of <cite path="|4.05">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Changes in Application during licensing period.</heading>
+        <text>Should any changes occurring that would affect the information contained in the original application, the applicant must file an amended application within 30-days after the date on which change occurs. Failure to file the amendment will result in a possible fine and/or revocation of license.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Suppliers and Other Non-Tribal Individuals or Entities Engaged in Tobacco Activities.</heading>
+        <text>Any person(s) outside this reservation who ships or transports cigarettes or tobacco products within the boundaries of <cite path="|4.05">this chapter</cite> shall make an application for a vendors permit. After the decision whether to grant such a permit, by the Tribal Council, the vendor thereafter shall be subject to all the provisions of <cite path="|4.05">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Transfer of License.</heading>
+        <text>The manufacturer, wholesale and retail licenses issued in accordance with <cite path="|4.05">this chapter</cite> are personally applicable to the individual or entity to which it is granted. The license is not transferable to any other person. Such license shall continue in effect until it is expired, terminated, suspended or revoked by the Tribal Council. In the case of a business relocating; license may be transferred by the licensee to another location. Prior to relocating a written notification will be forwarded to the Compliance Department stating new address, phone number, etc., for record purposes.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>Unfettered Access.</heading>
+        <text>The Tribal Compliance Department may enter any premises where tobacco products are produced or kept, so far as it may be necessary for the purpose of examining such products. When such premises are operating, any Compliance Department officer may enter them, in the performance of their official duties. The owner of such premises, or person having the superintendence of the same, who refuses to admit any Compliance Department officer or permits them to examine such products shall be in violation of <cite path="|4.05">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <heading>Tribal Sovereignty Matters.</heading>
+        <text>The manufacture, distribution and sale of tobacco on the Saint Regis Mohawk Reservation involve significant issues relating to tribal sovereignty. As such, licensees will report to the Tribe all actions and inquiries by U.S. Federal, State, or international regulatory agencies and will co-ordinate with the Tribe regarding responses to U.S. Federal, State or international regulatory agency actions and inquiries.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <heading>Tribal Privilege.</heading>
+        <text>Holding a Tribal License is a privilege reserved for the members of the Saint Regis Mohawk Tribe. Tribal License holders and all partners if applicable, agree to represent themselves and the membership of Akwesasne in an honorable and respectful manner by adhering to all Tribal rules and regulations.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <heading>Placement of Tribal License.</heading>
+        <text>The original copy of the Tribal License must be prominently displayed on the premises covered by the license.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <heading>Interference with administration.</heading>
+        <text>Should a holder of any Tribal License, corruptly or by force or threats of force, endeavors to hinder or obstruct the administration of <cite path="|4.05">this chapter</cite>, or endeavors to intimidate or impede any Compliance officer acting in their official capacity, or forcibly rescues or attempts to rescue or causes to be rescued any property, after it has been duly seized for forfeiture to the Saint Regis Mohawk Tribe in connection with a violation of the ordinance shall be liable for the penalties prescribed by <cite path="|4.05">this chapter</cite>.</text>
+      </para>
+      <annotations>
+        <annotation app="2004-07-09" doc="Saint Regis Mohawk Tribe Res. No. 2004-40" eff="2004-07-09" path="attachments|law|3" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>4.05.040</num>
+      <heading>Manufacturing</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Requirement for a License.</heading>
+        <text>Any person(s) within the jurisdiction of <cite path="|4.05">this chapter</cite>, who wishes to produce tobacco products, cigarette papers, tubes, smokeless tobacco, pipe tobacco, or roll your-own tobacco, except for a person who produces tobacco products solely for that person's own consumption or use, requires a Saint Regis Mohawk Tribal Manufacturing license.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Granting of Licenses.</heading>
+        <text>A license to manufacture tobacco products will only be granted to those persons whose principal business activity under such license will be the original manufacturer and will agree not to engage in business as a manufacturer without an approved license issued by the Saint Regis Mohawk Tribal Council while serving a suspension or closure. Such license shall only be approved for those individuals who qualify and comply with the rules and regulations issued hereunder. For all purposes intended, repackaging or re-labeling activities alone qualifies as a manufacturing activity and is subject to all applicable fees.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>License Approval or Denial.</heading>
+        <text>The Saint Regis Mohawk Tribe reserves the right to deny any application if such rejection is determined to be in the best interest of the Tribe. Reasons found before the granting of, or uncovered after the granting of a license, for automatic rejection include, but are not limited to, the submission of incomplete or false information in the application; the failure to disclose or meet the minimum criteria for the facility; a determination that the individual applicant or, in the case of a business entity, a partner, officer, director, stockholder is not likely to comply with <cite path="|4.05">this chapter</cite>, or pay the required fees to the Tribe; or otherwise willfully fail to operate the facility in an acceptable manner; or a determination that the approval will adversely impact the economic development of the Tribe or adversely impact the Tribe's relationship with other sovereign entities; or discrepancies are discovered during the investigation process of the applicant. If there is reason to believe that the applicant is not entitled to a license, the Compliance Director shall promptly notify the applicant of the contemplated disapproval and opportunity for a hearing with the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>License Renewal.</text>
+        <text>The Saint Regis Mohawk Tribe reserves the right to deny any request for a license renewal and within 30-days before license expiration date the Compliance Department will notify Licensee by mail and include a renewal application. Upon return of renewal application the Compliance Department will review the licensees history, a recommendation is submitted with the application to the Tribal Council and a decision to renew is rendered by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Application for a License.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Every person or entity, before commencing business, as a manufacturer of tobacco products, shall submit an application for a license along with a security deposit of $50,000.00. In lieu of deposit, land or building may be used for collateral purposes.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An individual applicant must be twenty-one (21) years of age or more and a member of the Saint Regis Mohawk Tribe. In the case of a business entity or partnership, the applicant must be formed and operated pursuant to the laws and regulations of the Saint Regis Mohawk Tribe. The applicant shall furnish with its application for license, a true copy of the articles of partnership or association, if any, or certificate of partnership or association.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The application form at Appendix B must be completed and all requested information provided.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>
+          <strong>
+            <u>Security Deposit</u>
+          </strong>
+        </text>
+        <text>Each manufacturer's security deposit will be placed in escrow in an individual interest bearing account, which will never be co-mingled with any other tribal fund.</text>
+        <text>Contingent upon compliance with the provisions and regulations hereunder this deposit shall remain untouched in escrow for the life of the license, at which time it will be rolled over or returned plus interest earned minus any unresolved fees or fines due to the tribe.</text>
+        <text>Any deduction to an account will be based on a 30-day out basis. Licensee must bring account to balance before the issuance of a new license is permitted.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Minimum Criteria for Manufacturing Facility.</heading>
+        <text>The premises to be used by a manufacturer of tobacco products as a factory may consist of more than one building, or portions of buildings, which need not be contiguous but must be located in the same territory. If any of the following conditions exist a diagram shall be furnished with application showing the information indicated:</text>
+        <text>
+          <ul>
+            <li>Recommended facility size of at least 3000 sq. ft. and not adjacent to or connected to a building or structure used as a residence;</li>
+            <li>Where the factory is in more than one building, and each building is not identifiable by a separate address; identify each building by a letter, number or similar designation;</li>
+            <li>Facility must have adequate entrances, exits and fire extinguishers approved by the fire department;</li>
+            <li>Licensee shall operate only one manufacturing factory;</li>
+            <li>Licensee shall register with the Compliance Department the serial numbers of all cigarette producing machines;</li>
+            <li>Facility must have adequate sanitation for the size of staff;</li>
+            <li>Facility must have adequate security systems;</li>
+            <li>Facility must maintain adequate liability insurance for each building and staff therein;</li>
+            <li>Facility must comply with all environmental rules and regulations of the Saint Regis Mohawk Tribe.</li>
+          </ul>
+        </text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>
+          <strong>
+            <u>Manufacturers responsibility to Compliance Department</u>
+          </strong>
+        </text>
+        <text>Should the Tribal Council deem it necessary for a Compliance Inspector to be stationed in the factory during all operating hours, it is the responsibility of the manufacturer to provide secure, reasonable accommodations for the inspectors.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <heading>Distribution of Manufactured Cigarettes.</heading>
+        <text>A Tribally licensed manufacturer may sell its cigarettes to only authorized tribally licensed wholesalers in accordance with Section 5. The licensed wholesaler may sell such manufacturer's products to retailers within the Saint Regis Mohawk Reservation or in Nation-to-Nation sales within the United States to only those individuals/businesses on other Indian Reservations whose operation is in accordance with their respective Tribal laws and regulations. The Compliance Office shall provide each manufacturer with a list of currently authorized Saint Regis Mohawk Tribal licensed wholesalers.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <heading>Annual Licensing Fee.</heading>
+        <text>Each Manufacturer shall pay an annual minimum fee of $2000.00 subject to an increase based on manufactures sales volume of previous year. No less or no more than a 30-day notice will be given to Licensee for renewal purposes. Should a lapse in license coverage occur, operation of manufacturing must cease and complete licensing process will be required. Any production without a license will be deemed in violation of <cite path="|4.05">this chapter</cite> and will be subject to Fines and Penalties.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <heading>Reporting Requirements.</heading>
+        <text>The following shall be reported bi-weekly to the Compliance department:</text>
+        <para>
+          <num>(1)</num>
+          <text>the number of cigarettes, by type, manufactured during the month. This information shall be provided on the form at Appendix C.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>cigarettes sold to tribal licensed wholesalers on the form at Appendix D.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the Compliance Department may, at any time, conduct an inventory. In addition, the Compliance Department may request information on the source and amount of weekly or monthly sales of tobacco or other supplies to the manufacturer. The Compliance Department I s authorized to communicate with tobacco and other suppliers regarding the quantity of materials furnished to a licensed manufacturer or any other matters relevant to the licensees activities.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>All manufacturer records inclusive of; copies of authorizations, claims, inventories, notices, reports, returns and schedules will be retained in the Tribal Compliance Department in accordance with Tribal confidentiality policy.</text>
+        </para>
+      </para>
+      <para>
+        <num>(l)</num>
+        <heading>Cigarette Manufacturing Fee.</heading>
+        <text>Each manufacturer shall pay a Cigarette Manufacturing Fee on finished product which is assessed at <strong>$7.00 per case</strong> fee payable to the TGF office within the first week of each month. The submission of the monthly manufacturing report may be attached at time of payment or hand delivered to Compliance Office.</text>
+        <text>The payment of the fee shall be made within five (5) business days from the last day of the month. Failure to submit the report or to pay the fee on time shall result in a late fee of 5% of the Manufacturing Fee due. A failure to pay the fee for more than ten (10) business days will result in a 10% late charge and may serve as a basis for revocation or suspension of the license.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <heading>Packages, Marks, Labels and Notices.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Marks, Labels and Notices; Every package of tobacco products shall bear the marks, Medical Director Warning label, and other labels and notices, if any, that the Tribal Council prescribes.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Indecent or Immoral Materials Prohibited; No indecent or immoral picture, print, or representation shall be attached to or stamped, marked, written or printed on any package of tobacco products.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The manufacturer shall adhere to all safety regulations related to the use of fire-safe cigarette papers.</text>
+        </para>
+      </para>
+      <para>
+        <num>(n)</num>
+        <heading>Discontinuance of Operations.</heading>
+        <text>Every manufacturer of tobacco products who desires to discontinue operations under this part shall dispose of all tobacco products on hand and make a concluding inventory and concluding report. The manufacturer shall surrender his license with all concluding documents to the Compliance department as notice of such discontinuance.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <heading>Suspension and revocation of License.</heading>
+        <text>Whereas the Compliance Department has reason to believe that a manufacturer of tobacco products has not in good faith complied with the Tribal Ordinance, rules and regulations and with intent to defraud, or has failed to disclose any material information required or made any material false statements in the application for the license or has failed to maintain his promises in such manner as to protect the revenue, the Compliance Director shall do an investigation and at the conclusion of such investigation shall present all pertinent findings and a recommendation to the Tribal General Counsel See <strong>Section 7.</strong></text>
+      </para>
+      <annotations>
+        <annotation app="2004-07-09" doc="Saint Regis Mohawk Tribe Res. No. 2004-40" eff="2004-07-09" path="attachments|law|4" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>4.05.050</num>
+      <heading>Wholesalers</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Requirement for a License.</heading>
+        <text>Every person who shall engage in the business of buying and selling of tobacco products, except for his or her own personal consumption or use, shall qualify as a wholesaler of tobacco products in accordance with the provisions of this part.</text>
+        <text>Person's intent on participating in the tobacco products business by purchasing quantities of finished tobacco products from manufactures and/or other wholesalers for purpose of resale and distribution to other wholesalers and/or retailers must be a Saint Regis Tribal Licensed Wholesaler possessing a valid tobacco wholesale license.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Granting of Licenses.</heading>
+        <text>The receipt of a license to wholesale cigarettes within the boundaries of the Saint Regis Mohawk Reservation is a privilege granted by the Tribal Council on behalf of the Tribe. All actions by the Tribal Council regarding the Ordinance will be taken in the best interest of the Tribe and taken to insure the continuation of successful tobacco activities that are important to the economic development of the Tribe.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>License Approval or Denial.</heading>
+        <text>The Tribal Council may reject the application if such rejection is determined to be in the best interest of the Tribe. Reasons for rejection include, but are not limited too, the submission of incomplete or false information in the application; the failure to meet the minimum criteria for the facility; a determination that the individual applicant or, in the case of a business entity, a partner, officer, director, stockholder whose past behavior would indicate that they would not likely comply with <cite path="|4.05">this chapter</cite>, or pay the required fees to the Tribe; or otherwise fail to operate the facility in an acceptable manner; or a determination that the approval will adversely impact the economic development of the Tribe or adversely impact the Tribe's relationship with other sovereign entities; or discrepancies are discovered during the investigation process of the applicant. If there is reason to believe that the applicant is not entitled to a license, the Compliance Director shall promptly notify the applicant of the contemplated denial and opportunity for a hearing with the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>License Renewal.</heading>
+        <text>The Saint Regis Mohawk Tribe reserves the right to deny any request for a license renewal and within 30-days before license expiration date the Compliance Department will notify Licensee by mail and include a renewal application. Upon return of renewal application the Compliance Department will review the licensees history, a recommendation is submitted with the application to the Tribal Council and a decision to renew is rendered by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Application for a License.</heading>
+        <para>
+          <num>(1)</num>
+          <text>An individual applicant must be twenty-one (21) years of age or more and a member of the Saint Regis Mohawk Tribe. In the case of a business entity or partnership, the applicant must be formed and operate pursuant to the laws and regulations of the Saint Regis Mohawk Tribe. They shall furnish with its application for license, a true copy of the articles of partnership or association, if any, or certificate of partnership or association.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The application form at Appendix B-2 must be completed and all requested information provided.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The applicant shall provide information regarding the facility in which he/she will conduct their business, his or her experience in tobacco sales, as well as information regarding the proposed wholesale activities including the proposed business relationships with cigarette manufacturers, distributors and retailers on the St. Regis Mohawk Reservation and other entities and individuals that are authorized to engage in tobacco related activities on other Indian Reservations.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Every applicant before commencing business as a tribally authorized Wholesaler will sign a <strong>'Tobacco Distribution Agreement'</strong> as shown in Appendix E.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Non-Native Businesses.</heading>
+        <text>In the event that a non-tribal entity seeks to do business with local business people they are required to possess a Tribal Vendors Permit. A Vendor Permit application will be filled out and after approval from the Tribal Council the Tribal Compliance Department will issue a Tribal Vendors Permit number, certificate and a copy of the Saint Regis Mohawk Tribal Tobacco Ordinance as prescribed in Section 3 (a).</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Sale and Distribution of Tobacco Products.</heading>
+        <para>
+          <num>(1)</num>
+          <text>A Tribally licensed tobacco wholesaler or vendor may purchase cigarettes or other tobacco products from St. Regis Mohawk licensed manufacturers, from other Native American manufacturers or distributors or wholesalers on a Nation- to-Nation basis or from Non-Native American licensed manufacturers, wholesalers or distributors.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A Tribally licensed wholesaler or vendor may sell cigarettes to only authorized tribally licensed retailers in accordance with Section 6. The licensed wholesaler or vendor may sell such tobacco products to retailers within the Saint Regis Mohawk Reservation or in Nation-to-Nation sales on Indian reservations within the United States to Native individuals/businesses on other Indian Reservations whose operation is in accordance with their respective Tribal laws and regulations. The Compliance Office shall provide each wholesaler or vendor with a list of currently authorized Saint Regis Mohawk Tribal licensed retailers. The Compliance Department reserves the opportunity to discuss and review with the wholesalers the validity of these tribal authorizations.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>Annual Licensing Fee.</heading>
+        <text>Each wholesaler shall pay an annual minimum fee of $1,500. Within 30-days of expiration a notice will be given to Licensee for renewal purposes. Should a lapse in license coverage occur, business must cease and complete licensing process will be required. Any business conducted without a license will be deemed in violation of <cite path="|4.05">this chapter</cite> and will be subject to Fines and Penalties.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>
+          <strong>
+            <u>Reporting Requirement</u>
+          </strong>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>Each licensed wholesaler shall submit a monthly report providing the amount arettes and tobacco products sold during the reporting period. This information may be used by the Compliance Office to verify that sales were made only to authorized persons and that all appropriate fees have been paid to the Tribe.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Compliance Office, may, at any time, review records, request an inventory of tobacco products on-hand and request information on sales to licensed retailers and Nation-to-Nation sales. The Compliance Office may communicate with manufacturers and suppliers regarding tobacco products furnished to a Wholesaler to determine that all appropriate tobacco fees are paid.</text>
+        </para>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>
+          <strong>
+            <u>Tribal Tobacco Fees</u>
+          </strong>
+          <strong>- Retail and Nation to Nation</strong>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>The Tribe imposes a tribal tobacco fee on all tobacco products sold in any manner including retail sales on the reservation or sold Nation-to-Nation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Wholesalers will be liable for the payment of the Tobacco Fee stamps and shall pay the tobacco Fee to the Tribe.</text>
+          <text>A retail Tobacco Fee Stamp shall be affixed to each carton, case or plastic bag of all tobacco products sold to retailers on the Saint Regis Mohawk Reservation. The cost of said stamps will be assessed based on a 3 tiered system:</text>
+          <para>
+            <num>(A)</num>
+            <text>Domestic brand cigarettes manufactured on this territory and sold on this territory will be priced at $2.00 per carton.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Other native manufactured cigarettes brought into and sold on this territory will be priced at $3.00 per carton.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>National brand cigarettes brought in and sold in this territory will be priced at $4.00 per carton.</text>
+          </para>
+          <text>A set of "Nation-to-Nation" stamps shall be affixed to each case of cigarettes manufactured on the Reservation and sold in a "Nation-to-Nation" sale. The cost per set of such stamp shall be $12.50/per case of 50 cartons and $15.00 per case of 60 cartons. One stamp must be used to seal the top and one to seal the bottom of each master case.</text>
+          <text>Such stamps shall be affixed and cancelled as prescribed by the Compliance Office. Stamps will be available for pick up from the Tribe on a daily basis with 24hr. prior notification at the Compliance Department by authorized persons only.</text>
+          <text>No cigarettes may be sold, transported, or provided by wholesalers to retailers, sold "Nation-to-Nation" or be displayed in retail stores for sale without the appropriate tribal fee stamps properly affixed to the master case or carton.</text>
+          <text>Replacement of purchased stamps will be considered should fee stamps be subjected to unforeseen natural accidents for example; fire or water damage from water sprinklers or water pipes. Every occurrence will be presented to the Tribal Council and Compliance Department for consideration.</text>
+        </para>
+      </para>
+      <para name="j.~1">
+        <num>(k)</num>
+        <heading>Suspension and Revocation of License.</heading>
+        <text>Where the Compliance Department has reason to believe that a wholesaler of tobacco products has not in good faith complied with the Tribal Ordinance, rules and regulations and with intent to defraud, or has failed to disclose any material information required or made any material false statements in the application for the license or has failed to maintain his premises in such manner as to protect tribal revenue, the Compliance Director shall do an investigation and at the conclusion of such investigation shall present all pertinent findings and a recommendation to the Tribal General Counsel. See <strong>Section 7.</strong></text>
+      </para>
+      <annotations>
+        <annotation app="2004-07-09" doc="Saint Regis Mohawk Tribe Res. No. 2004-40" eff="2004-07-09" path="attachments|law|5" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>4.05.060</num>
+      <heading>Retail Sales</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Requirement for a License.</heading>
+        <text>Every person who shall engage in the business of retail selling of tobacco products or make retail sales, except for his or her own personal consumption or use, shall qualify as a retailer of tobacco products in accordance with the provisions of <cite path="|4.05">this chapter</cite>.</text>
+        <text>A license to engage in retail sales of tobacco products will only be granted to those persons whose principal business activity under such license will be the original applicant or designee and not engage in business as a retailer without an approved license issued by the Saint Regis Mohawk Tribal Council. Such license shall only be approved for those individuals who qualify and comply with the rules and regulations issued here under.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Application for a License.</heading>
+        <para>
+          <num>(1)</num>
+          <text>An individual applicant must be twenty-one (21) years of age or more and a member of the Saint Regis Mohawk Tribe. In the case of a business entity or partnership, the applicant must be formed and operated pursuant to the laws and regulations of the Saint Regis Mohawk Tribe shall furnish with its application for license, a true copy of the articles of partnership or association, if any, or certificate of partnership or association.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The application form at Appendix B-3 must be completed and all requested information provided.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The applicant should provide information regarding the facility in which they will conduct business, experience in tobacco sales, as well as information regarding proposed retail activities including proposed business relationships with cigarette distributors on and off the Saint Regis Mohawk Reservation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Granting of Licenses.</heading>
+        <text>The receipt of a license for the retail sale of cigarettes within the boundaries of the Saint Regis Mohawk Reservation is a privilege granted by the Tribal Council on behalf of the Tribe. All actions by the Tribal Council regarding the Ordinance will be taken in the best interest of the Tribe and taken to insure the continuation of successful tobacco activities that are important to the economic development of the Tribe.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>License Approval or Disapproval.</heading>
+        <text>The Tribal Council may reject the application if such rejection is determined to be in the best interest of the Tribe. Reasons for rejection include, but are not limited to, the submission of incomplete or false information in the application; the failure to meet the minimum criteria for the facility; a determination that the individual applicant or, in the case of a business entity, a partner, officer, director, stockholder is not likely to comply with <cite path="|4.05">this chapter</cite>, or pay the required fees to the Tribe; or otherwise fail to operate the facility in an acceptable manner; or a determination that the approval will adversely impact the economic development of the Tribe or adversely impact the Tribe's relationship with other sovereign entities; or discrepancies are discovered during the investigation process of the applicant. If there is reason to believe that the applicant is not entitled to a license, the Compliance Director shall promptly notify the applicant of the contemplated disapproval and opportunity for a hearing with the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>License Renewal.</heading>
+        <text>The annual renewal fee is $50.00. The Saint Regis Mohawk Tribe reserves the right to deny any request for a license renewal and within 30-days before license expiration date the Compliance Department will notify Licensee by mail and include a renewal application. Upon return of renewal application the Compliance Department will review the licensees history, a recommendation is submitted with the application to the Tribal Council and a decision to renew is rendered by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Retail Sales Operations.</heading>
+        <para>
+          <num>(1)</num>
+          <text>All licensed retailers will purchase their tobacco products only from tribally licensed wholesalers.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Sale of tobacco to persons under the age of eighteen (18) years old is prohibited.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Retail sales are made to customers for their use and consumption of tobacco products; retailers may not sell tobacco products to individuals intended for future resale.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>All tobacco products displayed for retail sales must have the appropriate tribal stamp affixed to the product.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Receipt of unstamped tobacco product from a wholesaler is prohibited under any circumstance.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Sale of unstamped cigarettes and tobacco products is prohibited and subject to fines and penalties.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>A written notice will be submitted to the Compliance office of all pre arranged sales or promotions of tobacco products, 30 days prior to sale or promotion. This will be comprised of starting and ending dates (not to exceed twice a year and no longer than 30 days) and prices of products. Business anniversary date is excluded.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Records and Reports.</heading>
+        <text>Each retailer shall maintain adequate records of all tobacco products purchased (including the amount purchased from each wholesaler). These records shall be available for inspection by the Compliance Office.</text>
+      </para>
+      <annotations>
+        <annotation app="2004-07-09" doc="Saint Regis Mohawk Tribe Res. No. 2004-40" eff="2004-07-09" path="attachments|law|6" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>4.05.070</num>
+      <heading>Investigation, Compliance, Penalties, and Suspension or Revocation of Licenses</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Required Compliance.</heading>
+        <text>Failure of a Tribal licensee to abide by the requirements of <cite path="|4.05">this chapter</cite> will subject the licensee to the penalties provided in <cite path="|4.05.070">this section</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Investigative Authority.</heading>
+        <text>The Compliance Office has the authority, responsibility and duty to investigate all potential violations of <cite path="|4.05">this chapter</cite>. The authority includes the right to inspect manufacturing, wholesaling and retail premises, request information and gather appropriate evidence of any violation.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Violation of the Ordinance.</heading>
+        <text>Any offense will be investigated by the Compliance Office and a Report of Investigation will be prepared and presented to the General Counsel. If, after reviewing the Report of Investigation and making any additional inquiries, the General Counsel believes there is reasonable basis to conclude any of the offenses or other violations of the Ordinance have occurred, the Report of Investigation (and other materials deemed appropriate by the General Counsel) will be forwarded to the Tribal Council for its review.</text>
+        <text>If, the Tribal Council has reason to believe such violation or violations have occurred, the Tribal Council shall issue an order stating the specific allegations and requesting such person to show cause within 5 working days as to why a fine should not be assessed or that the individuals license should not be revoked or suspended for a period the Tribal Council deems appropriate.</text>
+        <text>If, after hearing all the facts provided by the Compliance Office and the licensee as well as other relevant data, Tribal Council finds that such violation or violations did occur, the Tribal Council shall fine the licensee as per fines and penalties schedule plus an additional penalty based on the full loss of revenue to the Tribe in addition a suspension or revocation of licensing privileges. Such revocation or suspension shall be for a period the Tribal Council determines as warranted. Such fine shall be immediately payable in the manner prescribed by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Offenses (including but not limited to):</heading>
+        <text>
+          <ul>
+            <li>Sale of Cigarettes by a Manufacturer to Other than a Licensed Wholesaler (1<sup>st</sup>, 2<sup>nd</sup> or 3<sup>rd</sup> offense).</li>
+            <li>Sale of Cigarettes by a Wholesaler to Other than a Licensed Retailer or to Persons in a Nation-to-Nation sales (1<sup>st</sup>, 2<sup>nd</sup> or 3<sup>rd</sup> offense).</li>
+            <li>Sale, Transfer or Distribution of Cigarettes without the Tribal Stamp Affixed (1<sup>st</sup>, 2<sup>nd</sup> or 3<sup>rd</sup> offense).</li>
+            <li>Display of Unstamped Cigarettes for Sale in a Retail Store (1<sup>st</sup>, 2<sup>nd</sup> or 3<sup>rd</sup> offense).</li>
+            <li>Sale of Cigarettes to Persons Under Eighteen (18) Years of Age (1<sup>st</sup>, 2<sup>nd</sup> or 3<sup>rd</sup> offense).</li>
+            <li>Providing False Material, Information or Statements in a License Application.</li>
+            <li>Counterfeiting, fraud, forgery of any/all Tribal authorized documents (ex: license); Tribal issued fee stamps.</li>
+            <li>Internet Cigarette sales are strictly prohibited in and from the Akwesasne territory.</li>
+            <li>Any other violations that jeopardizes the Tribal revenue and/or the integrity of the Tribal Tobacco Ordinance.</li>
+            <li>Violation of the Unfettered Access clause.</li>
+            <li>Continued operation, after notification by the Compliance Department of a violation, subjects the violator to a $200.00 per day fine per license.</li>
+          </ul>
+        </text>
+        <text class="center">
+          <strong>
+            <u>Fines and Penalties</u>
+          </strong>
+        </text>
+        <text class="center">
+          <strong>
+            <em>Manufacturer</em>
+          </strong>
+        </text>
+        <text>
+          <strong>Sale of cigarettes by a Manufacturer to other than a Saint Regis Mohawk Tribal Licensed/Recognized Wholesaler.</strong>
+        </text>
+        <text>1<sup>st</sup> Offense -  Written Notice. Minimum $20,000.00 fine, permanent notice of the offense will be filed in the records of the offending manufacturer.</text>
+        <text>2<sup>nd</sup> Offense -  Automatic six-month suspension plus a $30,000.00 fine, permanent notice of the offence will be filed in the records of the offending manufacturer.</text>
+        <text>3<sup>rd</sup> and Final Offense -    $50,000.00 fine. Any licensed manufacturer who, if found guilty of a third time violation of selling cigarettes to other than a Tribal Licensed Wholesaler will have their license(s) revoked and no longer be able to operate a tobacco business on the territory of the Saint Regis Mohawk Reservation up to ten (10) years.</text>
+        <text><strong>Providing false material, information or statements in a license application</strong> whether discovery of such is before or after the granting of a license will be grounds for retraction or refusal of license. This will be accompanied with a waiting period of up to ten (10) years before re-applying for similar license.</text>
+        <text>
+          <strong>Counterfeiting, fraud, forgery of any/all Tribal authorized documents (ex: license); Tribal issued fee stamps.</strong>
+        </text>
+        <text>
+          <ul>
+            <li>Fine imposed plus interest, retroactive to start of violation.</li>
+            <li>Reimburse full amount of monies due to the Tribe plus 3 X damages.</li>
+            <li>Civil and Criminal charges will be filed on a case by case basis.</li>
+            <li>Immediate Revocation of <strong>"ALL"</strong> Tribal licenses.</li>
+          </ul>
+        </text>
+        <text>Any licensed manufacturer who, if found guilty of counterfeiting, fraud, forgery of any/all Tribal authorized documents (ex: license); Tribal issued fee stamps will have all their licenses revoked and no longer have the privilege to operate a tobacco business on the territory of the Saint Regis Mohawk Reservation for up to ten (10) years.</text>
+        <text>
+          <ul>
+            <li>Internet Cigarette sales are strictly prohibited in and from the Akwesasne territory.</li>
+            <li><cite path="|4.05">This chapter</cite> supersedes all previous versions but does not release any one entity from previous offenses, fines, and or penalties. All judgments will remain in effect.</li>
+            <li>Any other violations that jeopardizes the Tribal revenue and/or the integrity of the Tribal Tobacco Ordinance.</li>
+          </ul>
+        </text>
+        <text class="center">
+          <strong>
+            <u>Fines and Penalties</u>
+          </strong>
+        </text>
+        <text class="center">
+          <strong>
+            <em>WHOLESALER</em>
+          </strong>
+        </text>
+        <text>
+          <strong>Sale of tobacco products by a Wholesaler to other than a Saint Regis Mohawk Tribal licensed Retailer or other than native wholesalers or entities in a Nation- to-Nation sale.</strong>
+        </text>
+        <text>1<sup>st</sup> Offense -  Written notice, permanent notice of the offense will be filed in the records of the offending wholesaler.</text>
+        <text>2<sup>nd</sup> Offense -  Automatic suspension of license for six months plus a minimum $20,000.00 fine, permanent notice of the offence will be filed in the records of the offending wholesaler.</text>
+        <text>3<sup>rd</sup> and Final Offense -    $30,000.00 fine. Any licensed wholesaler who, if found guilty of a third time violation of selling cigarettes to other than a Tribal Licensed Wholesaler or retailer will have their license revoked and no longer operate a tobacco business on the territory of the Saint Regis Mohawk Reservation up to ten (10) years.</text>
+        <text>
+          <strong>The Willful Sale, transfer or distribution of cigarettes without the Tribal Fee Stamp.</strong>
+        </text>
+        <text>1<sup>st</sup> Offense -  Written notice and permanent notice of the offense will be filed in the records of the offending wholesaler.</text>
+        <text>2<sup>nd</sup> Offense -  Automatic six month suspension plus a minimum $20,000.00 fine, permanent notice of the offence will be filed in the records of the offending wholesaler.</text>
+        <text>3<sup>rd</sup> and Final Offense -    $30,000.00. Any licensed wholesaler who, if found guilty of a third time violation of selling, transferring or distributing cigarettes without the Tribal Fee Stamp will have their license revoked and not operate a tobacco business on the territory of the Saint Regis Mohawk Reservation up to ten (10)years.</text>
+        <text>
+          <strong>Counterfeiting, fraud, forgery of any/all Tribal authorized documents (ex: license); Tribal issued fee stamps.</strong>
+        </text>
+        <text>
+          <ul>
+            <li>Fine imposed plus interest, retroactive to start of violation.</li>
+            <li>Reimburse full amount of monies due to the Tribe plus 3 X damages.</li>
+            <li>Civil and Criminal charges will be filed on a case by case basis.</li>
+            <li>Immediate Revocation of <strong>"ALL"</strong> Tribal licenses.</li>
+          </ul>
+        </text>
+        <text>Any licensed wholesaler who, if found guilty of counterfeiting, fraud, forgery of any/all Tribal authorized documents (ex: license); Tribal issued fee stamps will have all their licenses revoked and no longer have the privilege to operate a tobacco business on the territory of the Saint Regis Mohawk Reservation for up to ten (10) years.</text>
+        <text>
+          <ul>
+            <li>
+              <strong>Internet Cigarette sales are strictly prohibited in and from the Akwesasne territory.</strong>
+            </li>
+            <li>
+              <strong><cite path="|4.05">This chapter</cite> does not release any one entity from previous offenses, fines, and or penalties. All present judgments will remain in effect,</strong>
+            </li>
+            <li>
+              <strong>Any other violations that jeopardizes the Tribal revenue and/or the integrity of the Tribal Tobacco Ordinance.</strong>
+            </li>
+          </ul>
+        </text>
+        <text class="center">
+          <strong>
+            <u>Fines and Penalties</u>
+          </strong>
+        </text>
+        <text class="center">
+          <strong>
+            <em>Retailer</em>
+          </strong>
+        </text>
+        <text>
+          <strong>Sale of tobacco products to persons under the age of eighteen years will result in the following fines and penalties:</strong>
+        </text>
+        <text>1<sup>st</sup> Offense -  Written notice, probation for six (6) months and a permanent notice of the offense will be filed in the records of the offending retailer.</text>
+        <text>2<sup>nd</sup> Offense -  Automatic six month suspension plus a minimum fine of $5,000.00 will be levied, notice given to all Tribal licensed wholesalers, and a permanent notice of the offence will be filed in the records of the offending retailer.</text>
+        <text>3<sup>rd</sup> Offense -  $10,000.00 fine. Any tribal licensed retailer who, if found guilty of a third time violation of selling tobacco products to persons under the age of eighteen years will have their license revoked and no longer have the privilege to operate a tobacco business on the territory of the Saint Regis Mohawk Reservation for up to ten (10) years.</text>
+        <text>
+          <strong>Display of Unstamped cigarettes for sale in a Retail store:</strong>
+        </text>
+        <text>1<sup>st</sup> Offense -  Written notice, and a permanent notice of the offense will be filed in the records of the offending retailer.</text>
+        <text>2<sup>nd</sup> Offense -  Automatic six month suspension plus a minimum fine of $5,000.00 will be levied; notice given to all tribally licensed wholesalers and a permanent notice of the offence will be filed in the records of the offending retailer.</text>
+        <text>3<sup>rd</sup> Offense -  $10,000.00 fine. Any tribal licensed retailer who, if found guilty of a third time violation of selling tobacco products to persons under the age of eighteen years will have their license revoked and no longer have the privilege to operate a tobacco business on the territory of the Saint Regis Mohawk Reservation for up to ten (10) years.</text>
+        <text>
+          <strong>Counterfeiting, fraud, forgery of any/all Tribal authorized documents (ex: license); Tribal issued fee stamps.</strong>
+        </text>
+        <text>
+          <ul>
+            <li>Fine imposed plus interest, retroactive to start of violation.</li>
+            <li>Reimburse full amount of monies due to the Tribe plus 3 X damages.</li>
+            <li>Civil and Criminal charges will be filed on a case by case basis.</li>
+            <li>Immediate Revocation of <strong>"ALL"</strong> Tribal licenses.</li>
+          </ul>
+        </text>
+        <text>Any licensed retailer who, if found guilty of counterfeiting, fraud, forgery of any/all Tribal authorized documents (ex: license); Tribal issued fee stamps will have all their licenses revoked and no longer have the privilege to operate a tobacco business on the territory of the Saint Regis Mohawk Reservation for up to ten (10) years.</text>
+        <text>
+          <ul>
+            <li>
+              <strong>Internet Cigarette sales are strictly prohibited in and from the Akwesasne territory.</strong>
+            </li>
+            <li>
+              <strong><cite path="|4.05">This chapter</cite> supersedes all previous versions but does not release any one entity from previous offenses, fines, and or penalties. All judgments will remain in effect.</strong>
+            </li>
+            <li>
+              <strong>Any other violations that jeopardizes the Tribal revenue and/or the integrity of the Tribal Tobacco Ordinance.</strong>
+            </li>
+          </ul>
+        </text>
+      </para>
+      <annotations>
+        <annotation app="2004-07-09" doc="Saint Regis Mohawk Tribe Res. No. 2004-40" eff="2004-07-09" path="attachments|law|7" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>4.05.080</num>
+      <heading>Misellaneous Provisions</heading>
+      <para>
+        <num>(a)</num>
+        <text>
+          <u>Number of Licenses.</u>
+        </text>
+        <text>No individual or entity shall be issued more than two licenses per DBA.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>
+          <u>Savings Clause.</u>
+        </text>
+        <text>If any provision of <cite path="|4.05">this chapter</cite> or its application is held to be invalid, the remainder of the ordinance shall not be affected.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>
+          <u>Adopt Regulations.</u>
+        </text>
+        <text>Compliance Department will propose and Tribal Council may adopt regulations and forms necessary to implement the provisions of <cite path="|4.05">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>
+          <u>Amendments</u>
+        </text>
+        <text>This Tribal ordinance may be amended via a Tribal Council Resolution to allow for any changes and updates should the Tribal Council or the Compliance Department deems it necessary.</text>
+      </para>
+      <annotations>
+        <annotation app="2004-07-09" doc="Saint Regis Mohawk Tribe Res. No. 2004-40" eff="2004-07-09" path="attachments|law|8" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>4.05.090</num>
+      <heading>Procedures for Compliance on Tobacco Fee Stamp(s), (C) Distribution &amp; Purchasing Process</heading>
+      <text>
+        <ul>
+          <li>All payments are to be made directly to the Tribal General Fund accounting office.</li>
+          <li>Payment must be accompanied with a customer copy of the remittance form for verification and payment credit.</li>
+          <li>Invoices must be paid within 30 days or before issuance of further stamps, which ever comes first.</li>
+          <li>A late interest rate shall be applied to outstanding invoices after 30 days.</li>
+          <li>The following quantities shall not be exceeded without payment in full on any outstanding invoices:
+            <ul style="list-style-type: none;"><li>Tobacco fee stamps - will not exceed 10,000 stamps per invoice</li><li>Nation-to-Nation permit seal stamps - will not exceed 4 rolls (500 sets per roll) per invoice</li></ul>
+          </li>
+          <li>Wholesalers (or designee) are authorized to pay for stamps at time of pick up.</li>
+          <li>No further issuance of stamps will occur if the above conditions are not satisfied.</li>
+        </ul>
+      </text>
+      <annotations>
+        <annotation app="2004-07-09" doc="Saint Regis Mohawk Tribe Res. No. 2004-40" eff="2004-07-09" path="attachments|law|9" type="History"/>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -474,7 +1141,7 @@
     <section>
       <num>4.06.100</num>
       <heading>Tribal Permit Reporting</heading>
-      <text>A Tribal Permit to sell or distribute gasoline fuel and other petroleum products shall be applied annually, on or before the 30th day of June. Applicants shall provide at the time of application a notarized statement setting forth the number of gallons and the amount of other petroleum products sold during the previous year, along with the gross income derived from such sales; and further, applicants shall provide the names of all employees and amount of income earned by each. The records provided pursuant to <cite path="§7" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this section</cite> are confidential and shall not be available to any person other that the Tribal Council and Tribal Administator.</text>
+      <text>A Tribal Permit to sell or distribute gasoline fuel and other petroleum products shall be applied annually, on or before the 30th day of June. Applicants shall provide at the time of application a notarized statement setting forth the number of gallons and the amount of other petroleum products sold during the previous year, along with the gross income derived from such sales; and further, applicants shall provide the names of all employees and amount of income earned by each. The records provided pursuant to <cite path="attachments|law|IV|7" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this section</cite> are confidential and shall not be available to any person other that the Tribal Council and Tribal Administator.</text>
       <annotations>
         <annotation app="1991-07-16" doc="Saint Regis Mohawk Tribe Res. No. 1991-50" eff="1991-07-16" path="attachments|law|IV|7" type="History"/>
       </annotations>

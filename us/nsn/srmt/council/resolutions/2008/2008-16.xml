@@ -124,7 +124,7 @@
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.05.040"/>
       <num codify:value="2.05.040">IV</num>
       <heading>Suspension of Rules</heading>
-      <text>Except as provided in <code-cite path="§VI" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 6</code-cite>, Rule 4(b), the Appellate Court may, upon motion for good cause shown, suspend the requirements or provision of any of these Rules in a particular case, and may order proceedings accordingly within its discretion. These Rules shall be liberally construed in the furtherance of justice.</text>
+      <text>Except as provided in <code-cite path="attachments|law|VI" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 6</code-cite>, Rule 4(b), the Appellate Court may, upon motion for good cause shown, suspend the requirements or provision of any of these Rules in a particular case, and may order proceedings accordingly within its discretion. These Rules shall be liberally construed in the furtherance of justice.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.05.050"/>
@@ -133,12 +133,12 @@
       <para>
         <num>A.</num>
         <text>Filings; Form of Papers; Number of Copies.</text>
-        <text>All papers required or permitted to be filed in the Appellate Court shall be filed with the Clerk of the Appellate Court. All papers filed shall be typewritten and double spaced. Quotations may be single spaced. The paper shall contain a caption stating the Saint Regis Mohawk Tribal Appellate Court, the title of the case, the case number and a brief descriptive title. All filings, except those provided by <code-cite path="§X" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 10</code-cite>, Rule 8, shall consist of an original and four (4) copies. Filing may be accomplished by certified mail addressed to the Clerk, but filing shall not be made timely unless the papers are received and stamped by the Clerk within the time scheduled for filing.</text>
+        <text>All papers required or permitted to be filed in the Appellate Court shall be filed with the Clerk of the Appellate Court. All papers filed shall be typewritten and double spaced. Quotations may be single spaced. The paper shall contain a caption stating the Saint Regis Mohawk Tribal Appellate Court, the title of the case, the case number and a brief descriptive title. All filings, except those provided by <code-cite path="attachments|law|X" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 10</code-cite>, Rule 8, shall consist of an original and four (4) copies. Filing may be accomplished by certified mail addressed to the Clerk, but filing shall not be made timely unless the papers are received and stamped by the Clerk within the time scheduled for filing.</text>
       </para>
       <para>
         <num>B.</num>
         <text>Service of All Papers Required; Notice By the Court Manner of Service</text>
-        <text>Copies of all papers filed by any party shall be served by a party or person acting for him or her, who is over the age of eighteen (18), on all other parties to the appeal at or before the time of filing. This Rule shall not apply to the transcript filed pursuant to <code-cite path="§X" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 10</code-cite>, Rule 8. Service may be personal or by mail. Personal service includes delivery of the copy to counsel, or a clerk, or other responsible person over the age of eighteen (18) at the office of counsel, or to any pro per party. Service by mail is complete upon mailing. Service of copies of notice and papers that the Clerk of the Appellate Court must serve on parties to the appeal shall also be made in accordance with the foregoing.</text>
+        <text>Copies of all papers filed by any party shall be served by a party or person acting for him or her, who is over the age of eighteen (18), on all other parties to the appeal at or before the time of filing. This Rule shall not apply to the transcript filed pursuant to <code-cite path="attachments|law|X" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 10</code-cite>, Rule 8. Service may be personal or by mail. Personal service includes delivery of the copy to counsel, or a clerk, or other responsible person over the age of eighteen (18) at the office of counsel, or to any pro per party. Service by mail is complete upon mailing. Service of copies of notice and papers that the Clerk of the Appellate Court must serve on parties to the appeal shall also be made in accordance with the foregoing.</text>
       </para>
       <para>
         <num>C.</num>
@@ -227,7 +227,7 @@
       <para>
         <num>D.</num>
         <text>Service of the Notice of Appeal</text>
-        <text>The Notice of Appeal and any motion or other papers filed in support of an appeal shall be served in accordance with <code-cite path="§V" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 5</code-cite>, Rule 3(<span codify:value="b">B</span>). Service shall be sufficient notwithstanding the death of a party or counsel.</text>
+        <text>The Notice of Appeal and any motion or other papers filed in support of an appeal shall be served in accordance with <code-cite path="attachments|law|V" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 5</code-cite>, Rule 3(<span codify:value="b">B</span>). Service shall be sufficient notwithstanding the death of a party or counsel.</text>
       </para>
       <para>
         <num>E.</num>
@@ -242,12 +242,12 @@
       <para>
         <num>A.</num>
         <text>Time; Personal Representative; Cross-Appeal</text>
-        <text>The Notice of Appeal required by <code-cite path="§VIII" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 8</code-cite>, Rule 6 shall be filed no later than thirty (30) days after the entry of the judgment from which the appeal is taken, unless a different time is provided by law. If a party dies during the time he is entitled to take an appeal, the appeal may be taken by his personal representative within ninety (90) days after the death of the party. A notice of cross-appeal may be filed by an opposing party within twenty (20) days from the date the Notice of Appeal is filed.</text>
+        <text>The Notice of Appeal required by <code-cite path="attachments|law|VIII" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 8</code-cite>, Rule 6 shall be filed no later than thirty (30) days after the entry of the judgment from which the appeal is taken, unless a different time is provided by law. If a party dies during the time he is entitled to take an appeal, the appeal may be taken by his personal representative within ninety (90) days after the death of the party. A notice of cross-appeal may be filed by an opposing party within twenty (20) days from the date the Notice of Appeal is filed.</text>
       </para>
       <para>
         <num>B.</num>
         <text>Extension of Appeal Time</text>
-        <text>When any of the following motions are timely filed, the time of appeal is extended, and times set forth in <code-cite path="§IX" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 9</code-cite>, Rule 7(a) shall be computed from the entry of any of the following orders:</text>
+        <text>When any of the following motions are timely filed, the time of appeal is extended, and times set forth in <code-cite path="attachments|law|IX" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 9</code-cite>, Rule 7(a) shall be computed from the entry of any of the following orders:</text>
         <para>
           <num>1.</num>
           <text>Granting or denying a motion for judgment notwithstanding the verdict.</text>
@@ -296,15 +296,15 @@
         </para>
         <para>
           <num>2.</num>
-          <text>Unless the entire transcript is to be included, the appellant shall, within the time provided in <code-cite path="§X" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 10</code-cite>, Rule 8(b)(1), file a description of the parts of the transcript which he intends to include in the record and a concise statement of the issues he intends to present on appeal, a copy of which shall be served by appellant on appellee. If the appellee deems a transcript of other parts of the proceedings to be necessary, he shall within ten (10) days after the service of the statement of the appellant, file a designation of additional parts to be included. If the appellant refuses to order such parts, he shall within five (5) days notify the appellee in writing of such refusal. The appellee may either order the parts or apply to the Appellate Court for an order requiring the appellant to do so. At any time prior to the submission to the Appellate Court for a decision, a party may apply to the Appellate Court to include any additional part of the transcript.</text>
+          <text>Unless the entire transcript is to be included, the appellant shall, within the time provided in <code-cite path="attachments|law|X" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 10</code-cite>, Rule 8(b)(1), file a description of the parts of the transcript which he intends to include in the record and a concise statement of the issues he intends to present on appeal, a copy of which shall be served by appellant on appellee. If the appellee deems a transcript of other parts of the proceedings to be necessary, he shall within ten (10) days after the service of the statement of the appellant, file a designation of additional parts to be included. If the appellant refuses to order such parts, he shall within five (5) days notify the appellee in writing of such refusal. The appellee may either order the parts or apply to the Appellate Court for an order requiring the appellant to do so. At any time prior to the submission to the Appellate Court for a decision, a party may apply to the Appellate Court to include any additional part of the transcript.</text>
         </para>
         <para>
           <num>3.</num>
-          <text>At the time of ordering, the party shall make satisfactory arrangement with the court reporter or transcriber for payment of the cost of the transcript and file a notice with the Appellate Court to that effect. Failure or delay in making satisfactory arrangements with the court reporter or transcriber shall be cause for such sanctions as the Appellate Court deems proper pursuant to <code-cite path="§XXX" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 30</code-cite>, Rule 28.</text>
+          <text>At the time of ordering, the party shall make satisfactory arrangement with the court reporter or transcriber for payment of the cost of the transcript and file a notice with the Appellate Court to that effect. Failure or delay in making satisfactory arrangements with the court reporter or transcriber shall be cause for such sanctions as the Appellate Court deems proper pursuant to <code-cite path="attachments|law|XXX" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 30</code-cite>, Rule 28.</text>
         </para>
         <para>
           <num>4.</num>
-          <text>The appellant shall file an original and one copy of the transcript with the Tribal Court Clerk or administrative agency, within the period of time for transmitting the record stated in <code-cite path="§X" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 10</code-cite>, Rule 8 (a). Notice of the filing of the transcript shall be served by the appellant upon the other parties to the appeal. If there is one appellee, the Court Clerk shall mail a copy of the transcript to him or her. If there is more than one appellee, the copy of the transcript shall remain with the Court Clerk and shall be available for the use of all appellees and shall be released to one of the appellees only upon stipulations of all the appellees, or upon order of the court.</text>
+          <text>The appellant shall file an original and one copy of the transcript with the Tribal Court Clerk or administrative agency, within the period of time for transmitting the record stated in <code-cite path="attachments|law|X" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 10</code-cite>, Rule 8 (a). Notice of the filing of the transcript shall be served by the appellant upon the other parties to the appeal. If there is one appellee, the Court Clerk shall mail a copy of the transcript to him or her. If there is more than one appellee, the copy of the transcript shall remain with the Court Clerk and shall be available for the use of all appellees and shall be released to one of the appellees only upon stipulations of all the appellees, or upon order of the court.</text>
         </para>
         <para>
           <num>5.</num>
@@ -312,7 +312,7 @@
         </para>
         <para>
           <num>6.</num>
-          <text>The parties shall not include in the transcript any matter not essential to the decision of questions presented by the appeal. For any infraction of this Rule, the Appellate Court may impose sanctions pursuant to <code-cite path="§XXX" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 30</code-cite>, Rule 28.</text>
+          <text>The parties shall not include in the transcript any matter not essential to the decision of questions presented by the appeal. For any infraction of this Rule, the Appellate Court may impose sanctions pursuant to <code-cite path="attachments|law|XXX" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 30</code-cite>, Rule 28.</text>
         </para>
       </para>
       <para>
@@ -406,12 +406,12 @@
       <para>
         <num>C.</num>
         <text>Reply Brief</text>
-        <text>The appellant may file a reply brief, but it shall be confined to rebuttal of points argued in the appellee's brief. No further briefs may be filed except as provided in <code-cite path="§XIV" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 14</code-cite>, Rule 12.</text>
+        <text>The appellant may file a reply brief, but it shall be confined to rebuttal of points argued in the appellee's brief. No further briefs may be filed except as provided in <code-cite path="attachments|law|XIV" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 14</code-cite>, Rule 12.</text>
       </para>
       <para>
         <num>D.</num>
         <text>Reproduction of the Tribal Code Provisions, Tribal Council Regulations, Applicable Statues, Rules, Regulations and Instructions; The Appendix</text>
-        <text>If the determination of the issues presented requires the study of the Tribal Code provisions, Tribal Council Resolutions, rules, applicable statutes, ordinances, regulations or instructions given or refused, the relevant parts of any of the foregoing shall be reproduced in the brief or in an appendix to the brief. An appendix may include additional items of the record, as provided in <code-cite path="§X" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 10</code-cite>, Rule 8(a) (3). An appendix may include extended quotations from cases and authorities where quotations are required for proper presentation of the issues.</text>
+        <text>If the determination of the issues presented requires the study of the Tribal Code provisions, Tribal Council Resolutions, rules, applicable statutes, ordinances, regulations or instructions given or refused, the relevant parts of any of the foregoing shall be reproduced in the brief or in an appendix to the brief. An appendix may include additional items of the record, as provided in <code-cite path="attachments|law|X" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 10</code-cite>, Rule 8(a) (3). An appendix may include extended quotations from cases and authorities where quotations are required for proper presentation of the issues.</text>
       </para>
       <para>
         <num>E.</num>
@@ -431,7 +431,7 @@
       <para>
         <num>A.</num>
         <text>Time for Filing Briefs</text>
-        <text>The appellant shall file his brief and four (4) copies within thirty (30) days after the Clerk of the Appellate Court mails the notice required by <code-cite path="§XI" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 11</code-cite>, Rule 9(b). The appellee shall file his brief and four (4) copies within thirty (30) days after service of the appellant's brief. The appellant may file a reply brief and four (4) copies within fifteen (15) days after service of the appellee's brief, or the appellant may file a notice that no reply brief will be filed, at which time the appeal shall be "at issue." Otherwise, the appeal shall be "at issue" upon the filing of the reply brief or fifteen (15) days after service of the appellee's brief, whichever occurs first.</text>
+        <text>The appellant shall file his brief and four (4) copies within thirty (30) days after the Clerk of the Appellate Court mails the notice required by <code-cite path="attachments|law|XI" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 11</code-cite>, Rule 9(b). The appellee shall file his brief and four (4) copies within thirty (30) days after service of the appellant's brief. The appellant may file a reply brief and four (4) copies within fifteen (15) days after service of the appellee's brief, or the appellant may file a notice that no reply brief will be filed, at which time the appeal shall be "at issue." Otherwise, the appeal shall be "at issue" upon the filing of the reply brief or fifteen (15) days after service of the appellee's brief, whichever occurs first.</text>
       </para>
       <para>
         <num>B.</num>
@@ -448,13 +448,13 @@
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.05.140"/>
       <num codify:value="2.05.140">XIV</num>
       <heading>[Rule 12] Amicus Curiae</heading>
-      <text>An amicus curiae brief shall be filed only with permission of the Appellate Court. The motion shall identify the interest of the applicant, state that the applicant has read the briefs of the parties, and reason why applicant's amicus curiae brief is necessary. Any response to an amicus curiae brief shall be filed within fifteen (15) days after service. No further briefs shall be allowed. <code-cite path="§XII" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 12</code-cite>, Rule 10 shall govern the form of an amicus curiae brief.</text>
+      <text>An amicus curiae brief shall be filed only with permission of the Appellate Court. The motion shall identify the interest of the applicant, state that the applicant has read the briefs of the parties, and reason why applicant's amicus curiae brief is necessary. Any response to an amicus curiae brief shall be filed within fifteen (15) days after service. No further briefs shall be allowed. <code-cite path="attachments|law|XII" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 12</code-cite>, Rule 10 shall govern the form of an amicus curiae brief.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.05.150"/>
       <num codify:value="2.05.150">XV</num>
       <heading>[Rule 13] Supplemental Citation of Legal Authority</heading>
-      <text>Any party may supplement the citation of legal authority previously presented to his brief by filing with the Appellate Court a list of supplemental citations of legal authority. The list of citations shall identify by page number which portion or portions of the party's appeal brief is intended to be supplemented. Supplemental citations shall not be governed by <code-cite path="§XII" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 12</code-cite>, Rule 10(a) (2).</text>
+      <text>Any party may supplement the citation of legal authority previously presented to his brief by filing with the Appellate Court a list of supplemental citations of legal authority. The list of citations shall identify by page number which portion or portions of the party's appeal brief is intended to be supplemented. Supplemental citations shall not be governed by <code-cite path="attachments|law|XII" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 12</code-cite>, Rule 10(a) (2).</text>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.05.160"/>
@@ -469,7 +469,7 @@
       <para>
         <num>A.</num>
         <text>Appeal Granted may be scheduled for Oral Argument</text>
-        <text>The clerk of the Appellate Court shall notify the parties of the date, time and place at which oral argument will be heard at least twenty (20) days prior to the date scheduled for oral argument. Cases given priority pursuant to <code-cite path="§XXVIII" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 28</code-cite>, Rule 26 shall be scheduled as directed by the Appellate Court.</text>
+        <text>The clerk of the Appellate Court shall notify the parties of the date, time and place at which oral argument will be heard at least twenty (20) days prior to the date scheduled for oral argument. Cases given priority pursuant to <code-cite path="attachments|law|XXVIII" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 28</code-cite>, Rule 26 shall be scheduled as directed by the Appellate Court.</text>
       </para>
       <para>
         <num>B.</num>
@@ -491,7 +491,7 @@
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.05.180"/>
       <num codify:value="2.05.180">XVIII</num>
       <heading>[Rule 16] Notice of Decisions and Orders</heading>
-      <text>Immediately after a decision is rendered or an order is made in any appeal, the Clerk of the Appellate Court shall notify all attorneys of record, and any party not represented by an attorney pursuant to <code-cite path="§V" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 5</code-cite>, Rule 3(b). The notice shall state the date on which the decision was rendered or the order made, and shall include a copy of any opinion, memorandum, decision, or order respecting the decision. The date of notice shall be entered in the docket.</text>
+      <text>Immediately after a decision is rendered or an order is made in any appeal, the Clerk of the Appellate Court shall notify all attorneys of record, and any party not represented by an attorney pursuant to <code-cite path="attachments|law|V" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 5</code-cite>, Rule 3(b). The notice shall state the date on which the decision was rendered or the order made, and shall include a copy of any opinion, memorandum, decision, or order respecting the decision. The date of notice shall be entered in the docket.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.05.190"/>
@@ -512,7 +512,7 @@
         <text>Claim for Attorney's Fees</text>
         <para>
           <num>1.</num>
-          <text>When attorney's fees are claimed pursuant to statute, law, or contract, a request for allowance of attorney's fees in connection with the prosecution or defense of the appeal shall be by written motion filed and served prior to oral argument or submission of the appeal. If recovery of attorney's fees is allowed by the Appellate Court in its decision, a statement of the amount claimed for such fees may be included in the statement of costs prescribed by <code-cite path="§XIX" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 19</code-cite>, Rule 17(a).</text>
+          <text>When attorney's fees are claimed pursuant to statute, law, or contract, a request for allowance of attorney's fees in connection with the prosecution or defense of the appeal shall be by written motion filed and served prior to oral argument or submission of the appeal. If recovery of attorney's fees is allowed by the Appellate Court in its decision, a statement of the amount claimed for such fees may be included in the statement of costs prescribed by <code-cite path="attachments|law|XIX" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 19</code-cite>, Rule 17(a).</text>
         </para>
         <para>
           <num>2.</num>
@@ -596,7 +596,7 @@
         </para>
         <para>
           <num>3.</num>
-          <text>The papers making up the record on appeal, transmitted by the Clerk of the Tribal Court or administrative agency to the Appellate Court pursuant to <code-cite path="§X" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 10</code-cite>, Rule 8(a) (1), shall be returned with the mandate to the Clerk of the Court or to the administrative agency.</text>
+          <text>The papers making up the record on appeal, transmitted by the Clerk of the Tribal Court or administrative agency to the Appellate Court pursuant to <code-cite path="attachments|law|X" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 10</code-cite>, Rule 8(a) (1), shall be returned with the mandate to the Clerk of the Court or to the administrative agency.</text>
         </para>
       </para>
       <para>
@@ -721,7 +721,7 @@
       <para>
         <num>B.</num>
         <text>Service of Petition</text>
-        <text>The petition for a writ of mandamus or of prohibition shall be served on the respondent judge, and if not a judge, then on the party against whom the writ is sought, and upon all parties to the action in the Court or administrative agency pursuant to <code-cite path="§V" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 5</code-cite>, Rule 3.</text>
+        <text>The petition for a writ of mandamus or of prohibition shall be served on the respondent judge, and if not a judge, then on the party against whom the writ is sought, and upon all parties to the action in the Court or administrative agency pursuant to <code-cite path="attachments|law|V" doc="Saint Regis Mohawk Tribe Res. No. 2008-16">Section 5</code-cite>, Rule 3.</text>
       </para>
       <para>
         <num>C.</num>

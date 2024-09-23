@@ -473,7 +473,7 @@
       <num codify:value="2.04.260">XXVI</num>
       <heading>[Rule 23] Witnesses; Competence; Personal Knowledge</heading>
       <text>Every person is competent to testify except as otherwise provided by the Rules or by statute.</text>
-      <text>A witness may not testify about a matter unless it is shown that the witness has personal knowledge about the matter. Such a showing may, but need not, consist of the witness' own testimony. The Rule is subject to <code-cite path="§XLVI" doc="Saint Regis Mohawk Tribe Res. No. 2008-17">Section 46</code-cite>; Rule 43, regarding opinion testimony of experts.</text>
+      <text>A witness may not testify about a matter unless it is shown that the witness has personal knowledge about the matter. Such a showing may, but need not, consist of the witness' own testimony. The Rule is subject to <code-cite path="attachments|law|XLVI" doc="Saint Regis Mohawk Tribe Res. No. 2008-17">Section 46</code-cite>; Rule 43, regarding opinion testimony of experts.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.270"/>
@@ -594,7 +594,7 @@
       <para>
         <num>B.</num>
         <text>Evidence of a prior inconsistent statement made by a witness is not admissible unless the witness is given an opportunity to explain or deny it, and the opposing party is afforded an opportunity to interrogate the witness.</text>
-        <text>The Rule does not apply to the Admissions by the Party Opponent covered under the Saint Regis Mohawk Rules of Evidence, <code-cite path="§XL" doc="Saint Regis Mohawk Tribe Res. No. 2008-17">Section 40</code-cite>, Rule 37 (<span codify:value="b">B</span>).</text>
+        <text>The Rule does not apply to the Admissions by the Party Opponent covered under the Saint Regis Mohawk Rules of Evidence, <code-cite path="attachments|law|XL" doc="Saint Regis Mohawk Tribe Res. No. 2008-17">Section 40</code-cite>, Rule 37 (<span codify:value="b">B</span>).</text>
       </para>
     </section>
     <section>
@@ -636,7 +636,7 @@
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.380"/>
       <num codify:value="2.04.380">XXXVIII</num>
       <heading>[Rule 35] Hearsay: Definitions</heading>
-      <text>The following definitions apply to <code-cite path="§XXXVIII" doc="Saint Regis Mohawk Tribe Res. No. 2008-17">this section</code-cite>.</text>
+      <text>The following definitions apply to <code-cite path="attachments|law|XXXVIII" doc="Saint Regis Mohawk Tribe Res. No. 2008-17">this section</code-cite>.</text>
       <para>
         <num>A.</num>
         <text>A "Statement" is</text>
@@ -806,7 +806,7 @@
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.440"/>
       <num codify:value="2.04.440">XLIV</num>
       <heading>[Rule 41] Attacking and Supporting Credibility of Declarant</heading>
-      <text>When a hearsay statement, or statement defined in <code-cite path="§XL" doc="Saint Regis Mohawk Tribe Res. No. 2008-17">Section 40</code-cite>, Rule 37 <span codify:value="(b)">B.</span> (1-4), has been admitted into evidence, the credibility of the declarant may be attacked, and if attacked may be supported, by any evidence which would have been admissible for such purposes had the declarant testified. Evidence of a statement or conduct by the declarant at any time, inconsistent with the declarant's hearsay statement is not subject to any requirement that the declarant may have been afforded an opportunity to deny or explain. If the party against whom a hearsay statement has been admitted calls the declarant as a witness, the party is entitled to examine the declarant on the statement as if under cross examination.</text>
+      <text>When a hearsay statement, or statement defined in <code-cite path="attachments|law|XL" doc="Saint Regis Mohawk Tribe Res. No. 2008-17">Section 40</code-cite>, Rule 37 <span codify:value="(b)">B.</span> (1-4), has been admitted into evidence, the credibility of the declarant may be attacked, and if attacked may be supported, by any evidence which would have been admissible for such purposes had the declarant testified. Evidence of a statement or conduct by the declarant at any time, inconsistent with the declarant's hearsay statement is not subject to any requirement that the declarant may have been afforded an opportunity to deny or explain. If the party against whom a hearsay statement has been admitted calls the declarant as a witness, the party is entitled to examine the declarant on the statement as if under cross examination.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|2.04.450"/>
