@@ -13,9 +13,10 @@
       <law-git>https://github.com/srmt-nsn/law.git</law-git>
       <html>https://law.srmt-nsn.gov</html>
     </canonical-urls>
+    <history-start>2024-06-02</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="srmt-nsn/law-xml" commit="0f5b287b01f97a2f58d615de8bbf5f4d37a7ca08"/>
+        <repository name="srmt-nsn/law-xml" commit="bd36b9a59ce9878dd7c985a3179a1881990236cd"/>
       </repositories>
       <platform version="2.14.4" reproducible="false"/>
       <build-date>2024-09-23</build-date>
