@@ -229,7 +229,7 @@
       <para>
         <num>i.</num>
         <heading>Distribution of Manufactured Cigarettes.</heading>
-        <text>A Tribally licensed manufacturer may sell its cigarettes to only authorized tribally licensed wholesalers in accordance with Section 5. The licensed wholesaler may sell such manufacturer's products to retailers within the Saint Regis Mohawk Reservation or in Nation-to-Nation sales within the United States to only those individuals/businesses on other Indian Reservations whose operation is in accordance with their respective Tribal laws and regulations. The Compliance Office shall provide each manufacturer with a list of currently authorized Saint Regis Mohawk Tribal licensed wholesalers.</text>
+        <text>A Tribally licensed manufacturer may sell its cigarettes to only authorized tribally licensed wholesalers in accordance with <code-cite path="|attachments|law|5" doc="Saint Regis Mohawk Tribe Res. No. 2004-40">Section 5</code-cite>. The licensed wholesaler may sell such manufacturer's products to retailers within the Saint Regis Mohawk Reservation or in Nation-to-Nation sales within the United States to only those individuals/businesses on other Indian Reservations whose operation is in accordance with their respective Tribal laws and regulations. The Compliance Office shall provide each manufacturer with a list of currently authorized Saint Regis Mohawk Tribal licensed wholesalers.</text>
       </para>
       <para>
         <num>j.</num>
@@ -287,7 +287,7 @@
       <para>
         <num>o.</num>
         <heading>Suspension and revocation of License.</heading>
-        <text>Whereas the Compliance Department has reason to believe that a manufacturer of tobacco products has not in good faith complied with the Tribal Ordinance, rules and regulations and with intent to defraud, or has failed to disclose any material information required or made any material false statements in the application for the license or has failed to maintain his promises in such manner as to protect the revenue, the Compliance Director shall do an investigation and at the conclusion of such investigation shall present all pertinent findings and a recommendation to the Tribal General Counsel See <strong>Section 7.</strong></text>
+        <text>Whereas the Compliance Department has reason to believe that a manufacturer of tobacco products has not in good faith complied with the Tribal Ordinance, rules and regulations and with intent to defraud, or has failed to disclose any material information required or made any material false statements in the application for the license or has failed to maintain his promises in such manner as to protect the revenue, the Compliance Director shall do an investigation and at the conclusion of such investigation shall present all pertinent findings and a recommendation to the Tribal General Counsel See <strong><code-cite path="|attachments|law|7" doc="Saint Regis Mohawk Tribe Res. No. 2004-40">Section 7</code-cite>.</strong></text>
       </para>
     </section>
     <section>
@@ -338,7 +338,7 @@
       <para>
         <num>f.</num>
         <heading>Non-Native Businesses.</heading>
-        <text>In the event that a non-tribal entity seeks to do business with local business people they are required to possess a Tribal Vendors Permit. A Vendor Permit application will be filled out and after approval from the Tribal Council the Tribal Compliance Department will issue a Tribal Vendors Permit number, certificate and a copy of the Saint Regis Mohawk Tribal Tobacco Ordinance as prescribed in Section 3 (a).</text>
+        <text>In the event that a non-tribal entity seeks to do business with local business people they are required to possess a Tribal Vendors Permit. A Vendor Permit application will be filled out and after approval from the Tribal Council the Tribal Compliance Department will issue a Tribal Vendors Permit number, certificate and a copy of the Saint Regis Mohawk Tribal Tobacco Ordinance as prescribed in <code-cite path="|attachments|law|3|a." doc="Saint Regis Mohawk Tribe Res. No. 2004-40">Section 3 (a)</code-cite>.</text>
       </para>
       <para>
         <num>g.</num>
@@ -349,7 +349,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>A Tribally licensed wholesaler or vendor may sell cigarettes to only authorized tribally licensed retailers in accordance with Section 6. The licensed wholesaler or vendor may sell such tobacco products to retailers within the Saint Regis Mohawk Reservation or in Nation-to-Nation sales on Indian reservations within the United States to Native individuals/businesses on other Indian Reservations whose operation is in accordance with their respective Tribal laws and regulations. The Compliance Office shall provide each wholesaler or vendor with a list of currently authorized Saint Regis Mohawk Tribal licensed retailers. The Compliance Department reserves the opportunity to discuss and review with the wholesalers the validity of these tribal authorizations.</text>
+          <text>A Tribally licensed wholesaler or vendor may sell cigarettes to only authorized tribally licensed retailers in accordance with <code-cite path="|attachments|law|6" doc="Saint Regis Mohawk Tribe Res. No. 2004-40">Section 6</code-cite>. The licensed wholesaler or vendor may sell such tobacco products to retailers within the Saint Regis Mohawk Reservation or in Nation-to-Nation sales on Indian reservations within the United States to Native individuals/businesses on other Indian Reservations whose operation is in accordance with their respective Tribal laws and regulations. The Compliance Office shall provide each wholesaler or vendor with a list of currently authorized Saint Regis Mohawk Tribal licensed retailers. The Compliance Department reserves the opportunity to discuss and review with the wholesalers the validity of these tribal authorizations.</text>
         </para>
       </para>
       <para>
@@ -410,7 +410,7 @@
       <para name="j.~1">
         <num>j.</num>
         <heading>Suspension and Revocation of License.</heading>
-        <text>Where the Compliance Department has reason to believe that a wholesaler of tobacco products has not in good faith complied with the Tribal Ordinance, rules and regulations and with intent to defraud, or has failed to disclose any material information required or made any material false statements in the application for the license or has failed to maintain his premises in such manner as to protect tribal revenue, the Compliance Director shall do an investigation and at the conclusion of such investigation shall present all pertinent findings and a recommendation to the Tribal General Counsel. See <strong>Section 7.</strong></text>
+        <text>Where the Compliance Department has reason to believe that a wholesaler of tobacco products has not in good faith complied with the Tribal Ordinance, rules and regulations and with intent to defraud, or has failed to disclose any material information required or made any material false statements in the application for the license or has failed to maintain his premises in such manner as to protect tribal revenue, the Compliance Director shall do an investigation and at the conclusion of such investigation shall present all pertinent findings and a recommendation to the Tribal General Counsel. See <strong><code-cite path="|attachments|law|7" doc="Saint Regis Mohawk Tribe Res. No. 2004-40">Section 7</code-cite>.</strong></text>
       </para>
     </section>
     <section>
@@ -715,6 +715,7 @@
       </text>
     </section>
     <container>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|A"/>
       <prefix>Appendix</prefix>
       <num>A</num>
       <heading>DEFINITIONS</heading>

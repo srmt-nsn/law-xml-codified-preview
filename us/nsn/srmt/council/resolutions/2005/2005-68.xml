@@ -3,7 +3,6 @@
   <num>2005-68</num>
   <heading>Amendment to Tribal Tobacco Ordinance</heading>
   <meta>
-    <stub/>
     <effective>2005-08-29</effective>
     <history>
       <adopted>2005-08-29</adopted>
@@ -12,4 +11,78 @@
       <citation type="res" url="./adopted/2005-68.pdf">Res. No. 2005-68</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Saint Regis Mohawk Tribal Council is the duly recognized governing body of the St. Regis Mohawk Tribe and is responsible for promoting the health, safety, education and general welfare of all community members, and;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>by its virtue of its status as a Federally Recognized Tribe, the St. Regis Mohawk Tribe is authorized to regulate the sale, manufacturing and distribution of cigarettes and other tobacco products; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the St. Regis Mohawk Tribal Council deems it essential to the economic security, political integrity and general welfare of the St. Regis Mohawk Tribe to enact a comprehensive tobacco ordinance regulating the sale, distribution and manufacturing of cigarettes and other tobacco products; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on July 9, 2004 the St. Regis duly adopted the St. Regis Mohawk Tribe's Tobacco Ordinance by <cite doc="Saint Regis Mohawk Tribe Res. No. 2004-40">TCR#2004-40</cite> amending and superceding any previous tobacco ordinance; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>presently the Tribal Tobacco Ordinance does not apply to Native vendors within the boundaries of the ordinance to register with the St. Regis Mohawk Tribe for a Vendor's permit to ship or transport cigarettes, tobacco products and/or raw materials within the boundaries of this ordinance.</text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED THAT,</conjunction>
+      <text>the St. Regis Mohawk Tribe does hereby amend the Tribal Tobacco Ordinance adopted on July 9, 2004 by <cite doc="Saint Regis Mohawk Tribe Res. No. 2004-40" path="|attachments|law|3|f.">TCR#2004-40 "Section 3" – General Guidance, "Sub-Section F"</cite> to read as follows:</text>
+      <text>
+        <em>"Any person(s) who ships or transports cigarettes, tobacco products and/or raw materials to produce tobacco products within the boundaries of this ordinance shall make an application for a Tribal vendor's permit".</em>
+      </text>
+      <codify:replace doc="Saint Regis Mohawk Tribal Code of Law" path="4.05.030|(f)" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.05.030|(f)">
+        <para>
+          <num>(f)</num>
+          <text>Any person(s) who ships or transports cigarettes, tobacco products and/or raw materials to produce tobacco products within the boundaries of this ordinance shall make an application for a Tribal vendor's permit.</text>
+        </para>
+      </codify:replace>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>THE SAINT REGIS MOHAWK TRIBAL COUNCIL</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+          </tr>
+          <tr>
+            <td>Chief Barbara A. Lazore</td>
+            <td class="text-indent-2">Chief James W. Ransom</td>
+            <td class="text-indent-2">Chief Lorraine M. White</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>
+        <em>CERTIFICATION:</em>
+      </strong>
+      <em> This is to certify that the St. Regis Mohawk Tribal Council pursuant to the authority vested therein duly passed the above resolution.</em>
+    </text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>___________________________________</td>
+            <td class="text-indent-4">August 29, 2005</td>
+          </tr>
+          <tr>
+            <td>Patricia Thomas, Tribal Clerk</td>
+            <td class="text-indent-4">Date</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </procedural-data>
 </document>

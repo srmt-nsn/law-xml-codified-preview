@@ -12,4 +12,96 @@
       <citation type="res" url="./adopted/2006-19.pdf">Res. No. 2006-19</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Saint Regis Mohawk Tribal Council is the duly recognized governing body of the Saint Regis Mohawk Tribe and is responsible for promoting the health, safety, education and general welfare of all community members; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in 2000 the Tribal Council adopted <cite doc="Saint Regis Mohawk Tribe Res. No. 2000-30">TCR#2000-30</cite> regarding minimum pricing for tobacco products; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Tribal Council adopted <cite doc="Saint Regis Mohawk Tribe Res. No. 2006-08">TCR#2006-08</cite> to amend <cite doc="Saint Regis Mohawk Tribe Res. No. 2009-30">TCR#2000-30</cite> with language stating, "that market value may change over time due to rising production costs, cost of raw materials, and changes to regulatory fees"; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>later the Compliance Department proposed an additional amendment and <cite doc="Saint Regis Mohawk Tribe Res. No. 2006-12">TCR#2006-12</cite> was adopted establishing a "retail minimum price of locally manufactured tobacco products". This new language invalidated Section (6) Sub-Section (7) "the promotions and sales of tobacco product".</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>amended language to Section (6) Sub-Section (7) is required to eliminate the sales of untaxed product marked "U.S. Tax Exempt For Use Outside U.S." at local retail stores.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>proposed amendment language for Section (6) Sub-Section (7) reads as follows:</text>
+      <text>
+        <strong>"Retail sales of any brand of cigarettes that are originally intended for markets outside of the United States are strictly prohibited."</strong>
+      </text>
+    </recital>
+    <recital>
+      <conjunction>THEREFORE BE IT RESOLVED THAT,</conjunction>
+      <text>the Saint Regis Mohawk Tribal Council hereby adopts the above amended language to Section (6) Sub-Section (7) effective immediately.</text>
+    </recital>
+  </recitals>
+  <codify:replace doc="Saint Regis Mohawk Tribal Code of Law" path="4.05|A" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|A">
+    <container>
+      <prefix>Appendix</prefix>
+      <num>A</num>
+      <heading>DEFINITIONS</heading>
+      <text><strong>"Cigarettes"</strong> shall mean any roll for smoking made wholly or in part of tobacco, irrespective of size or shape and irrespective of the tobacco being flavored, adulterated, or mixed with any other ingredient, where such roll has a wrapper or cover made of paper or any other material other than tobacco.</text>
+      <text><strong>"Member"</strong> shall be defined as a person who is enrolled or who is eligible to be enrolled with the Saint Regis Mohawk Tribe.</text>
+      <text><strong>"Manufacturer of tobacco products"</strong> shall mean any person who manufactures cigars, cigarettes, smokeless tobacco, pipe tobacco or roll-your-own tobacco.</text>
+      <text><strong>"Manufacture"</strong> shall mean the processing of tobacco for sale as a cigarette, cigar and/ or the packaging of tobacco as, pipe tobacco or roll your own tobacco in tins or pouches.</text>
+      <text><strong>"Nation-to-Nation sale"</strong> shall mean distribution of tobacco products to other Native territories in the United States.</text>
+      <text><strong>"Retail sale" or "sale at retail"</strong> shall mean a sale to a consumer or to any other person for any purpose other than resale.</text>
+      <text><strong>"Retailer"</strong> shall mean a person or entity licensed by the Tribe to make retail sales of tobacco products within the territory of the Saint Regis Mohawk Reservation.</text>
+      <text><strong>"Roll-your-own tobacco"</strong> means any tobacco, which, because of its appearance, type, packaging, or labeling, is suitable for use and likely to be offered to, or purchased by, consumers as tobacco for making cigarettes.</text>
+      <text><strong>"Selling" or "Sale"</strong> shall mean any transfer of title or possession or both, exchange or barter, conditional or otherwise, in any manner or by any means whatever or any agreement therefore. Thus, in addition to cash and credit sales, the giving of cigarettes as samples, prizes or gifts, and the exchanging of cigarettes for any consideration other than money are also considered sales.</text>
+      <text><strong>"Tobacco products"</strong> means cigars, cigarettes, smokeless tobacco, pipe tobacco and roll-your- own tobacco.</text>
+      <text><strong>"Tribal Stamp" or "Tribal cigarette stamp"</strong> means any adhesive stamp, metered stamp, heat transfer stamp or other form of evidence of payment of Tribal cigarette fees as prescribed by <cite doc="Saint Regis Mohawk Tribal Code of Law" path="|4.05">this chapter</cite>.</text>
+      <text><strong>"Tribally Licensed Retailer"</strong> shall mean any retailer that is licensed by the SRMT And/or any Business that is approved by the SRMT (Tribal Council).</text>
+      <text><strong>"Wholesaler"</strong> shall mean an individual or entity licensed by the Tribe to buy, distribute or sell tobacco products to licensed retailers or to other persons tribally authorized for purposes of resale.</text>
+    </container>
+  </codify:replace>
+  <procedural-data>
+    <text>THE SAINT REGIS MOHAWK TRIBAL COUNCIL</text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+            <td class="text-indent-2">_____________________</td>
+          </tr>
+          <tr>
+            <td>Chief Barbara A. Lazore</td>
+            <td class="text-indent-2">Chief James W. Ransom</td>
+            <td class="text-indent-2">Chief Lorraine M. White</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <strong>
+        <em>CERTIFICATION:</em>
+      </strong>
+      <em> This is to certify that the St. Regis Mohawk Tribal Council pursuant to the authority vested therein duly passed the above resolution.</em>
+    </text>
+    <text>
+      <table class="layout-table">
+        <tbody>
+          <tr>
+            <td>___________________________________</td>
+            <td class="text-indent-4">03/20/2006</td>
+          </tr>
+          <tr>
+            <td>Patricia Thomas, Tribal Clerk</td>
+            <td class="text-indent-4">Date</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </procedural-data>
 </document>
