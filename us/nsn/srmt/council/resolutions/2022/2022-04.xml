@@ -8835,7 +8835,9 @@
       <attachment>
         <prefix>Appendix</prefix>
         <num>1</num>
-        <heading>Surface Water and Groundwater Quality Standards and Groundwater Effluent Limitations</heading>
+        <text>
+          <strong>Surface Water and Groundwater Quality Standards and Groundwater Effluent Limitations</strong>
+        </text>
         <para>
           <num>1</num>
           <heading>Water Quality Standards For Taste, Color, Odor Producing, Toxic And Other Deleterious Substances In Surface Water And Groundwater</heading>

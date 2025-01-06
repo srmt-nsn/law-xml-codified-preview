@@ -582,7 +582,9 @@
       <attachment>
         <prefix>APPENDIX</prefix>
         <num>A</num>
-        <heading>LOW IMPACT PESTICIDES</heading>
+        <text>
+          <strong>LOW IMPACT PESTICIDES</strong>
+        </text>
         <text>The following ingredients or types of pesticides are also considered low impact.</text>
         <para>
           <num>a.</num>
