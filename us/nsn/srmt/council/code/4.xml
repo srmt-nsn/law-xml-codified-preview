@@ -1055,7 +1055,7 @@
         <annotation app="2004-07-09" doc="Saint Regis Mohawk Tribe Res. No. 2004-40" eff="2004-07-09" path="attachments|law|9" type="History"/>
       </annotations>
     </section>
-    <attachment name="appendix">
+    <attachment>
       <prefix>Appendix</prefix>
       <num>A</num>
       <heading>DEFINITIONS</heading>

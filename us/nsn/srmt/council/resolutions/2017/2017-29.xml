@@ -122,12 +122,11 @@
     <heading>SAINT REGIS MOHAWK TRIBE AMBIENT AIR STANDARDS ON THE SAINT REGIS MOHAWK INDIAN RESERVATION</heading>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.01.010"/>
-      <num codify:value="5.01.010">I.</num>
+      <num codify:value="5.01.010">I</num>
       <heading codify:value="Ambient Air Quality Standards for PCBs">AMBIENT AIR QUALITY STANDARDS FOR PCBs</heading>
       <para>
         <num>A.</num>
-        <heading>Annual Standard</heading>
-        <text>The concentration of polychlorinated biphenyls (PCBs) in ambient air on the Reservation shall not exceed 0.5 ng/m<sup>3</sup> as measured on a rolling 12-month basis. Exceedance of this standard during any 12-month period shall be a violation of this standard.</text>
+        <text><strong>Annual Standard</strong> The concentration of polychlorinated biphenyls (PCBs) in ambient air on the Reservation shall not exceed 0.5 ng/m<sup>3</sup> as measured on a rolling 12-month basis. Exceedance of this standard during any 12-month period shall be a violation of this standard.</text>
       </para>
       <para>
         <num>B.</num>
@@ -138,7 +137,7 @@
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.01.020"/>
-      <num codify:value="5.01.020">II.</num>
+      <num codify:value="5.01.020">II</num>
       <heading codify:value="Prohibitions">PROHIBITIONS</heading>
       <para>
         <num>A.</num>
@@ -152,7 +151,7 @@
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.01.030"/>
-      <num codify:value="5.01.030">III.</num>
+      <num codify:value="5.01.030">III</num>
       <heading codify:value="Enforcement and Penalties">ENFORCEMENT AND PENALTIES</heading>
       <para>
         <num>A.</num>
@@ -167,7 +166,7 @@
         </para>
         <para>
           <num>3.</num>
-          <text>Except as provided in <code-cite path="attachments|law|IV." doc="Saint Regis Mohawk Tribe Res. No. 2017-29">section IV</code-cite> below (Emergency Abatement Orders), the Notice of Violation shall provide the alleged violator with at least ten (10) business days in which to submit a written response to the Notice.</text>
+          <text>Except as provided in <code-cite path="attachments|law|IV" doc="Saint Regis Mohawk Tribe Res. No. 2017-29">section IV</code-cite> below (Emergency Abatement Orders), the Notice of Violation shall provide the alleged violator with at least ten (10) business days in which to submit a written response to the Notice.</text>
         </para>
         <para>
           <num>4.</num>
@@ -179,7 +178,7 @@
         </para>
         <para>
           <num>6.</num>
-          <text>Failure to request either a Tribal Court hearing or resolution through a voluntary Administrative Consent Order within the time period specified in the Notice of Violation shall be deemed a waiver of both and grounds for issuance of a Unilateral Administrative Order as provided for in <code-cite path="attachments|law|III.|C." doc="Saint Regis Mohawk Tribe Res. No. 2017-29">section III. C</code-cite>.</text>
+          <text>Failure to request either a Tribal Court hearing or resolution through a voluntary Administrative Consent Order within the time period specified in the Notice of Violation shall be deemed a waiver of both and grounds for issuance of a Unilateral Administrative Order as provided for in <code-cite path="attachments|law|III|C." doc="Saint Regis Mohawk Tribe Res. No. 2017-29">section III. C</code-cite>.</text>
         </para>
       </para>
       <para>
@@ -230,7 +229,7 @@
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.01.040"/>
-      <num codify:value="5.01.040">IV.</num>
+      <num codify:value="5.01.040">IV</num>
       <heading codify:value="Emergency Abatement Order">EMERGENCY ABATEMENT ORDER</heading>
       <para>
         <num>A.</num>
@@ -240,7 +239,7 @@
       <para>
         <num>B.</num>
         <heading>Emergency Abatement Order</heading>
-        <text>An emergency abatement order shall include the information contained in a Notice of Violation issued pursuant to <code-cite path="attachments|law|III.|A." doc="Saint Regis Mohawk Tribe Res. No. 2017-29">section III. A.</code-cite> An emergency abatement order shall also identify:</text>
+        <text>An emergency abatement order shall include the information contained in a Notice of Violation issued pursuant to <code-cite path="attachments|law|III|A." doc="Saint Regis Mohawk Tribe Res. No. 2017-29">section III. A.</code-cite> An emergency abatement order shall also identify:</text>
         <para>
           <num>1.</num>
           <text>The grounds for believing that the violation or violations may pose an imminent and substantial endangerment to public health or the environment;</text>
@@ -270,14 +269,14 @@
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.01.050"/>
-      <num codify:value="5.01.050">V.</num>
+      <num codify:value="5.01.050">V</num>
       <heading codify:value="Tribal Implementation Plan">TRIBAL IMPLEMENTATION PLAN</heading>
       <text>The ambient air quality standards for PCBs set forth are in addition to and supplement the PCB air quality standard in Appendix C (<cite doc="Saint Regis Mohawk Tribe Res. No. 1989-19">TCR 1989-19</cite>) to the Tribal Implementation Plan and that standard remains in full force and effect.</text>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.01.060"/>
-      <num codify:value="5.01.060">VI.</num>
+      <num codify:value="5.01.060">VI</num>
       <heading codify:value="Definitions">DEFINITIONS</heading>
       <para>
         <num>A.</num>

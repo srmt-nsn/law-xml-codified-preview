@@ -12,8 +12,7 @@
       <heading>Ambient Air Quality Standards for PCBs</heading>
       <para>
         <num>(a)</num>
-        <heading>Annual Standard</heading>
-        <text>The concentration of polychlorinated biphenyls (PCBs) in ambient air on the Reservation shall not exceed 0.5 ng/m<sup>3</sup> as measured on a rolling 12-month basis. Exceedance of this standard during any 12-month period shall be a violation of this standard.</text>
+        <text><strong>Annual Standard</strong> The concentration of polychlorinated biphenyls (PCBs) in ambient air on the Reservation shall not exceed 0.5 ng/m<sup>3</sup> as measured on a rolling 12-month basis. Exceedance of this standard during any 12-month period shall be a violation of this standard.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -22,7 +21,7 @@
       </para>
       <annotations>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
-        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|I." type="History"/>
+        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|I" type="History"/>
       </annotations>
     </section>
     <section>
@@ -38,7 +37,7 @@
       </para>
       <annotations>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
-        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|II." type="History"/>
+        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|II" type="History"/>
       </annotations>
     </section>
     <section>
@@ -118,7 +117,7 @@
       </para>
       <annotations>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
-        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|III." type="History"/>
+        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|III" type="History"/>
       </annotations>
     </section>
     <section>
@@ -160,7 +159,7 @@
       </para>
       <annotations>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
-        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|IV." type="History"/>
+        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|IV" type="History"/>
       </annotations>
     </section>
     <section>
@@ -169,7 +168,7 @@
       <text>The ambient air quality standards for PCBs set forth are in addition to and supplement the PCB air quality standard in Appendix C (<cite doc="Saint Regis Mohawk Tribe Res. No. 1989-19">TCR 1989-19</cite>) to the Tribal Implementation Plan and that standard remains in full force and effect.</text>
       <annotations>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
-        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|V." type="History"/>
+        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|V" type="History"/>
       </annotations>
     </section>
     <section>
@@ -189,7 +188,7 @@
       </para>
       <annotations>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
-        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|VI." type="History"/>
+        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|VI" type="History"/>
       </annotations>
     </section>
   </container>
