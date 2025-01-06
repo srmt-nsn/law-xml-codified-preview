@@ -153,8 +153,8 @@
           <num>7.</num>
           <text>Protect cultural and ceremonial uses.</text>
         </para>
-        <text>The purpose of these water quality standards is to facilitate sovereign self-determination and the restoration and preservation of traditional hunting, fishing, gathering and cultural uses in, on and around Tribal Surface Waters. The Environment Division is committed to providing cleaner, safer water for all of creation. These water quality standards will in turn promote the general welfare and well-being of the community by allowing the Tribe and its members to utilize the water for traditional, cultural and ceremonial purposes. Water quality standards are not used to control, and are not invalidated by, natural background phenomena or acts of the Creator.</text>
-        <text>These purposes shall be accomplished by utilizing the standards set forth in the Tribe's Water Quality Standards as the basis for permitting and management process for point source discharges and nonpoint source generators, by using treatment technologies to control point sources and by adopting best management practices for nonpoint sources of pollution.</text>
+        <aftertext>The purpose of these water quality standards is to facilitate sovereign self-determination and the restoration and preservation of traditional hunting, fishing, gathering and cultural uses in, on and around Tribal Surface Waters. The Environment Division is committed to providing cleaner, safer water for all of creation. These water quality standards will in turn promote the general welfare and well-being of the community by allowing the Tribe and its members to utilize the water for traditional, cultural and ceremonial purposes. Water quality standards are not used to control, and are not invalidated by, natural background phenomena or acts of the Creator.</aftertext>
+        <aftertext>These purposes shall be accomplished by utilizing the standards set forth in the Tribe's Water Quality Standards as the basis for permitting and management process for point source discharges and nonpoint source generators, by using treatment technologies to control point sources and by adopting best management practices for nonpoint sources of pollution.</aftertext>
       </para>
       <para>
         <num>B.</num>
@@ -1023,7 +1023,7 @@
           <text>Class GSA</text>
           <text>The designated uses include: a source of potable mineral waters, or conversion to fresh potable waters, or as raw material for the manufacture of sodium chloride or its derivatives or similar products. Class GSA waters are saline ground waters.</text>
         </para>
-        <text>In addition to the classes specified above please see Table 1 below for addition information on Designated Uses.</text>
+        <aftertext>In addition to the classes specified above please see Table 1 below for addition information on Designated Uses.</aftertext>
       </para>
       <annotations>
         <annotation type="History">Res. No. 2016-67</annotation>

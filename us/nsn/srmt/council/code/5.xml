@@ -237,8 +237,8 @@
           <num>(7)</num>
           <text>Protect cultural and ceremonial uses.</text>
         </para>
-        <text>The purpose of these water quality standards is to facilitate sovereign self-determination and the restoration and preservation of traditional hunting, fishing, gathering and cultural uses in, on and around Tribal Surface Waters. The Environment Division is committed to providing cleaner, safer water for all of creation. These water quality standards will in turn promote the general welfare and well-being of the community by allowing the Tribe and its members to utilize the water for traditional, cultural and ceremonial purposes. Water quality standards are not used to control, and are not invalidated by, natural background phenomena or acts of the Creator.</text>
-        <text>These purposes shall be accomplished by utilizing the standards set forth in the Tribe's Water Quality Standards as the basis for permitting and management process for point source discharges and nonpoint source generators, by using treatment technologies to control point sources and by adopting best management practices for nonpoint sources of pollution.</text>
+        <aftertext>The purpose of these water quality standards is to facilitate sovereign self-determination and the restoration and preservation of traditional hunting, fishing, gathering and cultural uses in, on and around Tribal Surface Waters. The Environment Division is committed to providing cleaner, safer water for all of creation. These water quality standards will in turn promote the general welfare and well-being of the community by allowing the Tribe and its members to utilize the water for traditional, cultural and ceremonial purposes. Water quality standards are not used to control, and are not invalidated by, natural background phenomena or acts of the Creator.</aftertext>
+        <aftertext>These purposes shall be accomplished by utilizing the standards set forth in the Tribe's Water Quality Standards as the basis for permitting and management process for point source discharges and nonpoint source generators, by using treatment technologies to control point sources and by adopting best management practices for nonpoint sources of pollution.</aftertext>
       </para>
       <para>
         <num>(b)</num>
@@ -1107,7 +1107,7 @@
           <text>Class GSA</text>
           <text>The designated uses include: a source of potable mineral waters, or conversion to fresh potable waters, or as raw material for the manufacture of sodium chloride or its derivatives or similar products. Class GSA waters are saline ground waters.</text>
         </para>
-        <text>In addition to the classes specified above please see Table 1 below for addition information on Designated Uses.</text>
+        <aftertext>In addition to the classes specified above please see Table 1 below for addition information on Designated Uses.</aftertext>
       </para>
       <annotations>
         <annotation type="History">Res. No. 2016-67</annotation>
@@ -9926,7 +9926,7 @@
         <num>(c)</num>
         <text>EPA can implement a federal plan for the certification of applicators of RUPS where no other EPA-approved state or tribal applicator certification plan is in effect.</text>
       </para>
-      <text>The Tribe's strategy for regulating pesticide usage within its jurisdiction is to exercise option 3, relying upon EPA to certify RUP applicators. Additionally, the Tribe will exercise its sovereign right to regulate the use of General Use Pesticides (GUPS) within its jurisdiction through this regulation.</text>
+      <aftertext>The Tribe's strategy for regulating pesticide usage within its jurisdiction is to exercise option 3, relying upon EPA to certify RUP applicators. Additionally, the Tribe will exercise its sovereign right to regulate the use of General Use Pesticides (GUPS) within its jurisdiction through this regulation.</aftertext>
       <annotations>
         <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|1.0" type="History"/>
       </annotations>
@@ -10190,52 +10190,58 @@
       <num>5.04.210</num>
       <heading>Notification</heading>
       <text>Pesticide Applicators are required to provide notice of all pesticide use including all indoor and outdoor applications made in public and commercial buildings and for agricultural applications. Notification shall consist of posting signs on the property to be treated a minimum of 48-hours before application treatment and remain posted on the property a minimum of 24-hours after application. However, certain products may have labels with stricter notification requirements. In these particular instances the label directions must be followed.</text>
-      <text>Notification signage shall display the following information:</text>
       <para>
         <num>(a)</num>
-        <text>Indication that pesticides will be applied.</text>
+        <text>Notification signage shall display the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>Indication that pesticides will be applied.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The date of application.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Date the notice is given.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Date the notice expires, maximum of seven days.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Name and telephone number of a person who can give information about what was applied.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>EPA Registration number and full name of pesticide (product common name).</text>
+        </para>
       </para>
       <para>
         <num>(b)</num>
-        <text>The date of application.</text>
+        <text>Signage specifications are:</text>
+        <para>
+          <num>(1)</num>
+          <text><strong>Size</strong> - A minimum of one-foot by one-foot in dimension.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text><strong>Color</strong> - Dark lettering on a yellow background.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text><strong>Location</strong> - Posted in a conspicuous place along the principal street frontage of the property to be sprayed.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text><strong>Posted</strong> - At common access points of commercial buildings or apartment complexes.</text>
+        </para>
       </para>
-      <para>
-        <num>(c)</num>
-        <text>Date the notice is given.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Date the notice expires, maximum of seven days.</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>Name and telephone number of a person who can give information about what was applied.</text>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>EPA Registration number and full name of pesticide (product common name).</text>
-      </para>
-      <text>Signage specifications are:</text>
-      <para>
-        <num>(g)</num>
-        <text><strong>Size</strong> - A minimum of one-foot by one-foot in dimension.</text>
-      </para>
-      <para>
-        <num>(h)</num>
-        <text><strong>Color</strong> - Dark lettering on a yellow background.</text>
-      </para>
-      <para>
-        <num>(i)</num>
-        <text><strong>Location</strong> - Posted in a conspicuous place along the principal street frontage of the property to be sprayed.</text>
-      </para>
-      <para>
-        <num>(j)</num>
-        <text><strong>Posted</strong> - At common access points of commercial buildings or apartment complexes.</text>
-      </para>
-      <text>Private homeowners using pesticides in their own home and on their own property are not required to comply with notification requirements.</text>
-      <text>In addition to public posting, the applicator shall make written notification to the Saint Regis Mohawk Tribe, Environment Division of plans to apply pesticides. The Applicator is required to notify the Tribe a minimum of 48-hours in advance of an application. However, certain products may have labels with stricter notification requirements. In these particular instances the label directions must be followed.</text>
-      <text>Information to be provided to the Environment Division in the written notification shall consist of:</text>
-      <text>
+      <aftertext>Private homeowners using pesticides in their own home and on their own property are not required to comply with notification requirements.</aftertext>
+      <aftertext>In addition to public posting, the applicator shall make written notification to the Saint Regis Mohawk Tribe, Environment Division of plans to apply pesticides. The Applicator is required to notify the Tribe a minimum of 48-hours in advance of an application. However, certain products may have labels with stricter notification requirements. In these particular instances the label directions must be followed.</aftertext>
+      <aftertext>Information to be provided to the Environment Division in the written notification shall consist of:</aftertext>
+      <aftertext>
         <ul proof="needed">
           <li>Date or dates of pesticide use</li>
           <li>Full name of pesticide(s) product(s)</li>
@@ -10250,9 +10256,9 @@
           <li>E-mail address of applicator</li>
           <li>Applicator certification number</li>
         </ul>
-      </text>
+      </aftertext>
       <annotations>
-        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|11.1" type="History"/>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law" type="History"/>
       </annotations>
     </section>
     <section>
