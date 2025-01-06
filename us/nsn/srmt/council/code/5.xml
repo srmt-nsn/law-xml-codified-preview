@@ -1261,9 +1261,7 @@
     <attachment>
       <prefix>Appendix</prefix>
       <num>1</num>
-      <text>
-        <strong>Surface Water and Groundwater Quality Standards and Groundwater Effluent Limitations</strong>
-      </text>
+      <heading>Surface Water and Groundwater Quality Standards and Groundwater Effluent Limitations</heading>
       <para>
         <num>1</num>
         <heading>Water Quality Standards For Taste, Color, Odor Producing, Toxic And Other Deleterious Substances In Surface Water And Groundwater</heading>
@@ -10298,9 +10296,7 @@
     <attachment>
       <prefix>APPENDIX</prefix>
       <num>A</num>
-      <text>
-        <strong>LOW IMPACT PESTICIDES</strong>
-      </text>
+      <heading>LOW IMPACT PESTICIDES</heading>
       <text>The following ingredients or types of pesticides are also considered low impact.</text>
       <para>
         <num>a.</num>
