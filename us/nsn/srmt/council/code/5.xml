@@ -16,8 +16,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <heading>Short-Term Standard</heading>
-        <text>The concentration of PCBs in ambient air on the Reservation shall not exceed 5 ng/m<sup>3</sup> during any 24-hour period.</text>
+        <text><strong>Short-Term Standard</strong> The concentration of PCBs in ambient air on the Reservation shall not exceed 5 ng/m<sup>3</sup> during any 24-hour period.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
@@ -45,7 +44,9 @@
       <heading>Enforcement and Penalties</heading>
       <para>
         <num>(a)</num>
-        <heading>Notice of Violation</heading>
+        <text>
+          <strong>Notice of Violation</strong>
+        </text>
         <para>
           <num>(1)</num>
           <text>Upon determining that reasonable grounds exist for believing that a person may be causing or contributing to a violation of the annual standard, the short-term standard, or both, the Tribe shall issue a written Notice of Violation to such person.</text>
@@ -73,7 +74,9 @@
       </para>
       <para>
         <num>(b)</num>
-        <heading>Administrative Consent Order</heading>
+        <text>
+          <strong>Administrative Consent Order</strong>
+        </text>
         <para>
           <num>(1)</num>
           <text>Violations of the PCB ambient air quality standards may be resolved through an Administrative Consent Order, which is a written order executed by a person alleged to have violated a standard and the Tribe which resolves the violation by imposing corrective measures, requiring payment of a civil penalty, or both.</text>
@@ -85,7 +88,9 @@
       </para>
       <para>
         <num>(c)</num>
-        <heading>Unilateral Administrative Order</heading>
+        <text>
+          <strong>Unilateral Administrative Order</strong>
+        </text>
         <para>
           <num>(1)</num>
           <text>In the event that a person issued a Notice of Violation fails to provide a written response to the Notice within the time period specified in the Notice, or fails to request either a Tribal Court hearing or resolution through a voluntary Administrative Consent Order, the Tribe may issue a Unilateral Administrative Order.</text>
@@ -101,7 +106,9 @@
       </para>
       <para>
         <num>(d)</num>
-        <heading>Penalties</heading>
+        <text>
+          <strong>Penalties</strong>
+        </text>
         <para>
           <num>(1)</num>
           <text>Either the Tribal Court, after a finding that a violation has occurred, or the Tribe, in an Administrative Consent Order or Unilateral Administrative Order, may impose a civil penalty for each violation.</text>
@@ -125,13 +132,11 @@
       <heading>Emergency Abatement Order</heading>
       <para>
         <num>(a)</num>
-        <heading>Emergency Finding</heading>
-        <text>Upon finding that reasonable grounds exist for believing that a violation or violations of a PCB standard may pose an imminent and substantial endangerment to public health or the environment, the Tribe may issue a written emergency abatement order to any person causing or contributing to such violation(s).</text>
+        <text><strong>Emergency Finding</strong> Upon finding that reasonable grounds exist for believing that a violation or violations of a PCB standard may pose an imminent and substantial endangerment to public health or the environment, the Tribe may issue a written emergency abatement order to any person causing or contributing to such violation(s).</text>
       </para>
       <para>
         <num>(b)</num>
-        <heading>Emergency Abatement Order</heading>
-        <text>An emergency abatement order shall include the information contained in a Notice of Violation issued pursuant to <cite path="|5.01.030|(a)">Section 5.01.030(a)</cite> An emergency abatement order shall also identify:</text>
+        <text><strong>Emergency Abatement Order</strong> An emergency abatement order shall include the information contained in a Notice of Violation issued pursuant to <cite path="|5.01.030|(a)">Section 5.01.030(a)</cite> An emergency abatement order shall also identify:</text>
         <para>
           <num>(1)</num>
           <text>The grounds for believing that the violation or violations may pose an imminent and substantial endangerment to public health or the environment;</text>
