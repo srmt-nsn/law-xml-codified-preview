@@ -45,7 +45,7 @@
       <text>the Saint Regis Mohawk Tribal Council hereby adopts the above amended language to Section (6) Sub-Section (7) effective immediately.</text>
     </recital>
   </recitals>
-  <codify:replace doc="Saint Regis Mohawk Tribal Code of Law" path="4.05|A" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.05|attachments|A">
+  <codify:replace doc="Saint Regis Mohawk Tribal Code of Law" path="4.05|A" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.05|attachments|appendix">
     <attachment>
       <prefix>Appendix</prefix>
       <num>A</num>

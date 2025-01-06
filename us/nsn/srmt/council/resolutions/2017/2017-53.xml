@@ -12,8 +12,8 @@
       <citation type="res" url="./adopted/2017-53.pdf">Res. No. 2017-53</citation>
     </citations>
   </meta>
-  <codify:replace doc="Saint Regis Mohawk Tribal Code of Law" path="4.05|A" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.05|attachments|A">
-    <attachment>
+  <codify:replace doc="Saint Regis Mohawk Tribal Code of Law" path="4.05|A" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.05|attachments|appendix">
+    <attachment name="appendix">
       <prefix>Appendix</prefix>
       <num>A</num>
       <heading>DEFINITIONS</heading>
