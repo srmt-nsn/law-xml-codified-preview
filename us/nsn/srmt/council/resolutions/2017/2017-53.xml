@@ -12,4 +12,24 @@
       <citation type="res" url="./adopted/2017-53.pdf">Res. No. 2017-53</citation>
     </citations>
   </meta>
+  <codify:replace doc="Saint Regis Mohawk Tribal Code of Law" path="4.05|A" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.05|attachments|appendix">
+    <attachment name="appendix">
+      <prefix>Appendix</prefix>
+      <num>A</num>
+      <heading>DEFINITIONS</heading>
+      <text><strong>"Cigarettes"</strong> shall mean any roll for smoking made wholly or in part of tobacco, irrespective of size or shape and irrespective of the tobacco being flavored, adulterated, or mixed with any other ingredient, where such roll has a wrapper or cover made of paper or any other material other than tobacco.</text>
+      <text><strong>"Member"</strong> shall be defined as a person who is enrolled or who is eligible to be enrolled with the Saint Regis Mohawk Tribe.</text>
+      <text><strong>"Manufacturer of tobacco products"</strong> shall mean any person who manufactures cigars, cigarettes, smokeless tobacco, pipe tobacco or roll-your-own tobacco.</text>
+      <text><strong>"Manufacture"</strong> shall mean the processing of tobacco for sale as a cigarette, cigar and/ or the packaging of tobacco as, pipe tobacco or roll your own tobacco in tins or pouches.</text>
+      <text><strong>"Nation-to-Nation sale"</strong> shall mean distribution of tobacco products to other Native territories in the United States.</text>
+      <text><strong>"Retail sale" or "sale at retail"</strong> shall mean a sale to a consumer or to any other person for any purpose other than resale.</text>
+      <text><strong>"Retailer"</strong> shall mean a person or entity licensed by the Tribe to make retail sales of tobacco products within the territory of the Saint Regis Mohawk Reservation.</text>
+      <text><strong>"Roll-your-own tobacco"</strong> means any tobacco, which, because of its appearance, type, packaging, or labeling, is suitable for use and likely to be offered to, or purchased by, consumers as tobacco for making cigarettes.</text>
+      <text><strong>"Selling" or "Sale"</strong> shall mean any transfer of title or possession or both, exchange or barter, conditional or otherwise, in any manner or by any means whatever or any agreement therefore. Thus, in addition to cash and credit sales, the giving of cigarettes as samples, prizes or gifts, and the exchanging of cigarettes for any consideration other than money are also considered sales.</text>
+      <text><strong>"Tobacco products"</strong> means cigars, cigarettes, smokeless tobacco, pipe tobacco and roll-your- own tobacco.</text>
+      <text><strong>"Tribal Stamp" or "Tribal cigarette stamp"</strong> means any adhesive stamp, metered stamp, heat transfer stamp or other form of evidence of payment of Tribal cigarette fees as prescribed by <cite doc="Saint Regis Mohawk Tribal Code of Law" path="|4.05">this chapter</cite>.</text>
+      <text><strong>"Tribally Licensed Retailer"</strong> shall mean any retailer that is licensed by the SRMT And/or any Business that is approved by the SRMT (Tribal Council).</text>
+      <text><strong>"Wholesaler"</strong> shall mean an individual or entity licensed by the Tribe to buy, distribute or sell tobacco products to licensed retailers or to other persons tribally authorized for purposes of resale.</text>
+    </attachment>
+  </codify:replace>
 </document>

@@ -401,10 +401,10 @@
             <num>3.</num>
             <text>National brand cigarettes brought in and sold in this territory will be priced at $4.00 per carton.</text>
           </para>
-          <text>A set of "Nation-to-Nation" stamps shall be affixed to each case of cigarettes manufactured on the Reservation and sold in a "Nation-to-Nation" sale. The cost per set of such stamp shall be $12.50/per case of 50 cartons and $15.00 per case of 60 cartons. One stamp must be used to seal the top and one to seal the bottom of each master case.</text>
-          <text>Such stamps shall be affixed and cancelled as prescribed by the Compliance Office. Stamps will be available for pick up from the Tribe on a daily basis with 24hr. prior notification at the Compliance Department by authorized persons only.</text>
-          <text>No cigarettes may be sold, transported, or provided by wholesalers to retailers, sold "Nation-to-Nation" or be displayed in retail stores for sale without the appropriate tribal fee stamps properly affixed to the master case or carton.</text>
-          <text>Replacement of purchased stamps will be considered should fee stamps be subjected to unforeseen natural accidents for example; fire or water damage from water sprinklers or water pipes. Every occurrence will be presented to the Tribal Council and Compliance Department for consideration.</text>
+          <aftertext>A set of "Nation-to-Nation" stamps shall be affixed to each case of cigarettes manufactured on the Reservation and sold in a "Nation-to-Nation" sale. The cost per set of such stamp shall be $12.50/per case of 50 cartons and $15.00 per case of 60 cartons. One stamp must be used to seal the top and one to seal the bottom of each master case.</aftertext>
+          <aftertext>Such stamps shall be affixed and cancelled as prescribed by the Compliance Office. Stamps will be available for pick up from the Tribe on a daily basis with 24hr. prior notification at the Compliance Department by authorized persons only.</aftertext>
+          <aftertext>No cigarettes may be sold, transported, or provided by wholesalers to retailers, sold "Nation-to-Nation" or be displayed in retail stores for sale without the appropriate tribal fee stamps properly affixed to the master case or carton.</aftertext>
+          <aftertext>Replacement of purchased stamps will be considered should fee stamps be subjected to unforeseen natural accidents for example; fire or water damage from water sprinklers or water pipes. Every occurrence will be presented to the Tribal Council and Compliance Department for consideration.</aftertext>
         </para>
       </para>
       <para name="j.~1">
@@ -714,8 +714,8 @@
         </ul>
       </text>
     </section>
-    <container>
-      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|A"/>
+    <attachment name="appendix">
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.05|attachments|appendix"/>
       <prefix>Appendix</prefix>
       <num>A</num>
       <heading>DEFINITIONS</heading>
@@ -731,6 +731,6 @@
       <text><strong>"Tobacco products"</strong> means cigars, cigarettes, smokeless tobacco, pipe tobacco and roll-your- own tobacco.</text>
       <text><strong>"Tribal Stamp" or "Tribal cigarette stamp"</strong> means any adhesive stamp, metered stamp, heat transfer stamp or other form of evidence of payment of Tribal cigarette fees as prescribed by <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2004-40">this ordinance</code-cite>.</text>
       <text><strong>"Wholesaler"</strong> shall mean an individual or entity licensed by the Tribe to buy, distribute or sell tobacco products to licensed retailers or to other persons tribally authorized for purposes of resale.</text>
-    </container>
+    </attachment>
   </attachment>
 </document>
