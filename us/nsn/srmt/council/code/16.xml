@@ -1144,14 +1144,6 @@
       <num path-omit="true">9</num>
       <heading>Foreign Corporations</heading>
       <annotation app="2022-02-28" doc="Saint Regis Mohawk Tribe Res. No. 2022-09" eff="2022-02-28" path="" type="History"/>
-      <section>
-        <num>16.01.400</num>
-        <heading>[Reserved]</heading>
-        <annotations>
-          <annotation app="2022-02-28" doc="Saint Regis Mohawk Tribe Res. No. 2022-09" eff="2022-02-28" path="" type="History"/>
-          <annotation app="2022-02-28" doc="Saint Regis Mohawk Tribe Res. No. 2022-09" eff="2022-02-28" path="attachments|law|I|9|9.1" type="History"/>
-        </annotations>
-      </section>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1219,6 +1211,13 @@
         </annotations>
       </section>
     </container>
+    <section>
+      <num>16.01.400</num>
+      <reason>Reserved</reason>
+      <annotations>
+        <annotation app="2022-02-28" doc="Saint Regis Mohawk Tribe Res. No. 2022-09" eff="2022-02-28" path="attachments|law|I|9" type="History"/>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -3407,14 +3406,6 @@
       <num path-omit="true">11</num>
       <heading>Foreign Non-Profit Corporations</heading>
       <annotation app="2022-02-28" doc="Saint Regis Mohawk Tribe Res. No. 2022-09" eff="2022-02-28" path="" type="History"/>
-      <section>
-        <num>16.03.620</num>
-        <heading>[Reserved]</heading>
-        <annotations>
-          <annotation app="2022-02-28" doc="Saint Regis Mohawk Tribe Res. No. 2022-09" eff="2022-02-28" path="" type="History"/>
-          <annotation app="2022-02-28" doc="Saint Regis Mohawk Tribe Res. No. 2022-09" eff="2022-02-28" path="attachments|law|III|26|26.1" type="History"/>
-        </annotations>
-      </section>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -3615,6 +3606,13 @@
         </annotations>
       </section>
     </container>
+    <section>
+      <num>16.03.620</num>
+      <reason>Reserved</reason>
+      <annotations>
+        <annotation app="2022-02-28" doc="Saint Regis Mohawk Tribe Res. No. 2022-09" eff="2022-02-28" path="attachments|law|III|26" type="History"/>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -4444,7 +4442,7 @@
       </section>
       <section>
         <num>16.05.240</num>
-        <heading>[Reserved]</heading>
+        <reason>Reserved</reason>
         <annotations>
           <annotation app="2007-04-30" doc="Saint Regis Mohawk Tribe Res. No. 2007-32" eff="2007-04-30" path="" type="History"/>
           <annotation app="2007-04-30" doc="Saint Regis Mohawk Tribe Res. No. 2007-32" eff="2007-04-30" path="attachments|law|II|212" type="History"/>
@@ -4452,7 +4450,7 @@
       </section>
       <section>
         <num>16.05.250</num>
-        <heading>[Reserved]</heading>
+        <reason>Reserved</reason>
         <annotations>
           <annotation app="2007-04-30" doc="Saint Regis Mohawk Tribe Res. No. 2007-32" eff="2007-04-30" path="" type="History"/>
           <annotation app="2007-04-30" doc="Saint Regis Mohawk Tribe Res. No. 2007-32" eff="2007-04-30" path="attachments|law|II|213" type="History"/>
@@ -4460,7 +4458,7 @@
       </section>
       <section>
         <num>16.05.260</num>
-        <heading>[Reserved]</heading>
+        <reason>Reserved</reason>
         <annotations>
           <annotation app="2007-04-30" doc="Saint Regis Mohawk Tribe Res. No. 2007-32" eff="2007-04-30" path="" type="History"/>
           <annotation app="2007-04-30" doc="Saint Regis Mohawk Tribe Res. No. 2007-32" eff="2007-04-30" path="attachments|law|II|214" type="History"/>
@@ -4468,7 +4466,7 @@
       </section>
       <section>
         <num>16.05.270</num>
-        <heading>[Reserved]</heading>
+        <reason>Reserved</reason>
         <annotations>
           <annotation app="2007-04-30" doc="Saint Regis Mohawk Tribe Res. No. 2007-32" eff="2007-04-30" path="" type="History"/>
           <annotation app="2007-04-30" doc="Saint Regis Mohawk Tribe Res. No. 2007-32" eff="2007-04-30" path="attachments|law|II|215" type="History"/>
@@ -4476,7 +4474,7 @@
       </section>
       <section>
         <num>16.05.280</num>
-        <heading>[Reserved]</heading>
+        <reason>Reserved</reason>
         <annotations>
           <annotation app="2007-04-30" doc="Saint Regis Mohawk Tribe Res. No. 2007-32" eff="2007-04-30" path="" type="History"/>
           <annotation app="2007-04-30" doc="Saint Regis Mohawk Tribe Res. No. 2007-32" eff="2007-04-30" path="attachments|law|II|216" type="History"/>
@@ -5446,7 +5444,7 @@
       </section>
       <section>
         <num>16.05.750</num>
-        <heading>[Reserved]</heading>
+        <reason>Reserved</reason>
         <annotations>
           <annotation app="2007-04-30" doc="Saint Regis Mohawk Tribe Res. No. 2007-32" eff="2007-04-30" path="" type="History"/>
           <annotation app="2007-04-30" doc="Saint Regis Mohawk Tribe Res. No. 2007-32" eff="2007-04-30" path="attachments|law|XI|1107" type="History"/>
@@ -5454,7 +5452,7 @@
       </section>
       <section>
         <num>16.05.760</num>
-        <heading>[Reserved]</heading>
+        <reason>Reserved</reason>
         <annotations>
           <annotation app="2007-04-30" doc="Saint Regis Mohawk Tribe Res. No. 2007-32" eff="2007-04-30" path="" type="History"/>
           <annotation app="2007-04-30" doc="Saint Regis Mohawk Tribe Res. No. 2007-32" eff="2007-04-30" path="attachments|law|XI|1108" type="History"/>
