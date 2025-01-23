@@ -1,0 +1,509 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:cache="https://open.law/schemas/cache" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Saint Regis Mohawk Tribal Council Drafting Manual">
+  <heading>Saint Regis Mohawk Tribal Council Drafting Manual</heading>
+  <meta>
+    <effective>2025-01-23</effective>
+  </meta>
+  <text>The purpose of this guide is to provide a uniform style and thoughtful/necessary considerations for drafting Saint Regis Mohawk Tribe Codes and Resolutions.  Our goal is to inform staff with little previous experience, and assist those who have had some experience collaborating with departments and the Office of Tribal Council.</text>
+  <section>
+    <num>1</num>
+    <heading>Division of Responsibilities.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Department staff responsible for the resolution should work with the Office of Tribal Council to complete the project.  The department staff shall describe the goals of the project and explain the concepts to be incorporated into the resolution. Generally, it will be the responsibility of the Office of Tribal Council to draft the resolution.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In any Code amendment, the drafter shall take time to eliminate duplicative provisions in a particular chapter, subchapter, section, or subsection.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The drafter shall consider powers and duties of boards, commissions, or officers, as defined, and if a new responsibility is proposed, an appropriate amendment should be made.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Office of Tribal Council is responsible for the final formatting of all resolutions and for the publication of resolutions.</text>
+    </para>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>General Formatting Guidelines.</heading>
+    <text/>
+    <para>
+      <num>(a)</num>
+      <heading>Page layout.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Top, Bottom, Left, &amp; Right margins at 1"</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Text is formatted to be Justified</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Font is Calibri (Body) at 11 pt.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Line spacing shall be 1.0 and a blank line shall follow each paragraph.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Page numbers shall be at the bottom of all pages starting on page 2, Calibri (Body), 11 point, centered as follows:</text>
+        <include>
+          <text>Page # of #</text>
+        </include>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Grammar, Punctuation, Capitalization.</heading>
+      <para>
+        <num>(1)</num>
+        <text>"Title", "Chapter", "Subchapter", and "Section" shall be capitalized. Subsection shall be lower-case.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Capitalize "Office of Tribal Council" and "Tribe" if referring to the Saint Regis Mohawk Tribe; "Code" when referring to Saint Regis Mohawk Tribal Code of Law; "State" when referring to the State of New York; "Federal" when referring to the United States.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Titles of Federal, State, or County codes and agencies shall be capitalized, such as Vehicle Code, Subdivision Map Act, or Board of Supervisors.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Commas shall be used to separate all items in a series: "planes, trains, and automobiles"; "tax, fee, or assessment".</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Numbers from 1-99 will be written out: two (2), ninety-nine (99). Numbers over 99 are written as numbers such as 115. Spell out fractions like one-fourth but keep decimals as numbers like 3.25 or .015.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Time of day will be: 11:30 p.m., 12 Noon, 1:15 a.m.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Abbreviations should be avoided, type "square feet" not "sq. ft."</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Citations.</heading>
+      <para>
+        <num>(1)</num>
+        <text>The following may be used for Saint Regis Mohawk Tribe documents:</text>
+        <para>
+          <num>(A)</num>
+          <heading>Saint Regis Mohwawk Tribal Code of Law:</heading>
+          <text>"the Tribal Code", or "SRMTCL", or "this Code" (as applicable).</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <heading>Tribal Council Resolution:</heading>
+          <text>"Resolution No. YYYY-#" or "this Resolution" (as applicable);</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Drafting Terms and Phrases.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Only "shall" is enforceable. Neither "must" nor "will" shall be used to indicate imperative.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All references to an obligation by the Tribe or by an employee or an officer of the Tribe shall use the term "may".</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If a particular section or chapter is to be criminally enforceable, that section or at least one section in the chapter has to provide language as follows: "It is unlawful…" or "No person shall…".</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <heading>Subsections.</heading>
+      <para>
+        <num>(1)</num>
+        <heading>Titles.</heading>
+        <para>
+          <num>(A)</num>
+          <text>Titles are optional.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Titles shall be sentence cased and end with a period or colon.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Titles, including terminating punctuation shall be bold.</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Subsection text shall continue on the same line as the title.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Numbered subsections.</heading>
+        <text>Numbered subsections shall have a first line indent of 0.5" and be numbered and left indented according to the following sequence:</text>
+        <para>
+          <num>(A)</num>
+          <text>consecutive lower-case letters with left indent of 0";</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>consecutive Arabic numerals with left indent of 0.5";</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>consecutive upper-case letters with left indent of 1"; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>consecutive lower-case Roman numerals with left indent of 1.5".</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>consecutive upper-case Roman numerals with left indent of 2".</text>
+        </para>
+        <aftertext>Where each number is of the format "(&lt;para num&gt;)" with a trailing space.</aftertext>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Unnumbered subsections.</heading>
+        <para>
+          <num>(A)</num>
+          <text>Unnumbered subsections belonging to a section shall have a 0" left indent and a 0" first line indent.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Unnumbered subsections belonging to a numbered subsection shall be indented to match the numbered subsection.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <heading>Lists.</heading>
+        <text>When a multiple subsections are to be construed together as a list, all except the last shall end with a semicolon. A conjunction, such as "or" or "and" shall be placed after the semicolon of the next-to-last subsection. The last subsection shall end with a period.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Code guidelines.</heading>
+    <text/>
+    <para>
+      <num>(a)</num>
+      <heading>Titles.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Titles shall be "numbered" with sequential arabic numerals: "Title &lt;title num&gt;" (e.g. Title 1).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A title case title is required without a trailing period.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Title num and title shall be centered and bold.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Chapters.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Chapter numbers shall include the title num, followed by a period, followed by a minimum two-digit Arabic numeral (use zero-padding for single digit Chapter numbers: "Chapter &lt;title num&gt;.&lt;chapter num&gt;" (e.g. "Chapter 1.01").</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A title case title is required without a trailing period.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Chapter num and title shall be centered and bold.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Chapters shall not include a table of contents.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Subchapters.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Subchapters shall be referenced by first referencing the Chapter in which the subchapter resides, followed by a comma and a space, followed by "Subchapter" and a sequential Arabic numeral: "Chapter &lt;title num&gt;.&lt;chapter num&gt;, Subchapter &lt;subchapter num&gt;" (e.g. "Chapter 1.01, Subchapter 1").</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A title case title is required without a trailing period.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Subchapter num and title shall be centered and bold.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Sections.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Sections shall include the chapter num, followed by a period,followed by three zero-padded Arabic numerals in sequential multiples of ten: "&lt;title num&gt;.&lt;chapter num&gt;.&lt;section num&gt;" (e.g. "Section 1.01.010".</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A title case title is required without a trailing period.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Section num and title shall be bold.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Sections shall start on a new line following the Chapter or Subchapter heading.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Resolution guidelines.</heading>
+    <text/>
+    <para>
+      <num>(a)</num>
+      <text>Banner and Title.</text>
+      <para>
+        <num>(1)</num>
+        <text>The banner and title shall be in the following form:</text>
+        <include>
+          <text class="center">
+            <strong>Tribal Council Resolution</strong>
+          </text>
+          <text class="center">
+            <strong>No. YYYY-#</strong>
+          </text>
+          <text class="center">
+            <strong>&lt;Title&gt;</strong>
+          </text>
+        </include>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The title shall be in all capital letters and start with "RESOLUTION OF THE SAINT REGIS MOHAWK TRIBE TO".</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Recitals.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Leading conjunctions shall be all-caps and bolded. The last recital shall be followed by:</text>
+        <include>
+          <text><strong>"NOW, THEREFORE, BE IT RESOLVED,"</strong>, and (optionally);</text>
+        </include>
+        <include>
+          <text>
+            <strong>"NOW, THEREFORE, BE IT FINALLY RESOLVED,"</strong>
+          </text>
+        </include>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Mandatory Recitals.</heading>
+        <text>The following recitals shall be included as the first three recitals of every resolution:</text>
+        <para>
+          <num>(A)</num>
+          <heading>Tribal Council as Duly Recogized Governing Body.</heading>
+          <include>
+            <text><strong>WHEREAS,</strong> The Saint Regis Mohawk Tribal Council (the "Tribal Council") is the duly recognized governing body of the Saint Regis Mohawk Tribe (the "Tribe") and is responsible for the health, safety, education and welfare of all community members; and</text>
+          </include>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>Tribal Council Legislative Authority.</heading>
+          <include>
+            <text><strong>WHEREAS,</strong> the Tribal Governing Board serves as the governing body of Saint Regis Mohawk Tribe pursuant to <cite doc="Lac Courte Oreilles Constitution and By-laws" path="containers|Constitution|III|1">Article III, Section 1 of the Amended Constitution and Bylaws of the Saint Regis Mohawk Tribe</cite>; and </text>
+          </include>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Council Name, Signature Lines, and Certification.</heading>
+      <para>
+        <num>(1)</num>
+        <heading>Council Name</heading>
+        <text>The Council Name shall appear following the recitals in bold font and all capital letters as follows:</text>
+        <include>
+          <text>
+            <strong>THE SAINT REGIS MOHAWK TRIBAL COUNCIL</strong>
+          </text>
+        </include>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Tribal Chief Signatures</heading>
+        <text>Following the Council name, signature lines shall appear for all Tribal Chiefs on the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Certification shall be in the following form:</text>
+        <include>
+          <text>
+            <strong>CERTIFICATION: This is to certify that the Saint Regis Mohawk Tribal Council pursuant to the authority vested therein duly passed the above resolution.</strong>
+          </text>
+        </include>
+      </para>
+      <para>
+        <num>(4)</num>
+        <heading>Tribal Clerk Signature</heading>
+        <text>Following the Certification, a signature line and date line shall appear for the Tribal Clerk to complet.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Sections.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Sections shall be numbered with sequential Arabic numerals and a trailing period: "Section &lt;section num&gt;.".</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Titles.</heading>
+        <para>
+          <num>(A)</num>
+          <text>A section title is optional.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Titles shall be sentence-case and end with a period or colon.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Titles, including terminating punctuation shall be bold.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Section num and title (if present) shall be bold.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Text shall continue on same line as the section number.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Amendatory language.</heading>
+      <text>Resolutions shall use the following language to effectuate amendments to the code:</text>
+      <para>
+        <num>(1)</num>
+        <heading>Chapter.</heading>
+        <para>
+          <num>(A)</num>
+          <heading>Add:</heading>
+          <text>'Chapter W.XX of the Saint Regis Tribal Code of Law is added to Title W as follows:'</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>Repeal:</heading>
+          <text>'Chapter W.XX of the Saint Regis Tribal Code of Law is repealed.'</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <heading>Amend:</heading>
+          <text>Amendment of a Chapter in its entirety is prohibited. Instead create, amend, and repeal the appropriate sections. To amend a Chapter title: 'The title of Chapter W.XX of the Saint Regis Tribal Code of Law is amended as follows: "Chapter Title".'</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <heading>Redesignate:</heading>
+          <text>'Chapter W.XX of the Saint Regis Tribal Code of Law is redesignated as Chapter A.BB'</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Subchapter.</heading>
+        <para>
+          <num>(A)</num>
+          <heading>Add:</heading>
+          <text>'Subchapter W is added to Chapter X.YY of the Saint Regis Tribal Code of Law  as follows:'</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>Repeal:</heading>
+          <text>'Subchapter W of Chapter X.YY of the Saint Regis Tribal Code of Law is repealed.'</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <heading>Amend:</heading>
+          <text>Amendment of a Subchapter in its entirety is prohibited. Instead create, amend, and repeal the appropriate sections. To amend a Subchapter title: 'The title of Subchapter W of Chapter X.YY of the Saint Regis Tribal Code of Law is amended as follows: "Subchapter Title".'</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <heading>Redesignate:</heading>
+          <text>'Subchapter W of Chapter X.YY of the Saint Regis Tribal Code of Law is redesignated as Subchapter A of Chapter B.CC.'</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Section.</heading>
+        <para>
+          <num>(A)</num>
+          <heading>Add:</heading>
+          <text>When inserting a section between two existing sections, the section should use the number closest to the midpoint between the numbers of the neighboring sections. 'Section X.YY.ZZZ of the Saint Regis Tribal Code of Law is added to Chapter X.YY as follows:'</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>Repeal:</heading>
+          <text>'Section X.YY.ZZZ of the Saint Regis Tribal Code of Law is repealed.'</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <heading>Amend:</heading>
+          <text>'Section X.YY.ZZZ of the Saint Regis Tribal Code of Law is amended as follows:'</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <heading>Redesignate:</heading>
+          <text>'Section X.YY.ZZZ of the Saint Regis Tribal Code of Law is redesignated as Section A.BB.CCC'</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <heading>Redesignate and Amend:</heading>
+          <text>'Section X.YY.ZZZ of the Saint Regis Tribal Code of Law is redesignated as Section AAA.B.C.DDD and amended as follows:'</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <heading>Subsection.</heading>
+        <para>
+          <num>(A)</num>
+          <heading>Add:</heading>
+          <text>'Subsection (AA)(…) of Section X.YY.ZZZ of the Saint Regis Tribal Code of Law is added to Section X.YY.ZZZ(…) as follows:'</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>Repeal:</heading>
+          <text>'Subsection (AA)(…) of Section X.YY.ZZZ of the Saint Regis Tribal Code of Law is repealed.'</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <heading>Amend:</heading>
+          <text>'Subsection (AA)(…) of Section X.YY.ZZZ of the Saint Regis Tribal Code of Law is amended as follows:'</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <heading>Redesignate:</heading>
+          <text>'Subsection (AA)(…) of Section X.YY.ZZZ of the Saint Regis Tribal Code of Law is redesignated as Subsection (BB)(…) of Section X.YY.ZZZ'</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <heading>Redesignate and Amend:</heading>
+          <text>'Subsection (AA)(…) of Section X.YY.ZZZ of the Saint Regis Tribal Code of Law is redesignated as Subsection (BB)(…) of Section X.YY.ZZZ and amended as follows:'</text>
+        </para>
+      </para>
+    </para>
+  </section>
+</document>

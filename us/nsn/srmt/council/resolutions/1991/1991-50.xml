@@ -81,53 +81,31 @@
   <attachment id="law">
     <codified:at path="4.06"/>
     <heading>SAINT REGIS MOHAWK INDIAN TRIBAL PETROLEUM FUEL ORDINANCE</heading>
-    <container>
+    <container codify:tag="section">
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.010"/>
       <prefix>Article</prefix>
-      <num>I</num>
-      <heading>TITLE</heading>
-      <text>This ordinance shall be known as the St. Regis Mohawk Petroleum Fuel Regulatory Ordinance.</text>
+      <num codify:value="4.06.010">I</num>
+      <heading codify:value="Title">TITLE</heading>
+      <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">This ordinance</code-cite> shall be known as the St. Regis Mohawk Petroleum Fuel Regulatory Ordinance.</text>
     </container>
-    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.010">
-      <section>
-        <num>4.06.010</num>
-        <heading>Title</heading>
-        <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">This ordinance</code-cite> shall be known as the St. Regis Mohawk Petroleum Fuel Regulatory Ordinance.</text>
-      </section>
-    </codify:insert>
-    <container>
+    <container codify:tag="section">
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.020"/>
       <prefix>Article</prefix>
-      <num>II</num>
-      <heading>PURPOSE</heading>
-      <text>The purpose of this ordinance is to regulate the possession, sale, display, storage, transportation, and use of gasoline and other petroleum fuel products in, on, and from Tribal Lands.</text>
+      <num codify:value="4.06.020">II</num>
+      <heading codify:value="Purpose">PURPOSE</heading>
+      <text>The purpose of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this ordinance</code-cite> is to regulate the possession, sale, display, storage, transportation, and use of gasoline and other petroleum fuel products in, on, and from Tribal Lands.</text>
     </container>
-    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.020">
-      <section>
-        <num>4.06.020</num>
-        <heading>Purpose</heading>
-        <text>The purpose of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 1991-50">this ordinance</code-cite> is to regulate the possession, sale, display, storage, transportation, and use of gasoline and other petroleum fuel products in, on, and from Tribal Lands.</text>
-      </section>
-    </codify:insert>
-    <container>
+    <container codify:tag="section">
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.030"/>
       <prefix>Article</prefix>
-      <num>III</num>
-      <heading>DEFINITIONS</heading>
+      <num codify:value="4.06.030">III</num>
+      <heading codify:value="Definitions">DEFINITIONS</heading>
       <text>"St. Regis Mohawk Tribe of Indians" means a federally recognized tribe of Indians located in the State of New York.</text>
       <text>"Gasoline and other Petroleum Products" mean leaded gasoline fuel, unleaded gasoline fuel and diesel fuel.</text>
       <text>"Tribal Fuel Permit" means an exclusive gasoline fuel permit to possess, transport, store, and sell (wholesale and/or retail) to the general public approved by the Tribal Council of Chiefs.</text>
       <text>"Subject Permises" means any trust or restricted lands held in trust by the United States Government, owned by the St. Regis Mohawk Tribe of Indians or its members, designated for such Permit.</text>
       <text>"Permit Fee" means any consideration paid in advance to the Tribe for the maintenance of a legal Tribal Fuel Permit.</text>
     </container>
-    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.06.030">
-      <section>
-        <num>4.06.030</num>
-        <heading>Definitions</heading>
-        <text>"St. Regis Mohawk Tribe of Indians" means a federally recognized tribe of Indians located in the State of New York.</text>
-        <text>"Gasoline and other Petroleum Products" mean leaded gasoline fuel, unleaded gasoline fuel and diesel fuel.</text>
-        <text>"Tribal Fuel Permit" means an exclusive gasoline fuel permit to possess, transport, store, and sell (wholesale and/or retail) to the general public approved by the Tribal Council of Chiefs.</text>
-        <text>"Subject Permises" means any trust or restricted lands held in trust by the United States Government, owned by the St. Regis Mohawk Tribe of Indians or its members, designated for such Permit.</text>
-        <text>"Permit Fee" means any consideration paid in advance to the Tribe for the maintenance of a legal Tribal Fuel Permit.</text>
-      </section>
-    </codify:insert>
     <container>
       <prefix>Article</prefix>
       <num>IV</num>

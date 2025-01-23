@@ -834,27 +834,27 @@
       <section>
         <codify:insert path="2" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.05.240"/>
         <num codify:value="16.05.240">212</num>
-        <heading codify:tag="reason" codify:value="Reserved">[Reserved]</heading>
+        <heading>[Reserved]</heading>
       </section>
       <section>
         <codify:insert path="2" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.05.250"/>
         <num codify:value="16.05.250">213</num>
-        <heading codify:tag="reason" codify:value="Reserved">[Reserved]</heading>
+        <heading>[Reserved]</heading>
       </section>
       <section>
         <codify:insert path="2" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.05.260"/>
         <num codify:value="16.05.260">214</num>
-        <heading codify:tag="reason" codify:value="Reserved">[Reserved]</heading>
+        <heading>[Reserved]</heading>
       </section>
       <section>
         <codify:insert path="2" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.05.270"/>
         <num codify:value="16.05.270">215</num>
-        <heading codify:tag="reason" codify:value="Reserved">[Reserved]</heading>
+        <heading>[Reserved]</heading>
       </section>
       <section>
         <codify:insert path="2" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.05.280"/>
         <num codify:value="16.05.280">216</num>
-        <heading codify:tag="reason" codify:value="Reserved">[Reserved]</heading>
+        <heading>[Reserved]</heading>
       </section>
     </container>
     <container>
@@ -1674,12 +1674,12 @@
       <section>
         <codify:insert path="11" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.05.750"/>
         <num codify:value="16.05.750">1107</num>
-        <heading codify:tag="reason" codify:value="Reserved">[Reserved]</heading>
+        <heading>[Reserved]</heading>
       </section>
       <section>
         <codify:insert path="11" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.05.760"/>
         <num codify:value="16.05.760">1108</num>
-        <heading codify:tag="reason" codify:value="Reserved">[Reserved]</heading>
+        <heading>[Reserved]</heading>
       </section>
       <section>
         <codify:insert path="11" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.05.770"/>

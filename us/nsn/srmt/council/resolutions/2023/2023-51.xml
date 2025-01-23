@@ -91,7 +91,7 @@
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2009-51"/>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.03.020"/>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|3.03.020"/>
       <num codify:value="3.03.020">2</num>
       <heading>Definitions</heading>
       <text><strong>Animal Control Office</strong> means the agency or department of the Saint Regis Mohawk Tribe or any designated representative thereof charged with administering the issuance of permits and licenses under the provisions of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-51">this ordinance</code-cite>.</text>
@@ -157,22 +157,22 @@
         <num>14.</num>
         <text>Viverridae (mongooses, civets, and genets)</text>
       </para>
-      <aftertext><strong>Humane Manner</strong> means the care of an animal shall include, but is not limited to, adequate shelter, shade, heat, ventilation, sanitary shelter, wholesome food, and a fresh and adequate source of water, consistent with the normal requirements and feedings habits of the animal's size, species, and breed.</aftertext>
-      <aftertext><strong>Kennel</strong> means an establishment kept for the purpose of breeding, selling, or boarding animals or engaged in training animals.</aftertext>
-      <aftertext><strong>Neutered or spayed</strong> means an animal rendered permanently incapable of reproduction.</aftertext>
-      <aftertext><strong>Nuisance</strong> means an animal shall be considered a nuisance if  (1) it is at large, damages, soils, defiles, or defecates on private property other than the owner's or on public walks and recreation areas unless such waste is immediately removed and properly disposed of by the owner; (2) causes unsanitary, "dangerous," or offensive conditions; causes a disturbance by excessive barking or other noise making; or (3) chases vehicles, or molests, attacks, or interferes with persons or other domestic animals on public property.</aftertext>
-      <aftertext><strong>Owner</strong> means a person having the right of property or custody of an animal or who keeps or harbors an animal or knowingly permits an animal to remain on or about any premises occupied by that person.</aftertext>
-      <aftertext><strong>Physical Injury</strong> means impairment of physical condition or substantial pain.</aftertext>
-      <aftertext><strong>Pound</strong> means a facility designated or recognized by the Saint Regis Mohawk Tribe for the purpose of impounding and caring for animals.</aftertext>
-      <aftertext><strong>Restraint</strong> means an animal shall be considered under restraint if it is fenced within the real property limits of its owner or secured by a leash or lead or under the control of an owner or a responsible person designated by the owner.</aftertext>
-      <aftertext><strong>Saint Regis Mohawk Reservation</strong> means both the Saint Regis Mohawk Indian Tribe Reservation as established by the 1796 Treaty with the Seven Nations of Canada (7 Stat. 55) and any other lands over which the Tribe exercises jurisdiction now or in the future.</aftertext>
-      <aftertext><strong>Serious Physical Injury</strong> means physical injury which creates a substantial risk of death, or which causes death or serious or protracted disfigurement, protracted impairment of health or protracted loss or impairment of the function of any bodily organ.</aftertext>
-      <aftertext><strong>Tribal Animal Control Officer</strong> refers to the person or persons designated by the Saint Regis Mohawk Tribe to enforce <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-51">this Ordinance</code-cite>.</aftertext>
-      <aftertext><strong>Tribal Council</strong> means the duly elected Saint Regis Mohawk Tribal Council consisting of three (3) chiefs and three (3) sub-chiefs.</aftertext>
-      <aftertext><strong>Tribal Court</strong> refers to the trial level of the Saint Regis Mohawk Tribal Court which shall retain exclusive jurisdiction to preside over all proceedings relating to a summons and complaints filed under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-51">this Ordinance</code-cite>.</aftertext>
-      <aftertext><strong>Unaltered</strong> means any animal that has not been spayed or neutered.</aftertext>
-      <aftertext><strong>Wild Animal</strong> means any animal which is now or historically has been found in the wild, or in the wild state. This term includes, but is not limited to, animals such as: deer, skunk, opossum, raccoon, mink, armadillo, coyote, squirrel, fox, wolf and wolf-dog hybrids.</aftertext>
-      <aftertext><strong>Wildlife sanctuary</strong> means an area specially designated for the protection of wildlife and wherein it is illegal to interfere in anyway with the natural habitat.</aftertext>
+      <text><strong>Humane Manner</strong> means the care of an animal shall include, but is not limited to, adequate shelter, shade, heat, ventilation, sanitary shelter, wholesome food, and a fresh and adequate source of water, consistent with the normal requirements and feedings habits of the animal's size, species, and breed.</text>
+      <text><strong>Kennel</strong> means an establishment kept for the purpose of breeding, selling, or boarding animals or engaged in training animals.</text>
+      <text><strong>Neutered or spayed</strong> means an animal rendered permanently incapable of reproduction.</text>
+      <text><strong>Nuisance</strong> means an animal shall be considered a nuisance if  (1) it is at large, damages, soils, defiles, or defecates on private property other than the owner's or on public walks and recreation areas unless such waste is immediately removed and properly disposed of by the owner; (2) causes unsanitary, "dangerous," or offensive conditions; causes a disturbance by excessive barking or other noise making; or (3) chases vehicles, or molests, attacks, or interferes with persons or other domestic animals on public property.</text>
+      <text><strong>Owner</strong> means a person having the right of property or custody of an animal or who keeps or harbors an animal or knowingly permits an animal to remain on or about any premises occupied by that person.</text>
+      <text><strong>Physical Injury</strong> means impairment of physical condition or substantial pain.</text>
+      <text><strong>Pound</strong> means a facility designated or recognized by the Saint Regis Mohawk Tribe for the purpose of impounding and caring for animals.</text>
+      <text><strong>Restraint</strong> means an animal shall be considered under restraint if it is fenced within the real property limits of its owner or secured by a leash or lead or under the control of an owner or a responsible person designated by the owner.</text>
+      <text><strong>Saint Regis Mohawk Reservation</strong> means both the Saint Regis Mohawk Indian Tribe Reservation as established by the 1796 Treaty with the Seven Nations of Canada (7 Stat. 55) and any other lands over which the Tribe exercises jurisdiction now or in the future.</text>
+      <text><strong>Serious Physical Injury</strong> means physical injury which creates a substantial risk of death, or which causes death or serious or protracted disfigurement, protracted impairment of health or protracted loss or impairment of the function of any bodily organ.</text>
+      <text><strong>Tribal Animal Control Officer</strong> refers to the person or persons designated by the Saint Regis Mohawk Tribe to enforce <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-51">this Ordinance</code-cite>.</text>
+      <text><strong>Tribal Council</strong> means the duly elected Saint Regis Mohawk Tribal Council consisting of three (3) chiefs and three (3) sub-chiefs.</text>
+      <text><strong>Tribal Court</strong> refers to the trial level of the Saint Regis Mohawk Tribal Court which shall retain exclusive jurisdiction to preside over all proceedings relating to a summons and complaints filed under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2023-51">this Ordinance</code-cite>.</text>
+      <text><strong>Unaltered</strong> means any animal that has not been spayed or neutered.</text>
+      <text><strong>Wild Animal</strong> means any animal which is now or historically has been found in the wild, or in the wild state. This term includes, but is not limited to, animals such as: deer, skunk, opossum, raccoon, mink, armadillo, coyote, squirrel, fox, wolf and wolf-dog hybrids.</text>
+      <text><strong>Wildlife sanctuary</strong> means an area specially designated for the protection of wildlife and wherein it is illegal to interfere in anyway with the natural habitat.</text>
       <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2009-51"/>
     </section>
     <section>
@@ -181,7 +181,7 @@
       <heading>Owner Responsibilities and Offenses</heading>
       <para>
         <num>A.</num>
-        <text>All animals shall be kept under restraint, which includes having animals constrained to an owner's yard or if outside of an owner's yard is kept on a leash or within the control of the owner. Owners of "aggressive" animal(s), as determined by the Animal Control Officer, must take extra caution that their animal(s) are not given free, unsupervised access to the general public.  The Animal Control Officer shall use the following the factors to determine whether an animal is aggressive:</text>
+        <text>All animals shall be kept under restraint, which includes having animals constrained to an owner's yard or if outside of an owner's yard is kept on a leash or within the control of the owner. Owners of “aggressive” animal(s), as determined by the Animal Control Officer, must take extra caution that their animal(s) are not given free, unsupervised access to the general public.  The Animal Control Officer shall use the following the factors to determine whether an animal is aggressive:</text>
         <para>
           <num>1.</num>
           <text>the animal is baring its teeth;</text>
@@ -221,7 +221,7 @@
       </para>
       <para>
         <num>H</num>
-        <text>Any dog, not under the control of the Owner or that bites a person and causes Serious Physical Injury or is deemed "dangerous" by the Animal Control Officer/Department, shall be quarantined under the authority of the Animal Control Officer/Department. The Animal Control Department may order the Owner to quarantine their dog for a period not exceeding ten (10) days unless the Animal Control Officer deems the dog "dangerous".  Upon such determination the Animal Control Officer shall have the discretion to issue a Summons to the Owner to appear in Tribal Court to obtain a judicial determination that a dog is "dangerous".  Any dog subject to quarantine may be destroyed after ten (10) days at the discretion of the Animal Control Department.</text>
+        <text>Any dog, not under the control of the Owner or that bites a person and causes Serious Physical Injury or is deemed “dangerous” by the Animal Control Officer/Department, shall be quarantined under the authority of the Animal Control Officer/Department. The Animal Control Department may order the Owner to quarantine their dog for a period not exceeding ten (10) days unless the Animal Control Officer deems the dog “dangerous”.  Upon such determination the Animal Control Officer shall have the discretion to issue a Summons to the Owner to appear in Tribal Court to obtain a judicial determination that a dog is “dangerous”.  Any dog subject to quarantine may be destroyed after ten (10) days at the discretion of the Animal Control Department.</text>
       </para>
       <para>
         <num>I.</num>

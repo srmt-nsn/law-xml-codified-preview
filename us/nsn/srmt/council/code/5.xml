@@ -12,15 +12,17 @@
       <heading>Ambient Air Quality Standards for PCBs</heading>
       <para>
         <num>(a)</num>
-        <text><strong>Annual Standard</strong> The concentration of polychlorinated biphenyls (PCBs) in ambient air on the Reservation shall not exceed 0.5 ng/m<sup>3</sup> as measured on a rolling 12-month basis. Exceedance of this standard during any 12-month period shall be a violation of this standard.</text>
+        <heading>Annual Standard</heading>
+        <text>The concentration of polychlorinated biphenyls (PCBs) in ambient air on the Reservation shall not exceed 0.5 ng/m<sup>3</sup> as measured on a rolling 12-month basis. Exceedance of this standard during any 12-month period shall be a violation of this standard.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text><strong>Short-Term Standard</strong> The concentration of PCBs in ambient air on the Reservation shall not exceed 5 ng/m<sup>3</sup> during any 24-hour period.</text>
+        <heading>Short-Term Standard</heading>
+        <text>The concentration of PCBs in ambient air on the Reservation shall not exceed 5 ng/m<sup>3</sup> during any 24-hour period.</text>
       </para>
       <annotations>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
-        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|I" type="History"/>
+        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|I." type="History"/>
       </annotations>
     </section>
     <section>
@@ -36,7 +38,7 @@
       </para>
       <annotations>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
-        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|II" type="History"/>
+        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|II." type="History"/>
       </annotations>
     </section>
     <section>
@@ -44,9 +46,7 @@
       <heading>Enforcement and Penalties</heading>
       <para>
         <num>(a)</num>
-        <text>
-          <strong>Notice of Violation</strong>
-        </text>
+        <heading>Notice of Violation</heading>
         <para>
           <num>(1)</num>
           <text>Upon determining that reasonable grounds exist for believing that a person may be causing or contributing to a violation of the annual standard, the short-term standard, or both, the Tribe shall issue a written Notice of Violation to such person.</text>
@@ -74,9 +74,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <strong>Administrative Consent Order</strong>
-        </text>
+        <heading>Administrative Consent Order</heading>
         <para>
           <num>(1)</num>
           <text>Violations of the PCB ambient air quality standards may be resolved through an Administrative Consent Order, which is a written order executed by a person alleged to have violated a standard and the Tribe which resolves the violation by imposing corrective measures, requiring payment of a civil penalty, or both.</text>
@@ -88,9 +86,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>
-          <strong>Unilateral Administrative Order</strong>
-        </text>
+        <heading>Unilateral Administrative Order</heading>
         <para>
           <num>(1)</num>
           <text>In the event that a person issued a Notice of Violation fails to provide a written response to the Notice within the time period specified in the Notice, or fails to request either a Tribal Court hearing or resolution through a voluntary Administrative Consent Order, the Tribe may issue a Unilateral Administrative Order.</text>
@@ -106,9 +102,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>
-          <strong>Penalties</strong>
-        </text>
+        <heading>Penalties</heading>
         <para>
           <num>(1)</num>
           <text>Either the Tribal Court, after a finding that a violation has occurred, or the Tribe, in an Administrative Consent Order or Unilateral Administrative Order, may impose a civil penalty for each violation.</text>
@@ -124,7 +118,7 @@
       </para>
       <annotations>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
-        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|III" type="History"/>
+        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|III." type="History"/>
       </annotations>
     </section>
     <section>
@@ -132,11 +126,13 @@
       <heading>Emergency Abatement Order</heading>
       <para>
         <num>(a)</num>
-        <text><strong>Emergency Finding</strong> Upon finding that reasonable grounds exist for believing that a violation or violations of a PCB standard may pose an imminent and substantial endangerment to public health or the environment, the Tribe may issue a written emergency abatement order to any person causing or contributing to such violation(s).</text>
+        <heading>Emergency Finding</heading>
+        <text>Upon finding that reasonable grounds exist for believing that a violation or violations of a PCB standard may pose an imminent and substantial endangerment to public health or the environment, the Tribe may issue a written emergency abatement order to any person causing or contributing to such violation(s).</text>
       </para>
       <para>
         <num>(b)</num>
-        <text><strong>Emergency Abatement Order</strong> An emergency abatement order shall include the information contained in a Notice of Violation issued pursuant to <cite path="|5.01.030|(a)">Section 5.01.030(a)</cite> An emergency abatement order shall also identify:</text>
+        <heading>Emergency Abatement Order</heading>
+        <text>An emergency abatement order shall include the information contained in a Notice of Violation issued pursuant to <cite path="|5.01.030|(a)">Section 5.01.030(a)</cite> An emergency abatement order shall also identify:</text>
         <para>
           <num>(1)</num>
           <text>The grounds for believing that the violation or violations may pose an imminent and substantial endangerment to public health or the environment;</text>
@@ -164,7 +160,7 @@
       </para>
       <annotations>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
-        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|IV" type="History"/>
+        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|IV." type="History"/>
       </annotations>
     </section>
     <section>
@@ -173,7 +169,7 @@
       <text>The ambient air quality standards for PCBs set forth are in addition to and supplement the PCB air quality standard in Appendix C (<cite doc="Saint Regis Mohawk Tribe Res. No. 1989-19">TCR 1989-19</cite>) to the Tribal Implementation Plan and that standard remains in full force and effect.</text>
       <annotations>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
-        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|V" type="History"/>
+        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|V." type="History"/>
       </annotations>
     </section>
     <section>
@@ -193,7 +189,7 @@
       </para>
       <annotations>
         <annotation type="History" doc="Saint Regis Mohawk Tribe Res. No. 2017-24"/>
-        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|VI" type="History"/>
+        <annotation app="2017-05-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-29" eff="2017-05-17" path="attachments|law|VI." type="History"/>
       </annotations>
     </section>
   </container>
@@ -237,8 +233,8 @@
           <num>(7)</num>
           <text>Protect cultural and ceremonial uses.</text>
         </para>
-        <aftertext>The purpose of these water quality standards is to facilitate sovereign self-determination and the restoration and preservation of traditional hunting, fishing, gathering and cultural uses in, on and around Tribal Surface Waters. The Environment Division is committed to providing cleaner, safer water for all of creation. These water quality standards will in turn promote the general welfare and well-being of the community by allowing the Tribe and its members to utilize the water for traditional, cultural and ceremonial purposes. Water quality standards are not used to control, and are not invalidated by, natural background phenomena or acts of the Creator.</aftertext>
-        <aftertext>These purposes shall be accomplished by utilizing the standards set forth in the Tribe's Water Quality Standards as the basis for permitting and management process for point source discharges and nonpoint source generators, by using treatment technologies to control point sources and by adopting best management practices for nonpoint sources of pollution.</aftertext>
+        <text>The purpose of these water quality standards is to facilitate sovereign self-determination and the restoration and preservation of traditional hunting, fishing, gathering and cultural uses in, on and around Tribal Surface Waters. The Environment Division is committed to providing cleaner, safer water for all of creation. These water quality standards will in turn promote the general welfare and well-being of the community by allowing the Tribe and its members to utilize the water for traditional, cultural and ceremonial purposes. Water quality standards are not used to control, and are not invalidated by, natural background phenomena or acts of the Creator.</text>
+        <text>These purposes shall be accomplished by utilizing the standards set forth in the Tribe's Water Quality Standards as the basis for permitting and management process for point source discharges and nonpoint source generators, by using treatment technologies to control point sources and by adopting best management practices for nonpoint sources of pollution.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1107,7 +1103,7 @@
           <text>Class GSA</text>
           <text>The designated uses include: a source of potable mineral waters, or conversion to fresh potable waters, or as raw material for the manufacture of sodium chloride or its derivatives or similar products. Class GSA waters are saline ground waters.</text>
         </para>
-        <aftertext>In addition to the classes specified above please see Table 1 below for addition information on Designated Uses.</aftertext>
+        <text>In addition to the classes specified above please see Table 1 below for addition information on Designated Uses.</text>
       </para>
       <annotations>
         <annotation type="History">Res. No. 2016-67</annotation>
@@ -1258,7 +1254,7 @@
         <annotation app="2022-02-01" doc="Saint Regis Mohawk Tribe Res. No. 2022-04" eff="2022-02-01" path="attachments|law|VII" type="History"/>
       </annotations>
     </section>
-    <attachment>
+    <attachment name="appendix">
       <prefix>Appendix</prefix>
       <num>1</num>
       <heading>Surface Water and Groundwater Quality Standards and Groundwater Effluent Limitations</heading>
@@ -8286,7 +8282,7 @@
         </para>
         <para>
           <num>B.</num>
-          <text>In addition to the chemical characteristics provided in this section, coliform or pathogenic organisms shall not be discharged in amounts sufficient to render ground waters detrimental to public health, safety or welfare.</text>
+          <text>In addition to the chemical characteristics provided in <cite path="|5.02|attachments|appendix|1">Appendix 11</cite>, coliform or pathogenic organisms shall not be discharged in amounts sufficient to render ground waters detrimental to public health, safety or welfare.</text>
         </para>
         <para>
           <num>C.</num>
@@ -8915,7 +8911,7 @@
           </text>
         </para>
       </para>
-      <annotation app="2022-02-01" doc="Saint Regis Mohawk Tribe Res. No. 2022-04" eff="2022-02-01" path="attachments|law" type="History"/>
+      <annotation app="2022-02-01" doc="Saint Regis Mohawk Tribe Res. No. 2022-04" eff="2022-02-01" path="attachments|law|attachments|appendix" type="History"/>
     </attachment>
   </container>
   <container>
@@ -9926,7 +9922,7 @@
         <num>(c)</num>
         <text>EPA can implement a federal plan for the certification of applicators of RUPS where no other EPA-approved state or tribal applicator certification plan is in effect.</text>
       </para>
-      <aftertext>The Tribe's strategy for regulating pesticide usage within its jurisdiction is to exercise option 3, relying upon EPA to certify RUP applicators. Additionally, the Tribe will exercise its sovereign right to regulate the use of General Use Pesticides (GUPS) within its jurisdiction through this regulation.</aftertext>
+      <text>The Tribe's strategy for regulating pesticide usage within its jurisdiction is to exercise option 3, relying upon EPA to certify RUP applicators. Additionally, the Tribe will exercise its sovereign right to regulate the use of General Use Pesticides (GUPS) within its jurisdiction through this regulation.</text>
       <annotations>
         <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|1.0" type="History"/>
       </annotations>
@@ -10190,58 +10186,52 @@
       <num>5.04.210</num>
       <heading>Notification</heading>
       <text>Pesticide Applicators are required to provide notice of all pesticide use including all indoor and outdoor applications made in public and commercial buildings and for agricultural applications. Notification shall consist of posting signs on the property to be treated a minimum of 48-hours before application treatment and remain posted on the property a minimum of 24-hours after application. However, certain products may have labels with stricter notification requirements. In these particular instances the label directions must be followed.</text>
+      <text>Notification signage shall display the following information:</text>
       <para>
         <num>(a)</num>
-        <text>Notification signage shall display the following information:</text>
-        <para>
-          <num>(1)</num>
-          <text>Indication that pesticides will be applied.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The date of application.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Date the notice is given.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Date the notice expires, maximum of seven days.</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>Name and telephone number of a person who can give information about what was applied.</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>EPA Registration number and full name of pesticide (product common name).</text>
-        </para>
+        <text>Indication that pesticides will be applied.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Signage specifications are:</text>
-        <para>
-          <num>(1)</num>
-          <text><strong>Size</strong> - A minimum of one-foot by one-foot in dimension.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text><strong>Color</strong> - Dark lettering on a yellow background.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text><strong>Location</strong> - Posted in a conspicuous place along the principal street frontage of the property to be sprayed.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text><strong>Posted</strong> - At common access points of commercial buildings or apartment complexes.</text>
-        </para>
+        <text>The date of application.</text>
       </para>
-      <aftertext>Private homeowners using pesticides in their own home and on their own property are not required to comply with notification requirements.</aftertext>
-      <aftertext>In addition to public posting, the applicator shall make written notification to the Saint Regis Mohawk Tribe, Environment Division of plans to apply pesticides. The Applicator is required to notify the Tribe a minimum of 48-hours in advance of an application. However, certain products may have labels with stricter notification requirements. In these particular instances the label directions must be followed.</aftertext>
-      <aftertext>Information to be provided to the Environment Division in the written notification shall consist of:</aftertext>
-      <aftertext>
+      <para>
+        <num>(c)</num>
+        <text>Date the notice is given.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Date the notice expires, maximum of seven days.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Name and telephone number of a person who can give information about what was applied.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>EPA Registration number and full name of pesticide (product common name).</text>
+      </para>
+      <text>Signage specifications are:</text>
+      <para>
+        <num>(g)</num>
+        <text><strong>Size</strong> - A minimum of one-foot by one-foot in dimension.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text><strong>Color</strong> - Dark lettering on a yellow background.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text><strong>Location</strong> - Posted in a conspicuous place along the principal street frontage of the property to be sprayed.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text><strong>Posted</strong> - At common access points of commercial buildings or apartment complexes.</text>
+      </para>
+      <text>Private homeowners using pesticides in their own home and on their own property are not required to comply with notification requirements.</text>
+      <text>In addition to public posting, the applicator shall make written notification to the Saint Regis Mohawk Tribe, Environment Division of plans to apply pesticides. The Applicator is required to notify the Tribe a minimum of 48-hours in advance of an application. However, certain products may have labels with stricter notification requirements. In these particular instances the label directions must be followed.</text>
+      <text>Information to be provided to the Environment Division in the written notification shall consist of:</text>
+      <text>
         <ul proof="needed">
           <li>Date or dates of pesticide use</li>
           <li>Full name of pesticide(s) product(s)</li>
@@ -10256,9 +10246,9 @@
           <li>E-mail address of applicator</li>
           <li>Applicator certification number</li>
         </ul>
-      </aftertext>
+      </text>
       <annotations>
-        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law" type="History"/>
+        <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|11.1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -10293,7 +10283,7 @@
         <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|15.0" type="History"/>
       </annotations>
     </section>
-    <attachment>
+    <container>
       <prefix>APPENDIX</prefix>
       <num>A</num>
       <heading>LOW IMPACT PESTICIDES</heading>
@@ -10379,8 +10369,8 @@
         <num>f.</num>
         <text>Biological, living control agents- a common example of this would be a pesticide that uses parasitic nematodes (a small worm-like organism) as its active ingredient. These nematodes are used to control a wide variety of insects. Beneficial insects would be another type of control agent that would fit into this category.</text>
       </para>
-      <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law" type="History"/>
-    </attachment>
+      <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|A" type="History"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -10860,7 +10850,7 @@
             <num>(5)</num>
             <text>not arbitrary, capricious or characterized by abuse of discretion.</text>
           </para>
-          <aftertext>The Environment Division shall be bound by the decision of the Board except to the extent such decision is reversed or otherwise modified by the St. Regis Mohawk Tribal Council or a court of Tribal jurisdiction.</aftertext>
+          <text>The Environment Division shall be bound by the decision of the Board except to the extent such decision is reversed or otherwise modified by the St. Regis Mohawk Tribal Council or a court of Tribal jurisdiction.</text>
         </para>
         <annotations>
           <annotation app="1998-10-07" doc="Saint Regis Mohawk Tribe Res. No. 1998-139" eff="1998-10-07" path="" type="History"/>

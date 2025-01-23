@@ -158,7 +158,7 @@
           <num>(3)</num>
           <text>The Compliance Department may deny a request for a Fishing Permit for any other reason as long as a justification is provided for the denial.</text>
         </para>
-        <aftertext>If an application is denied, the Compliance Department shall notify the applicant of the denial by registered and regular mail within thirty (30) days for applicants located in the United States. For any applicant residing outside of the United States regular mail only shall be used.</aftertext>
+        <text>If an application is denied, the Compliance Department shall notify the applicant of the denial by registered and regular mail within thirty (30) days for applicants located in the United States. For any applicant residing outside of the United States regular mail only shall be used.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -489,7 +489,7 @@
         <annotation app="2023-09-13" doc="Saint Regis Mohawk Tribe Res. No. 2023-42" eff="2023-09-13" path="attachments|law|VIII" type="History"/>
       </annotations>
     </section>
-    <attachment>
+    <container>
       <prefix>Appendix</prefix>
       <num>A</num>
       <heading>SRMT Angling Regulations</heading>
@@ -648,9 +648,9 @@
           </tbody>
         </table>
       </text>
-      <annotation app="2023-09-13" doc="Saint Regis Mohawk Tribe Res. No. 2023-42" eff="2023-09-13" path="attachments|law" type="History"/>
-    </attachment>
-    <attachment>
+      <annotation app="2023-09-13" doc="Saint Regis Mohawk Tribe Res. No. 2023-42" eff="2023-09-13" path="attachments|law|A" type="History"/>
+    </container>
+    <container>
       <prefix>Appendix</prefix>
       <num>B</num>
       <heading>Fishing Permit Application</heading>
@@ -686,9 +686,9 @@
       <text>Agent Signature: __________________________ Authorized Signature: ___________________________</text>
       <text>Fee: $____________.00                 <strong>Permit #:</strong></text>
       <text class="center">PRINTED BY FASPRINT * 518-483-4831. *www.fasprint.com</text>
-      <annotation app="2023-09-13" doc="Saint Regis Mohawk Tribe Res. No. 2023-42" eff="2023-09-13" path="attachments|law" type="History"/>
-    </attachment>
-    <attachment>
+      <annotation app="2023-09-13" doc="Saint Regis Mohawk Tribe Res. No. 2023-42" eff="2023-09-13" path="attachments|law|B" type="History"/>
+    </container>
+    <container>
       <prefix>Appendix</prefix>
       <num>C</num>
       <heading>Authorized Agent Monthly Report Form</heading>
@@ -921,7 +921,7 @@
           </tbody>
         </table>
       </text>
-      <annotation app="2023-09-13" doc="Saint Regis Mohawk Tribe Res. No. 2023-42" eff="2023-09-13" path="attachments|law" type="History"/>
-    </attachment>
+      <annotation app="2023-09-13" doc="Saint Regis Mohawk Tribe Res. No. 2023-42" eff="2023-09-13" path="attachments|law|C" type="History"/>
+    </container>
   </container>
 </container>

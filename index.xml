@@ -19,8 +19,8 @@
         <repository name="srmt-nsn/law-xml" commit="bd36b9a59ce9878dd7c985a3179a1881990236cd"/>
       </repositories>
       <platform version="2.14.5" reproducible="false"/>
-      <build-date>2025-01-07</build-date>
-      <codified-date>2024-06-02</codified-date>
+      <build-date>2025-01-23</build-date>
+      <codified-date>2025-01-23</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/srmt/council/code/index.xml"/>
@@ -57,4 +57,5 @@
     <xi:include href="./us/nsn/srmt/council/resolutions/1989/index.xml"/>
     <xi:include href="./us/nsn/srmt/council/resolutions/1986/index.xml"/>
   </collection>
+  <xi:include href="./us/nsn/srmt/council/drafting-manual.xml"/>
 </library>

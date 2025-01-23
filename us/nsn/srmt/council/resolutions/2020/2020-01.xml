@@ -106,7 +106,7 @@
         <num>3.</num>
         <text>EPA can implement a federal plan for the certification of applicators of RUPS where no other EPA-approved state or tribal applicator certification plan is in effect.</text>
       </para>
-      <aftertext>The Tribe's strategy for regulating pesticide usage within its jurisdiction is to exercise option 3, relying upon EPA to certify RUP applicators. Additionally, the Tribe will exercise its sovereign right to regulate the use of General Use Pesticides (GUPS) within its jurisdiction through this regulation.</aftertext>
+      <text>The Tribe's strategy for regulating pesticide usage within its jurisdiction is to exercise option 3, relying upon EPA to certify RUP applicators. Additionally, the Tribe will exercise its sovereign right to regulate the use of General Use Pesticides (GUPS) within its jurisdiction through this regulation.</text>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.04.020"/>
@@ -328,7 +328,8 @@
       </text>
     </section>
     <section>
-      <num>11.1</num>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.04.210"/>
+      <num codify:value="5.04.210">11.1</num>
       <heading>Notification</heading>
       <text>Pesticide Applicators are required to provide notice of all pesticide use including all indoor and outdoor applications made in public and commercial buildings and for agricultural applications. Notification shall consist of posting signs on the property to be treated a minimum of 48-hours before application treatment and remain posted on the property a minimum of 24-hours after application. However, certain products may have labels with stricter notification requirements. In these particular instances the label directions must be followed.</text>
       <text>Notification signage shall display the following information:</text>
@@ -393,80 +394,6 @@
         </ul>
       </text>
     </section>
-    <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.04.210">
-      <section>
-        <num codify:value="5.04.210">11.1</num>
-        <heading>Notification</heading>
-        <text>Pesticide Applicators are required to provide notice of all pesticide use including all indoor and outdoor applications made in public and commercial buildings and for agricultural applications. Notification shall consist of posting signs on the property to be treated a minimum of 48-hours before application treatment and remain posted on the property a minimum of 24-hours after application. However, certain products may have labels with stricter notification requirements. In these particular instances the label directions must be followed.</text>
-        <para>
-          <num>(a)</num>
-          <text>Notification signage shall display the following information:</text>
-          <para>
-            <num>1.</num>
-            <text>Indication that pesticides will be applied.</text>
-          </para>
-          <para>
-            <num>2.</num>
-            <text>The date of application.</text>
-          </para>
-          <para>
-            <num>3.</num>
-            <text>Date the notice is given.</text>
-          </para>
-          <para>
-            <num>4.</num>
-            <text>Date the notice expires, maximum of seven days.</text>
-          </para>
-          <para>
-            <num>5.</num>
-            <text>Name and telephone number of a person who can give information about what was applied.</text>
-          </para>
-          <para>
-            <num>6.</num>
-            <text>EPA Registration number and full name of pesticide (product common name).</text>
-          </para>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Signage specifications are:</text>
-          <para>
-            <num>1.</num>
-            <text><strong>Size</strong> - A minimum of one-foot by one-foot in dimension.</text>
-          </para>
-          <para>
-            <num>2.</num>
-            <text><strong>Color</strong> - Dark lettering on a yellow background.</text>
-          </para>
-          <para>
-            <num>3.</num>
-            <text><strong>Location</strong> - Posted in a conspicuous place along the principal street frontage of the property to be sprayed.</text>
-          </para>
-          <para>
-            <num>4.</num>
-            <text><strong>Posted</strong> - At common access points of commercial buildings or apartment complexes.</text>
-          </para>
-        </para>
-        <aftertext>Private homeowners using pesticides in their own home and on their own property are not required to comply with notification requirements.</aftertext>
-        <aftertext>In addition to public posting, the applicator shall make written notification to the Saint Regis Mohawk Tribe, Environment Division of plans to apply pesticides. The Applicator is required to notify the Tribe a minimum of 48-hours in advance of an application. However, certain products may have labels with stricter notification requirements. In these particular instances the label directions must be followed.</aftertext>
-        <aftertext>Information to be provided to the Environment Division in the written notification shall consist of:</aftertext>
-        <aftertext>
-          <ul proof="needed">
-            <li>Date or dates of pesticide use</li>
-            <li>Full name of pesticide(s) product(s)</li>
-            <li>The pest(s) to be treated</li>
-            <li>Where the pesticide(s) will be applied</li>
-            <li>Re-entry period restrictions (if any)</li>
-            <li>The name of the pesticide Applicator (individual) and Company Name</li>
-            <li>Applicator registration number</li>
-            <li>Pest controller contact number(s)</li>
-            <li>EPA Registration number and full name of pesticide (product common name)</li>
-            <li>Where pesticide will be applied within a building or site</li>
-            <li>E-mail address of applicator</li>
-            <li>Applicator certification number</li>
-          </ul>
-        </aftertext>
-      </section>
-    </codify:insert>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.04.220"/>
       <num codify:value="5.04.220">12.0</num>
@@ -492,6 +419,7 @@
       <text>In the event that any provision of this Ordinance shall be found or declared to be invalid, the remaining provisions of this ordinance shall be unaffected thereby, and shall remain in full force and effect.</text>
     </section>
     <container>
+      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|A"/>
       <prefix>APPENDIX</prefix>
       <num>A</num>
       <heading>LOW IMPACT PESTICIDES</heading>
@@ -578,94 +506,5 @@
         <text>Biological, living control agents- a common example of this would be a pesticide that uses parasitic nematodes (a small worm-like organism) as its active ingredient. These nematodes are used to control a wide variety of insects. Beneficial insects would be another type of control agent that would fit into this category.</text>
       </para>
     </container>
-    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.04|attachments|A">
-      <attachment>
-        <prefix>APPENDIX</prefix>
-        <num>A</num>
-        <heading>LOW IMPACT PESTICIDES</heading>
-        <text>The following ingredients or types of pesticides are also considered low impact.</text>
-        <para>
-          <num>a.</num>
-          <text>Formulation Types - gels, pastes, or baits. Ant traps and insecticide gels are good examples of this class of low impact pesticides. Rodent baits also fit into this designation, although rodent baits should be rare.</text>
-        </para>
-        <para>
-          <num>b.</num>
-          <text>Antimicrobial products - pesticides used to kill microorganisms such as bacteria and fungus. Disinfectants, cleaners, mold and mildew removers all fall into this classification.</text>
-          <text>"Antimicrobial agents" means:</text>
-          <para>
-            <num>1.</num>
-            <text>Disinfectants intended to destroy or irreversibly inactivate infectious or other undesirable bacteria, pathogenic fungi, or viruses on surfaces or inanimate objects;</text>
-          </para>
-          <para>
-            <num>2.</num>
-            <text>Sanitizers intended to reduce the number of living bacteria or viable virus particles on inanimate surfaces, in water, or in air;</text>
-          </para>
-          <para>
-            <num>3.</num>
-            <text>Bacteriostats intended to inhibit the growth of bacteria in the presence of moisture;</text>
-          </para>
-          <para>
-            <num>4.</num>
-            <text>Sterilizers intended to destroy viruses and all living bacteria, fungi, and their spores, on inanimate surfaces; or</text>
-          </para>
-          <para>
-            <num>5.</num>
-            <text>Fungicides and fungistats intended to inhibit the growth of, or destroy fungi (including yeasts) pathogenic to man or other animals on inanimate surfaces;</text>
-          </para>
-          <para>
-            <num>6.</num>
-            <text>Commodity preservatives and protectants intended to inhibit the growth of, or destroy bacteria in or on raw materials (such as adhesives or plastics) used in manufacturing, or manufactured products (such as fuel, textiles, lubricants, and paints); or</text>
-          </para>
-          <para>
-            <num>7.</num>
-            <text>General use algaecides labeled for use in:</text>
-            <para>
-              <num>i.</num>
-              <text>Swimming pools, hot tubs, whirlpools, spas, ornamental ponds, fountains, fish tanks, and waterbeds;</text>
-            </para>
-            <para>
-              <num>ii.</num>
-              <text>Water, wastewater and sewerage treatment plants, but only where there is a controlled inlet and outlet; and</text>
-            </para>
-            <para>
-              <num>iii.</num>
-              <text>Industrial, commercial, and manufacturing processes.</text>
-            </para>
-          </para>
-        </para>
-        <para>
-          <num>c.</num>
-          <text>Specific Active Ingredients - Specific pesticide ingredients added to the low impact designation are:</text>
-          <para>
-            <num>1.</num>
-            <text>boric acid</text>
-          </para>
-          <para>
-            <num>2.</num>
-            <text>disodium octoborate tetrahydrate</text>
-          </para>
-          <para>
-            <num>3.</num>
-            <text>silica gel</text>
-          </para>
-          <para>
-            <num>4.</num>
-            <text>diatomaceous earth</text>
-          </para>
-        </para>
-        <para>
-          <num>d.</num>
-          <text>Microbe based insecticides - the most common example of this would be bacillus thuringiensis or "Bt", a widely used microbe that is the ingredient in many home and garden products, mosquito larvicides, and gypsy moth control products.</text>
-        </para>
-        <para>
-          <num>e.</num>
-          <text>Botanical insecticides (not synthetic) - a common example of this would be pyrethrins, extracted from the chrysanthemum plant, or neem oil that is extracted from kernels of the neem plant. Synthetic versions of botanicals or those that contain chemical synergists to enhance the potency do not qualify as low impact.</text>
-        </para>
-        <para>
-          <num>f.</num>
-          <text>Biological, living control agents- a common example of this would be a pesticide that uses parasitic nematodes (a small worm-like organism) as its active ingredient. These nematodes are used to control a wide variety of insects. Beneficial insects would be another type of control agent that would fit into this category.</text>
-        </para>
-      </attachment>
-    </codify:insert>
   </attachment>
 </document>

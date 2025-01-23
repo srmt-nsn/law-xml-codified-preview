@@ -225,8 +225,8 @@
         </annotations>
       </section>
       <section>
-        <num>4.04.150</num>
         <heading>Policy</heading>
+        <num>4.04.150</num>
         <text>In order to safeguard the public's safety, the Tribal Council has deemed it necessary to regulate and control the sale and distribution of Alcoholic beverages within the Saint Regis Mohawk Reservation ("Reservation") to promote temperance in consumption and respect for, and obedience to Tribal Law. It is hereby declared that such policy will best be carried out by empowering the Tribe's Compliance Department to determine whether the issuance of a License pursuant to this Subchapter shall promote public convenience and advantage Tribal businesses and whether to increase or decrease the number of such Licenses. When considering a new License application, the Compliance Department also shall consider the proximity of each existing Licensed Premises to the proposed location. The denial of an application is subject only to the right of an Applicant to request the Compliance Department from reconsidering the denial based upon new information. If the Applicant is denied again then he/she can submit its request to Tribal Council for reconsideration.</text>
         <annotations>
           <annotation app="2019-01-04" doc="Saint Regis Mohawk Tribe Res. No. 2019-01" eff="2019-01-04" path="" type="History"/>
@@ -731,10 +731,10 @@
             <num>(C)</num>
             <text>National brand cigarettes brought in and sold in this territory will be priced at $4.00 per carton.</text>
           </para>
-          <aftertext>A set of "Nation-to-Nation" stamps shall be affixed to each case of cigarettes manufactured on the Reservation and sold in a "Nation-to-Nation" sale. The cost per set of such stamp shall be $12.50/per case of 50 cartons and $15.00 per case of 60 cartons. One stamp must be used to seal the top and one to seal the bottom of each master case.</aftertext>
-          <aftertext>Such stamps shall be affixed and cancelled as prescribed by the Compliance Office. Stamps will be available for pick up from the Tribe on a daily basis with 24hr. prior notification at the Compliance Department by authorized persons only.</aftertext>
-          <aftertext>No cigarettes may be sold, transported, or provided by wholesalers to retailers, sold "Nation-to-Nation" or be displayed in retail stores for sale without the appropriate tribal fee stamps properly affixed to the master case or carton.</aftertext>
-          <aftertext>Replacement of purchased stamps will be considered should fee stamps be subjected to unforeseen natural accidents for example; fire or water damage from water sprinklers or water pipes. Every occurrence will be presented to the Tribal Council and Compliance Department for consideration.</aftertext>
+          <text>A set of "Nation-to-Nation" stamps shall be affixed to each case of cigarettes manufactured on the Reservation and sold in a "Nation-to-Nation" sale. The cost per set of such stamp shall be $12.50/per case of 50 cartons and $15.00 per case of 60 cartons. One stamp must be used to seal the top and one to seal the bottom of each master case.</text>
+          <text>Such stamps shall be affixed and cancelled as prescribed by the Compliance Office. Stamps will be available for pick up from the Tribe on a daily basis with 24hr. prior notification at the Compliance Department by authorized persons only.</text>
+          <text>No cigarettes may be sold, transported, or provided by wholesalers to retailers, sold "Nation-to-Nation" or be displayed in retail stores for sale without the appropriate tribal fee stamps properly affixed to the master case or carton.</text>
+          <text>Replacement of purchased stamps will be considered should fee stamps be subjected to unforeseen natural accidents for example; fire or water damage from water sprinklers or water pipes. Every occurrence will be presented to the Tribal Council and Compliance Department for consideration.</text>
         </para>
       </para>
       <para name="j.~1">
@@ -1055,7 +1055,7 @@
         <annotation app="2004-07-09" doc="Saint Regis Mohawk Tribe Res. No. 2004-40" eff="2004-07-09" path="attachments|law|9" type="History"/>
       </annotations>
     </section>
-    <attachment>
+    <container>
       <prefix>Appendix</prefix>
       <num>A</num>
       <heading>DEFINITIONS</heading>
@@ -1072,32 +1072,34 @@
       <text><strong>"Tribal Stamp" or "Tribal cigarette stamp"</strong> means any adhesive stamp, metered stamp, heat transfer stamp or other form of evidence of payment of Tribal cigarette fees as prescribed by <cite path="|4.05">this chapter</cite>.</text>
       <text><strong>"Tribally Licensed Retailer"</strong> shall mean any retailer that is licensed by the SRMT And/or any Business that is approved by the SRMT (Tribal Council).</text>
       <text><strong>"Wholesaler"</strong> shall mean an individual or entity licensed by the Tribe to buy, distribute or sell tobacco products to licensed retailers or to other persons tribally authorized for purposes of resale.</text>
-      <annotation app="2004-07-09" doc="Saint Regis Mohawk Tribe Res. No. 2004-40" eff="2004-07-09" path="attachments|law" type="History"/>
+      <annotation app="2004-07-09" doc="Saint Regis Mohawk Tribe Res. No. 2004-40" eff="2004-07-09" path="attachments|law|A" type="History"/>
       <annotation app="2006-03-20" doc="Saint Regis Mohawk Tribe Res. No. 2006-19" eff="2006-03-20" path="" type="History"/>
-      <annotation app="2017-08-17" doc="Saint Regis Mohawk Tribe Res. No. 2017-53" eff="2017-08-17" path="" type="History"/>
-    </attachment>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>4.06</num>
     <heading>Petroleum Fuel Ordinance</heading>
     <section>
+      <prefix>Article</prefix>
       <num>4.06.010</num>
       <heading>Title</heading>
       <text><cite path="|4.06">This chapter</cite> shall be known as the St. Regis Mohawk Petroleum Fuel Regulatory Ordinance.</text>
       <annotations>
-        <annotation app="1991-07-16" doc="Saint Regis Mohawk Tribe Res. No. 1991-50" eff="1991-07-16" path="attachments|law" type="History"/>
+        <annotation app="1991-07-16" doc="Saint Regis Mohawk Tribe Res. No. 1991-50" eff="1991-07-16" path="attachments|law|I" type="History"/>
       </annotations>
     </section>
     <section>
+      <prefix>Article</prefix>
       <num>4.06.020</num>
       <heading>Purpose</heading>
       <text>The purpose of <cite path="|4.06">this chapter</cite> is to regulate the possession, sale, display, storage, transportation, and use of gasoline and other petroleum fuel products in, on, and from Tribal Lands.</text>
       <annotations>
-        <annotation app="1991-07-16" doc="Saint Regis Mohawk Tribe Res. No. 1991-50" eff="1991-07-16" path="attachments|law" type="History"/>
+        <annotation app="1991-07-16" doc="Saint Regis Mohawk Tribe Res. No. 1991-50" eff="1991-07-16" path="attachments|law|II" type="History"/>
       </annotations>
     </section>
     <section>
+      <prefix>Article</prefix>
       <num>4.06.030</num>
       <heading>Definitions</heading>
       <text>"St. Regis Mohawk Tribe of Indians" means a federally recognized tribe of Indians located in the State of New York.</text>
@@ -1106,7 +1108,7 @@
       <text>"Subject Permises" means any trust or restricted lands held in trust by the United States Government, owned by the St. Regis Mohawk Tribe of Indians or its members, designated for such Permit.</text>
       <text>"Permit Fee" means any consideration paid in advance to the Tribe for the maintenance of a legal Tribal Fuel Permit.</text>
       <annotations>
-        <annotation app="1991-07-16" doc="Saint Regis Mohawk Tribe Res. No. 1991-50" eff="1991-07-16" path="attachments|law" type="History"/>
+        <annotation app="1991-07-16" doc="Saint Regis Mohawk Tribe Res. No. 1991-50" eff="1991-07-16" path="attachments|law|III" type="History"/>
       </annotations>
     </section>
     <section>
