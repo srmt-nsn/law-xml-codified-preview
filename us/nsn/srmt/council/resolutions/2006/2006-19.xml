@@ -45,8 +45,8 @@
       <text>the Saint Regis Mohawk Tribal Council hereby adopts the above amended language to Section (6) Sub-Section (7) effective immediately.</text>
     </recital>
   </recitals>
-  <codify:replace doc="Saint Regis Mohawk Tribal Code of Law" path="4.05|A" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|A">
-    <container>
+  <codify:replace doc="Saint Regis Mohawk Tribal Code of Law" path="4.05|A" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|4.05|attachments|appendix">
+    <attachment name="appendix">
       <prefix>Appendix</prefix>
       <num>A</num>
       <heading>DEFINITIONS</heading>
@@ -63,7 +63,7 @@
       <text><strong>"Tribal Stamp" or "Tribal cigarette stamp"</strong> means any adhesive stamp, metered stamp, heat transfer stamp or other form of evidence of payment of Tribal cigarette fees as prescribed by <cite doc="Saint Regis Mohawk Tribal Code of Law" path="|4.05">this chapter</cite>.</text>
       <text><strong>"Tribally Licensed Retailer"</strong> shall mean any retailer that is licensed by the SRMT And/or any Business that is approved by the SRMT (Tribal Council).</text>
       <text><strong>"Wholesaler"</strong> shall mean an individual or entity licensed by the Tribe to buy, distribute or sell tobacco products to licensed retailers or to other persons tribally authorized for purposes of resale.</text>
-    </container>
+    </attachment>
   </codify:replace>
   <procedural-data>
     <text>THE SAINT REGIS MOHAWK TRIBAL COUNCIL</text>
