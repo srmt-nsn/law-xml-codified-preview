@@ -413,7 +413,7 @@
         </para>
       </section>
       <section>
-        <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.06.080"/>
+        <codify:insert path="3" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.06.080"/>
         <num codify:value="5.06.080">01-0304</num>
         <heading>Granting Permits</heading>
         <para>
@@ -542,7 +542,7 @@
             <num>(e)</num>
             <text>not arbitrary, capricious or characterized by abuse of discretion.</text>
           </para>
-          <text>The Environment Division shall be bound by the decision of the Board except to the extent such decision is reversed or otherwise modified by the St. Regis Mohawk Tribal Council or a court of Tribal jurisdiction.</text>
+          <aftertext>The Environment Division shall be bound by the decision of the Board except to the extent such decision is reversed or otherwise modified by the St. Regis Mohawk Tribal Council or a court of Tribal jurisdiction.</aftertext>
         </para>
       </section>
       <section>

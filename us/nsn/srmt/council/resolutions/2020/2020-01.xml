@@ -106,7 +106,7 @@
         <num>3.</num>
         <text>EPA can implement a federal plan for the certification of applicators of RUPS where no other EPA-approved state or tribal applicator certification plan is in effect.</text>
       </para>
-      <text>The Tribe's strategy for regulating pesticide usage within its jurisdiction is to exercise option 3, relying upon EPA to certify RUP applicators. Additionally, the Tribe will exercise its sovereign right to regulate the use of General Use Pesticides (GUPS) within its jurisdiction through this regulation.</text>
+      <aftertext>The Tribe's strategy for regulating pesticide usage within its jurisdiction is to exercise option 3, relying upon EPA to certify RUP applicators. Additionally, the Tribe will exercise its sovereign right to regulate the use of General Use Pesticides (GUPS) within its jurisdiction through this regulation.</aftertext>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.04.020"/>
@@ -328,8 +328,7 @@
       </text>
     </section>
     <section>
-      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.04.210"/>
-      <num codify:value="5.04.210">11.1</num>
+      <num>11.1</num>
       <heading>Notification</heading>
       <text>Pesticide Applicators are required to provide notice of all pesticide use including all indoor and outdoor applications made in public and commercial buildings and for agricultural applications. Notification shall consist of posting signs on the property to be treated a minimum of 48-hours before application treatment and remain posted on the property a minimum of 24-hours after application. However, certain products may have labels with stricter notification requirements. In these particular instances the label directions must be followed.</text>
       <text>Notification signage shall display the following information:</text>
@@ -357,7 +356,7 @@
         <num>6.</num>
         <text>EPA Registration number and full name of pesticide (product common name).</text>
       </para>
-      <text>Signage specifications are:</text>
+      <aftertext>Signage specifications are:</aftertext>
       <para>
         <num>1.</num>
         <text><strong>Size</strong> - A minimum of one-foot by one-foot in dimension.</text>
@@ -393,6 +392,80 @@
           <li>Applicator certification number</li>
         </ul>
       </text>
+      <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.04.210">
+        <section>
+          <num>5.04.210</num>
+          <heading>Notification</heading>
+          <text>Pesticide Applicators are required to provide notice of all pesticide use including all indoor and outdoor applications made in public and commercial buildings and for agricultural applications. Notification shall consist of posting signs on the property to be treated a minimum of 48-hours before application treatment and remain posted on the property a minimum of 24-hours after application. However, certain products may have labels with stricter notification requirements. In these particular instances the label directions must be followed.</text>
+          <para>
+            <num>a.</num>
+            <text>Notification signage shall display the following information:</text>
+            <para>
+              <num>1.</num>
+              <text>Indication that pesticides will be applied.</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>The date of application.</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>Date the notice is given.</text>
+            </para>
+            <para>
+              <num>4.</num>
+              <text>Date the notice expires, maximum of seven days.</text>
+            </para>
+            <para>
+              <num>5.</num>
+              <text>Name and telephone number of a person who can give information about what was applied.</text>
+            </para>
+            <para>
+              <num>6.</num>
+              <text>EPA Registration number and full name of pesticide (product common name).</text>
+            </para>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Signage specifications are:</text>
+            <para>
+              <num>1.</num>
+              <text><strong>Size</strong> - A minimum of one-foot by one-foot in dimension.</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text><strong>Color</strong> - Dark lettering on a yellow background.</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text><strong>Location</strong> - Posted in a conspicuous place along the principal street frontage of the property to be sprayed.</text>
+            </para>
+            <para>
+              <num>4.</num>
+              <text><strong>Posted</strong> - At common access points of commercial buildings or apartment complexes.</text>
+            </para>
+            <aftertext>Private homeowners using pesticides in their own home and on their own property are not required to comply with notification requirements.</aftertext>
+            <aftertext>In addition to public posting, the applicator shall make written notification to the Saint Regis Mohawk Tribe, Environment Division of plans to apply pesticides. The Applicator is required to notify the Tribe a minimum of 48-hours in advance of an application. However, certain products may have labels with stricter notification requirements. In these particular instances the label directions must be followed.</aftertext>
+            <aftertext>Information to be provided to the Environment Division in the written notification shall consist of:</aftertext>
+            <aftertext>
+              <ul proof="needed">
+                <li>Date or dates of pesticide use</li>
+                <li>Full name of pesticide(s) product(s)</li>
+                <li>The pest(s) to be treated</li>
+                <li>Where the pesticide(s) will be applied</li>
+                <li>Re-entry period restrictions (if any)</li>
+                <li>The name of the pesticide Applicator (individual) and Company Name</li>
+                <li>Applicator registration number</li>
+                <li>Pest controller contact number(s)</li>
+                <li>EPA Registration number and full name of pesticide (product common name)</li>
+                <li>Where pesticide will be applied within a building or site</li>
+                <li>E-mail address of applicator</li>
+                <li>Applicator certification number</li>
+              </ul>
+            </aftertext>
+          </para>
+        </section>
+      </codify:insert>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.04.220"/>

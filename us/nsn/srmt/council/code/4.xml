@@ -8,7 +8,7 @@
     <num>4.02</num>
     <heading>Fire Prevention and Building Code</heading>
     <annotations>
-      <annotation type="Commentary">The Tribal Council has adopted ,as its own tribal law, the <a href="https://dos.ny.gov/laws-and-regulations-division-building-standards-and-codes">New York State Fire Prevention and Building Code</a>.</annotation>
+      <annotation name="fire_prevention_and_building_code" type="Commentary">The Tribal Council has adopted ,as its own tribal law, the <a href="https://dos.ny.gov/laws-and-regulations-division-building-standards-and-codes">New York State Fire Prevention and Building Code</a>.</annotation>
     </annotations>
   </container>
   <container>
@@ -16,7 +16,7 @@
     <num>4.03</num>
     <heading>Food Code</heading>
     <annotations>
-      <annotation type="Commentary">The Tribal Council has adopted ,as its own tribal law, the United States Food and Drug Administration <a href="https://www.fda.gov/food/retail-food-protection/fda-food-code">Food Code</a>.</annotation>
+      <annotation name="food_code" type="Commentary">The Tribal Council has adopted ,as its own tribal law, the United States Food and Drug Administration <a href="https://www.fda.gov/food/retail-food-protection/fda-food-code">Food Code</a>.</annotation>
     </annotations>
   </container>
   <container>
