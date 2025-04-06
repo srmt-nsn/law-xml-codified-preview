@@ -403,7 +403,7 @@
         <section>
           <codify:insert path="1" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.01.060"/>
           <num codify:value="16.01.060">1.6</num>
-          <heading>Amendment or Repeal of <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-09">This Ordinance</code-cite></heading>
+          <heading>Amendment or Repeal of This Ordinance</heading>
           <text><code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-09">This Ordinance</code-cite> may be amended by the Tribal Council and shall be processed following the Tribal Procedures Act and include notice to, and review by, the Community.</text>
         </section>
         <section>
@@ -724,8 +724,8 @@
             <num>(s)</num>
             <text>Any Consent to suit by a corporation shall in no way extend to the Tribe, nor shall a consent to suit by a corporation in any way be deemed a waiver of any of the rights, privileges and immunities of the Tribe.</text>
           </para>
-          <text>A privately owned Corporation formed under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-09">this Ordinance</code-cite> may not hold, lease or otherwise possess any real property within the Tribe's Territory unless such lease or possession is otherwise consistent with Tribal law.</text>
-          <text>A Corporation that is wholly owned by the Tribe or a subsidiary thereof may hold, lease or otherwise possess real property within the Tribe's Territory.</text>
+          <aftertext>A privately owned Corporation formed under <code-cite path="|attachments|law" doc="Saint Regis Mohawk Tribe Res. No. 2022-09">this Ordinance</code-cite> may not hold, lease or otherwise possess any real property within the Tribe's Territory unless such lease or possession is otherwise consistent with Tribal law.</aftertext>
+          <aftertext>A Corporation that is wholly owned by the Tribe or a subsidiary thereof may hold, lease or otherwise possess real property within the Tribe's Territory.</aftertext>
         </section>
         <section>
           <codify:insert path="5" renumber-paras="true" codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|16.01.230"/>

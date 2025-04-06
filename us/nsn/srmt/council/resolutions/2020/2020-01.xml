@@ -492,7 +492,6 @@
       <text>In the event that any provision of this Ordinance shall be found or declared to be invalid, the remaining provisions of this ordinance shall be unaffected thereby, and shall remain in full force and effect.</text>
     </section>
     <container>
-      <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|A"/>
       <prefix>APPENDIX</prefix>
       <num>A</num>
       <heading>LOW IMPACT PESTICIDES</heading>
@@ -579,5 +578,95 @@
         <text>Biological, living control agents- a common example of this would be a pesticide that uses parasitic nematodes (a small worm-like organism) as its active ingredient. These nematodes are used to control a wide variety of insects. Beneficial insects would be another type of control agent that would fit into this category.</text>
       </para>
     </container>
+    <codify:insert codified:doc="Saint Regis Mohawk Tribal Code of Law" codified:path="|5.04|attachments|appendix">
+      <attachment name="appendix">
+        <codify:insert/>
+        <prefix>APPENDIX</prefix>
+        <num>A</num>
+        <heading>LOW IMPACT PESTICIDES</heading>
+        <text>The following ingredients or types of pesticides are also considered low impact.</text>
+        <para>
+          <num>a.</num>
+          <text>Formulation Types - gels, pastes, or baits. Ant traps and insecticide gels are good examples of this class of low impact pesticides. Rodent baits also fit into this designation, although rodent baits should be rare.</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>Antimicrobial products - pesticides used to kill microorganisms such as bacteria and fungus. Disinfectants, cleaners, mold and mildew removers all fall into this classification.</text>
+          <text>"Antimicrobial agents" means:</text>
+          <para>
+            <num>1.</num>
+            <text>Disinfectants intended to destroy or irreversibly inactivate infectious or other undesirable bacteria, pathogenic fungi, or viruses on surfaces or inanimate objects;</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Sanitizers intended to reduce the number of living bacteria or viable virus particles on inanimate surfaces, in water, or in air;</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Bacteriostats intended to inhibit the growth of bacteria in the presence of moisture;</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>Sterilizers intended to destroy viruses and all living bacteria, fungi, and their spores, on inanimate surfaces; or</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>Fungicides and fungistats intended to inhibit the growth of, or destroy fungi (including yeasts) pathogenic to man or other animals on inanimate surfaces;</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>Commodity preservatives and protectants intended to inhibit the growth of, or destroy bacteria in or on raw materials (such as adhesives or plastics) used in manufacturing, or manufactured products (such as fuel, textiles, lubricants, and paints); or</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>General use algaecides labeled for use in:</text>
+            <para>
+              <num>i.</num>
+              <text>Swimming pools, hot tubs, whirlpools, spas, ornamental ponds, fountains, fish tanks, and waterbeds;</text>
+            </para>
+            <para>
+              <num>ii.</num>
+              <text>Water, wastewater and sewerage treatment plants, but only where there is a controlled inlet and outlet; and</text>
+            </para>
+            <para>
+              <num>iii.</num>
+              <text>Industrial, commercial, and manufacturing processes.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>Specific Active Ingredients - Specific pesticide ingredients added to the low impact designation are:</text>
+          <para>
+            <num>1.</num>
+            <text>boric acid</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>disodium octoborate tetrahydrate</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>silica gel</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>diatomaceous earth</text>
+          </para>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Microbe based insecticides - the most common example of this would be bacillus thuringiensis or "Bt", a widely used microbe that is the ingredient in many home and garden products, mosquito larvicides, and gypsy moth control products.</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Botanical insecticides (not synthetic) - a common example of this would be pyrethrins, extracted from the chrysanthemum plant, or neem oil that is extracted from kernels of the neem plant. Synthetic versions of botanicals or those that contain chemical synergists to enhance the potency do not qualify as low impact.</text>
+        </para>
+        <para>
+          <num>f.</num>
+          <text>Biological, living control agents- a common example of this would be a pesticide that uses parasitic nematodes (a small worm-like organism) as its active ingredient. These nematodes are used to control a wide variety of insects. Beneficial insects would be another type of control agent that would fit into this category.</text>
+        </para>
+      </attachment>
+    </codify:insert>
   </attachment>
 </document>

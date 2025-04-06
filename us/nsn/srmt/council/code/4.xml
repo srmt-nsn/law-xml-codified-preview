@@ -1081,7 +1081,6 @@
     <num>4.06</num>
     <heading>Petroleum Fuel Ordinance</heading>
     <section>
-      <prefix>Article</prefix>
       <num>4.06.010</num>
       <heading>Title</heading>
       <text><cite path="|4.06">This chapter</cite> shall be known as the St. Regis Mohawk Petroleum Fuel Regulatory Ordinance.</text>
@@ -1090,7 +1089,6 @@
       </annotations>
     </section>
     <section>
-      <prefix>Article</prefix>
       <num>4.06.020</num>
       <heading>Purpose</heading>
       <text>The purpose of <cite path="|4.06">this chapter</cite> is to regulate the possession, sale, display, storage, transportation, and use of gasoline and other petroleum fuel products in, on, and from Tribal Lands.</text>
@@ -1099,7 +1097,6 @@
       </annotations>
     </section>
     <section>
-      <prefix>Article</prefix>
       <num>4.06.030</num>
       <heading>Definitions</heading>
       <text>"St. Regis Mohawk Tribe of Indians" means a federally recognized tribe of Indians located in the State of New York.</text>

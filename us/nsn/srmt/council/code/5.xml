@@ -1254,7 +1254,8 @@
         <annotation app="2022-02-01" doc="Saint Regis Mohawk Tribe Res. No. 2022-04" eff="2022-02-01" path="attachments|law|VII" type="History"/>
       </annotations>
     </section>
-    <container>
+    <attachment name="appendix">
+      <codify:insert/>
       <prefix>Appendix</prefix>
       <num>1</num>
       <heading>Surface Water and Groundwater Quality Standards and Groundwater Effluent Limitations</heading>
@@ -8911,8 +8912,8 @@
           </text>
         </para>
       </para>
-      <annotation app="2022-02-01" doc="Saint Regis Mohawk Tribe Res. No. 2022-04" eff="2022-02-01" path="attachments|law|1" type="History"/>
-    </container>
+      <annotation app="2022-02-01" doc="Saint Regis Mohawk Tribe Res. No. 2022-04" eff="2022-02-01" path="attachments|law" type="History"/>
+    </attachment>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -10289,7 +10290,8 @@
         <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|15.0" type="History"/>
       </annotations>
     </section>
-    <container>
+    <attachment name="appendix">
+      <codify:insert/>
       <prefix>APPENDIX</prefix>
       <num>A</num>
       <heading>LOW IMPACT PESTICIDES</heading>
@@ -10375,8 +10377,8 @@
         <num>f.</num>
         <text>Biological, living control agents- a common example of this would be a pesticide that uses parasitic nematodes (a small worm-like organism) as its active ingredient. These nematodes are used to control a wide variety of insects. Beneficial insects would be another type of control agent that would fit into this category.</text>
       </para>
-      <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law|A" type="History"/>
-    </container>
+      <annotation app="2020-01-08" doc="Saint Regis Mohawk Tribe Res. No. 2020-01" eff="2020-01-08" path="attachments|law" type="History"/>
+    </attachment>
   </container>
   <container>
     <prefix>Chapter</prefix>
