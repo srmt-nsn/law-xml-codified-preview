@@ -16,7 +16,7 @@
     <history-start>2024-06-02</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="srmt-nsn/law-xml" commit="4bc1bdb021478694386e69bda243b0ed49eb355e"/>
+        <repository name="srmt-nsn/law-xml" commit="00be32d956620ce9d82a7162a730365e9c1b10eb"/>
       </repositories>
       <platform version="2.15.17" reproducible="false"/>
       <build-date>2025-04-08</build-date>
