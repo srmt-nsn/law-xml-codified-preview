@@ -3,7 +3,7 @@
   <heading>2020 Resolutions</heading>
   <xi:include href="./2020-28.xml"/>
   <xi:include href="./2020-09.xml"/>
-  <xi:include href="./2020-01.xml"/>
-  <xi:include href="./2020-02.xml"/>
   <xi:include href="./2020-03.xml"/>
+  <xi:include href="./2020-02.xml"/>
+  <xi:include href="./2020-01.xml"/>
 </collection>
